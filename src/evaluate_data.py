@@ -1,6 +1,6 @@
-import requests
 import json
 import os
+import gender_guesser.detector as gender
 
 names = {}
 
@@ -8,24 +8,12 @@ VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN     = "data/bronze"
 OUT    = "data/silver"
 
-def evaluate_name(name):
-    names = {}
-    
-    if (name not in names):
-        response = requests.get(f"https://api.genderize.io?name={name}").json()
-        
-        names[name] = {
-            "gender": response["gender"],
-            "probability": response["probability"]
-        }
-
-    return names
-
 def gender_map_names(venue):
 
+    detector = gender.Detector()
     names = {}
     cache_path = f"{OUT}/{venue}.json"
-    
+
     if os.path.exists(cache_path):
         print(f"  {venue} — already cached, skipping")
         return
@@ -42,13 +30,12 @@ def gender_map_names(venue):
 
             for i in range(len(paper["authors"])):
                 author_name = paper["authors"][i]
-                names = evaluate_name(author_name)
+                first_name = author_name.split(" ")[0]
 
                 genderized_authors[i] = {
                     "name" : author_name,
-                    "gender" : names[author_name]["gender"],
-                    "probability" : names[author_name]["probability"]
-                    }     
+                    "gender" : detector.get_gender(f"{first_name}"),
+                    }
 
             # Set the authors to the new, genderized authors 
             paper["authors"] = genderized_authors
