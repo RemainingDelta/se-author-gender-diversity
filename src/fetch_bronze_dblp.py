@@ -6,7 +6,7 @@ from datetime import datetime
 
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 YEARS  = range(2008, 2024)
-OUT    = "data/bronze"
+OUT    = "data/bronze/dblp"
 
 os.makedirs(OUT, exist_ok=True)
 
