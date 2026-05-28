@@ -23,8 +23,8 @@ def gender_map_names(venue):
 
     for year in data["years"].values():
 
-        # Iterate through each paper in the JSON, and create a version of the author set with
-        # associated index, genders, and probabilities
+        # Iterate through each paper in the JSON, and create a version of the author, keyed
+        # by index and containing name and inferred gender
         for paper in year:
             genderized_authors = {}
 
