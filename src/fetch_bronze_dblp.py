@@ -6,7 +6,7 @@ from datetime import datetime
 
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 YEARS  = range(2008, 2024)
-OUT    = "data/bronze"
+OUT    = "data/bronze/dblp"
 
 os.makedirs(OUT, exist_ok=True)
 
@@ -14,6 +14,7 @@ def fetch_all_papers(venue, retries=3):
     all_papers = []
     page_size  = 1000
     start      = 0
+    total      = None
 
     while True:
         params = {
@@ -54,6 +55,8 @@ def fetch_all_papers(venue, retries=3):
                         "title":   info.get("title"),
                         "year":    info.get("year"),
                         "authors": raw_names,
+                        "doi":     info.get("doi"),    # ← added
+                        "ee":      info.get("ee"),     # ← added as fallback
                         "url":     info.get("url"),
                     })
 
@@ -68,7 +71,7 @@ def fetch_all_papers(venue, retries=3):
             break
 
         start += page_size
-        if start >= total:
+        if total is None or start >= total:
             break
 
         time.sleep(1)
@@ -86,7 +89,6 @@ def fetch_venue(venue):
     print(f"  {venue} — fetching all papers...")
     all_papers = fetch_all_papers(venue)
 
-    # group by year client-side
     by_year = {}
     for paper in all_papers:
         year = paper.get("year")
