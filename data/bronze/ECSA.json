@@ -1,6 +1,6 @@
 {
   "venue": "ECSA",
-  "fetched_at": "2026-05-28T10:12:10.979390",
+  "fetched_at": "2026-05-28T11:02:39.444706",
   "years": {
     "2023": [
       {
@@ -16,6 +16,8 @@
           "Dario Amoroso d&apos;Aragona",
           "Davide Taibi 0001"
         ],
+        "doi": "10.1007/978-3-031-66326-0_19",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_19",
         "url": "https://dblp.org/rec/conf/ecsa/AdamsACPHCdT23"
       },
       {
@@ -27,6 +29,8 @@
           "Michelantonio Trizio",
           "Tommaso Di Noia"
         ],
+        "doi": "10.1007/978-3-031-42592-9_18",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_18",
         "url": "https://dblp.org/rec/conf/ecsa/AghilarATN23"
       },
       {
@@ -36,6 +40,8 @@
           "Sahar Ahmadisakha",
           "Vasilios Andrikopoulos"
         ],
+        "doi": "10.1007/978-3-031-66326-0_29",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_29",
         "url": "https://dblp.org/rec/conf/ecsa/AhmadisakhaA23"
       },
       {
@@ -48,6 +54,8 @@
           "Thoybur Rohman",
           "Carlos Sol\u00eds"
         ],
+        "doi": "10.1007/978-3-031-66326-0_20",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_20",
         "url": "https://dblp.org/rec/conf/ecsa/AliAFRS23"
       },
       {
@@ -60,6 +68,8 @@
           "Patricia Lago",
           "Maryam Razavian"
         ],
+        "doi": "10.1007/978-3-031-66326-0_5",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_5",
         "url": "https://dblp.org/rec/conf/ecsa/AlidoostiSILR23"
       },
       {
@@ -69,6 +79,8 @@
           "Amirali Amiri",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-031-42592-9_2",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_2",
         "url": "https://dblp.org/rec/conf/ecsa/AmiriZ23"
       },
       {
@@ -80,6 +92,8 @@
           "Lukas Linsbauer",
           "Ina Schaefer"
         ],
+        "doi": "10.1007/978-3-031-42592-9_23",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_23",
         "url": "https://dblp.org/rec/conf/ecsa/AmmermannJLS23"
       },
       {
@@ -90,6 +104,8 @@
           "Samuel Santos",
           "Ant\u00f3nio Rito Silva"
         ],
+        "doi": "10.1007/978-3-031-42592-9_25",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_25",
         "url": "https://dblp.org/rec/conf/ecsa/AndradeSS23"
       },
       {
@@ -103,6 +119,8 @@
           "Tom\u00e1s Cern\u00fd",
           "Davide Taibi 0001"
         ],
+        "doi": "10.1007/978-3-031-66326-0_1",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_1",
         "url": "https://dblp.org/rec/conf/ecsa/BakhtinLSBCT23"
       },
       {
@@ -112,6 +130,8 @@
           "Luciano Baresi",
           "Damian A. Tamburri"
         ],
+        "doi": "10.1007/978-3-031-42592-9_13",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_13",
         "url": "https://dblp.org/rec/conf/ecsa/BaresiT23"
       },
       {
@@ -125,6 +145,8 @@
           "Matteo G. Rossi",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1007/978-3-031-42592-9_11",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_11",
         "url": "https://dblp.org/rec/conf/ecsa/BersaniCLMRS23"
       },
       {
@@ -137,6 +159,8 @@
           "Rafael Capilla",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-031-42592-9_10",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_10",
         "url": "https://dblp.org/rec/conf/ecsa/BiswasMACN23"
       },
       {
@@ -148,6 +172,8 @@
           "Christopher Gerking",
           "Robert Heinrich"
         ],
+        "doi": "10.1007/978-3-031-66326-0_21",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_21",
         "url": "https://dblp.org/rec/conf/ecsa/BoltzHGH23"
       },
       {
@@ -160,6 +186,8 @@
           "Patryk Stradomski",
           "Andrzej Zalewski"
         ],
+        "doi": "10.1007/978-3-031-42592-9_21",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_21",
         "url": "https://dblp.org/rec/conf/ecsa/BorowaLSSZ23"
       },
       {
@@ -169,6 +197,8 @@
           "Roberta Capuano",
           "Henry Muccini"
         ],
+        "doi": "10.1007/978-3-031-42592-9_17",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_17",
         "url": "https://dblp.org/rec/conf/ecsa/CapuanoM23"
       },
       {
@@ -178,6 +208,8 @@
           "Felipe Cerezo",
           "Bel\u00e9n Vela"
         ],
+        "doi": "10.1007/978-3-031-66326-0_26",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_26",
         "url": "https://dblp.org/rec/conf/ecsa/CerezoV23"
       },
       {
@@ -187,6 +219,8 @@
           "Sebastian Copei",
           "Jens Kosiol"
         ],
+        "doi": "10.1007/978-3-031-66326-0_3",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_3",
         "url": "https://dblp.org/rec/conf/ecsa/CopeiK23"
       },
       {
@@ -198,6 +232,8 @@
           "Daniele Di Pompeo",
           "Michele Tucci 0001"
         ],
+        "doi": "10.1007/978-3-031-42592-9_9",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_9",
         "url": "https://dblp.org/rec/conf/ecsa/CortellessaDPT23"
       },
       {
@@ -208,6 +244,8 @@
           "Rebekka Wohlrab",
           "David Garlan"
         ],
+        "doi": "10.1007/978-3-031-42592-9_1",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_1",
         "url": "https://dblp.org/rec/conf/ecsa/DiazPaceWG23"
       },
       {
@@ -217,6 +255,8 @@
           "Nafise Eskandani",
           "Sten Gr\u00fcner"
         ],
+        "doi": "10.1007/978-3-031-42592-9_20",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_20",
         "url": "https://dblp.org/rec/conf/ecsa/EskandaniG23"
       },
       {
@@ -226,6 +266,8 @@
           "Iffat Fatima",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-031-66326-0_13",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_13",
         "url": "https://dblp.org/rec/conf/ecsa/FatimaL23"
       },
       {
@@ -237,6 +279,8 @@
           "Patrizio Pelliccione",
           "Moris Behnam"
         ],
+        "doi": "10.1007/978-3-031-42592-9_12",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_12",
         "url": "https://dblp.org/rec/conf/ecsa/FerkoBPB23"
       },
       {
@@ -248,6 +292,8 @@
           "M. Alireza Hakamian",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": "10.1007/978-3-031-66326-0_15",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_15",
         "url": "https://dblp.org/rec/conf/ecsa/FrankBHH23"
       },
       {
@@ -257,6 +303,8 @@
           "Markus Funke",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-031-42592-9_4",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_4",
         "url": "https://dblp.org/rec/conf/ecsa/FunkeL23"
       },
       {
@@ -266,6 +314,8 @@
           "Sune Chung Jepsen",
           "Torben Worm"
         ],
+        "doi": "10.1007/978-3-031-42592-9_14",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_14",
         "url": "https://dblp.org/rec/conf/ecsa/JepsenW23"
       },
       {
@@ -275,6 +325,8 @@
           "Hendrik Jilderda",
           "Claudia Raibulet"
         ],
+        "doi": "10.1007/978-3-031-66326-0_4",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_4",
         "url": "https://dblp.org/rec/conf/ecsa/JilderdaR23"
       },
       {
@@ -286,6 +338,8 @@
           "Lukas Linsbauer",
           "Ina Schaefer"
         ],
+        "doi": "10.1007/978-3-031-42592-9_6",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_6",
         "url": "https://dblp.org/rec/conf/ecsa/JordanKLS23"
       },
       {
@@ -296,6 +350,8 @@
           "Gokhan Yurtalan",
           "Yahya Bahadir Karatas"
         ],
+        "doi": "10.1007/978-3-031-66326-0_27",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_27",
         "url": "https://dblp.org/rec/conf/ecsa/KaramanliogluYK23"
       },
       {
@@ -306,6 +362,8 @@
           "Yanja Dajsuren",
           "Mark van den Brand"
         ],
+        "doi": "10.1007/978-3-031-42592-9_8",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_8",
         "url": "https://dblp.org/rec/conf/ecsa/KarkhanisDB23"
       },
       {
@@ -317,6 +375,8 @@
           "Nico Peter",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-031-42592-9_19",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_19",
         "url": "https://dblp.org/rec/conf/ecsa/KirschnerKPK23"
       },
       {
@@ -329,6 +389,8 @@
           "Apostolos Ampatzoglou",
           "Alexander Chatzigeorgiou"
         ],
+        "doi": "10.1007/978-3-031-66326-0_22",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_22",
         "url": "https://dblp.org/rec/conf/ecsa/KolydaKNAC23"
       },
       {
@@ -342,6 +404,8 @@
           "Carlos Canal",
           "Juan Manuel Murillo"
         ],
+        "doi": "10.1007/978-3-031-66326-0_17",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_17",
         "url": "https://dblp.org/rec/conf/ecsa/LasoTBTCM23"
       },
       {
@@ -356,6 +420,8 @@
           "Nianyu Li",
           "Kenji Tei"
         ],
+        "doi": "10.1007/978-3-031-66326-0_23",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_23",
         "url": "https://dblp.org/rec/conf/ecsa/LiTUNMLT23"
       },
       {
@@ -367,6 +433,8 @@
           "Sarah Druyts",
           "Mohamed Soliman 0001"
         ],
+        "doi": "10.1007/978-3-031-66326-0_24",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_24",
         "url": "https://dblp.org/rec/conf/ecsa/MaarleveldDDS23"
       },
       {
@@ -378,6 +446,8 @@
           "Antinisca Di Marco",
           "Giovanni Stilo"
         ],
+        "doi": "10.1007/978-3-031-66326-0_11",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_11",
         "url": "https://dblp.org/rec/conf/ecsa/MarzidMS23"
       },
       {
@@ -388,6 +458,8 @@
           "Ali Jannatpour",
           "Constantinos Constantinides"
         ],
+        "doi": "10.1007/978-3-031-66326-0_9",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_9",
         "url": "https://dblp.org/rec/conf/ecsa/MehrafroozJC23"
       },
       {
@@ -404,6 +476,8 @@
           "Jan-Willem Bikker",
           "Rutger van Beek"
         ],
+        "doi": "10.1007/978-3-031-66326-0_16",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_16",
         "url": "https://dblp.org/rec/conf/ecsa/ModrakowskiBHEJDMBB23"
       },
       {
@@ -414,6 +488,8 @@
           "Chadni Islam",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-031-42592-9_16",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_16",
         "url": "https://dblp.org/rec/conf/ecsa/ProkhorenkoIB23"
       },
       {
@@ -423,6 +499,8 @@
           "Pierre-Jean Queval",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-031-42592-9_24",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_24",
         "url": "https://dblp.org/rec/conf/ecsa/QuevalZ23"
       },
       {
@@ -433,6 +511,8 @@
           "Ant\u00f3nio Rito Silva",
           "Alberto Avritzer"
         ],
+        "doi": "10.1007/978-3-031-66326-0_12",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_12",
         "url": "https://dblp.org/rec/conf/ecsa/RodriguesSA23"
       },
       {
@@ -444,6 +524,8 @@
           "Tao Yue 0002",
           "Julie Marie Gj\u00f8by"
         ],
+        "doi": "10.1007/978-3-031-66326-0_28",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_28",
         "url": "https://dblp.org/rec/conf/ecsa/SartajAYG23"
       },
       {
@@ -457,6 +539,8 @@
           "Georgia Sakellari",
           "Gervais Mendy"
         ],
+        "doi": "10.1007/978-3-031-66326-0_10",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_10",
         "url": "https://dblp.org/rec/conf/ecsa/SawadogoKLDSM23"
       },
       {
@@ -468,6 +552,8 @@
           "Adel Noureddine",
           "Renaud Pawlak"
         ],
+        "doi": "10.1007/978-3-031-66326-0_25",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_25",
         "url": "https://dblp.org/rec/conf/ecsa/SiffreBNP23"
       },
       {
@@ -479,6 +565,8 @@
           "Fahed Alkhabbas",
           "Paul Davidsson"
         ],
+        "doi": "10.1007/978-3-031-42592-9_15",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_15",
         "url": "https://dblp.org/rec/conf/ecsa/SpalazzeseSAD23"
       },
       {
@@ -491,6 +579,8 @@
           "Seth Leslie",
           "Andrew Walters"
         ],
+        "doi": "10.1007/978-3-031-42592-9_7",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_7",
         "url": "https://dblp.org/rec/conf/ecsa/TranBTLW23"
       },
       {
@@ -501,6 +591,8 @@
           "Koen Yskout",
           "Wouter Joosen"
         ],
+        "doi": "10.1007/978-3-031-66326-0_8",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_8",
         "url": "https://dblp.org/rec/conf/ecsa/TranYJ23"
       },
       {
@@ -510,6 +602,8 @@
           "Faheem Ullah",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-031-42592-9_5",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_5",
         "url": "https://dblp.org/rec/conf/ecsa/UllahB23"
       },
       {
@@ -521,6 +615,8 @@
           "Isra Shafique Ahmad",
           "Onur Demir\u00f6rs"
         ],
+        "doi": "10.1007/978-3-031-66326-0_2",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_2",
         "url": "https://dblp.org/rec/conf/ecsa/UnluSAD23"
       },
       {
@@ -532,6 +628,8 @@
           "Leonardo Scommegna",
           "Enrico Vicario"
         ],
+        "doi": "10.1007/978-3-031-66326-0_14",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_14",
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaMSV23"
       },
       {
@@ -543,6 +641,8 @@
           "Enrico Vicario",
           "Tommaso Pecorella"
         ],
+        "doi": "10.1007/978-3-031-66326-0_18",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_18",
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaSVP23"
       },
       {
@@ -554,6 +654,8 @@
           "Salah Sadou",
           "Chouki Tibermacine"
         ],
+        "doi": "10.1007/978-3-031-66326-0_7",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_7",
         "url": "https://dblp.org/rec/conf/ecsa/VergaraVargasRST23"
       },
       {
@@ -564,6 +666,8 @@
           "Robert Heinrich",
           "Ralf H. Reussner"
         ],
+        "doi": "10.1007/978-3-031-42592-9_3",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_3",
         "url": "https://dblp.org/rec/conf/ecsa/WalterHR23"
       },
       {
@@ -574,6 +678,8 @@
           "Axel-Frederik Brand",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": "10.1007/978-3-031-42592-9_22",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9_22",
         "url": "https://dblp.org/rec/conf/ecsa/WieseBH23"
       },
       {
@@ -587,6 +693,8 @@
           "Giovanni Stilo",
           "Antinisca Di Marco"
         ],
+        "doi": "10.1007/978-3-031-66326-0_6",
+        "ee": "https://doi.org/10.1007/978-3-031-66326-0_6",
         "url": "https://dblp.org/rec/conf/ecsa/dAloisioDMMSM23"
       },
       {
@@ -598,6 +706,8 @@
           "Claudia Raibulet",
           "Henry Muccini"
         ],
+        "doi": "10.1007/978-3-031-36889-9",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9",
         "url": "https://dblp.org/rec/conf/ecsa/2022w"
       },
       {
@@ -610,6 +720,8 @@
           "Patrizia Scandurra",
           "Carlos E. Cuesta"
         ],
+        "doi": "10.1007/978-3-031-42592-9",
+        "ee": "https://doi.org/10.1007/978-3-031-42592-9",
         "url": "https://dblp.org/rec/conf/ecsa/2023"
       }
     ],
@@ -620,6 +732,8 @@
         "authors": [
           "Milad Abdullah"
         ],
+        "doi": "10.1007/978-3-031-36889-9_9",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_9",
         "url": "https://dblp.org/rec/conf/ecsa/Abdullah22"
       },
       {
@@ -633,6 +747,8 @@
           "Martin Krulis",
           "Frantisek Pl\u00e1sil"
         ],
+        "doi": "10.1007/978-3-031-36889-9_25",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_25",
         "url": "https://dblp.org/rec/conf/ecsa/AbdullahTBHKP22"
       },
       {
@@ -643,6 +759,8 @@
           "Henry Muccini",
           "Mohammad Sharaf"
         ],
+        "doi": "10.1007/978-3-031-36889-9_8",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_8",
         "url": "https://dblp.org/rec/conf/ecsa/AbughazalaMS22"
       },
       {
@@ -653,6 +771,8 @@
           "Ilias Gerostathopoulos",
           "Tom\u00e1s Bures"
         ],
+        "doi": "10.1007/978-3-031-36889-9_14",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_14",
         "url": "https://dblp.org/rec/conf/ecsa/AlbertsGB22"
       },
       {
@@ -667,6 +787,8 @@
           "Antonia Welzel",
           "Miroslaw Staron"
         ],
+        "doi": "10.1007/978-3-031-36889-9_12",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_12",
         "url": "https://dblp.org/rec/conf/ecsa/AlkoutliABDTWS22"
       },
       {
@@ -678,6 +800,8 @@
           "Konstantin Aschbacher",
           "Alois Zoitl"
         ],
+        "doi": "10.1007/978-3-031-36889-9_6",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_6",
         "url": "https://dblp.org/rec/conf/ecsa/AshiwalGAZ22"
       },
       {
@@ -691,6 +815,8 @@
           "Catia Trubiani",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": "10.1007/978-3-031-36889-9_11",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_11",
         "url": "https://dblp.org/rec/conf/ecsa/AvritzerCJRTH22"
       },
       {
@@ -704,6 +830,8 @@
           "Elvinia Riccobene",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1007/978-3-031-36889-9_31",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_31",
         "url": "https://dblp.org/rec/conf/ecsa/BersaniBGMRS22"
       },
       {
@@ -716,6 +844,8 @@
           "Weronika Paszko",
           "Andrzej Zalewski"
         ],
+        "doi": "10.1007/978-3-031-16697-6_11",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_11",
         "url": "https://dblp.org/rec/conf/ecsa/BorowaJMPZ22"
       },
       {
@@ -724,6 +854,8 @@
         "authors": [
           "Barbora Buhnova"
         ],
+        "doi": "10.1007/978-3-031-36889-9_10",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_10",
         "url": "https://dblp.org/rec/conf/ecsa/Buhnova22"
       },
       {
@@ -734,6 +866,8 @@
           "Vasilios Andrikopoulos",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-031-16697-6_2",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_2",
         "url": "https://dblp.org/rec/conf/ecsa/CadavidAA22"
       },
       {
@@ -745,6 +879,8 @@
           "Patrizia Scandurra",
           "Catia Trubiani"
         ],
+        "doi": "10.1007/978-3-031-36889-9_17",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_17",
         "url": "https://dblp.org/rec/conf/ecsa/CamilliMST22"
       },
       {
@@ -754,6 +890,8 @@
           "Lorenzo Capra",
           "Michael K\u00f6hler-Bu\u00dfmeier"
         ],
+        "doi": "10.1007/978-3-031-36889-9_18",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_18",
         "url": "https://dblp.org/rec/conf/ecsa/CapraK22"
       },
       {
@@ -762,6 +900,8 @@
         "authors": [
           "Henrik B\u00e6rbak Christensen"
         ],
+        "doi": "10.1007/978-3-031-16697-6_8",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_8",
         "url": "https://dblp.org/rec/conf/ecsa/Christensen22"
       },
       {
@@ -778,6 +918,8 @@
           "Claudia Nieder\u00e9e",
           "Thomas Hildebrandt"
         ],
+        "doi": "10.1007/978-3-031-36889-9_19",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_19",
         "url": "https://dblp.org/rec/conf/ecsa/EichelbergerPRVDLWNH22"
       },
       {
@@ -788,6 +930,8 @@
           "Raghad Matar",
           "Bernd Rauch"
         ],
+        "doi": "10.1007/978-3-031-36889-9_32",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_32",
         "url": "https://dblp.org/rec/conf/ecsa/FalcaoMR22"
       },
       {
@@ -801,6 +945,8 @@
           "Murali Emani",
           "Xipeng Shen"
         ],
+        "doi": "10.1007/978-3-031-36889-9_27",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_27",
         "url": "https://dblp.org/rec/conf/ecsa/FlynnVLLES22"
       },
       {
@@ -813,6 +959,8 @@
           "Janek Speit",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-031-36889-9_30",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_30",
         "url": "https://dblp.org/rec/conf/ecsa/FuchssCKSK22"
       },
       {
@@ -822,6 +970,8 @@
           "Patric Genfer",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-031-16697-6_1",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_1",
         "url": "https://dblp.org/rec/conf/ecsa/GenferZ22"
       },
       {
@@ -833,6 +983,8 @@
           "Antonio Cicchetti",
           "Jan Carlson"
         ],
+        "doi": "10.1007/978-3-031-16697-6_10",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_10",
         "url": "https://dblp.org/rec/conf/ecsa/JongelingCCC22"
       },
       {
@@ -843,6 +995,8 @@
           "Lukas Linsbauer",
           "Ina Schaefer"
         ],
+        "doi": "10.1007/978-3-031-16697-6_15",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_15",
         "url": "https://dblp.org/rec/conf/ecsa/JordanLS22"
       },
       {
@@ -854,6 +1008,8 @@
           "Bjarne Sauer",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-031-36889-9_29",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_29",
         "url": "https://dblp.org/rec/conf/ecsa/KeimHSK22"
       },
       {
@@ -864,6 +1020,8 @@
           "Tom\u00e1s Bures",
           "Petr Hnetynka"
         ],
+        "doi": "10.1007/978-3-031-36889-9_16",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_16",
         "url": "https://dblp.org/rec/conf/ecsa/KhalyeyevBH22"
       },
       {
@@ -873,6 +1031,8 @@
           "Szymon Kijas",
           "Andrzej Zalewski"
         ],
+        "doi": "10.1007/978-3-031-36889-9_1",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_1",
         "url": "https://dblp.org/rec/conf/ecsa/KijasZ22"
       },
       {
@@ -884,6 +1044,8 @@
           "Robert Heinrich",
           "Ralf H. Reussner"
         ],
+        "doi": "10.1007/978-3-031-16697-6_13",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_13",
         "url": "https://dblp.org/rec/conf/ecsa/KochHHR22"
       },
       {
@@ -893,6 +1055,8 @@
           "Sandro Koch",
           "Frederik Reiche"
         ],
+        "doi": "10.1007/978-3-031-36889-9_7",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_7",
         "url": "https://dblp.org/rec/conf/ecsa/KochR22"
       },
       {
@@ -903,6 +1067,8 @@
           "Gereon Weiss",
           "Mario Trapp"
         ],
+        "doi": "10.1007/978-3-031-36889-9_15",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_15",
         "url": "https://dblp.org/rec/conf/ecsa/KreutzWT22"
       },
       {
@@ -912,6 +1078,8 @@
           "Dimitri Van Landuyt",
           "Wouter Joosen"
         ],
+        "doi": "10.1007/978-3-031-16697-6_5",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_5",
         "url": "https://dblp.org/rec/conf/ecsa/LanduytJ22"
       },
       {
@@ -922,6 +1090,8 @@
           "Souhaila Serbout",
           "Cesare Pautasso"
         ],
+        "doi": "10.1007/978-3-031-16697-6_3",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_3",
         "url": "https://dblp.org/rec/conf/ecsa/LauroSP22"
       },
       {
@@ -930,6 +1100,8 @@
         "authors": [
           "Daniel L\u00fcbke"
         ],
+        "doi": "10.1007/978-3-031-36889-9_2",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_2",
         "url": "https://dblp.org/rec/conf/ecsa/Lubke22"
       },
       {
@@ -939,6 +1111,8 @@
           "Jasminka Matevska",
           "Marvin Soldin"
         ],
+        "doi": "10.1007/978-3-031-36889-9_21",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_21",
         "url": "https://dblp.org/rec/conf/ecsa/MatevskaS22"
       },
       {
@@ -949,6 +1123,8 @@
           "Stefan Wagner 0001",
           "Peter Ziegler"
         ],
+        "doi": "10.1007/978-3-031-36889-9_13",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_13",
         "url": "https://dblp.org/rec/conf/ecsa/MauserWZ22"
       },
       {
@@ -960,6 +1136,8 @@
           "Jacopo Soldani",
           "Antonio Brogi"
         ],
+        "doi": "10.1007/978-3-031-16697-6_7",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_7",
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZSB22"
       },
       {
@@ -970,6 +1148,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1007/978-3-031-36889-9_28",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_28",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW22"
       },
       {
@@ -979,6 +1159,8 @@
           "Jorge D. Ortiz-Fuentes",
           "\u00c1ngel Herranz-Nieva"
         ],
+        "doi": "10.1007/978-3-031-16697-6_12",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_12",
         "url": "https://dblp.org/rec/conf/ecsa/Ortiz-FuentesH22"
       },
       {
@@ -989,6 +1171,8 @@
           "Petr Hnetynka",
           "Martin Krulis"
         ],
+        "doi": "10.1007/978-3-031-36889-9_26",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_26",
         "url": "https://dblp.org/rec/conf/ecsa/PacovskyHK22"
       },
       {
@@ -1000,6 +1184,8 @@
           "Hern\u00e1n Astudillo",
           "Antonio Brogi"
         ],
+        "doi": "10.1007/978-3-031-16697-6_9",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_9",
         "url": "https://dblp.org/rec/conf/ecsa/PonceSAB22"
       },
       {
@@ -1011,6 +1197,8 @@
           "Hern\u00e1n Astudillo",
           "Antonio Brogi"
         ],
+        "doi": "10.1007/978-3-031-36889-9_23",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_23",
         "url": "https://dblp.org/rec/conf/ecsa/PonceSAB22a"
       },
       {
@@ -1022,6 +1210,8 @@
           "N\u00e9stor Cata\u00f1o",
           "Mehdi Mirakhorli"
         ],
+        "doi": "10.1007/978-3-031-36889-9_22",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_22",
         "url": "https://dblp.org/rec/conf/ecsa/SantosSCM22"
       },
       {
@@ -1032,6 +1222,8 @@
           "Sven Wittfoth",
           "Jorge Marx G\u00f3mez"
         ],
+        "doi": "10.1007/978-3-031-36889-9_24",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_24",
         "url": "https://dblp.org/rec/conf/ecsa/SchroerWG22"
       },
       {
@@ -1042,6 +1234,8 @@
           "Alessandro Romanelli",
           "Cesare Pautasso"
         ],
+        "doi": "10.1007/978-3-031-36889-9_4",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_4",
         "url": "https://dblp.org/rec/conf/ecsa/SerboutRP22"
       },
       {
@@ -1054,6 +1248,8 @@
           "Johannes Rothe",
           "Christoph Ihrke"
         ],
+        "doi": "10.1007/978-3-031-36889-9_20",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_20",
         "url": "https://dblp.org/rec/conf/ecsa/SilvaKWRI22"
       },
       {
@@ -1064,6 +1260,8 @@
           "Dominik Werle",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-031-16697-6_14",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_14",
         "url": "https://dblp.org/rec/conf/ecsa/SinghWK22"
       },
       {
@@ -1072,6 +1270,8 @@
         "authors": [
           "Michael Striewe"
         ],
+        "doi": "10.1007/978-3-031-36889-9_3",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_3",
         "url": "https://dblp.org/rec/conf/ecsa/Striewe22"
       },
       {
@@ -1085,6 +1285,8 @@
           "Mehran Abolhasan",
           "Justin Lipman"
         ],
+        "doi": "10.1007/978-3-031-16697-6_4",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_4",
         "url": "https://dblp.org/rec/conf/ecsa/TranSBCAL22"
       },
       {
@@ -1094,6 +1296,8 @@
           "Maximilian Walter",
           "Ralf H. Reussner"
         ],
+        "doi": "10.1007/978-3-031-36889-9_5",
+        "ee": "https://doi.org/10.1007/978-3-031-36889-9_5",
         "url": "https://dblp.org/rec/conf/ecsa/WalterR22"
       },
       {
@@ -1104,6 +1308,8 @@
           "Stephan Seifermann",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-031-16697-6_6",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6_6",
         "url": "https://dblp.org/rec/conf/ecsa/WerleSK22"
       },
       {
@@ -1115,6 +1321,8 @@
           "Raffaela Mirandola",
           "Danny Weyns"
         ],
+        "doi": "10.1007/978-3-031-15116-3",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3",
         "url": "https://dblp.org/rec/conf/ecsa/2021w"
       },
       {
@@ -1126,6 +1334,8 @@
           "Tha\u00eds Vasconcelos Batista",
           "Tom\u00e1s Bures"
         ],
+        "doi": "10.1007/978-3-031-16697-6",
+        "ee": "https://doi.org/10.1007/978-3-031-16697-6",
         "url": "https://dblp.org/rec/conf/ecsa/2022"
       }
     ],
@@ -1139,6 +1349,8 @@
           "Henry Muccini",
           "Karthik Vaidhyanathan"
         ],
+        "doi": "10.1007/978-3-030-86044-8_9",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_9",
         "url": "https://dblp.org/rec/conf/ecsa/AbughazalaMMV21"
       },
       {
@@ -1149,6 +1361,8 @@
           "Shihong Huang",
           "David Garlan"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/casa-paper5.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/AlharbiHG21"
       },
       {
@@ -1159,6 +1373,8 @@
           "Shihong Huang",
           "David Garlan"
         ],
+        "doi": "10.1007/978-3-031-15116-3_10",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_10",
         "url": "https://dblp.org/rec/conf/ecsa/AlharbiHG21a"
       },
       {
@@ -1169,6 +1385,8 @@
           "Ambra Cal\u00e0",
           "Jan Bosch"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/industry-paper95.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/AndreoCB21"
       },
       {
@@ -1177,6 +1395,8 @@
         "authors": [
           "Camila Ara\u00fajo"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper102.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Araujo21"
       },
       {
@@ -1188,6 +1408,8 @@
           "Reto Aebersold",
           "Olaf Zimmermann"
         ],
+        "doi": "10.1007/978-3-030-86044-8_17",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_17",
         "url": "https://dblp.org/rec/conf/ecsa/BasigLAZ21"
       },
       {
@@ -1198,6 +1420,8 @@
           "Elvinia Riccobene",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1007/978-3-030-86044-8_2",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_2",
         "url": "https://dblp.org/rec/conf/ecsa/BonfantiRS21"
       },
       {
@@ -1208,6 +1432,8 @@
           "Maurice Ackel",
           "Christian Bartelt"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/tool-paper89.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/BurzlaffAB21"
       },
       {
@@ -1218,6 +1444,8 @@
           "Maurice Ackel",
           "Christian Bartelt"
         ],
+        "doi": "10.1007/978-3-031-15116-3_13",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_13",
         "url": "https://dblp.org/rec/conf/ecsa/BurzlaffAB21a"
       },
       {
@@ -1230,6 +1458,8 @@
           "Qais Noorshams",
           "Michael Gr\u00f6tzner"
         ],
+        "doi": "10.1007/978-3-030-86044-8_18",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_18",
         "url": "https://dblp.org/rec/conf/ecsa/BuschBSNG21"
       },
       {
@@ -1241,6 +1471,8 @@
           "David Garlan",
           "Bradley R. Schmerl"
         ],
+        "doi": "10.1007/978-3-030-86044-8_4",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_4",
         "url": "https://dblp.org/rec/conf/ecsa/CamaraSGS21"
       },
       {
@@ -1252,6 +1484,8 @@
           "Henry Muccini",
           "Karthik Vaidhyanathan"
         ],
+        "doi": "10.1007/978-3-030-86044-8_5",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_5",
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioTMV21"
       },
       {
@@ -1260,6 +1494,8 @@
         "authors": [
           "Roberta Capuano"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper104.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Capuano21"
       },
       {
@@ -1273,6 +1509,8 @@
           "Eunsuk Kang",
           "Mark Klein 0003"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saml-paper6.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Casimiro0GMKK21"
       },
       {
@@ -1286,6 +1524,8 @@
           "Eunsuk Kang",
           "Mark Klein 0003"
         ],
+        "doi": "10.1007/978-3-031-15116-3_7",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_7",
         "url": "https://dblp.org/rec/conf/ecsa/CasimiroRGMKK21"
       },
       {
@@ -1296,6 +1536,8 @@
           "Carlos A. Varela",
           "Dar\u00edo Correal"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/jf-paper75.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosVC21"
       },
       {
@@ -1306,6 +1548,8 @@
           "Carlos E. Cuesta",
           "Bel\u00e9n Vela"
         ],
+        "doi": "10.1007/978-3-030-86044-8_13",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_13",
         "url": "https://dblp.org/rec/conf/ecsa/CerezoCV21"
       },
       {
@@ -1318,6 +1562,8 @@
           "Michel Albonico",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-030-86044-8_11",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_11",
         "url": "https://dblp.org/rec/conf/ecsa/ChinnappanMLAL21"
       },
       {
@@ -1333,6 +1579,8 @@
           "Larissa Schmid",
           "Snigdha Singh"
         ],
+        "doi": "10.1007/978-3-031-15116-3_3",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_3",
         "url": "https://dblp.org/rec/conf/ecsa/CoralloMRHKKSS21"
       },
       {
@@ -1343,6 +1591,8 @@
           "Hiroyuki Nakagawa",
           "Tatsuhiro Tsuchiya"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/casa-paper2.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/DialloNT21"
       },
       {
@@ -1354,6 +1604,8 @@
           "Zipani Tom Sinkala",
           "Sebastian Herold"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper1.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/FloreanJSH21"
       },
       {
@@ -1367,6 +1619,8 @@
           "J\u00f3akim von Kistowski",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/faacs-paper3.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/FrankHWKKH21"
       },
       {
@@ -1381,6 +1635,8 @@
           "J\u00f3akim von Kistowski",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": "10.1007/978-3-031-15116-3_11",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_11",
         "url": "https://dblp.org/rec/conf/ecsa/FrankHWKZKH21"
       },
       {
@@ -1389,6 +1645,8 @@
         "authors": [
           "Dominik Fuchs"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper94.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Fuchs21"
       },
       {
@@ -1399,6 +1657,8 @@
           "Jacopo Finocchi",
           "Elisa Rossi"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/casa-paper6.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/FuginiFR21"
       },
       {
@@ -1409,6 +1669,8 @@
           "Giuseppe Della Penna",
           "Sante Dino Facchini"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saml-paper3.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/GasperisPF21"
       },
       {
@@ -1419,6 +1681,8 @@
           "Bastian Haverkamp",
           "Eric Bodden"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/mde4sa-paper1.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/GeismannHB21"
       },
       {
@@ -1428,6 +1692,8 @@
           "Patric Genfer",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-030-86044-8_15",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_15",
         "url": "https://dblp.org/rec/conf/ecsa/GenferZ21"
       },
       {
@@ -1438,6 +1704,8 @@
           "Ondrej Gasior",
           "Barbora Buhnova"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/jf-paper31.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/GesvindrGB21"
       },
       {
@@ -1446,6 +1714,8 @@
         "authors": [
           "Sebastian Hahner"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper87.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Hahner21"
       },
       {
@@ -1454,6 +1724,8 @@
         "authors": [
           "Sven Jordan"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper91.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Jordan21"
       },
       {
@@ -1470,6 +1742,8 @@
           "Thomas Kuhn 0001",
           "Pablo Oliveira Antonino"
         ],
+        "doi": "10.1007/978-3-030-86044-8_19",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_19",
         "url": "https://dblp.org/rec/conf/ecsa/KannothHDRRJMKA21"
       },
       {
@@ -1483,6 +1757,8 @@
           "Janek Speit",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-030-86044-8_7",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_7",
         "url": "https://dblp.org/rec/conf/ecsa/KeimSFKSK21"
       },
       {
@@ -1491,6 +1767,8 @@
         "authors": [
           "Yves Richard Kirschner"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper100.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Kirschner21"
       },
       {
@@ -1504,6 +1782,8 @@
           "Yanja Dajsuren",
           "Mark van den Brand"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/jf-paper14.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/KochantharaRSCD21"
       },
       {
@@ -1513,6 +1793,8 @@
           "Rainer Koschke",
           "Marcel Steinbeck"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper8.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/KoschkeS21"
       },
       {
@@ -1526,6 +1808,8 @@
           "Shardul Sonar",
           "Pablo Rodriguez 0002"
         ],
+        "doi": "10.1007/978-3-030-86044-8_1",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_1",
         "url": "https://dblp.org/rec/conf/ecsa/KoziolekBARSR21"
       },
       {
@@ -1536,6 +1820,8 @@
           "Ana Petrovska",
           "Ilias Gerostathopoulos"
         ],
+        "doi": "10.1007/978-3-030-86044-8_3",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_3",
         "url": "https://dblp.org/rec/conf/ecsa/KugelePG21"
       },
       {
@@ -1547,6 +1833,8 @@
           "Muhammad Waseem Anwar",
           "Mattias Mohlin"
         ],
+        "doi": "10.1007/978-3-031-15116-3_2",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_2",
         "url": "https://dblp.org/rec/conf/ecsa/LatifajCAM21"
       },
       {
@@ -1558,6 +1846,8 @@
           "Mattias Mohlin",
           "Ernesto Posse"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/industry-paper90.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/LatifajCMP21"
       },
       {
@@ -1570,6 +1860,8 @@
           "Anna Kantosalo",
           "Tomi M\u00e4nnist\u00f6"
         ],
+        "doi": "10.1007/978-3-031-15116-3_9",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_9",
         "url": "https://dblp.org/rec/conf/ecsa/LinkolaMLKM21"
       },
       {
@@ -1581,6 +1873,8 @@
           "Hye-Young Paik",
           "Liming Zhu 0001"
         ],
+        "doi": "10.1007/978-3-030-86044-8_6",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_6",
         "url": "https://dblp.org/rec/conf/ecsa/LoLPZ21"
       },
       {
@@ -1592,6 +1886,8 @@
           "Tomi Laurinen",
           "Tomi M\u00e4nnist\u00f6"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/casa-paper1.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/MakitaloLLM21"
       },
       {
@@ -1602,6 +1898,8 @@
           "Darko Durisic",
           "Miroslaw Staron"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/industry-paper92.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/MosinDS21"
       },
       {
@@ -1613,6 +1911,8 @@
           "Pablo Oliveira Antonino",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/tutorial-paper8.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/NetoMAN21"
       },
       {
@@ -1624,6 +1924,8 @@
           "Pablo Oliveira Antonino",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-031-15116-3_15",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_15",
         "url": "https://dblp.org/rec/conf/ecsa/NetoMAN21a"
       },
       {
@@ -1633,6 +1935,8 @@
           "Marc Gallofr\u00e9 Oca\u00f1a",
           "Andreas L. Opdahl"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saml-paper2.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/OcanaO21"
       },
       {
@@ -1643,6 +1947,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1007/978-3-030-86044-8_16",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_16",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21"
       },
       {
@@ -1653,6 +1959,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper5.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21a"
       },
       {
@@ -1663,6 +1971,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper6.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21b"
       },
       {
@@ -1673,6 +1983,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper7.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21c"
       },
       {
@@ -1683,6 +1995,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1007/978-3-031-15116-3_4",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_4",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21d"
       },
       {
@@ -1694,6 +2008,8 @@
           "Ivano Malavolta",
           "Patricia Lago"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/tool-paper101.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/OspinaVML21"
       },
       {
@@ -1703,6 +2019,8 @@
           "Carlos V. Paradis",
           "Rick Kazman"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/msr4sa-paper1.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/ParadisK21"
       },
       {
@@ -1712,6 +2030,8 @@
           "Carlos V. Paradis",
           "Rick Kazman"
         ],
+        "doi": "10.1007/978-3-031-15116-3_6",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_6",
         "url": "https://dblp.org/rec/conf/ecsa/ParadisK21a"
       },
       {
@@ -1722,6 +2042,8 @@
           "Davide Foppiani",
           "Francesca Arcelli Fontana"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/msr4sa-paper2.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/PigazziniFF21"
       },
       {
@@ -1733,6 +2055,8 @@
           "Jan Schlake 0001",
           "Michael Vach"
         ],
+        "doi": "10.1007/978-3-030-86044-8_20",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_20",
         "url": "https://dblp.org/rec/conf/ecsa/Platenius-MohrA21"
       },
       {
@@ -1746,6 +2070,8 @@
           "Tommi Mikkonen",
           "Timo Lehtonen"
         ],
+        "doi": "10.1007/978-3-030-86044-8_14",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_14",
         "url": "https://dblp.org/rec/conf/ecsa/RaatikainenKSKM21"
       },
       {
@@ -1757,6 +2083,8 @@
           "Philip Wizenty",
           "Simon Trebbau"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/mde4sa-paper2.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/RademacherSWT21"
       },
       {
@@ -1768,6 +2096,8 @@
           "Philip Wizenty",
           "Simon Trebbau"
         ],
+        "doi": "10.1007/978-3-031-15116-3_12",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_12",
         "url": "https://dblp.org/rec/conf/ecsa/RademacherSWT21a"
       },
       {
@@ -1779,6 +2109,8 @@
           "Gilles Perrouin",
           "Pierre-Yves Schobbens"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/casa-paper3.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/SantosFPS21"
       },
       {
@@ -1790,6 +2122,8 @@
           "Pierre-Yves Schobbens",
           "Gilles Perrouin"
         ],
+        "doi": "10.1007/978-3-031-15116-3_8",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_8",
         "url": "https://dblp.org/rec/conf/ecsa/SantosFSP21"
       },
       {
@@ -1802,6 +2136,8 @@
           "Robert Heinrich",
           "Ralf H. Reussner"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/tutorial-paper3.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/SeifermannWHHR21"
       },
       {
@@ -1813,6 +2149,8 @@
           "Schahram Dustdar",
           "Christos Tsigkanos"
         ],
+        "doi": "10.1007/978-3-030-86044-8_10",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_10",
         "url": "https://dblp.org/rec/conf/ecsa/ShabelnykFDT21"
       },
       {
@@ -1822,6 +2160,8 @@
           "Zipani Tom Sinkala",
           "Sebastian Herold"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper10.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaH21"
       },
       {
@@ -1831,6 +2171,8 @@
           "Zipani Tom Sinkala",
           "Sebastian Herold"
         ],
+        "doi": "10.1007/978-3-031-15116-3_5",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_5",
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaH21a"
       },
       {
@@ -1839,6 +2181,8 @@
         "authors": [
           "Charilaos Skandylas"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper93.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Skandylas21"
       },
       {
@@ -1849,6 +2193,8 @@
           "Matthias Galster",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-030-86044-8_8",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_8",
         "url": "https://dblp.org/rec/conf/ecsa/SolimanGA21"
       },
       {
@@ -1860,6 +2206,8 @@
           "Uwe Breitenb\u00fccher",
           "Steffen Becker 0001"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/tool-paper103.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/SpethKB021"
       },
       {
@@ -1870,6 +2218,8 @@
           "Farshad Ghassemi Toosi",
           "Anila Mjeda"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper3.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/StaffordTM21"
       },
       {
@@ -1888,6 +2238,8 @@
           "Nikhil Kantibhai Navadiya",
           "Prachi Mishra"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/industry-paper96.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/TangWWWLCLKGNM21"
       },
       {
@@ -1908,6 +2260,8 @@
           "Prateek Mukhedkar",
           "Anneliese Lu"
         ],
+        "doi": "10.1007/978-3-031-15116-3_1",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_1",
         "url": "https://dblp.org/rec/conf/ecsa/TangWWWLCLKGNMM21"
       },
       {
@@ -1917,6 +2271,8 @@
           "Sanjay B. Thakare",
           "Arvind W. Kiwelekar"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saml-paper1.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/ThakareK21"
       },
       {
@@ -1927,6 +2283,8 @@
           "Antonio Martini 0001",
           "Dag I. K. Sj\u00f8berg"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/jf-paper34.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/ToledoMS21"
       },
       {
@@ -1936,6 +2294,8 @@
           "Farshad Ghassemi Toosi",
           "Anila Mjeda"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/saerocon-paper4.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/ToosiM21"
       },
       {
@@ -1945,6 +2305,8 @@
           "Nguyen Khoi Tran 0001",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-030-86044-8_12",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_12",
         "url": "https://dblp.org/rec/conf/ecsa/TranB21"
       },
       {
@@ -1953,6 +2315,8 @@
         "authors": [
           "Gricel V\u00e1zquez"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/ds-paper97.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/Vazquez21"
       },
       {
@@ -1964,6 +2328,8 @@
           "Patricia Lago",
           "Ivano Malavolta"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978/jf-paper86.pdf",
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaKLM21"
       },
       {
@@ -1978,6 +2344,8 @@
           "Jan Pacovsk\u00fd",
           "Robert Heinrich"
         ],
+        "doi": "10.1007/978-3-031-15116-3_14",
+        "ee": "https://doi.org/10.1007/978-3-031-15116-3_14",
         "url": "https://dblp.org/rec/conf/ecsa/WalterHSBHPH21"
       },
       {
@@ -1987,6 +2355,8 @@
           "Eoin Woods",
           "Rabih Bashroush"
         ],
+        "doi": "10.1007/978-3-030-86044-8_21",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8_21",
         "url": "https://dblp.org/rec/conf/ecsa/WoodsB21"
       },
       {
@@ -2000,6 +2370,8 @@
           "Raffaela Mirandola",
           "Danny Weyns"
         ],
+        "doi": "10.1007/978-3-030-86044-8",
+        "ee": "https://doi.org/10.1007/978-3-030-86044-8",
         "url": "https://dblp.org/rec/conf/ecsa/2021"
       },
       {
@@ -2010,6 +2382,8 @@
           "Raffaela Mirandola",
           "Danny Weyns"
         ],
+        "doi": null,
+        "ee": "https://ceur-ws.org/Vol-2978",
         "url": "https://dblp.org/rec/conf/ecsa/2021c"
       }
     ],
@@ -2021,6 +2395,8 @@
           "A. T. M. Aerts",
           "Yanja Dajsuren"
         ],
+        "doi": "10.1007/978-3-030-58923-3_17",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_17",
         "url": "https://dblp.org/rec/conf/ecsa/AertsD20"
       },
       {
@@ -2030,6 +2406,8 @@
           "Jo\u00e3o Franscisco Almeida",
           "Ant\u00f3nio Rito Silva"
         ],
+        "doi": "10.1007/978-3-030-58923-3_3",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_3",
         "url": "https://dblp.org/rec/conf/ecsa/AlmeidaS20"
       },
       {
@@ -2038,6 +2416,8 @@
         "authors": [
           "Davide Arcelli"
         ],
+        "doi": "10.1007/978-3-030-58923-3_9",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_9",
         "url": "https://dblp.org/rec/conf/ecsa/Arcelli20"
       },
       {
@@ -2049,6 +2429,8 @@
           "Carlos Carrillo 0001",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1007/978-3-030-58923-3_16",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_16",
         "url": "https://dblp.org/rec/conf/ecsa/CapillaZCA20"
       },
       {
@@ -2060,6 +2442,8 @@
           "Vincenzo Grassi",
           "Raffaela Mirandola"
         ],
+        "doi": "10.1007/978-3-030-58923-3_4",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_4",
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioDGM20"
       },
       {
@@ -2073,6 +2457,8 @@
           "Claudia Kopf",
           "Diego Perez-Palacin"
         ],
+        "doi": "10.1007/978-3-030-58923-3_18",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_18",
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioEHJKP20"
       },
       {
@@ -2083,6 +2469,8 @@
           "Jing Sun 0002",
           "Ian Warren"
         ],
+        "doi": "10.1007/978-3-030-58923-3_2",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_2",
         "url": "https://dblp.org/rec/conf/ecsa/ChondamrongkulS20"
       },
       {
@@ -2093,6 +2481,8 @@
           "Luis Salinas",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1007/978-3-030-58923-3_19",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_19",
         "url": "https://dblp.org/rec/conf/ecsa/CruzSA20"
       },
       {
@@ -2107,6 +2497,8 @@
           "Fl\u00e1vio Oquendo",
           "Camila Ara\u00fajo"
         ],
+        "doi": "10.1007/978-3-030-58923-3_7",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_7",
         "url": "https://dblp.org/rec/conf/ecsa/DiasOBCLOA20"
       },
       {
@@ -2116,6 +2508,8 @@
           "Federico Giaimo",
           "Christian Berger 0001"
         ],
+        "doi": "10.1007/978-3-030-58923-3_5",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_5",
         "url": "https://dblp.org/rec/conf/ecsa/GiaimoB20"
       },
       {
@@ -2124,6 +2518,8 @@
         "authors": [
           "Sebastian Herold"
         ],
+        "doi": "10.1007/978-3-030-58923-3_13",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_13",
         "url": "https://dblp.org/rec/conf/ecsa/Herold20"
       },
       {
@@ -2134,6 +2530,8 @@
           "Muhammad Ali Babar 0001",
           "Surya Nepal"
         ],
+        "doi": "10.1007/978-3-030-58923-3_11",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_11",
         "url": "https://dblp.org/rec/conf/ecsa/IslamBN20"
       },
       {
@@ -2145,6 +2543,8 @@
           "Anne Koziolek",
           "Mehdi Mirakhorli"
         ],
+        "doi": "10.1007/978-3-030-58923-3_15",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_15",
         "url": "https://dblp.org/rec/conf/ecsa/KeimKKM20"
       },
       {
@@ -2155,6 +2555,8 @@
           "Sten Gr\u00fcner",
           "Julius R\u00fcckert"
         ],
+        "doi": "10.1007/978-3-030-58923-3_23",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_23",
         "url": "https://dblp.org/rec/conf/ecsa/KoziolekGR20"
       },
       {
@@ -2164,6 +2566,8 @@
           "Somayeh Malakuti",
           "Sergey Ostroumov"
         ],
+        "doi": "10.1007/978-3-030-58923-3_20",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_20",
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiO20"
       },
       {
@@ -2177,6 +2581,8 @@
           "Hugo Sereno Ferreira",
           "Andr\u00e9 Restivo"
         ],
+        "doi": "10.1007/978-3-030-58923-3_21",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_21",
         "url": "https://dblp.org/rec/conf/ecsa/MatiasCFBFR20"
       },
       {
@@ -2188,6 +2594,8 @@
           "Philippe Lalanda",
           "Guillaume Giraud"
         ],
+        "doi": "10.1007/978-3-030-58923-3_22",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_22",
         "url": "https://dblp.org/rec/conf/ecsa/MoghaddamRLG20"
       },
       {
@@ -2200,6 +2608,8 @@
           "Sebastian Meixner",
           "Sebastian Geiger"
         ],
+        "doi": "10.1007/978-3-030-58923-3_1",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_1",
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZPMG20"
       },
       {
@@ -2211,6 +2621,8 @@
           "Maria Teresa Rossi",
           "Manuel Wimmer"
         ],
+        "doi": "10.1007/978-3-030-58923-3_8",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_8",
         "url": "https://dblp.org/rec/conf/ecsa/SanctisIRW20"
       },
       {
@@ -2221,6 +2633,8 @@
           "Erik Poll",
           "Joost Visser 0001"
         ],
+        "doi": "10.1007/978-3-030-58923-3_6",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_6",
         "url": "https://dblp.org/rec/conf/ecsa/SerbanPV20"
       },
       {
@@ -2234,6 +2648,8 @@
           "Andr\u00e9 van Hoorn",
           "Samuel Gratzl"
         ],
+        "doi": "10.1007/978-3-030-58923-3_12",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_12",
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiAGJHG20"
       },
       {
@@ -2244,6 +2660,8 @@
           "Philippe Kruchten",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-030-58923-3_14",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_14",
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaKL20"
       },
       {
@@ -2254,6 +2672,8 @@
           "Stephan Seifermann",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-030-58923-3_10",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3_10",
         "url": "https://dblp.org/rec/conf/ecsa/WerleSK20"
       },
       {
@@ -2266,6 +2686,8 @@
           "Ipek Ozkaya",
           "Olaf Zimmermann"
         ],
+        "doi": "10.1007/978-3-030-58923-3",
+        "ee": "https://doi.org/10.1007/978-3-030-58923-3",
         "url": "https://dblp.org/rec/conf/ecsa/2020"
       },
       {
@@ -2284,6 +2706,8 @@
           "Danny Weyns",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-030-59155-7",
+        "ee": "https://doi.org/10.1007/978-3-030-59155-7",
         "url": "https://dblp.org/rec/conf/ecsa/2020c"
       }
     ],
@@ -2304,6 +2728,8 @@
           "Nuno Ferreira 0002",
           "Manuel Pereira"
         ],
+        "doi": "10.1145/3344948.3344991",
+        "ee": "https://doi.org/10.1145/3344948.3344991",
         "url": "https://dblp.org/rec/conf/ecsa/0002SMMSMPRM0P19"
       },
       {
@@ -2315,6 +2741,8 @@
           "Bradley R. Schmerl",
           "David Garlan"
         ],
+        "doi": "10.1145/3344948.3344963",
+        "ee": "https://doi.org/10.1145/3344948.3344963",
         "url": "https://dblp.org/rec/conf/ecsa/AderaldoMSG19"
       },
       {
@@ -2328,6 +2756,8 @@
           "Mirko Viroli",
           "Danny Weyns"
         ],
+        "doi": "10.1145/3344948.3344988",
+        "ee": "https://doi.org/10.1145/3344948.3344988",
         "url": "https://dblp.org/rec/conf/ecsa/AliDDSVW19"
       },
       {
@@ -2343,6 +2773,8 @@
           "Maximilian Walter",
           "Adrian Juan Verdejo"
         ],
+        "doi": "10.1145/3344948.3344974",
+        "ee": "https://doi.org/10.1145/3344948.3344974",
         "url": "https://dblp.org/rec/conf/ecsa/AliHHKHSWV19"
       },
       {
@@ -2351,6 +2783,8 @@
         "authors": [
           "Ana Paula Allian"
         ],
+        "doi": "10.1145/3344948.3344953",
+        "ee": "https://doi.org/10.1145/3344948.3344953",
         "url": "https://dblp.org/rec/conf/ecsa/Allian19"
       },
       {
@@ -2362,6 +2796,8 @@
           "Zai Zhang 0001",
           "Thomas Kuhn 0001"
         ],
+        "doi": "10.1145/3344948.3344971",
+        "ee": "https://doi.org/10.1145/3344948.3344971",
         "url": "https://dblp.org/rec/conf/ecsa/AntoninoSZK19"
       },
       {
@@ -2373,6 +2809,8 @@
           "Shafiq-Ur Rehman",
           "Volker Gruhn"
         ],
+        "doi": "10.1145/3344948.3344970",
+        "ee": "https://doi.org/10.1145/3344948.3344970",
         "url": "https://dblp.org/rec/conf/ecsa/BorstingHRG19"
       },
       {
@@ -2383,6 +2821,8 @@
           "Benjamin Mayer",
           "Rainer Weinreich"
         ],
+        "doi": "10.1145/3344948.3344960",
+        "ee": "https://doi.org/10.1145/3344948.3344960",
         "url": "https://dblp.org/rec/conf/ecsa/BrandnerMW19"
       },
       {
@@ -2392,6 +2832,8 @@
           "Klaus Brandner",
           "Rainer Weinreich"
         ],
+        "doi": "10.1145/3344948.3344959",
+        "ee": "https://doi.org/10.1145/3344948.3344959",
         "url": "https://dblp.org/rec/conf/ecsa/BrandnerW19"
       },
       {
@@ -2402,6 +2844,8 @@
           "Lucie Jurystova",
           "Dita Prikrylova"
         ],
+        "doi": "10.1145/3344948.3344967",
+        "ee": "https://doi.org/10.1145/3344948.3344967",
         "url": "https://dblp.org/rec/conf/ecsa/BuhnovaJP19"
       },
       {
@@ -2413,6 +2857,8 @@
           "Maximilian Eckert",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-030-29983-5_14",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_14",
         "url": "https://dblp.org/rec/conf/ecsa/BuschFEK19"
       },
       {
@@ -2422,6 +2868,8 @@
           "Sara B. O. Gennari Carturan",
           "Denise Hideko Goya"
         ],
+        "doi": "10.1145/3344948.3344977",
+        "ee": "https://doi.org/10.1145/3344948.3344977",
         "url": "https://dblp.org/rec/conf/ecsa/CarturanG19"
       },
       {
@@ -2434,6 +2882,8 @@
           "Mar\u00eda-Del-Pilar Villamil",
           "Dar\u00edo Correal"
         ],
+        "doi": "10.1007/978-3-030-29983-5_13",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_13",
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosPVVC19"
       },
       {
@@ -2444,6 +2894,8 @@
           "Carlos A. Varela",
           "Dar\u00edo Correal"
         ],
+        "doi": "10.1145/3344948.3344986",
+        "ee": "https://doi.org/10.1145/3344948.3344986",
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosVC19"
       },
       {
@@ -2456,6 +2908,8 @@
           "Thomas Kuhn 0001",
           "Dimitar Dimitrov 0005"
         ],
+        "doi": "10.1145/3344948.3344973",
+        "ee": "https://doi.org/10.1145/3344948.3344973",
         "url": "https://dblp.org/rec/conf/ecsa/CioroaicaCBKD19"
       },
       {
@@ -2466,6 +2920,8 @@
           "Ra\u00fal Mi\u00f1\u00f3n",
           "Ana I. Torre-Bastida"
         ],
+        "doi": "10.1145/3344948.3344987",
+        "ee": "https://doi.org/10.1145/3344948.3344987",
         "url": "https://dblp.org/rec/conf/ecsa/Diaz-de-ArcayaM19"
       },
       {
@@ -2478,6 +2934,8 @@
           "Stefano Basciano",
           "Riccardo Roveda"
         ],
+        "doi": "10.1145/3344948.3344982",
+        "ee": "https://doi.org/10.1145/3344948.3344982",
         "url": "https://dblp.org/rec/conf/ecsa/FontanaPRBR19"
       },
       {
@@ -2489,6 +2947,8 @@
           "Marcus Hilbrich",
           "Steffen Becker 0001"
         ],
+        "doi": "10.1145/3344948.3344958",
+        "ee": "https://doi.org/10.1145/3344948.3344958",
         "url": "https://dblp.org/rec/conf/ecsa/FrankKH019"
       },
       {
@@ -2499,6 +2959,8 @@
           "Fabian Gilson",
           "Fran\u00e7ois Georis"
         ],
+        "doi": "10.1007/978-3-030-29983-5_6",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_6",
         "url": "https://dblp.org/rec/conf/ecsa/GalsterGG19"
       },
       {
@@ -2509,6 +2971,8 @@
           "Elvinia Riccobene",
           "Angelo Gargantini"
         ],
+        "doi": "10.1145/3344948.3344993",
+        "ee": "https://doi.org/10.1145/3344948.3344993",
         "url": "https://dblp.org/rec/conf/ecsa/GaspariRG19"
       },
       {
@@ -2518,6 +2982,8 @@
           "Tijmen de Jong",
           "Jan Martijn E. M. van der Werf"
         ],
+        "doi": "10.1145/3344948.3344985",
+        "ee": "https://doi.org/10.1145/3344948.3344985",
         "url": "https://dblp.org/rec/conf/ecsa/JongW19"
       },
       {
@@ -2530,6 +2996,8 @@
           "Thomas Kuhn 0001",
           "Peter Liggesmeyer"
         ],
+        "doi": "10.1145/3344948.3344980",
+        "ee": "https://doi.org/10.1145/3344948.3344980",
         "url": "https://dblp.org/rec/conf/ecsa/KallweitAJKL19"
       },
       {
@@ -2540,6 +3008,8 @@
           "Valdemar Vicente Graciano Neto",
           "Ana Allian"
         ],
+        "doi": "10.1145/3344948.3344978",
+        "ee": "https://doi.org/10.1145/3344948.3344978",
         "url": "https://dblp.org/rec/conf/ecsa/KassabNA19"
       },
       {
@@ -2551,6 +3021,8 @@
           "Chouki Tibermacine",
           "Salah Sadou"
         ],
+        "doi": "10.1145/3344948.3344964",
+        "ee": "https://doi.org/10.1145/3344948.3344964",
         "url": "https://dblp.org/rec/conf/ecsa/KerdoudiZTS19"
       },
       {
@@ -2561,6 +3033,8 @@
           "Dominik Bilgery",
           "Steffen Becker 0001"
         ],
+        "doi": "10.1145/3344948.3344961",
+        "ee": "https://doi.org/10.1145/3344948.3344961",
         "url": "https://dblp.org/rec/conf/ecsa/KlinakuB019"
       },
       {
@@ -2570,6 +3044,8 @@
           "Ivan Lujic",
           "Hong-Linh Truong 0001"
         ],
+        "doi": "10.1007/978-3-030-29983-5_7",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_7",
         "url": "https://dblp.org/rec/conf/ecsa/LujicT19"
       },
       {
@@ -2578,6 +3054,8 @@
         "authors": [
           "Chawanangwa Lupafya"
         ],
+        "doi": "10.1145/3344948.3344954",
+        "ee": "https://doi.org/10.1145/3344948.3344954",
         "url": "https://dblp.org/rec/conf/ecsa/Lupafya19"
       },
       {
@@ -2591,6 +3069,8 @@
           "Ralf Gitzel",
           "Prerna Bihani"
         ],
+        "doi": "10.1007/978-3-030-29983-5_16",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_16",
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiSPGGB19"
       },
       {
@@ -2599,6 +3079,8 @@
         "authors": [
           "Jacques Malenfant"
         ],
+        "doi": "10.1145/3344948.3344989",
+        "ee": "https://doi.org/10.1145/3344948.3344989",
         "url": "https://dblp.org/rec/conf/ecsa/Malenfant19"
       },
       {
@@ -2608,6 +3090,8 @@
           "Amine El Malki",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-030-29983-5_1",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_1",
         "url": "https://dblp.org/rec/conf/ecsa/MalkiZ19"
       },
       {
@@ -2617,6 +3101,8 @@
           "Gast\u00f3n M\u00e1rquez",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1145/3344948.3344996",
+        "ee": "https://doi.org/10.1145/3344948.3344996",
         "url": "https://dblp.org/rec/conf/ecsa/MarquezA19"
       },
       {
@@ -2626,6 +3112,8 @@
           "Moreno Marzolla",
           "Raffaela Mirandola"
         ],
+        "doi": "10.1145/3344948.3344966",
+        "ee": "https://doi.org/10.1145/3344948.3344966",
         "url": "https://dblp.org/rec/conf/ecsa/MarzollaM19"
       },
       {
@@ -2636,6 +3124,8 @@
           "Jan Bosch",
           "Helena Holmstr\u00f6m Olsson"
         ],
+        "doi": "10.1007/978-3-030-29983-5_18",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_18",
         "url": "https://dblp.org/rec/conf/ecsa/MattosBO19"
       },
       {
@@ -2649,6 +3139,8 @@
           "Georg Weichhart",
           "Alexander Egyed"
         ],
+        "doi": "10.1007/978-3-030-29983-5_10",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_10",
         "url": "https://dblp.org/rec/conf/ecsa/MayrhoferMZGWE19"
       },
       {
@@ -2659,6 +3151,8 @@
           "Elvinia Riccobene",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1145/3344948.3344957",
+        "ee": "https://doi.org/10.1145/3344948.3344957",
         "url": "https://dblp.org/rec/conf/ecsa/MirandolaRS19"
       },
       {
@@ -2668,6 +3162,8 @@
           "Henry Muccini",
           "Karthik Vaidhyanathan"
         ],
+        "doi": "10.1145/3344948.3344962",
+        "ee": "https://doi.org/10.1145/3344948.3344962",
         "url": "https://dblp.org/rec/conf/ecsa/MucciniV19"
       },
       {
@@ -2681,6 +3177,8 @@
           "Wolfgang Slany",
           "Kenji Tanaka"
         ],
+        "doi": "10.1145/3344948.3344976",
+        "ee": "https://doi.org/10.1145/3344948.3344976",
         "url": "https://dblp.org/rec/conf/ecsa/MullerVHSST19"
       },
       {
@@ -2692,6 +3190,8 @@
           "Danny Weyns",
           "Stefan Biffl"
         ],
+        "doi": "10.1007/978-3-030-29983-5_8",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_8",
         "url": "https://dblp.org/rec/conf/ecsa/MusilMWB19"
       },
       {
@@ -2700,6 +3200,8 @@
         "authors": [
           "Tala Najem"
         ],
+        "doi": "10.1145/3344948.3344949",
+        "ee": "https://doi.org/10.1145/3344948.3344949",
         "url": "https://dblp.org/rec/conf/ecsa/Najem19"
       },
       {
@@ -2708,6 +3210,8 @@
         "authors": [
           "Mercy Njima"
         ],
+        "doi": "10.1145/3344948.3344950",
+        "ee": "https://doi.org/10.1145/3344948.3344950",
         "url": "https://dblp.org/rec/conf/ecsa/Njima19"
       },
       {
@@ -2721,6 +3225,8 @@
           "Fei Li 0002",
           "Sebastian Meixner"
         ],
+        "doi": "10.1007/978-3-030-29983-5_2",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_2",
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZPSLM19"
       },
       {
@@ -2731,6 +3237,8 @@
           "Nuno Santos 0003",
           "Ant\u00f3nio Rito Silva"
         ],
+        "doi": "10.1007/978-3-030-29983-5_3",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_3",
         "url": "https://dblp.org/rec/conf/ecsa/NunesSS19"
       },
       {
@@ -2741,6 +3249,8 @@
           "Margret Plank",
           "Mathy Vanbuel"
         ],
+        "doi": "10.1145/3344948.3344975",
+        "ee": "https://doi.org/10.1145/3344948.3344975",
         "url": "https://dblp.org/rec/conf/ecsa/OgunyemiPV19"
       },
       {
@@ -2751,6 +3261,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1145/3344948.3344997",
+        "ee": "https://doi.org/10.1145/3344948.3344997",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW19"
       },
       {
@@ -2761,6 +3273,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1145/3344948.3344984",
+        "ee": "https://doi.org/10.1145/3344948.3344984",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW19a"
       },
       {
@@ -2771,6 +3285,8 @@
           "M\u00f3nica M. Villegas",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1145/3344948.3344994",
+        "ee": "https://doi.org/10.1145/3344948.3344994",
         "url": "https://dblp.org/rec/conf/ecsa/OrellanaVA19"
       },
       {
@@ -2783,6 +3299,8 @@
           "Raffaela Mirandola",
           "Catia Trubiani"
         ],
+        "doi": "10.1145/3344948.3344990",
+        "ee": "https://doi.org/10.1145/3344948.3344990",
         "url": "https://dblp.org/rec/conf/ecsa/PagliariDCMT19"
       },
       {
@@ -2792,6 +3310,8 @@
           "Ricardo Colomo-Palacios",
           "Cristina Casado-Lumbreras"
         ],
+        "doi": "10.1145/3344948.3344965",
+        "ee": "https://doi.org/10.1145/3344948.3344965",
         "url": "https://dblp.org/rec/conf/ecsa/PalaciosC19"
       },
       {
@@ -2800,6 +3320,8 @@
         "authors": [
           "Ilaria Pigazzini"
         ],
+        "doi": "10.1145/3344948.3344951",
+        "ee": "https://doi.org/10.1145/3344948.3344951",
         "url": "https://dblp.org/rec/conf/ecsa/Pigazzini19"
       },
       {
@@ -2810,6 +3332,8 @@
           "Francesca Arcelli Fontana",
           "Andrea Maggioni"
         ],
+        "doi": "10.1007/978-3-030-29983-5_17",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_17",
         "url": "https://dblp.org/rec/conf/ecsa/PigazziniFM19"
       },
       {
@@ -2819,6 +3343,8 @@
           "Ken Power",
           "Rebecca Wirfs-Brock"
         ],
+        "doi": "10.1007/978-3-030-29983-5_4",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_4",
         "url": "https://dblp.org/rec/conf/ecsa/PowerW19"
       },
       {
@@ -2829,6 +3355,8 @@
           "Romina Spalazzese",
           "Catia Trubiani"
         ],
+        "doi": "10.1007/978-3-030-29983-5_12",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_12",
         "url": "https://dblp.org/rec/conf/ecsa/SanctisST19"
       },
       {
@@ -2838,6 +3366,8 @@
           "Christian Schindler",
           "Matthias M\u00fcller 0008"
         ],
+        "doi": "10.1145/3344948.3344969",
+        "ee": "https://doi.org/10.1145/3344948.3344969",
         "url": "https://dblp.org/rec/conf/ecsa/SchindlerM19"
       },
       {
@@ -2847,6 +3377,8 @@
           "Sandra Schr\u00f6der",
           "Georg Buchgeher"
         ],
+        "doi": "10.1145/3344948.3344956",
+        "ee": "https://doi.org/10.1145/3344948.3344956",
         "url": "https://dblp.org/rec/conf/ecsa/SchroderB19"
       },
       {
@@ -2856,6 +3388,8 @@
           "Sandra Schr\u00f6der",
           "Georg Buchgeher"
         ],
+        "doi": "10.1145/3344948.3344981",
+        "ee": "https://doi.org/10.1145/3344948.3344981",
         "url": "https://dblp.org/rec/conf/ecsa/SchroderB19a"
       },
       {
@@ -2869,6 +3403,8 @@
           "Ithar Saleh",
           "Henry Muccini"
         ],
+        "doi": "10.1145/3344948.3344992",
+        "ee": "https://doi.org/10.1145/3344948.3344992",
         "url": "https://dblp.org/rec/conf/ecsa/SharafAESSM19"
       },
       {
@@ -2877,6 +3413,8 @@
         "authors": [
           "Vandana Singh"
         ],
+        "doi": "10.1145/3344948.3344968",
+        "ee": "https://doi.org/10.1145/3344948.3344968",
         "url": "https://dblp.org/rec/conf/ecsa/Singh19"
       },
       {
@@ -2885,6 +3423,8 @@
         "authors": [
           "Hasan S\u00f6zer"
         ],
+        "doi": "10.1007/978-3-030-29983-5_5",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_5",
         "url": "https://dblp.org/rec/conf/ecsa/Sozer19"
       },
       {
@@ -2893,6 +3433,8 @@
         "authors": [
           "Michael Striewe"
         ],
+        "doi": "10.1007/978-3-030-29983-5_15",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_15",
         "url": "https://dblp.org/rec/conf/ecsa/Striewe19"
       },
       {
@@ -2903,6 +3445,8 @@
           "Jim Buckley",
           "Ashish Rajendra Sai"
         ],
+        "doi": "10.1145/3344948.3344983",
+        "ee": "https://doi.org/10.1145/3344948.3344983",
         "url": "https://dblp.org/rec/conf/ecsa/ToosiBS19"
       },
       {
@@ -2914,6 +3458,8 @@
           "Kyriakos Malamas",
           "Riccardo Scandariato"
         ],
+        "doi": "10.1145/3344948.3344995",
+        "ee": "https://doi.org/10.1145/3344948.3344995",
         "url": "https://dblp.org/rec/conf/ecsa/TumaHMS19"
       },
       {
@@ -2924,6 +3470,8 @@
           "Cristian Orellana",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1145/3344948.3344972",
+        "ee": "https://doi.org/10.1145/3344948.3344972",
         "url": "https://dblp.org/rec/conf/ecsa/VillegasOA19"
       },
       {
@@ -2934,6 +3482,8 @@
           "Ana Allian",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1145/3344948.3344979",
+        "ee": "https://doi.org/10.1145/3344948.3344979",
         "url": "https://dblp.org/rec/conf/ecsa/VolpatoAN19"
       },
       {
@@ -2944,6 +3494,8 @@
           "Ramin Tavakoli Kolagari",
           "Klaus Schmid"
         ],
+        "doi": "10.1007/978-3-030-29983-5_9",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_9",
         "url": "https://dblp.org/rec/conf/ecsa/WagemannKS19"
       },
       {
@@ -2952,6 +3504,8 @@
         "authors": [
           "Yuwei Wang"
         ],
+        "doi": "10.1145/3344948.3344952",
+        "ee": "https://doi.org/10.1145/3344948.3344952",
         "url": "https://dblp.org/rec/conf/ecsa/Wang19"
       },
       {
@@ -2963,6 +3517,8 @@
           "Hye-Young Paik",
           "Ingo Weber"
         ],
+        "doi": "10.1007/978-3-030-29983-5_11",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5_11",
         "url": "https://dblp.org/rec/conf/ecsa/Yasaweerasinghelage19"
       },
       {
@@ -2973,6 +3529,8 @@
           "Laurence Duchien",
           "Paola Inverardi"
         ],
+        "doi": "10.1007/978-3-030-29983-5",
+        "ee": "https://doi.org/10.1007/978-3-030-29983-5",
         "url": "https://dblp.org/rec/conf/ecsa/2019"
       },
       {
@@ -2989,6 +3547,8 @@
           "Catia Trubiani",
           "Danny Weyns"
         ],
+        "doi": "10.1145/3344948",
+        "ee": "https://doi.org/10.1145/3344948",
         "url": "https://dblp.org/rec/conf/ecsa/2019c"
       }
     ],
@@ -3001,6 +3561,8 @@
           "Xavier Le Pallec",
           "S\u00e9bastien G\u00e9rard"
         ],
+        "doi": "10.1145/3241403.3241422",
+        "ee": "https://doi.org/10.1145/3241403.3241422",
         "url": "https://dblp.org/rec/conf/ecsa/AhmarPG18"
       },
       {
@@ -3011,6 +3573,8 @@
           "Syed Naqvi",
           "Mark B. Josephs"
         ],
+        "doi": "10.1145/3241403.3241458",
+        "ee": "https://doi.org/10.1145/3241403.3241458",
         "url": "https://dblp.org/rec/conf/ecsa/AhmedNJ18"
       },
       {
@@ -3023,6 +3587,8 @@
           "Krystyna Macioszek",
           "Daniel Silveira"
         ],
+        "doi": "10.1145/3241403.3241416",
+        "ee": "https://doi.org/10.1145/3241403.3241416",
         "url": "https://dblp.org/rec/conf/ecsa/AlanaHUMS18"
       },
       {
@@ -3036,6 +3602,8 @@
           "Stephan Seifermann",
           "Maximilian Walter"
         ],
+        "doi": "10.1145/3241403.3241450",
+        "ee": "https://doi.org/10.1145/3241403.3241450",
         "url": "https://dblp.org/rec/conf/ecsa/AliHHVSW18"
       },
       {
@@ -3046,6 +3614,8 @@
           "Romina Spalazzese",
           "Paul Davidsson"
         ],
+        "doi": "10.1007/978-3-030-00761-4_6",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_6",
         "url": "https://dblp.org/rec/conf/ecsa/AlkhabbasSD18"
       },
       {
@@ -3055,6 +3625,8 @@
           "Celia Fern\u00e1ndez Aller",
           "Sara Rom\u00e1n Navarro"
         ],
+        "doi": "10.1145/3241403.3241420",
+        "ee": "https://doi.org/10.1145/3241403.3241420",
         "url": "https://dblp.org/rec/conf/ecsa/AllerN18"
       },
       {
@@ -3066,6 +3638,8 @@
           "Eduardo Santana de Almeida",
           "Christina von Flach G. Chavez"
         ],
+        "doi": "10.1145/3241403.3241433",
+        "ee": "https://doi.org/10.1145/3241403.3241433",
         "url": "https://dblp.org/rec/conf/ecsa/AmorimMAC18"
       },
       {
@@ -3081,6 +3655,8 @@
           "Thomas Kuhn 0001",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-030-00761-4_8",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_8",
         "url": "https://dblp.org/rec/conf/ecsa/Antonino0MFBBKN18"
       },
       {
@@ -3092,6 +3668,8 @@
           "Elvinia Riccobene",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1007/978-3-030-00761-4_1",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_1",
         "url": "https://dblp.org/rec/conf/ecsa/ArcainiMRS18"
       },
       {
@@ -3101,6 +3679,8 @@
           "Lennin Arriola",
           "Andrew Markham"
         ],
+        "doi": "10.1145/3241403.3241443",
+        "ee": "https://doi.org/10.1145/3241403.3241443",
         "url": "https://dblp.org/rec/conf/ecsa/ArriolaM18"
       },
       {
@@ -3113,6 +3693,8 @@
           "Claudio Pompilio",
           "Massimo Tivoli"
         ],
+        "doi": "10.1145/3241403.3241425",
+        "ee": "https://doi.org/10.1145/3241403.3241425",
         "url": "https://dblp.org/rec/conf/ecsa/AutiliSGPT18"
       },
       {
@@ -3126,6 +3708,8 @@
           "Henning Schulz",
           "Andr\u00e9 van Hoorn"
         ],
+        "doi": "10.1007/978-3-030-00761-4_11",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_11",
         "url": "https://dblp.org/rec/conf/ecsa/AvritzerFJRSH18"
       },
       {
@@ -3138,6 +3722,8 @@
           "Lincoln S. Rocha",
           "Nabor C. Mendon\u00e7a"
         ],
+        "doi": "10.1007/978-3-030-00761-4_13",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_13",
         "url": "https://dblp.org/rec/conf/ecsa/BarbosaGMRM18"
       },
       {
@@ -3147,6 +3733,8 @@
           "Gianluca Gennaro Bevilacqua",
           "Alessandro Bianchi"
         ],
+        "doi": "10.1145/3241403.3241444",
+        "ee": "https://doi.org/10.1145/3241403.3241444",
         "url": "https://dblp.org/rec/conf/ecsa/BevilacquaB18"
       },
       {
@@ -3156,6 +3744,8 @@
           "Svetlana Boudko",
           "Habtamu Abie"
         ],
+        "doi": "10.1145/3241403.3241463",
+        "ee": "https://doi.org/10.1145/3241403.3241463",
         "url": "https://dblp.org/rec/conf/ecsa/BoudkoA18"
       },
       {
@@ -3166,6 +3756,8 @@
           "Rainer Weinreich",
           "Heinz Huber"
         ],
+        "doi": "10.1007/978-3-030-00761-4_14",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_14",
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherWH18"
       },
       {
@@ -3176,6 +3768,8 @@
           "Carlo Bellettini",
           "Lorenzo Capra"
         ],
+        "doi": "10.1145/3241403.3241445",
+        "ee": "https://doi.org/10.1145/3241403.3241445",
         "url": "https://dblp.org/rec/conf/ecsa/CamilliBC18"
       },
       {
@@ -3187,6 +3781,8 @@
           "Juan Jos\u00e9 Franco 0001",
           "Pedro Arques"
         ],
+        "doi": "10.1145/3241403.3241415",
+        "ee": "https://doi.org/10.1145/3241403.3241415",
         "url": "https://dblp.org/rec/conf/ecsa/CampilloVFA18"
       },
       {
@@ -3196,6 +3792,8 @@
           "Carlos Carrillo 0001",
           "Rafael Capilla"
         ],
+        "doi": "10.1145/3241403.3241446",
+        "ee": "https://doi.org/10.1145/3241403.3241446",
         "url": "https://dblp.org/rec/conf/ecsa/CarrilloC18"
       },
       {
@@ -3206,6 +3804,8 @@
           "Dar\u00edo Correal",
           "Juliana-Davila Rodriguez"
         ],
+        "doi": "10.1007/978-3-030-00761-4_24",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_24",
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosCR18"
       },
       {
@@ -3214,6 +3814,8 @@
         "authors": [
           "Laura M. Castro"
         ],
+        "doi": "10.1145/3241403.3241419",
+        "ee": "https://doi.org/10.1145/3241403.3241419",
         "url": "https://dblp.org/rec/conf/ecsa/Castro18"
       },
       {
@@ -3223,6 +3825,8 @@
           "Chii Chang",
           "Satish Narayana Srirama"
         ],
+        "doi": "10.1007/978-3-030-00761-4_15",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_15",
         "url": "https://dblp.org/rec/conf/ecsa/ChangS18"
       },
       {
@@ -3231,6 +3835,8 @@
         "authors": [
           "Henrik B\u00e6rbak Christensen"
         ],
+        "doi": "10.1007/978-3-030-00761-4_12",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_12",
         "url": "https://dblp.org/rec/conf/ecsa/Christensen18"
       },
       {
@@ -3241,6 +3847,8 @@
           "Aljaz Kosmerlj",
           "Michele Ciavotta"
         ],
+        "doi": "10.1145/3241403.3241436",
+        "ee": "https://doi.org/10.1145/3241403.3241436",
         "url": "https://dblp.org/rec/conf/ecsa/CreslovnikKC18"
       },
       {
@@ -3249,6 +3857,8 @@
         "authors": [
           "Sigurd Eskeland"
         ],
+        "doi": "10.1145/3241403.3241462",
+        "ee": "https://doi.org/10.1145/3241403.3241462",
         "url": "https://dblp.org/rec/conf/ecsa/Eskeland18"
       },
       {
@@ -3261,6 +3871,8 @@
           "Rodrigo Pereira dos Santos",
           "Arilo Claudio Dias-Neto"
         ],
+        "doi": "10.1145/3241403.3241427",
+        "ee": "https://doi.org/10.1145/3241403.3241427",
         "url": "https://dblp.org/rec/conf/ecsa/FontaoEFSD18"
       },
       {
@@ -3270,6 +3882,8 @@
           "Christopher Gerking",
           "David Schubert"
         ],
+        "doi": "10.1007/978-3-030-00761-4_10",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_10",
         "url": "https://dblp.org/rec/conf/ecsa/GerkingS18"
       },
       {
@@ -3279,6 +3893,8 @@
           "David Garc\u00eda Gil",
           "Rub\u00e9n Aguilera D\u00edaz-Heredero"
         ],
+        "doi": "10.1145/3241403.3241418",
+        "ee": "https://doi.org/10.1145/3241403.3241418",
         "url": "https://dblp.org/rec/conf/ecsa/GilD18"
       },
       {
@@ -3289,6 +3905,8 @@
           "Jennifer P\u00e9rez",
           "Jessica D\u00edaz"
         ],
+        "doi": "10.1145/3241403.3241414",
+        "ee": "https://doi.org/10.1145/3241403.3241414",
         "url": "https://dblp.org/rec/conf/ecsa/GuamanPD18"
       },
       {
@@ -3301,6 +3919,8 @@
           "Hans van Vliet",
           "Raymond Slot"
         ],
+        "doi": "10.1007/978-3-030-00761-4_17",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_17",
         "url": "https://dblp.org/rec/conf/ecsa/HeijenkBLVS18"
       },
       {
@@ -3313,6 +3933,8 @@
           "Ilias Gerostathopoulos",
           "Danylo Khalyeyev"
         ],
+        "doi": "10.1145/3241403.3241448",
+        "ee": "https://doi.org/10.1145/3241403.3241448",
         "url": "https://dblp.org/rec/conf/ecsa/HnetynkaKAGK18"
       },
       {
@@ -3326,6 +3948,8 @@
           "Saad Mohamad",
           "Abdelhamid Bouchachia"
         ],
+        "doi": "10.1145/3241403.3241438",
+        "ee": "https://doi.org/10.1145/3241403.3241438",
         "url": "https://dblp.org/rec/conf/ecsa/JamilDWMMB18"
       },
       {
@@ -3336,6 +3960,8 @@
           "Ang\u00e9lica de Antonio",
           "Cristian Moral"
         ],
+        "doi": "10.1145/3241403.3241441",
+        "ee": "https://doi.org/10.1145/3241403.3241441",
         "url": "https://dblp.org/rec/conf/ecsa/JeronimoAM18"
       },
       {
@@ -3345,6 +3971,8 @@
           "Basel Katt",
           "Nishu Prasher"
         ],
+        "doi": "10.1145/3241403.3241464",
+        "ee": "https://doi.org/10.1145/3241403.3241464",
         "url": "https://dblp.org/rec/conf/ecsa/KattP18"
       },
       {
@@ -3355,6 +3983,8 @@
           "Chouki Tibermacine",
           "Salah Sadou"
         ],
+        "doi": "10.1007/978-3-030-00761-4_16",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_16",
         "url": "https://dblp.org/rec/conf/ecsa/KerdoudiTS18"
       },
       {
@@ -3363,6 +3993,8 @@
         "authors": [
           "Rainer Koschke"
         ],
+        "doi": "10.1145/3241403.3241453",
+        "ee": "https://doi.org/10.1145/3241403.3241453",
         "url": "https://dblp.org/rec/conf/ecsa/Koschke18"
       },
       {
@@ -3373,6 +4005,8 @@
           "Peter Sanders 0001",
           "Dorothea Wagner"
         ],
+        "doi": "10.1145/3241403.3241421",
+        "ee": "https://doi.org/10.1145/3241403.3241421",
         "url": "https://dblp.org/rec/conf/ecsa/Koziolek0W18"
       },
       {
@@ -3382,6 +4016,8 @@
           "Aurora Mac\u00edas",
           "Elena Navarro 0001"
         ],
+        "doi": "10.1145/3241403.3241452",
+        "ee": "https://doi.org/10.1145/3241403.3241452",
         "url": "https://dblp.org/rec/conf/ecsa/MaciasN18"
       },
       {
@@ -3391,6 +4027,8 @@
           "Somayeh Malakuti",
           "Sten Gr\u00fcner"
         ],
+        "doi": "10.1145/3241403.3241417",
+        "ee": "https://doi.org/10.1145/3241403.3241417",
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiG18"
       },
       {
@@ -3401,6 +4039,8 @@
           "Thomas Goldschmidt",
           "Heiko Koziolek"
         ],
+        "doi": "10.1007/978-3-030-00761-4_7",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_7",
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiGK18"
       },
       {
@@ -3411,6 +4051,8 @@
           "M\u00f3nica M. Villegas",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1145/3241403.3241429",
+        "ee": "https://doi.org/10.1145/3241403.3241429",
         "url": "https://dblp.org/rec/conf/ecsa/MarquezVA18"
       },
       {
@@ -3422,6 +4064,8 @@
           "Anne Koziolek",
           "Ralf H. Reussner"
         ],
+        "doi": "10.1007/978-3-030-00761-4_3",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_3",
         "url": "https://dblp.org/rec/conf/ecsa/MartinFKR18"
       },
       {
@@ -3432,6 +4076,8 @@
           "Carlos Giraldo Rodriguez",
           "David Chaves-D\u00edeguez"
         ],
+        "doi": "10.1145/3241403.3241442",
+        "ee": "https://doi.org/10.1145/3241403.3241442",
         "url": "https://dblp.org/rec/conf/ecsa/Martinez-Alvarez18"
       },
       {
@@ -3443,6 +4089,8 @@
           "Andrea Biaggi",
           "Riccardo Roveda"
         ],
+        "doi": "10.1007/978-3-030-00761-4_21",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_21",
         "url": "https://dblp.org/rec/conf/ecsa/MartiniFBR18"
       },
       {
@@ -3453,6 +4101,8 @@
           "Chii Chang",
           "Satish Narayana Srirama"
         ],
+        "doi": "10.1145/3241403.3241449",
+        "ee": "https://doi.org/10.1145/3241403.3241449",
         "url": "https://dblp.org/rec/conf/ecsa/MassCS18"
       },
       {
@@ -3464,6 +4114,8 @@
           "Bradley R. Schmerl",
           "Javier C\u00e1mara 0001"
         ],
+        "doi": "10.1145/3241403.3241423",
+        "ee": "https://doi.org/10.1145/3241403.3241423",
         "url": "https://dblp.org/rec/conf/ecsa/MendoncaGSC18"
       },
       {
@@ -3476,6 +4128,8 @@
           "Florian Wessling",
           "Volker Gruhn"
         ],
+        "doi": "10.1145/3241403.3241413",
+        "ee": "https://doi.org/10.1145/3241403.3241413",
         "url": "https://dblp.org/rec/conf/ecsa/MeyerH0WG18"
       },
       {
@@ -3486,6 +4140,8 @@
           "Shruti Kunde",
           "Manoj Nambiar 0001"
         ],
+        "doi": "10.1145/3241403.3241440",
+        "ee": "https://doi.org/10.1145/3241403.3241440",
         "url": "https://dblp.org/rec/conf/ecsa/MishraKN18"
       },
       {
@@ -3495,6 +4151,8 @@
           "Henry Muccini",
           "Mahyar Tourchi Moghaddam"
         ],
+        "doi": "10.1007/978-3-030-00761-4_5",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_5",
         "url": "https://dblp.org/rec/conf/ecsa/MucciniM18"
       },
       {
@@ -3506,6 +4164,8 @@
           "Mahyar Tourchi Moghaddam",
           "Mohammad Sharaf"
         ],
+        "doi": "10.1145/3241403.3241424",
+        "ee": "https://doi.org/10.1145/3241403.3241424",
         "url": "https://dblp.org/rec/conf/ecsa/MucciniSMS18"
       },
       {
@@ -3516,6 +4176,8 @@
           "David Scarlatti",
           "Pablo Costas"
         ],
+        "doi": "10.1145/3241403.3241434",
+        "ee": "https://doi.org/10.1145/3241403.3241434",
         "url": "https://dblp.org/rec/conf/ecsa/MunozSC18"
       },
       {
@@ -3527,6 +4189,8 @@
           "Mohamad Kassab",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1145/3241403.3241432",
+        "ee": "https://doi.org/10.1145/3241403.3241432",
         "url": "https://dblp.org/rec/conf/ecsa/NetoMKN18"
       },
       {
@@ -3537,6 +4201,8 @@
           "Michele Ciavotta",
           "Flavio De Paoli"
         ],
+        "doi": "10.1145/3241403.3241437",
+        "ee": "https://doi.org/10.1145/3241403.3241437",
         "url": "https://dblp.org/rec/conf/ecsa/NikolovCP18"
       },
       {
@@ -3548,6 +4214,8 @@
           "Eugenio Di Sciascio",
           "Tommaso Di Noia"
         ],
+        "doi": "10.1145/3241403.3241410",
+        "ee": "https://doi.org/10.1145/3241403.3241410",
         "url": "https://dblp.org/rec/conf/ecsa/NoceraMSN18"
       },
       {
@@ -3558,6 +4226,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1145/3241403.3241456",
+        "ee": "https://doi.org/10.1145/3241403.3241456",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW18"
       },
       {
@@ -3566,6 +4236,8 @@
         "authors": [
           "Fl\u00e1vio Oquendo"
         ],
+        "doi": "10.1007/978-3-030-00761-4_2",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_2",
         "url": "https://dblp.org/rec/conf/ecsa/Oquendo18"
       },
       {
@@ -3579,6 +4251,8 @@
           "Marcello Visconti",
           "Hern\u00e1n Astudillo"
         ],
+        "doi": "10.1145/3241403.3241459",
+        "ee": "https://doi.org/10.1145/3241403.3241459",
         "url": "https://dblp.org/rec/conf/ecsa/OssesMVOVA18"
       },
       {
@@ -3588,6 +4262,8 @@
           "Chetan Phalak",
           "Shruti Kunde"
         ],
+        "doi": "10.1145/3241403.3241408",
+        "ee": "https://doi.org/10.1145/3241403.3241408",
         "url": "https://dblp.org/rec/conf/ecsa/PhalakK18"
       },
       {
@@ -3598,6 +4274,8 @@
           "Daniel Schall 0001",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-030-00761-4_22",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_22",
         "url": "https://dblp.org/rec/conf/ecsa/Plakidas0Z18"
       },
       {
@@ -3608,6 +4286,8 @@
           "Daniel Schall 0001",
           "Uwe Zdun"
         ],
+        "doi": "10.1145/3241403.3241426",
+        "ee": "https://doi.org/10.1145/3241403.3241426",
         "url": "https://dblp.org/rec/conf/ecsa/Plakidas0Z18a"
       },
       {
@@ -3617,6 +4297,8 @@
           "Ken Power",
           "Rebecca Wirfs-Brock"
         ],
+        "doi": "10.1007/978-3-030-00761-4_19",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_19",
         "url": "https://dblp.org/rec/conf/ecsa/PowerW18"
       },
       {
@@ -3627,6 +4309,8 @@
           "Cl\u00e1udia M. L. Werner",
           "Anthony Finkelstein"
         ],
+        "doi": "10.1145/3241403.3241428",
+        "ee": "https://doi.org/10.1145/3241403.3241428",
         "url": "https://dblp.org/rec/conf/ecsa/SantosWF18"
       },
       {
@@ -3636,6 +4320,8 @@
           "Reijo M. Savola",
           "Pekka Savolainen"
         ],
+        "doi": "10.1145/3241403.3241461",
+        "ee": "https://doi.org/10.1145/3241403.3241461",
         "url": "https://dblp.org/rec/conf/ecsa/SavolaS18"
       },
       {
@@ -3646,6 +4332,8 @@
           "Axel Busch",
           "Anne Koziolek"
         ],
+        "doi": "10.1007/978-3-030-00761-4_18",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_18",
         "url": "https://dblp.org/rec/conf/ecsa/SchneiderBK18"
       },
       {
@@ -3655,6 +4343,8 @@
           "Sandra Schr\u00f6der",
           "Matthias Riebisch"
         ],
+        "doi": "10.1145/3241403.3241457",
+        "ee": "https://doi.org/10.1145/3241403.3241457",
         "url": "https://dblp.org/rec/conf/ecsa/SchroderR18"
       },
       {
@@ -3665,6 +4355,8 @@
           "Moamin Abughazala",
           "Henry Muccini"
         ],
+        "doi": "10.1145/3241403.3241412",
+        "ee": "https://doi.org/10.1145/3241403.3241412",
         "url": "https://dblp.org/rec/conf/ecsa/SharafAM18"
       },
       {
@@ -3675,6 +4367,8 @@
           "Henry Muccini",
           "Moamin Abughazala"
         ],
+        "doi": "10.1145/3241403.3241409",
+        "ee": "https://doi.org/10.1145/3241403.3241409",
         "url": "https://dblp.org/rec/conf/ecsa/SharafMA18"
       },
       {
@@ -3685,6 +4379,8 @@
           "Henry Muccini",
           "Apurvanand Sahay"
         ],
+        "doi": "10.1145/3241403.3241451",
+        "ee": "https://doi.org/10.1145/3241403.3241451",
         "url": "https://dblp.org/rec/conf/ecsa/SharafMS18"
       },
       {
@@ -3698,6 +4394,8 @@
           "Uwe Hohenstein",
           "Florian Matthes"
         ],
+        "doi": "10.1145/3241403.3241447",
+        "ee": "https://doi.org/10.1145/3241403.3241447",
         "url": "https://dblp.org/rec/conf/ecsa/ShumaievBKBHM18"
       },
       {
@@ -3707,6 +4405,8 @@
           "Rafael de Amorim Silva",
           "Rosana T. V. Braga"
         ],
+        "doi": "10.1145/3241403.3241430",
+        "ee": "https://doi.org/10.1145/3241403.3241430",
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB18"
       },
       {
@@ -3715,6 +4415,8 @@
         "authors": [
           "Ingo Simonis"
         ],
+        "doi": "10.1145/3241403.3241439",
+        "ee": "https://doi.org/10.1145/3241403.3241439",
         "url": "https://dblp.org/rec/conf/ecsa/Simonis18"
       },
       {
@@ -3725,6 +4427,8 @@
           "Martin Blom",
           "Sebastian Herold"
         ],
+        "doi": "10.1145/3241403.3241454",
+        "ee": "https://doi.org/10.1145/3241403.3241454",
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaBH18"
       },
       {
@@ -3737,6 +4441,8 @@
           "Sabine Sachweh",
           "Albert Z\u00fcndorf"
         ],
+        "doi": "10.1145/3241403.3241406",
+        "ee": "https://doi.org/10.1145/3241403.3241406",
         "url": "https://dblp.org/rec/conf/ecsa/SorgallaWRSZ18"
       },
       {
@@ -3746,6 +4452,8 @@
           "John Spray",
           "Roopak Sinha"
         ],
+        "doi": "10.1007/978-3-030-00761-4_9",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_9",
         "url": "https://dblp.org/rec/conf/ecsa/SprayS18"
       },
       {
@@ -3758,6 +4466,8 @@
           "Goetz Botterweck",
           "Jim Buckley"
         ],
+        "doi": "10.1145/3241403.3241455",
+        "ee": "https://doi.org/10.1145/3241403.3241455",
         "url": "https://dblp.org/rec/conf/ecsa/ToosiOWBB18"
       },
       {
@@ -3768,6 +4478,8 @@
           "Lingfan Gao",
           "Michael Hammerer"
         ],
+        "doi": "10.1145/3241403.3241407",
+        "ee": "https://doi.org/10.1145/3241403.3241407",
         "url": "https://dblp.org/rec/conf/ecsa/TruongGH18"
       },
       {
@@ -3777,6 +4489,8 @@
           "Katja Tuma",
           "Riccardo Scandariato"
         ],
+        "doi": "10.1007/978-3-030-00761-4_23",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_23",
         "url": "https://dblp.org/rec/conf/ecsa/TumaS18"
       },
       {
@@ -3788,6 +4502,8 @@
           "Outi-Marja Latvala",
           "Jarkko Kuusij\u00e4rvi"
         ],
+        "doi": "10.1145/3241403.3241460",
+        "ee": "https://doi.org/10.1145/3241403.3241460",
         "url": "https://dblp.org/rec/conf/ecsa/VaisanenNLK18"
       },
       {
@@ -3798,6 +4514,8 @@
           "Thiago Gottardi",
           "Rosana Teresinha Vaccare Braga"
         ],
+        "doi": "10.1145/3241403.3241431",
+        "ee": "https://doi.org/10.1145/3241403.3241431",
         "url": "https://dblp.org/rec/conf/ecsa/VargasGB18"
       },
       {
@@ -3808,6 +4526,8 @@
           "Per Gunnar Auran",
           "Arne-J\u00f8rgen Berre"
         ],
+        "doi": "10.1145/3241403.3241435",
+        "ee": "https://doi.org/10.1145/3241403.3241435",
         "url": "https://dblp.org/rec/conf/ecsa/WalderhaugAB18"
       },
       {
@@ -3819,6 +4539,8 @@
           "Danny Hughes 0001",
           "Nelson Matthys"
         ],
+        "doi": "10.1007/978-3-030-00761-4_4",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_4",
         "url": "https://dblp.org/rec/conf/ecsa/WeynsI0M18"
       },
       {
@@ -3835,6 +4557,8 @@
           "Weicai Liu",
           "Junhui Zhang"
         ],
+        "doi": "10.1007/978-3-030-00761-4_20",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4_20",
         "url": "https://dblp.org/rec/conf/ecsa/WuCKMLCGLZ18"
       },
       {
@@ -3843,6 +4567,8 @@
         "authors": [
           "Zai Zhang 0001"
         ],
+        "doi": "10.1145/3241403.3241465",
+        "ee": "https://doi.org/10.1145/3241403.3241465",
         "url": "https://dblp.org/rec/conf/ecsa/Zhang18"
       },
       {
@@ -3853,6 +4579,8 @@
           "David Garlan",
           "Jennifer P\u00e9rez"
         ],
+        "doi": "10.1007/978-3-030-00761-4",
+        "ee": "https://doi.org/10.1007/978-3-030-00761-4",
         "url": "https://dblp.org/rec/conf/ecsa/2018"
       },
       {
@@ -3863,6 +4591,8 @@
           "Raffaela Mirandola",
           "Hong-Mei Chen"
         ],
+        "doi": "10.1145/3241403",
+        "ee": "https://doi.org/10.1145/3241403",
         "url": "https://dblp.org/rec/conf/ecsa/2018c"
       }
     ],
@@ -3875,6 +4605,8 @@
           "Antinisca Di Marco",
           "Paola Inverardi"
         ],
+        "doi": "10.1145/3129790.3129791",
+        "ee": "https://doi.org/10.1145/3129790.3129791",
         "url": "https://dblp.org/rec/conf/ecsa/AbusairMI17"
       },
       {
@@ -3886,6 +4618,8 @@
           "Henry Muccini",
           "Paola Inverardi"
         ],
+        "doi": "10.1145/3129790.3129792",
+        "ee": "https://doi.org/10.1145/3129790.3129792",
         "url": "https://dblp.org/rec/conf/ecsa/AbusairSMI17"
       },
       {
@@ -3895,6 +4629,8 @@
           "Ahmed D. Alharthi",
           "Maria Spichkova"
         ],
+        "doi": "10.1145/3129790.3129817",
+        "ee": "https://doi.org/10.1145/3129790.3129817",
         "url": "https://dblp.org/rec/conf/ecsa/AlharthiS17"
       },
       {
@@ -3905,6 +4641,8 @@
           "Ersin Ersoy 0001",
           "Hasan S\u00f6zer"
         ],
+        "doi": "10.1145/3129790.3129811",
+        "ee": "https://doi.org/10.1145/3129790.3129811",
         "url": "https://dblp.org/rec/conf/ecsa/AltinisikES17"
       },
       {
@@ -3914,6 +4652,8 @@
           "Najd Altoyan",
           "Dewayne E. Perry"
         ],
+        "doi": "10.1145/3129790.3129813",
+        "ee": "https://doi.org/10.1145/3129790.3129813",
         "url": "https://dblp.org/rec/conf/ecsa/AltoyanP17"
       },
       {
@@ -3926,6 +4666,8 @@
           "Uwe Hohenstein",
           "Florian Matthes"
         ],
+        "doi": "10.1007/978-3-319-65831-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_10",
         "url": "https://dblp.org/rec/conf/ecsa/BhatSBHM17"
       },
       {
@@ -3936,6 +4678,8 @@
           "Klym Shumaiev",
           "Florian Matthes"
         ],
+        "doi": "10.1145/3129790.3129799",
+        "ee": "https://doi.org/10.1145/3129790.3129799",
         "url": "https://dblp.org/rec/conf/ecsa/BhatSM17"
       },
       {
@@ -3946,6 +4690,8 @@
           "Stefan Wagner 0001",
           "Alfred Zimmermann"
         ],
+        "doi": "10.1145/3129790.3129816",
+        "ee": "https://doi.org/10.1145/3129790.3129816",
         "url": "https://dblp.org/rec/conf/ecsa/BognerWZ17"
       },
       {
@@ -3957,6 +4703,8 @@
           "Elvinia Riccobene",
           "Patrizia Scandurra"
         ],
+        "doi": "10.1145/3129790.3129823",
+        "ee": "https://doi.org/10.1145/3129790.3129823",
         "url": "https://dblp.org/rec/conf/ecsa/BonfantiCRS17"
       },
       {
@@ -3970,6 +4718,8 @@
           "Roland Wingelhofer",
           "Mario Aistleitner"
         ],
+        "doi": "10.1007/978-3-319-65831-5_15",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_15",
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherWWLWA17"
       },
       {
@@ -3978,6 +4728,8 @@
         "authors": [
           "Tom\u00e1s Bures"
         ],
+        "doi": "10.1145/3129790.3129795",
+        "ee": "https://doi.org/10.1145/3129790.3129795",
         "url": "https://dblp.org/rec/conf/ecsa/Bures17"
       },
       {
@@ -3988,6 +4740,8 @@
           "David Garlan",
           "Bradley R. Schmerl"
         ],
+        "doi": "10.1007/978-3-319-65831-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_1",
         "url": "https://dblp.org/rec/conf/ecsa/CamaraGS17"
       },
       {
@@ -4002,6 +4756,8 @@
           "Lieven Desmet",
           "Wouter Joosen"
         ],
+        "doi": "10.1145/3129790.3129803",
+        "ee": "https://doi.org/10.1145/3129790.3129803",
         "url": "https://dblp.org/rec/conf/ecsa/ChenVVPHDJ17"
       },
       {
@@ -4013,6 +4769,8 @@
           "Alexander Chatzigeorgiou",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-319-65831-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_4",
         "url": "https://dblp.org/rec/conf/ecsa/DigkasLCA17"
       },
       {
@@ -4021,6 +4779,8 @@
         "authors": [
           "Sigurd Eskeland"
         ],
+        "doi": "10.1145/3129790.3129802",
+        "ee": "https://doi.org/10.1145/3129790.3129802",
         "url": "https://dblp.org/rec/conf/ecsa/Eskeland17"
       },
       {
@@ -4032,6 +4792,8 @@
           "Rossana M. C. Andrade",
           "Ricardo Britto 0001"
         ],
+        "doi": "10.1007/978-3-319-65831-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_5",
         "url": "https://dblp.org/rec/conf/ecsa/FilhoRAB17"
       },
       {
@@ -4041,6 +4803,8 @@
           "Mattias T. Gebrie",
           "Habtamu Abie"
         ],
+        "doi": "10.1145/3129790.3129801",
+        "ee": "https://doi.org/10.1145/3129790.3129801",
         "url": "https://dblp.org/rec/conf/ecsa/GebrieA17"
       },
       {
@@ -4051,6 +4815,8 @@
           "Christian Berger 0001",
           "Crispin Kirchner"
         ],
+        "doi": "10.1007/978-3-319-65831-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_6",
         "url": "https://dblp.org/rec/conf/ecsa/GiaimoBK17"
       },
       {
@@ -4060,6 +4826,8 @@
           "Kimmo Halunen",
           "Anni Karinsalo"
         ],
+        "doi": "10.1145/3129790.3129806",
+        "ee": "https://doi.org/10.1145/3129790.3129806",
         "url": "https://dblp.org/rec/conf/ecsa/HalunenK17"
       },
       {
@@ -4070,6 +4838,8 @@
           "Rainer Weinreich",
           "Georg Buchgeher"
         ],
+        "doi": "10.1007/978-3-319-65831-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_11",
         "url": "https://dblp.org/rec/conf/ecsa/HaselbockWB17"
       },
       {
@@ -4081,6 +4851,8 @@
           "Petteri Heino",
           "Kaisu Kanstr\u00e9n"
         ],
+        "doi": "10.1145/3129790.3129800",
+        "ee": "https://doi.org/10.1145/3129790.3129800",
         "url": "https://dblp.org/rec/conf/ecsa/KanstrenSHK17"
       },
       {
@@ -4089,6 +4861,8 @@
         "authors": [
           "Narges Khakpour"
         ],
+        "doi": "10.1007/978-3-319-65831-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_8",
         "url": "https://dblp.org/rec/conf/ecsa/Khakpour17"
       },
       {
@@ -4097,6 +4871,8 @@
         "authors": [
           "Andrew Leigh"
         ],
+        "doi": "10.1145/3129790.3129798",
+        "ee": "https://doi.org/10.1145/3129790.3129798",
         "url": "https://dblp.org/rec/conf/ecsa/Leigh17"
       },
       {
@@ -4107,6 +4883,8 @@
           "Michel Wermelinger",
           "Andrea Zisman"
         ],
+        "doi": "10.1007/978-3-319-65831-5_12",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_12",
         "url": "https://dblp.org/rec/conf/ecsa/LeighWZ17"
       },
       {
@@ -4118,6 +4896,8 @@
           "Martin Blom",
           "Sebastian Herold"
         ],
+        "doi": "10.1145/3129790.3129808",
+        "ee": "https://doi.org/10.1145/3129790.3129808",
         "url": "https://dblp.org/rec/conf/ecsa/LenhardHBH17"
       },
       {
@@ -4130,6 +4910,8 @@
           "Paola Grosso",
           "Patricia Lago"
         ],
+        "doi": "10.1145/3129790.3129824",
+        "ee": "https://doi.org/10.1145/3129790.3129824",
         "url": "https://dblp.org/rec/conf/ecsa/MoghaddamDPGL17"
       },
       {
@@ -4139,6 +4921,8 @@
           "Germania Rodr\u00edguez Morales",
           "Jennifer P\u00e9rez Bened\u00ed"
         ],
+        "doi": "10.1145/3129790.3129796",
+        "ee": "https://doi.org/10.1145/3129790.3129796",
         "url": "https://dblp.org/rec/conf/ecsa/MoralesB17"
       },
       {
@@ -4151,6 +4935,8 @@
           "Patrick Pschorn",
           "Benno Kallweit"
         ],
+        "doi": "10.1145/3129790.3129814",
+        "ee": "https://doi.org/10.1145/3129790.3129814",
         "url": "https://dblp.org/rec/conf/ecsa/MorgensternAKPK17"
       },
       {
@@ -4161,6 +4947,8 @@
           "M\u00f3nica Pinto",
           "Lidia Fuentes"
         ],
+        "doi": "10.1145/3129790.3129818",
+        "ee": "https://doi.org/10.1145/3129790.3129818",
         "url": "https://dblp.org/rec/conf/ecsa/MunozPF17"
       },
       {
@@ -4195,6 +4983,8 @@
           "Vin\u00edcius Augusto Tagliatti Zani",
           "Wallace Manzano"
         ],
+        "doi": "10.1145/3129790.3129822",
+        "ee": "https://doi.org/10.1145/3129790.3129822",
         "url": "https://dblp.org/rec/conf/ecsa/NakagawaAOSPLFS17"
       },
       {
@@ -4205,6 +4995,8 @@
           "Yassine Ouhammou",
           "Emmanuel Grolleau"
         ],
+        "doi": "10.1007/978-3-319-65831-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_2",
         "url": "https://dblp.org/rec/conf/ecsa/NguyenOG17"
       },
       {
@@ -4215,6 +5007,8 @@
           "Morgan Ericsson",
           "Anna Wingkvist"
         ],
+        "doi": "10.1145/3129790.3129810",
+        "ee": "https://doi.org/10.1145/3129790.3129810",
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW17"
       },
       {
@@ -4224,6 +5018,8 @@
           "Leo Pruijt",
           "Wiebe Wiersema"
         ],
+        "doi": "10.1145/3129790.3129809",
+        "ee": "https://doi.org/10.1145/3129790.3129809",
         "url": "https://dblp.org/rec/conf/ecsa/PruijtW17"
       },
       {
@@ -4234,6 +5030,8 @@
           "Wiebe Wiersema",
           "Jan Martijn E. M. van der Werf"
         ],
+        "doi": "10.1145/3129790.3129819",
+        "ee": "https://doi.org/10.1145/3129790.3129819",
         "url": "https://dblp.org/rec/conf/ecsa/PruijtWW17"
       },
       {
@@ -4243,6 +5041,8 @@
           "Claudia Raibulet",
           "Francesca Arcelli Fontana"
         ],
+        "doi": "10.1145/3129790.3129825",
+        "ee": "https://doi.org/10.1145/3129790.3129825",
         "url": "https://dblp.org/rec/conf/ecsa/RaibuletF17"
       },
       {
@@ -4253,6 +5053,8 @@
           "Melinda T\u00f3th",
           "Zolt\u00e1n Horv\u00e1th"
         ],
+        "doi": "10.1145/3129790.3129794",
+        "ee": "https://doi.org/10.1145/3129790.3129794",
         "url": "https://dblp.org/rec/conf/ecsa/RealeTH17"
       },
       {
@@ -4261,6 +5063,8 @@
         "authors": [
           "Reijo M. Savola"
         ],
+        "doi": "10.1145/3129790.3129804",
+        "ee": "https://doi.org/10.1145/3129790.3129804",
         "url": "https://dblp.org/rec/conf/ecsa/Savola17"
       },
       {
@@ -4270,6 +5074,8 @@
           "Sandra Schr\u00f6der",
           "Matthias Riebisch"
         ],
+        "doi": "10.1145/3129790.3129812",
+        "ee": "https://doi.org/10.1145/3129790.3129812",
         "url": "https://dblp.org/rec/conf/ecsa/SchroderR17"
       },
       {
@@ -4281,6 +5087,8 @@
           "Henry Muccini",
           "Mai Abusair"
         ],
+        "doi": "10.1007/978-3-319-65831-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_7",
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17"
       },
       {
@@ -4292,6 +5100,8 @@
           "Henry Muccini",
           "Mai Abusair"
         ],
+        "doi": "10.1145/3129790.3129820",
+        "ee": "https://doi.org/10.1145/3129790.3129820",
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17a"
       },
       {
@@ -4303,6 +5113,8 @@
           "Henry Muccini",
           "Mai Abusair"
         ],
+        "doi": "10.1145/3129790.3129807",
+        "ee": "https://doi.org/10.1145/3129790.3129807",
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17b"
       },
       {
@@ -4311,6 +5123,8 @@
         "authors": [
           "Eduardo Silva 0001"
         ],
+        "doi": "10.1145/3129790.3129797",
+        "ee": "https://doi.org/10.1145/3129790.3129797",
         "url": "https://dblp.org/rec/conf/ecsa/Silva17"
       },
       {
@@ -4321,6 +5135,8 @@
           "Heinz W. Schmidt",
           "Catia Trubiani"
         ],
+        "doi": "10.1145/3129790.3129826",
+        "ee": "https://doi.org/10.1145/3129790.3129826",
         "url": "https://dblp.org/rec/conf/ecsa/SpichkovaST17"
       },
       {
@@ -4330,6 +5146,8 @@
           "Catia Trubiani",
           "Raffaela Mirandola"
         ],
+        "doi": "10.1007/978-3-319-65831-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_3",
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiM17"
       },
       {
@@ -4338,6 +5156,8 @@
         "authors": [
           "Teemu V\u00e4is\u00e4nen"
         ],
+        "doi": "10.1145/3129790.3129805",
+        "ee": "https://doi.org/10.1145/3129790.3129805",
         "url": "https://dblp.org/rec/conf/ecsa/Vaisanen17"
       },
       {
@@ -4347,6 +5167,8 @@
           "Bahtijar Vogel",
           "Dimitrios Gkouskos"
         ],
+        "doi": "10.1145/3129790.3129793",
+        "ee": "https://doi.org/10.1145/3129790.3129793",
         "url": "https://dblp.org/rec/conf/ecsa/VogelG17"
       },
       {
@@ -4359,6 +5181,8 @@
           "Rafael Capilla",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1145/3129790.3129815",
+        "ee": "https://doi.org/10.1145/3129790.3129815",
         "url": "https://dblp.org/rec/conf/ecsa/VolpatoORCN17"
       },
       {
@@ -4370,6 +5194,8 @@
           "Florian Rademacher",
           "Sabine Sachweh"
         ],
+        "doi": "10.1145/3129790.3129821",
+        "ee": "https://doi.org/10.1145/3129790.3129821",
         "url": "https://dblp.org/rec/conf/ecsa/WizentySRS17"
       },
       {
@@ -4379,6 +5205,8 @@
           "Eoin Woods",
           "Rabih Bashroush"
         ],
+        "doi": "10.1007/978-3-319-65831-5_13",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_13",
         "url": "https://dblp.org/rec/conf/ecsa/WoodsB17"
       },
       {
@@ -4392,6 +5220,8 @@
           "Rogardt Heldal",
           "Patrizio Pelliccione"
         ],
+        "doi": "10.1007/978-3-319-65831-5_14",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_14",
         "url": "https://dblp.org/rec/conf/ecsa/YangLAEHP17"
       },
       {
@@ -4402,6 +5232,8 @@
           "Klara Borowa",
           "Andrzej Ratkowski"
         ],
+        "doi": "10.1007/978-3-319-65831-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5_9",
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiBR17"
       },
       {
@@ -4411,6 +5243,8 @@
           "Ant\u00f3nia Lopes",
           "Rog\u00e9rio de Lemos"
         ],
+        "doi": "10.1007/978-3-319-65831-5",
+        "ee": "https://doi.org/10.1007/978-3-319-65831-5",
         "url": "https://dblp.org/rec/conf/ecsa/2017"
       },
       {
@@ -4419,6 +5253,8 @@
         "authors": [
           "Rog\u00e9rio de Lemos"
         ],
+        "doi": null,
+        "ee": "http://dl.acm.org/citation.cfm?id=3129790",
         "url": "https://dblp.org/rec/conf/ecsa/2017c"
       }
     ],
@@ -4431,6 +5267,8 @@
           "Mohammed Abujayyab",
           "H. Dieter Rombach"
         ],
+        "doi": "10.1007/978-3-319-48992-6_5",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_5",
         "url": "https://dblp.org/rec/conf/ecsa/AbukwaikAR16"
       },
       {
@@ -4440,6 +5278,8 @@
           "Ashish Agrawal",
           "T. V. Prabhakar"
         ],
+        "doi": "10.1007/978-3-319-48992-6_22",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_22",
         "url": "https://dblp.org/rec/conf/ecsa/AgrawalP16"
       },
       {
@@ -4450,6 +5290,8 @@
           "Diego Perez-Palacin",
           "Raffaela Mirandola"
         ],
+        "doi": "10.1007/978-3-319-48992-6_6",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_6",
         "url": "https://dblp.org/rec/conf/ecsa/AlexeevaPM16"
       },
       {
@@ -4463,6 +5305,8 @@
           "Christophe Dony",
           "Anas Shatnawi"
         ],
+        "doi": "10.1007/978-3-319-48992-6_23",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_23",
         "url": "https://dblp.org/rec/conf/ecsa/AlsharaSTBDS16"
       },
       {
@@ -4473,6 +5317,8 @@
           "Marcel Meesters",
           "Matthias Galster"
         ],
+        "doi": "10.1007/978-3-319-48992-6_17",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_17",
         "url": "https://dblp.org/rec/conf/ecsa/AngelovMG16"
       },
       {
@@ -4489,6 +5335,8 @@
           "Ernesto Pimentel 0001",
           "Jacopo Soldani"
         ],
+        "doi": "10.1007/978-3-319-48992-6_25",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_25",
         "url": "https://dblp.org/rec/conf/ecsa/BrogiCCDNGPPS16"
       },
       {
@@ -4502,6 +5350,8 @@
           "Tha\u00eds Batista",
           "Axel Legay"
         ],
+        "doi": "10.1007/978-3-319-48992-6_14",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_14",
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteQTOBL16"
       },
       {
@@ -4513,6 +5363,8 @@
           "Sanja Aaramaa",
           "Markku Oivo"
         ],
+        "doi": "10.1007/978-3-319-48992-6_18",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_18",
         "url": "https://dblp.org/rec/conf/ecsa/DasanayakeMAO16"
       },
       {
@@ -4524,6 +5376,8 @@
           "Metin Altinisik",
           "Hasan S\u00f6zer"
         ],
+        "doi": "10.1007/978-3-319-48992-6_24",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_24",
         "url": "https://dblp.org/rec/conf/ecsa/ErsoyKAS16"
       },
       {
@@ -4536,6 +5390,8 @@
           "Tom\u00e1s Bures",
           "Alessia Knauss"
         ],
+        "doi": "10.1007/978-3-319-48992-6_8",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_8",
         "url": "https://dblp.org/rec/conf/ecsa/Gerostathopoulos16"
       },
       {
@@ -4546,6 +5402,8 @@
           "Audrey Queudet",
           "Mourad Oussalah 0001"
         ],
+        "doi": "10.1007/978-3-319-48992-6_12",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_12",
         "url": "https://dblp.org/rec/conf/ecsa/HassanQO16"
       },
       {
@@ -4558,6 +5416,8 @@
           "Bernhard Rumpe",
           "Andreas Wortmann 0001"
         ],
+        "doi": "10.1007/978-3-319-48992-6_13",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_13",
         "url": "https://dblp.org/rec/conf/ecsa/HeimKRRW16"
       },
       {
@@ -4567,6 +5427,8 @@
           "Tobias Holstein",
           "Joachim Wietzke"
         ],
+        "doi": "10.1007/978-3-319-48992-6_10",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_10",
         "url": "https://dblp.org/rec/conf/ecsa/HolsteinW16"
       },
       {
@@ -4578,6 +5440,8 @@
           "Segla Kpodjedo",
           "Chouki Tibermacine"
         ],
+        "doi": "10.1007/978-3-319-48992-6_11",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_11",
         "url": "https://dblp.org/rec/conf/ecsa/KaptoEKT16"
       },
       {
@@ -4588,6 +5452,8 @@
           "Coral Calero",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-319-48992-6_3",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_3",
         "url": "https://dblp.org/rec/conf/ecsa/MeCL16"
       },
       {
@@ -4601,6 +5467,8 @@
           "Armand Toguy\u00e9ni",
           "Pascal Berruet"
         ],
+        "doi": "10.1007/978-3-319-48992-6_16",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_16",
         "url": "https://dblp.org/rec/conf/ecsa/Mesli-KesraouiK16"
       },
       {
@@ -4609,6 +5477,8 @@
         "authors": [
           "Fl\u00e1vio Oquendo"
         ],
+        "doi": "10.1007/978-3-319-48992-6_1",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_1",
         "url": "https://dblp.org/rec/conf/ecsa/Oquendo16"
       },
       {
@@ -4619,6 +5489,8 @@
           "Jair C. Leite",
           "Tha\u00eds Batista"
         ],
+        "doi": "10.1007/978-3-319-48992-6_9",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_9",
         "url": "https://dblp.org/rec/conf/ecsa/OquendoLB16"
       },
       {
@@ -4628,6 +5500,8 @@
           "Dominik Rost",
           "Matthias Naab"
         ],
+        "doi": "10.1007/978-3-319-48992-6_7",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_7",
         "url": "https://dblp.org/rec/conf/ecsa/RostN16"
       },
       {
@@ -4639,6 +5513,8 @@
           "Slinger Jansen",
           "Lambert Caljouw"
         ],
+        "doi": "10.1007/978-3-319-48992-6_15",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_15",
         "url": "https://dblp.org/rec/conf/ecsa/SchenkhuizenWJC16"
       },
       {
@@ -4653,6 +5529,8 @@
           "Javier C\u00e1mara 0001",
           "David Garlan"
         ],
+        "doi": "10.1007/978-3-319-48992-6_21",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_21",
         "url": "https://dblp.org/rec/conf/ecsa/SchmerlGSBMCG16"
       },
       {
@@ -4664,6 +5542,8 @@
           "Antony Tang",
           "Floris Bex"
         ],
+        "doi": "10.1007/978-3-319-48992-6_2",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_2",
         "url": "https://dblp.org/rec/conf/ecsa/SchriekWTB16"
       },
       {
@@ -4674,6 +5554,8 @@
           "Matthias Riebisch",
           "Mohamed Soliman 0001"
         ],
+        "doi": "10.1007/978-3-319-48992-6_19",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_19",
         "url": "https://dblp.org/rec/conf/ecsa/SchroderRS16"
       },
       {
@@ -4685,6 +5567,8 @@
           "Leandro L. Minku",
           "Rick Kazman"
         ],
+        "doi": "10.1007/978-3-319-48992-6_4",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_4",
         "url": "https://dblp.org/rec/conf/ecsa/SobhyBMK16"
       },
       {
@@ -4694,6 +5578,8 @@
           "Theo Theunissen",
           "Uwe van Heesch"
         ],
+        "doi": "10.1007/978-3-319-48992-6_20",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6_20",
         "url": "https://dblp.org/rec/conf/ecsa/TheunissenH16"
       },
       {
@@ -4704,6 +5590,8 @@
           "Uwe Zdun",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-319-48992-6",
+        "ee": "https://doi.org/10.1007/978-3-319-48992-6",
         "url": "https://dblp.org/rec/conf/ecsa/2016"
       }
     ],
@@ -4718,6 +5606,8 @@
           "Lionel Seinturier",
           "Carolina Valdez"
         ],
+        "doi": "10.1007/978-3-319-23727-5_25",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_25",
         "url": "https://dblp.org/rec/conf/ecsa/0002QDSV15"
       },
       {
@@ -4727,6 +5617,8 @@
           "Nadeem Abbas",
           "Jesper Andersson"
         ],
+        "doi": "10.1007/978-3-319-23727-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_2",
         "url": "https://dblp.org/rec/conf/ecsa/AbbasA15"
       },
       {
@@ -4736,6 +5628,8 @@
           "Ashish Agrawal",
           "T. V. Prabhakar"
         ],
+        "doi": "10.1007/978-3-319-23727-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_3",
         "url": "https://dblp.org/rec/conf/ecsa/AgrawalP15"
       },
       {
@@ -4746,6 +5640,8 @@
           "\u00c9ric Rutten",
           "Lionel Seinturier"
         ],
+        "doi": "10.1007/978-3-319-23727-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_1",
         "url": "https://dblp.org/rec/conf/ecsa/AlvaresRS15"
       },
       {
@@ -4757,6 +5653,8 @@
           "Eduardo Santana de Almeida",
           "Christina von Flach G. Chavez"
         ],
+        "doi": "10.1007/978-3-319-23727-5_30",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_30",
         "url": "https://dblp.org/rec/conf/ecsa/AmorimMAC15"
       },
       {
@@ -4766,6 +5664,8 @@
           "Samuil Angelov",
           "Patrick de Beer"
         ],
+        "doi": "10.1007/978-3-319-23727-5_13",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_13",
         "url": "https://dblp.org/rec/conf/ecsa/AngelovB15"
       },
       {
@@ -4775,6 +5675,8 @@
           "Luciano Baresi",
           "Adnan Shahzada"
         ],
+        "doi": "10.1007/978-3-319-23727-5_23",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_23",
         "url": "https://dblp.org/rec/conf/ecsa/BaresiS15"
       },
       {
@@ -4787,6 +5689,8 @@
           "Segla Kpodjedo",
           "Hafedh Mili"
         ],
+        "doi": "10.1007/978-3-319-23727-5_28",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_28",
         "url": "https://dblp.org/rec/conf/ecsa/BelleEDKM15"
       },
       {
@@ -4797,6 +5701,8 @@
           "Hern\u00e1n Astudillo",
           "Gilberto Pedraza-Garcia"
         ],
+        "doi": "10.1007/978-3-319-23727-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_5",
         "url": "https://dblp.org/rec/conf/ecsa/FernandezAP15"
       },
       {
@@ -4806,6 +5712,8 @@
           "Matthias Galster",
           "Samuil Angelov"
         ],
+        "doi": "10.1007/978-3-319-23727-5_22",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_22",
         "url": "https://dblp.org/rec/conf/ecsa/GalsterA15"
       },
       {
@@ -4819,6 +5727,8 @@
           "Frantisek Pl\u00e1sil",
           "Dominik Skoda"
         ],
+        "doi": "10.1007/978-3-319-23727-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_4",
         "url": "https://dblp.org/rec/conf/ecsa/Gerostathopoulos15"
       },
       {
@@ -4828,6 +5738,8 @@
           "Iris Groher",
           "Rainer Weinreich"
         ],
+        "doi": "10.1007/978-3-319-23727-5_15",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_15",
         "url": "https://dblp.org/rec/conf/ecsa/GroherW15"
       },
       {
@@ -4837,6 +5749,8 @@
           "Klaus Marius Hansen",
           "Konstantinos Manikas"
         ],
+        "doi": "10.1007/978-3-319-23727-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_8",
         "url": "https://dblp.org/rec/conf/ecsa/HansenM15"
       },
       {
@@ -4850,6 +5764,8 @@
           "Rob van Vliet",
           "Sjaak Brinkkemper"
         ],
+        "doi": "10.1007/978-3-319-23727-5_19",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_19",
         "url": "https://dblp.org/rec/conf/ecsa/JagroepWSBVB15"
       },
       {
@@ -4858,6 +5774,8 @@
         "authors": [
           "Slinger Jansen"
         ],
+        "doi": "10.1007/978-3-319-23727-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_10",
         "url": "https://dblp.org/rec/conf/ecsa/Jansen15"
       },
       {
@@ -4870,6 +5788,8 @@
           "Christophe Dony",
           "Ahmed Hadj Kacem"
         ],
+        "doi": "10.1007/978-3-319-23727-5_27",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_27",
         "url": "https://dblp.org/rec/conf/ecsa/KallelTTDK15"
       },
       {
@@ -4879,6 +5799,8 @@
           "Arvind W. Kiwelekar",
           "Hansaraj S. Wankhede"
         ],
+        "doi": "10.1007/978-3-319-23727-5_14",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_14",
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarW15"
       },
       {
@@ -4888,6 +5810,8 @@
           "Grace A. Lewis",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-319-23727-5_16",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_16",
         "url": "https://dblp.org/rec/conf/ecsa/LewisL15"
       },
       {
@@ -4898,6 +5822,8 @@
           "Damian A. Tamburri",
           "V. Smrithi Rekha"
         ],
+        "doi": "10.1007/978-3-319-23727-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_11",
         "url": "https://dblp.org/rec/conf/ecsa/MucciniTR15"
       },
       {
@@ -4907,6 +5833,8 @@
           "Claus Pahl",
           "Pooyan Jamshidi"
         ],
+        "doi": "10.1007/978-3-319-23727-5_17",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_17",
         "url": "https://dblp.org/rec/conf/ecsa/PahlJ15"
       },
       {
@@ -4917,6 +5845,8 @@
           "Ana Ivanchikj",
           "Silvia Schreier"
         ],
+        "doi": "10.1007/978-3-319-23727-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_7",
         "url": "https://dblp.org/rec/conf/ecsa/PautassoIS15"
       },
       {
@@ -4927,6 +5857,8 @@
           "Martin Peters",
           "Sabine Sachweh"
         ],
+        "doi": "10.1007/978-3-319-23727-5_29",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_29",
         "url": "https://dblp.org/rec/conf/ecsa/RademacherPS15"
       },
       {
@@ -4939,6 +5871,8 @@
           "Torsten Lenhart",
           "Hartmut Schmitt"
         ],
+        "doi": "10.1007/978-3-319-23727-5_21",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_21",
         "url": "https://dblp.org/rec/conf/ecsa/RostWNLS15"
       },
       {
@@ -4948,6 +5882,8 @@
           "Mojtaba Shahin",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-319-23727-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_6",
         "url": "https://dblp.org/rec/conf/ecsa/ShahinB15"
       },
       {
@@ -4959,6 +5895,8 @@
           "Christian Kreiner",
           "Eugen Brenner"
         ],
+        "doi": "10.1007/978-3-319-23727-5_20",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_20",
         "url": "https://dblp.org/rec/conf/ecsa/SporerMKB15"
       },
       {
@@ -4970,6 +5908,8 @@
           "Henning Groenda",
           "Ralf H. Reussner"
         ],
+        "doi": "10.1007/978-3-319-23727-5_18",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_18",
         "url": "https://dblp.org/rec/conf/ecsa/StierKGR15"
       },
       {
@@ -4980,6 +5920,8 @@
           "Laurence Duchien",
           "Jacques Pulou"
         ],
+        "doi": "10.1007/978-3-319-23727-5_24",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_24",
         "url": "https://dblp.org/rec/conf/ecsa/TahriDP15"
       },
       {
@@ -4989,6 +5931,8 @@
           "Antony Tang",
           "Hans van Vliet"
         ],
+        "doi": "10.1007/978-3-319-23727-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_9",
         "url": "https://dblp.org/rec/conf/ecsa/TangV15"
       },
       {
@@ -4999,6 +5943,8 @@
           "Achraf Ghabi",
           "Alexander Egyed"
         ],
+        "doi": "10.1007/978-3-319-23727-5_26",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_26",
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiGE15"
       },
       {
@@ -5008,6 +5954,8 @@
           "Zhenchen Wang",
           "Andrea Capiluppi"
         ],
+        "doi": "10.1007/978-3-319-23727-5_12",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5_12",
         "url": "https://dblp.org/rec/conf/ecsa/WangC15"
       },
       {
@@ -5018,6 +5966,8 @@
           "Raffaela Mirandola",
           "Ivica Crnkovic"
         ],
+        "doi": "10.1007/978-3-319-23727-5",
+        "ee": "https://doi.org/10.1007/978-3-319-23727-5",
         "url": "https://dblp.org/rec/conf/ecsa/2015"
       }
     ],
@@ -5030,6 +5980,8 @@
           "Davide Taibi 0001",
           "H. Dieter Rombach"
         ],
+        "doi": "10.1007/978-3-319-09970-5_27",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_27",
         "url": "https://dblp.org/rec/conf/ecsa/AbukwaikTR14"
       },
       {
@@ -5039,6 +5991,8 @@
           "Samuil Angelov",
           "Rich Hilliard"
         ],
+        "doi": "10.1007/978-3-319-09970-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_9",
         "url": "https://dblp.org/rec/conf/ecsa/AngelovH14"
       },
       {
@@ -5048,6 +6002,8 @@
           "Mohsen Anvaari",
           "Olaf Zimmermann"
         ],
+        "doi": "10.1007/978-3-319-09970-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_4",
         "url": "https://dblp.org/rec/conf/ecsa/AnvaariZ14"
       },
       {
@@ -5057,6 +6013,8 @@
           "Amel Bennaceur",
           "Val\u00e9rie Issarny"
         ],
+        "doi": "10.1007/978-3-319-09970-5_25",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_25",
         "url": "https://dblp.org/rec/conf/ecsa/BennaceurI14"
       },
       {
@@ -5067,6 +6025,8 @@
           "Antinisca Di Marco",
           "Stefano Pace"
         ],
+        "doi": "10.1007/978-3-319-09970-5_28",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_28",
         "url": "https://dblp.org/rec/conf/ecsa/BerardinelliMP14"
       },
       {
@@ -5080,6 +6040,8 @@
           "Michal Kit",
           "Frantisek Pl\u00e1sil"
         ],
+        "doi": "10.1007/978-3-319-09970-5_23",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_23",
         "url": "https://dblp.org/rec/conf/ecsa/BuresGHKKP14"
       },
       {
@@ -5090,6 +6052,8 @@
           "Mircea Filip Lungu",
           "Oscar Nierstrasz"
         ],
+        "doi": "10.1007/978-3-319-09970-5_32",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_32",
         "url": "https://dblp.org/rec/conf/ecsa/CaraccioloLN14"
       },
       {
@@ -5100,6 +6064,8 @@
           "Fl\u00e1vio Oquendo",
           "Tha\u00eds Vasconcelos Batista"
         ],
+        "doi": "10.1007/978-3-319-09970-5_13",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_13",
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteOB14"
       },
       {
@@ -5111,6 +6077,8 @@
           "Claudia Szabo",
           "Gavin Puddy"
         ],
+        "doi": "10.1007/978-3-319-09970-5_30",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_30",
         "url": "https://dblp.org/rec/conf/ecsa/ChiprianovFSP14"
       },
       {
@@ -5122,6 +6090,8 @@
           "Sebastian Frischbier",
           "Alejandro P. Buchmann"
         ],
+        "doi": "10.1007/978-3-319-09970-5_12",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_12",
         "url": "https://dblp.org/rec/conf/ecsa/FreudenreichAFB14"
       },
       {
@@ -5132,6 +6102,8 @@
           "Max Lehn",
           "Alejandro P. Buchmann"
         ],
+        "doi": "10.1007/978-3-319-09970-5_24",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_24",
         "url": "https://dblp.org/rec/conf/ecsa/FrommgenLB14"
       },
       {
@@ -5142,6 +6114,8 @@
           "Steffen Lehnert",
           "Matthias Riebisch"
         ],
+        "doi": "10.1007/978-3-319-09970-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_5",
         "url": "https://dblp.org/rec/conf/ecsa/GerdesLR14"
       },
       {
@@ -5152,6 +6126,8 @@
           "Bedir Tekinerdogan",
           "Nagehan Pala Er"
         ],
+        "doi": "10.1007/978-3-319-09970-5_31",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_31",
         "url": "https://dblp.org/rec/conf/ecsa/GurbuzTE14"
       },
       {
@@ -5161,6 +6137,8 @@
           "Sebastian Herold",
           "Matthias Mair"
         ],
+        "doi": "10.1007/978-3-319-09970-5_33",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_33",
         "url": "https://dblp.org/rec/conf/ecsa/HeroldM14"
       },
       {
@@ -5171,6 +6149,8 @@
           "M\u00f3nica Pinto",
           "Lidia Fuentes"
         ],
+        "doi": "10.1007/978-3-319-09970-5_29",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_29",
         "url": "https://dblp.org/rec/conf/ecsa/HorcasPF14"
       },
       {
@@ -5181,6 +6161,8 @@
           "Dariusz Pitulej",
           "Jan Werewka"
         ],
+        "doi": "10.1007/978-3-319-09970-5_16",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_16",
         "url": "https://dblp.org/rec/conf/ecsa/JamrozPW14"
       },
       {
@@ -5192,6 +6174,8 @@
           "Slinger Jansen",
           "Sjaak Brinkkemper"
         ],
+        "doi": "10.1007/978-3-319-09970-5_18",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_18",
         "url": "https://dblp.org/rec/conf/ecsa/KabbedijkPJB14"
       },
       {
@@ -5202,6 +6186,8 @@
           "J\u00f6rg Holtmann",
           "Julien DeAntoni"
         ],
+        "doi": "10.1007/978-3-319-09970-5_14",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_14",
         "url": "https://dblp.org/rec/conf/ecsa/KochHD14"
       },
       {
@@ -5212,6 +6198,8 @@
           "Georg Buchgeher",
           "Rainer Weinreich"
         ],
+        "doi": "10.1007/978-3-319-09970-5_17",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_17",
         "url": "https://dblp.org/rec/conf/ecsa/KriechbaumBW14"
       },
       {
@@ -5222,6 +6210,8 @@
           "Patricia Lago",
           "Giuseppe Procaccianti"
         ],
+        "doi": "10.1007/978-3-319-09970-5_15",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_15",
         "url": "https://dblp.org/rec/conf/ecsa/LewisLP14"
       },
       {
@@ -5234,6 +6224,8 @@
           "Jair C. Leite",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-319-09970-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_10",
         "url": "https://dblp.org/rec/conf/ecsa/MachadoSBLN14"
       },
       {
@@ -5244,6 +6236,8 @@
           "Angelika Musil",
           "Stefan Biffl"
         ],
+        "doi": "10.1007/978-3-319-09970-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_11",
         "url": "https://dblp.org/rec/conf/ecsa/MusilMB14"
       },
       {
@@ -5254,6 +6248,8 @@
           "Marina Mongiello",
           "Eugenio Di Sciascio"
         ],
+        "doi": "10.1007/978-3-319-09970-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_8",
         "url": "https://dblp.org/rec/conf/ecsa/NoiaMS14"
       },
       {
@@ -5266,6 +6262,8 @@
           "Fl\u00e1vio Oquendo",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-319-09970-5_20",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_20",
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraLFON14"
       },
       {
@@ -5277,6 +6275,8 @@
           "Hasan S\u00f6zer",
           "Baris Aktemur"
         ],
+        "doi": "10.1007/978-3-319-09970-5_26",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_26",
         "url": "https://dblp.org/rec/conf/ecsa/OzturkSSA14"
       },
       {
@@ -5288,6 +6288,8 @@
           "Guy Tremblay",
           "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc"
         ],
+        "doi": "10.1007/978-3-319-09970-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_6",
         "url": "https://dblp.org/rec/conf/ecsa/PalmaMTG14"
       },
       {
@@ -5298,6 +6300,8 @@
           "Steffen Becker 0001",
           "Wilhelm Sch\u00e4fer"
         ],
+        "doi": "10.1007/978-3-319-09970-5_19",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_19",
         "url": "https://dblp.org/rec/conf/ecsa/PlateniusBS14"
       },
       {
@@ -5307,6 +6311,8 @@
           "V. Smrithi Rekha",
           "Henry Muccini"
         ],
+        "doi": "10.1007/978-3-319-09970-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_2",
         "url": "https://dblp.org/rec/conf/ecsa/RekhaM14"
       },
       {
@@ -5317,6 +6323,8 @@
           "Salah Sadou",
           "Houari A. Sahraoui"
         ],
+        "doi": "10.1007/978-3-319-09970-5_22",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_22",
         "url": "https://dblp.org/rec/conf/ecsa/SeriaiSS14"
       },
       {
@@ -5326,6 +6334,8 @@
           "Mohamed Soliman 0001",
           "Matthias Riebisch"
         ],
+        "doi": "10.1007/978-3-319-09970-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_3",
         "url": "https://dblp.org/rec/conf/ecsa/SolimanR14"
       },
       {
@@ -5336,6 +6346,8 @@
           "Paul Grace",
           "Geoff Coulson"
         ],
+        "doi": "10.1007/978-3-319-09970-5_34",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_34",
         "url": "https://dblp.org/rec/conf/ecsa/SurajbaliGC14"
       },
       {
@@ -5345,6 +6357,8 @@
           "Rainer Weinreich",
           "Iris Groher"
         ],
+        "doi": "10.1007/978-3-319-09970-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_1",
         "url": "https://dblp.org/rec/conf/ecsa/WeinreichG14"
       },
       {
@@ -5356,6 +6370,8 @@
           "Claus Pahl",
           "Niall Moran"
         ],
+        "doi": "10.1007/978-3-319-09970-5_21",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_21",
         "url": "https://dblp.org/rec/conf/ecsa/XiongFPM14"
       },
       {
@@ -5365,6 +6381,8 @@
           "Yongrui Xu",
           "Peng Liang 0001"
         ],
+        "doi": "10.1007/978-3-319-09970-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5_7",
         "url": "https://dblp.org/rec/conf/ecsa/XuL14"
       },
       {
@@ -5374,6 +6392,8 @@
           "Paris Avgeriou",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-319-09970-5",
+        "ee": "https://doi.org/10.1007/978-3-319-09970-5",
         "url": "https://dblp.org/rec/conf/ecsa/2014"
       }
     ],
@@ -5387,6 +6407,8 @@
           "Paris Avgeriou",
           "Xavier Franch"
         ],
+        "doi": "10.1007/978-3-642-39031-9_18",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_18",
         "url": "https://dblp.org/rec/conf/ecsa/AmellerGAF13"
       },
       {
@@ -5397,6 +6419,8 @@
           "Jos J. M. Trienekens",
           "Rob J. Kusters"
         ],
+        "doi": "10.1007/978-3-642-39031-9_2",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_2",
         "url": "https://dblp.org/rec/conf/ecsa/AngelovTK13"
       },
       {
@@ -5407,6 +6431,8 @@
           "Reidar Conradi",
           "Letizia Jaccheri"
         ],
+        "doi": "10.1007/978-3-642-39031-9_14",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_14",
         "url": "https://dblp.org/rec/conf/ecsa/AnvaariCJ13"
       },
       {
@@ -5416,6 +6442,8 @@
           "Georg Buchgeher",
           "Rainer Weinreich"
         ],
+        "doi": "10.1007/978-3-642-39031-9_32",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_32",
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherW13"
       },
       {
@@ -5426,6 +6454,8 @@
           "Ana Luisa Medeiros",
           "Tha\u00eds Vasconcelos Batista"
         ],
+        "doi": "10.1007/978-3-642-39031-9_29",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_29",
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteMB13"
       },
       {
@@ -5435,6 +6465,8 @@
           "Taha Abdelmoutaleb Cherfia",
           "Faiza Belala"
         ],
+        "doi": "10.1007/978-3-642-39031-9_34",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_34",
         "url": "https://dblp.org/rec/conf/ecsa/CherfiaB13"
       },
       {
@@ -5445,6 +6477,8 @@
           "Oscar Carrillo",
           "Hassan Mountassir"
         ],
+        "doi": "10.1007/978-3-642-39031-9_36",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_36",
         "url": "https://dblp.org/rec/conf/ecsa/ChoualiCM13"
       },
       {
@@ -5454,6 +6488,8 @@
           "Henrik B\u00e6rbak Christensen",
           "Klaus Marius Hansen"
         ],
+        "doi": "10.1007/978-3-642-39031-9_28",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_28",
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenH13"
       },
       {
@@ -5464,6 +6500,8 @@
           "Miguel A. Mart\u00ednez-Prieto",
           "Javier D. Fern\u00e1ndez"
         ],
+        "doi": "10.1007/978-3-642-39031-9_5",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_5",
         "url": "https://dblp.org/rec/conf/ecsa/CuestaMF13"
       },
       {
@@ -5473,6 +6511,8 @@
           "Claire Dimech",
           "Dharini Balasubramaniam"
         ],
+        "doi": "10.1007/978-3-642-39031-9_19",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_19",
         "url": "https://dblp.org/rec/conf/ecsa/DimechB13"
       },
       {
@@ -5483,6 +6523,8 @@
           "Carl Magnus Olsson",
           "Marcus Ljungblad"
         ],
+        "doi": "10.1007/978-3-642-39031-9_35",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_35",
         "url": "https://dblp.org/rec/conf/ecsa/EklundOL13"
       },
       {
@@ -5493,6 +6535,8 @@
           "Ismael Bouassida Rodriguez",
           "Mohamed Jmaiel"
         ],
+        "doi": "10.1007/978-3-642-39031-9_11",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_11",
         "url": "https://dblp.org/rec/conf/ecsa/GassaraRJ13"
       },
       {
@@ -5503,6 +6547,8 @@
           "Guillaume Salagnac",
           "St\u00e9phane Fr\u00e9not"
         ],
+        "doi": "10.1007/978-3-642-39031-9_27",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_27",
         "url": "https://dblp.org/rec/conf/ecsa/GoichonSF13"
       },
       {
@@ -5514,6 +6560,8 @@
           "Marie-Agn\u00e8s Peraldi-Frati",
           "Fr\u00e9d\u00e9ric Mallet"
         ],
+        "doi": "10.1007/978-3-642-39031-9_8",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_8",
         "url": "https://dblp.org/rec/conf/ecsa/GoknilSPM13"
       },
       {
@@ -5523,6 +6571,8 @@
           "Thomas Haitzer",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-642-39031-9_6",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_6",
         "url": "https://dblp.org/rec/conf/ecsa/HaitzerZ13"
       },
       {
@@ -5532,6 +6582,8 @@
           "Marc Hesenius",
           "Volker Gruhn"
         ],
+        "doi": "10.1007/978-3-642-39031-9_30",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_30",
         "url": "https://dblp.org/rec/conf/ecsa/HeseniusG13"
       },
       {
@@ -5540,6 +6592,8 @@
         "authors": [
           "Martin K\u00fcster"
         ],
+        "doi": "10.1007/978-3-642-39031-9_16",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_16",
         "url": "https://dblp.org/rec/conf/ecsa/Kuster13"
       },
       {
@@ -5550,6 +6604,8 @@
           "Fl\u00e1vio Oquendo",
           "Tha\u00eds Vasconcelos Batista"
         ],
+        "doi": "10.1007/978-3-642-39031-9_9",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_9",
         "url": "https://dblp.org/rec/conf/ecsa/LeiteOB13"
       },
       {
@@ -5559,6 +6615,8 @@
           "Zhao Li",
           "Jiang Zheng 0001"
         ],
+        "doi": "10.1007/978-3-642-39031-9_31",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_31",
         "url": "https://dblp.org/rec/conf/ecsa/LiZ13"
       },
       {
@@ -5569,6 +6627,8 @@
           "Huy Tran",
           "Uwe Zdun"
         ],
+        "doi": "10.1007/978-3-642-39031-9_20",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_20",
         "url": "https://dblp.org/rec/conf/ecsa/LytraTZ13"
       },
       {
@@ -5578,6 +6638,8 @@
           "Matthias Mair",
           "Sebastian Herold"
         ],
+        "doi": "10.1007/978-3-642-39031-9_25",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_25",
         "url": "https://dblp.org/rec/conf/ecsa/MairH13"
       },
       {
@@ -5589,6 +6651,8 @@
           "Xavier Franch",
           "Helena Martins Marques"
         ],
+        "doi": "10.1007/978-3-642-39031-9_26",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_26",
         "url": "https://dblp.org/rec/conf/ecsa/Martinez-FernandezAFM13"
       },
       {
@@ -5598,6 +6662,8 @@
           "Cornelia Miesbauer",
           "Rainer Weinreich"
         ],
+        "doi": "10.1007/978-3-642-39031-9_12",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_12",
         "url": "https://dblp.org/rec/conf/ecsa/MiesbauerW13"
       },
       {
@@ -5609,6 +6675,8 @@
           "Sebastian Nanz",
           "Hassan Gomaa"
         ],
+        "doi": "10.1007/978-3-642-39031-9_3",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_3",
         "url": "https://dblp.org/rec/conf/ecsa/MorandiWNG13"
       },
       {
@@ -5618,6 +6686,8 @@
           "Marcin Nowak",
           "Cesare Pautasso"
         ],
+        "doi": "10.1007/978-3-642-39031-9_13",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_13",
         "url": "https://dblp.org/rec/conf/ecsa/NowakP13"
       },
       {
@@ -5628,6 +6698,8 @@
           "M\u00f3nica Pinto",
           "Lidia Fuentes"
         ],
+        "doi": "10.1007/978-3-642-39031-9_24",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_24",
         "url": "https://dblp.org/rec/conf/ecsa/PascualPF13"
       },
       {
@@ -5638,6 +6710,8 @@
           "Simon Schenk",
           "Uwe Baumgarten"
         ],
+        "doi": "10.1007/978-3-642-39031-9_23",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_23",
         "url": "https://dblp.org/rec/conf/ecsa/PramsohlerSB13"
       },
       {
@@ -5649,6 +6723,8 @@
           "Crescencio Lima",
           "Christina von Flach G. Chavez"
         ],
+        "doi": "10.1007/978-3-642-39031-9_7",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_7",
         "url": "https://dblp.org/rec/conf/ecsa/RostNLC13"
       },
       {
@@ -5658,6 +6734,8 @@
           "Lakshitha de Silva",
           "Dharini Balasubramaniam"
         ],
+        "doi": "10.1007/978-3-642-39031-9_21",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_21",
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB13"
       },
       {
@@ -5669,6 +6747,8 @@
           "Everton Cavalcante",
           "Tha\u00eds Vasconcelos Batista"
         ],
+        "doi": "10.1007/978-3-642-39031-9_10",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_10",
         "url": "https://dblp.org/rec/conf/ecsa/SilvaMCB13"
       },
       {
@@ -5680,6 +6760,8 @@
           "Fl\u00e1vio Oquendo",
           "Isabelle Borne"
         ],
+        "doi": "10.1007/978-3-642-39031-9_1",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_1",
         "url": "https://dblp.org/rec/conf/ecsa/ThatSOB13"
       },
       {
@@ -5690,6 +6772,8 @@
           "Matthias Galster",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-642-39031-9_17",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_17",
         "url": "https://dblp.org/rec/conf/ecsa/TofanGA13"
       },
       {
@@ -5700,6 +6784,8 @@
           "Mohamed Hadj Kacem",
           "Ahmed Hadj Kacem"
         ],
+        "doi": "10.1007/978-3-642-39031-9_4",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_4",
         "url": "https://dblp.org/rec/conf/ecsa/TounsiKK13"
       },
       {
@@ -5709,6 +6795,8 @@
           "Jan Salvador van der Ven",
           "Jan Bosch"
         ],
+        "doi": "10.1007/978-3-642-39031-9_15",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_15",
         "url": "https://dblp.org/rec/conf/ecsa/VenB13"
       },
       {
@@ -5718,6 +6806,8 @@
           "Danny Weyns",
           "Tanvir Ahmad"
         ],
+        "doi": "10.1007/978-3-642-39031-9_22",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_22",
         "url": "https://dblp.org/rec/conf/ecsa/WeynsA13"
       },
       {
@@ -5727,6 +6817,8 @@
           "Mohamed Zouari",
           "Ismael Bouassida Rodriguez"
         ],
+        "doi": "10.1007/978-3-642-39031-9_33",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9_33",
         "url": "https://dblp.org/rec/conf/ecsa/ZouariR13"
       },
       {
@@ -5735,6 +6827,8 @@
         "authors": [
           "Khalil Drira"
         ],
+        "doi": "10.1007/978-3-642-39031-9",
+        "ee": "https://doi.org/10.1007/978-3-642-39031-9",
         "url": "https://dblp.org/rec/conf/ecsa/2013"
       }
     ],
@@ -5750,6 +6844,8 @@
           "Laurence Duchien",
           "Philippe Lahire"
         ],
+        "doi": "10.1007/978-3-642-23798-0_25",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_25",
         "url": "https://dblp.org/rec/conf/ecsa/AcherCCMDL11"
       },
       {
@@ -5759,6 +6855,8 @@
           "Josef Adersberger",
           "Michael Philippsen"
         ],
+        "doi": "10.1007/978-3-642-23798-0_37",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_37",
         "url": "https://dblp.org/rec/conf/ecsa/AdersbergerP11"
       },
       {
@@ -5768,6 +6866,8 @@
           "Novia Admodisastro",
           "Gerald Kotonya"
         ],
+        "doi": "10.1007/978-3-642-23798-0_17",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_17",
         "url": "https://dblp.org/rec/conf/ecsa/AdmodisastroK11"
       },
       {
@@ -5778,6 +6878,8 @@
           "Denis Hatebur",
           "Maritta Heisel"
         ],
+        "doi": "10.1007/978-3-642-23798-0_2",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_2",
         "url": "https://dblp.org/rec/conf/ecsa/AlebrahimHH11"
       },
       {
@@ -5786,6 +6888,8 @@
         "authors": [
           "Jakob Axelsson"
         ],
+        "doi": "10.1007/978-3-642-23798-0_20",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_20",
         "url": "https://dblp.org/rec/conf/ecsa/Axelsson11"
       },
       {
@@ -5797,6 +6901,8 @@
           "Alessandro F. Garcia 0001",
           "Eduardo Silva 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_14",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_14",
         "url": "https://dblp.org/rec/conf/ecsa/BarbosaBGS11"
       },
       {
@@ -5807,6 +6913,8 @@
           "Volker Gruhn",
           "Max Pfeiffer"
         ],
+        "doi": "10.1007/978-3-642-23798-0_31",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_31",
         "url": "https://dblp.org/rec/conf/ecsa/BruckmannGP11"
       },
       {
@@ -5819,6 +6927,8 @@
           "Paris Avgeriou",
           "Jochen Malte K\u00fcster"
         ],
+        "doi": "10.1007/978-3-642-23798-0_33",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_33",
         "url": "https://dblp.org/rec/conf/ecsa/CapillaZZAK11"
       },
       {
@@ -5830,6 +6940,8 @@
           "David Garlan",
           "Rui Abreu 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_29",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_29",
         "url": "https://dblp.org/rec/conf/ecsa/CasanovaSGA11"
       },
       {
@@ -5840,6 +6952,8 @@
           "Hasan S\u00f6zer",
           "Mehmet Aksit"
         ],
+        "doi": "10.1007/978-3-642-23798-0_28",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_28",
         "url": "https://dblp.org/rec/conf/ecsa/CiraciSA11"
       },
       {
@@ -5849,6 +6963,8 @@
           "Javier Cubo",
           "Ernesto Pimentel 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_41",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_41",
         "url": "https://dblp.org/rec/conf/ecsa/CuboP11"
       },
       {
@@ -5859,6 +6975,8 @@
           "Krzysztof Stencel",
           "Grzegorz Timoszuk"
         ],
+        "doi": "10.1007/978-3-642-23798-0_38",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_38",
         "url": "https://dblp.org/rec/conf/ecsa/DabrowskiST11"
       },
       {
@@ -5868,6 +6986,8 @@
           "Constanze Deiters",
           "Andreas Rausch 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_8",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_8",
         "url": "https://dblp.org/rec/conf/ecsa/DeitersR11"
       },
       {
@@ -5877,6 +6997,8 @@
           "Elif Demirli",
           "Bedir Tekinerdogan"
         ],
+        "doi": "10.1007/978-3-642-23798-0_36",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_36",
         "url": "https://dblp.org/rec/conf/ecsa/DemirliT11"
       },
       {
@@ -5888,6 +7010,8 @@
           "Juan Garbajosa",
           "Alexander L. Wolf"
         ],
+        "doi": "10.1007/978-3-642-23798-0_12",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_12",
         "url": "https://dblp.org/rec/conf/ecsa/DiazPGW11"
       },
       {
@@ -5900,6 +7024,8 @@
           "David Garlan",
           "Bradley R. Schmerl"
         ],
+        "doi": "10.1007/978-3-642-23798-0_39",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_39",
         "url": "https://dblp.org/rec/conf/ecsa/DwivediEFGS11"
       },
       {
@@ -5909,6 +7035,8 @@
           "Shouki A. Ebad",
           "Moataz A. Ahmed"
         ],
+        "doi": "10.1007/978-3-642-23798-0_44",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_44",
         "url": "https://dblp.org/rec/conf/ecsa/EbadA11"
       },
       {
@@ -5918,6 +7046,8 @@
           "Jens Ehlers",
           "Wilhelm Hasselbring"
         ],
+        "doi": "10.1007/978-3-642-23798-0_30",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_30",
         "url": "https://dblp.org/rec/conf/ecsa/EhlersH11"
       },
       {
@@ -5928,6 +7058,8 @@
           "Lidia Fuentes",
           "Miguel A. Arag\u00fcez"
         ],
+        "doi": "10.1007/978-3-642-23798-0_16",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_16",
         "url": "https://dblp.org/rec/conf/ecsa/GamezFA11"
       },
       {
@@ -5940,6 +7072,8 @@
           "Mohamed Tahar Bhiri",
           "Walid Gaaloul"
         ],
+        "doi": "10.1007/978-3-642-23798-0_7",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_7",
         "url": "https://dblp.org/rec/conf/ecsa/HamelGKBG11"
       },
       {
@@ -5950,6 +7084,8 @@
           "Paul Pettersson",
           "Kristina Lundqvist"
         ],
+        "doi": "10.1007/978-3-642-23798-0_11",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_11",
         "url": "https://dblp.org/rec/conf/ecsa/JohnsenPL11"
       },
       {
@@ -5965,6 +7101,8 @@
           "Paulo C\u00e9sar Masiero",
           "Alessandro F. Garcia 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_13",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_13",
         "url": "https://dblp.org/rec/conf/ecsa/JrCCGOFMG11"
       },
       {
@@ -5976,6 +7114,8 @@
           "Bechir Zalila",
           "Mohamed Jmaiel"
         ],
+        "doi": "10.1007/978-3-642-23798-0_32",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_32",
         "url": "https://dblp.org/rec/conf/ecsa/KrichenHZJ11"
       },
       {
@@ -5987,6 +7127,8 @@
           "Pasqualina Potena",
           "Claudia Raibulet"
         ],
+        "doi": "10.1007/978-3-642-23798-0_10",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_10",
         "url": "https://dblp.org/rec/conf/ecsa/LulliMPR11"
       },
       {
@@ -5997,6 +7139,8 @@
           "Andr\u00e9 van Hoorn",
           "Wilhelm Hasselbring"
         ],
+        "doi": "10.1007/978-3-642-23798-0_5",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_5",
         "url": "https://dblp.org/rec/conf/ecsa/MassowHH11"
       },
       {
@@ -6007,6 +7151,8 @@
           "Benjamin Kersten",
           "Michael Goedicke"
         ],
+        "doi": "10.1007/978-3-642-23798-0_4",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_4",
         "url": "https://dblp.org/rec/conf/ecsa/MullerKG11"
       },
       {
@@ -6015,6 +7161,8 @@
         "authors": [
           "Matthias Naab"
         ],
+        "doi": "10.1007/978-3-642-23798-0_19",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_19",
         "url": "https://dblp.org/rec/conf/ecsa/Naab11"
       },
       {
@@ -6025,6 +7173,8 @@
           "Pablo Oliveira Antonino",
           "Martin Becker 0002"
         ],
+        "doi": "10.1007/978-3-642-23798-0_22",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_22",
         "url": "https://dblp.org/rec/conf/ecsa/NakagawaAB11"
       },
       {
@@ -6036,6 +7186,8 @@
           "Dewayne E. Perry",
           "Cristina Roda"
         ],
+        "doi": "10.1007/978-3-642-23798-0_40",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_40",
         "url": "https://dblp.org/rec/conf/ecsa/NavarroCPR11"
       },
       {
@@ -6045,6 +7197,8 @@
           "Lucas Bueno Ruas de Oliveira",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-642-23798-0_42",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_42",
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraN11"
       },
       {
@@ -6056,6 +7210,8 @@
           "Rudolf H. Mak",
           "Johan J. Lukkien"
         ],
+        "doi": "10.1007/978-3-642-23798-0_23",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_23",
         "url": "https://dblp.org/rec/conf/ecsa/OrlicDML11"
       },
       {
@@ -6066,6 +7222,8 @@
           "Rui L. Aguiar",
           "Maribel Yasmina Santos"
         ],
+        "doi": "10.1007/978-3-642-23798-0_24",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_24",
         "url": "https://dblp.org/rec/conf/ecsa/PereiraAS11"
       },
       {
@@ -6075,6 +7233,8 @@
           "Anu Purhonen",
           "Sakari Stenudd"
         ],
+        "doi": "10.1007/978-3-642-23798-0_21",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_21",
         "url": "https://dblp.org/rec/conf/ecsa/PurhonenS11"
       },
       {
@@ -6086,6 +7246,8 @@
           "Henrik L\u00f6nn",
           "Martin T\u00f6rngren"
         ],
+        "doi": "10.1007/978-3-642-23798-0_35",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_35",
         "url": "https://dblp.org/rec/conf/ecsa/QureshiCLT11"
       },
       {
@@ -6095,6 +7257,8 @@
           "Martin Rytter",
           "Bo N\u00f8rregaard J\u00f8rgensen"
         ],
+        "doi": "10.1007/978-3-642-23798-0_43",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_43",
         "url": "https://dblp.org/rec/conf/ecsa/RytterJ11"
       },
       {
@@ -6103,6 +7267,8 @@
         "authors": [
           "Daniel Schulte"
         ],
+        "doi": "10.1007/978-3-642-23798-0_18",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_18",
         "url": "https://dblp.org/rec/conf/ecsa/Schulte11"
       },
       {
@@ -6112,6 +7278,8 @@
           "Lakshitha de Silva",
           "Dharini Balasubramaniam"
         ],
+        "doi": "10.1007/978-3-642-23798-0_34",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_34",
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB11"
       },
       {
@@ -6122,6 +7290,8 @@
           "Paris Avgeriou",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-642-23798-0_15",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_15",
         "url": "https://dblp.org/rec/conf/ecsa/StolAB11"
       },
       {
@@ -6131,6 +7301,8 @@
           "Damian Andrew Tamburri",
           "Patricia Lago"
         ],
+        "doi": "10.1007/978-3-642-23798-0_26",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_26",
         "url": "https://dblp.org/rec/conf/ecsa/TamburriL11"
       },
       {
@@ -6140,6 +7312,8 @@
           "Bedir Tekinerdogan",
           "Hasan S\u00f6zer"
         ],
+        "doi": "10.1007/978-3-642-23798-0_3",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_3",
         "url": "https://dblp.org/rec/conf/ecsa/TekinerdoganS11"
       },
       {
@@ -6149,6 +7323,8 @@
           "Chouki Tibermacine",
           "Tarek Zernadji"
         ],
+        "doi": "10.1007/978-3-642-23798-0_1",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_1",
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineZ11"
       },
       {
@@ -6158,6 +7334,8 @@
           "Leonardo P. Tizzei",
           "Cec\u00edlia M. F. Rubira"
         ],
+        "doi": "10.1007/978-3-642-23798-0_6",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_6",
         "url": "https://dblp.org/rec/conf/ecsa/TizzeiR11"
       },
       {
@@ -6168,6 +7346,8 @@
           "Matthias Galster",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-642-23798-0_27",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_27",
         "url": "https://dblp.org/rec/conf/ecsa/TofanGA11"
       },
       {
@@ -6178,6 +7358,8 @@
           "Szymon Kijas",
           "Dorota Sokolowska"
         ],
+        "doi": "10.1007/978-3-642-23798-0_9",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0_9",
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiKS11"
       },
       {
@@ -6188,6 +7370,8 @@
           "Volker Gruhn",
           "Matthias Book"
         ],
+        "doi": "10.1007/978-3-642-23798-0",
+        "ee": "https://doi.org/10.1007/978-3-642-23798-0",
         "url": "https://dblp.org/rec/conf/ecsa/2011"
       }
     ],
@@ -6200,6 +7384,8 @@
           "Jacques Simonin",
           "R\u00e9mi N\u00e9d\u00e9lec"
         ],
+        "doi": "10.1007/978-3-642-15114-9_54",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_54",
         "url": "https://dblp.org/rec/conf/ecsa/AhujaSN10"
       },
       {
@@ -6210,6 +7396,8 @@
           "Abdellah Boukerram",
           "Philippe Roose"
         ],
+        "doi": "10.1007/978-3-642-15114-9_39",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_39",
         "url": "https://dblp.org/rec/conf/ecsa/AltiBR10"
       },
       {
@@ -6219,6 +7407,8 @@
           "Mads Schaarup Andersen",
           "Henrik B\u00e6rbak Christensen"
         ],
+        "doi": "10.1007/978-3-642-15114-9_44",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_44",
         "url": "https://dblp.org/rec/conf/ecsa/AndersenC10"
       },
       {
@@ -6227,6 +7417,8 @@
         "authors": [
           "Rami Bahsoon"
         ],
+        "doi": "10.1007/978-3-642-15114-9_52",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_52",
         "url": "https://dblp.org/rec/conf/ecsa/Bahsoon10"
       },
       {
@@ -6235,6 +7427,8 @@
         "authors": [
           "Rabih Bashroush"
         ],
+        "doi": "10.1007/978-3-642-15114-9_55",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_55",
         "url": "https://dblp.org/rec/conf/ecsa/Bashroush10"
       },
       {
@@ -6244,6 +7438,8 @@
           "Diego Bernini",
           "Francesco Tisato"
         ],
+        "doi": "10.1007/978-3-642-15114-9_28",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_28",
         "url": "https://dblp.org/rec/conf/ecsa/BerniniT10"
       },
       {
@@ -6254,6 +7450,8 @@
           "Jos\u00e9 Garc\u00eda-Alonso",
           "Juan Manuel Murillo"
         ],
+        "doi": "10.1007/978-3-642-15114-9_32",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_32",
         "url": "https://dblp.org/rec/conf/ecsa/BerrocalGM10"
       },
       {
@@ -6263,6 +7461,8 @@
           "Stephan Bode",
           "Matthias Riebisch"
         ],
+        "doi": "10.1007/978-3-642-15114-9_15",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_15",
         "url": "https://dblp.org/rec/conf/ecsa/BodeR10"
       },
       {
@@ -6271,6 +7471,8 @@
         "authors": [
           "Jan Bosch"
         ],
+        "doi": "10.1007/978-3-642-15114-9_1",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_1",
         "url": "https://dblp.org/rec/conf/ecsa/Bosch10"
       },
       {
@@ -6280,6 +7482,8 @@
           "Sjaak Brinkkemper",
           "Stella Pachidi"
         ],
+        "doi": "10.1007/978-3-642-15114-9_16",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_16",
         "url": "https://dblp.org/rec/conf/ecsa/BrinkkemperP10"
       },
       {
@@ -6289,6 +7493,8 @@
           "Tobias Br\u00fcckmann",
           "Volker Gruhn"
         ],
+        "doi": "10.1007/978-3-642-15114-9_7",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_7",
         "url": "https://dblp.org/rec/conf/ecsa/BruckmannG10"
       },
       {
@@ -6298,6 +7504,8 @@
           "Sylvain Chardigny",
           "Abdelhak Seriai"
         ],
+        "doi": "10.1007/978-3-642-15114-9_35",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_35",
         "url": "https://dblp.org/rec/conf/ecsa/ChardignyS10"
       },
       {
@@ -6308,6 +7516,8 @@
           "Klaus Marius Hansen",
           "Bo Lindstr\u00f8m"
         ],
+        "doi": "10.1007/978-3-642-15114-9_11",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_11",
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenHL10"
       },
       {
@@ -6317,6 +7527,8 @@
           "Ulrik Eklund",
           "Thomas Arts"
         ],
+        "doi": "10.1007/978-3-642-15114-9_30",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_30",
         "url": "https://dblp.org/rec/conf/ecsa/EklundA10"
       },
       {
@@ -6326,6 +7538,8 @@
           "Veli-Pekka Eloranta",
           "Kai Koskimies"
         ],
+        "doi": "10.1007/978-3-642-15114-9_24",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_24",
         "url": "https://dblp.org/rec/conf/ecsa/ElorantaK10"
       },
       {
@@ -6335,6 +7549,8 @@
           "Naeem Esfahani",
           "Sam Malek"
         ],
+        "doi": "10.1007/978-3-642-15114-9_38",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_38",
         "url": "https://dblp.org/rec/conf/ecsa/EsfahaniM10"
       },
       {
@@ -6344,6 +7560,8 @@
           "Jos\u00e9 Luiz Fiadeiro",
           "Ant\u00f3nia Lopes"
         ],
+        "doi": "10.1007/978-3-642-15114-9_8",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_8",
         "url": "https://dblp.org/rec/conf/ecsa/FiadeiroL10"
       },
       {
@@ -6353,6 +7571,8 @@
           "Uwe van Heesch",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-642-15114-9_5",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_5",
         "url": "https://dblp.org/rec/conf/ecsa/HeeschA10"
       },
       {
@@ -6362,6 +7582,8 @@
           "Anthony Hock-koon",
           "Mourad Oussalah 0001"
         ],
+        "doi": "10.1007/978-3-642-15114-9_40",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_40",
         "url": "https://dblp.org/rec/conf/ecsa/Hock-koonO10"
       },
       {
@@ -6371,6 +7593,8 @@
           "Anthony Hock-koon",
           "Mourad Oussalah 0001"
         ],
+        "doi": "10.1007/978-3-642-15114-9_42",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_42",
         "url": "https://dblp.org/rec/conf/ecsa/Hock-koonO10a"
       },
       {
@@ -6380,6 +7604,8 @@
           "Ana Ivanovic",
           "Pierre America"
         ],
+        "doi": "10.1007/978-3-642-15114-9_20",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_20",
         "url": "https://dblp.org/rec/conf/ecsa/IvanovicA10"
       },
       {
@@ -6390,6 +7616,8 @@
           "MingXue Wang",
           "Claus Pahl"
         ],
+        "doi": "10.1007/978-3-642-15114-9_23",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_23",
         "url": "https://dblp.org/rec/conf/ecsa/JohnWP10"
       },
       {
@@ -6400,6 +7628,8 @@
           "Ahmed Hadj Kacem",
           "Khalil Drira"
         ],
+        "doi": "10.1007/978-3-642-15114-9_21",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_21",
         "url": "https://dblp.org/rec/conf/ecsa/KacemKD10"
       },
       {
@@ -6409,6 +7639,8 @@
           "Ahmad Waqas Kamal",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-642-15114-9_34",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_34",
         "url": "https://dblp.org/rec/conf/ecsa/KamalA10"
       },
       {
@@ -6418,6 +7650,8 @@
           "Arvind W. Kiwelekar",
           "Rushikesh K. Joshi"
         ],
+        "doi": "10.1007/978-3-642-15114-9_36",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_36",
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarJ10"
       },
       {
@@ -6427,6 +7661,8 @@
           "Arvind W. Kiwelekar",
           "Rushikesh K. Joshi"
         ],
+        "doi": "10.1007/978-3-642-15114-9_53",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_53",
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarJ10a"
       },
       {
@@ -6436,6 +7672,8 @@
           "Patrick K\u00f6nemann",
           "Olaf Zimmermann"
         ],
+        "doi": "10.1007/978-3-642-15114-9_19",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_19",
         "url": "https://dblp.org/rec/conf/ecsa/KonemannZ10"
       },
       {
@@ -6444,6 +7682,8 @@
         "authors": [
           "Philippe Kruchten"
         ],
+        "doi": "10.1007/978-3-642-15114-9_2",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_2",
         "url": "https://dblp.org/rec/conf/ecsa/Kruchten10"
       },
       {
@@ -6453,6 +7693,8 @@
           "Asta Krupaviciute",
           "Jocelyne Fayn"
         ],
+        "doi": "10.1007/978-3-642-15114-9_49",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_49",
         "url": "https://dblp.org/rec/conf/ecsa/KrupaviciuteF10"
       },
       {
@@ -6462,6 +7704,8 @@
           "Roberto E. Lopez-Herrejon",
           "Alexander Egyed"
         ],
+        "doi": "10.1007/978-3-642-15114-9_48",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_48",
         "url": "https://dblp.org/rec/conf/ecsa/Lopez-HerrejonE10"
       },
       {
@@ -6473,6 +7717,8 @@
           "Bechir Zalila",
           "Mohamed Jmaiel"
         ],
+        "doi": "10.1007/978-3-642-15114-9_47",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_47",
         "url": "https://dblp.org/rec/conf/ecsa/LoukilKZJ10"
       },
       {
@@ -6485,6 +7731,8 @@
           "Poopalasinkam Elankeswaran",
           "Umatharan Gopalasundaram"
         ],
+        "doi": "10.1007/978-3-642-15114-9_6",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_6",
         "url": "https://dblp.org/rec/conf/ecsa/LungBSEG10"
       },
       {
@@ -6496,6 +7744,8 @@
           "Paola Inverardi",
           "Rodolfo Ippoliti"
         ],
+        "doi": "10.1007/978-3-642-15114-9_46",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_46",
         "url": "https://dblp.org/rec/conf/ecsa/MarcoGII10"
       },
       {
@@ -6507,6 +7757,8 @@
           "Daniel Feitosa",
           "Elisa Yumi Nakagawa"
         ],
+        "doi": "10.1007/978-3-642-15114-9_29",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_29",
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraFFN10"
       },
       {
@@ -6515,6 +7767,8 @@
         "authors": [
           "Claus Pahl"
         ],
+        "doi": "10.1007/978-3-642-15114-9_43",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_43",
         "url": "https://dblp.org/rec/conf/ecsa/Pahl10"
       },
       {
@@ -6526,6 +7780,8 @@
           "Xavier Blanc 0001",
           "Laurence Duchien"
         ],
+        "doi": "10.1007/978-3-642-15114-9_18",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_18",
         "url": "https://dblp.org/rec/conf/ecsa/ParraCBD10"
       },
       {
@@ -6537,6 +7793,8 @@
           "Juan Garbajosa",
           "Pedro Pablo Alarc\u00f3n"
         ],
+        "doi": "10.1007/978-3-642-15114-9_10",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_10",
         "url": "https://dblp.org/rec/conf/ecsa/PerezDGA10"
       },
       {
@@ -6547,6 +7805,8 @@
           "Yan Liu 0001",
           "Liming Zhu 0001"
         ],
+        "doi": "10.1007/978-3-642-15114-9_12",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_12",
         "url": "https://dblp.org/rec/conf/ecsa/PhoomvuthisarnLZ10"
       },
       {
@@ -6559,6 +7819,8 @@
           "Antoine Beugnard",
           "Eveline Kabor\u00e9"
         ],
+        "doi": "10.1007/978-3-642-15114-9_33",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_33",
         "url": "https://dblp.org/rec/conf/ecsa/Phung-KhacGSBK10"
       },
       {
@@ -6569,6 +7831,8 @@
           "Johannes Koskinen",
           "Ilkka J. Haikala"
         ],
+        "doi": "10.1007/978-3-642-15114-9_17",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_17",
         "url": "https://dblp.org/rec/conf/ecsa/ReijonenKH10"
       },
       {
@@ -6581,6 +7845,8 @@
           "Patrizio Pelliccione",
           "Alfonso Pierantonio"
         ],
+        "doi": "10.1007/978-3-642-15114-9_56",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_56",
         "url": "https://dblp.org/rec/conf/ecsa/RuscioMMPP10"
       },
       {
@@ -6590,6 +7856,8 @@
           "Martin Rytter",
           "Bo N\u00f8rregaard J\u00f8rgensen"
         ],
+        "doi": "10.1007/978-3-642-15114-9_25",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_25",
         "url": "https://dblp.org/rec/conf/ecsa/RytterJ10"
       },
       {
@@ -6607,6 +7875,8 @@
           "Sindolfo Miranda Filho",
           "Ana Liz S. Souto"
         ],
+        "doi": "10.1007/978-3-642-15114-9_14",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_14",
         "url": "https://dblp.org/rec/conf/ecsa/SaraivaPBDPKAFMS10"
       },
       {
@@ -6617,6 +7887,8 @@
           "S\u00e9rgio Soares",
           "Fernando Castor Filho"
         ],
+        "doi": "10.1007/978-3-642-15114-9_27",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_27",
         "url": "https://dblp.org/rec/conf/ecsa/SaraivaSF10"
       },
       {
@@ -6628,6 +7900,8 @@
           "Tomi M\u00e4nnist\u00f6",
           "Aki Nyyss\u00f6nen"
         ],
+        "doi": "10.1007/978-3-642-15114-9_37",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_37",
         "url": "https://dblp.org/rec/conf/ecsa/SavolainenKMN10"
       },
       {
@@ -6638,6 +7912,8 @@
           "Koen Buyens",
           "Wouter Joosen"
         ],
+        "doi": "10.1007/978-3-642-15114-9_13",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_13",
         "url": "https://dblp.org/rec/conf/ecsa/ScandariatoBJ10"
       },
       {
@@ -6647,6 +7923,8 @@
           "Widura Schwittek",
           "Stefan Eicker"
         ],
+        "doi": "10.1007/978-3-642-15114-9_41",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_41",
         "url": "https://dblp.org/rec/conf/ecsa/SchwittekE10"
       },
       {
@@ -6656,6 +7934,8 @@
           "Romina Spalazzese",
           "Paola Inverardi"
         ],
+        "doi": "10.1007/978-3-642-15114-9_26",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_26",
         "url": "https://dblp.org/rec/conf/ecsa/SpalazzeseI10"
       },
       {
@@ -6666,6 +7946,8 @@
           "Mingsheng Ying",
           "Chengqi Zhang"
         ],
+        "doi": "10.1007/978-3-642-15114-9_4",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_4",
         "url": "https://dblp.org/rec/conf/ecsa/SuYZ10"
       },
       {
@@ -6677,6 +7959,8 @@
           "Salah Sadou",
           "Luc Fabresse"
         ],
+        "doi": "10.1007/978-3-642-15114-9_51",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_51",
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineDSF10"
       },
       {
@@ -6686,6 +7970,8 @@
           "Chouki Tibermacine",
           "Mohamed Lamine Kerdoudi"
         ],
+        "doi": "10.1007/978-3-642-15114-9_45",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_45",
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineK10"
       },
       {
@@ -6697,6 +7983,8 @@
           "Azadeh Razavizadeh",
           "St\u00e9phane Ducasse"
         ],
+        "doi": "10.1007/978-3-642-15114-9_31",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_31",
         "url": "https://dblp.org/rec/conf/ecsa/VerjusCRD10"
       },
       {
@@ -6705,6 +7993,8 @@
         "authors": [
           "Jim Webber"
         ],
+        "doi": "10.1007/978-3-642-15114-9_3",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_3",
         "url": "https://dblp.org/rec/conf/ecsa/Webber10"
       },
       {
@@ -6714,6 +8004,8 @@
           "Rainer Weinreich",
           "Georg Buchgeher"
         ],
+        "doi": "10.1007/978-3-642-15114-9_9",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_9",
         "url": "https://dblp.org/rec/conf/ecsa/WeinreichB10"
       },
       {
@@ -6723,6 +8015,8 @@
           "Andrzej Zalewski",
           "Szymon Kijas"
         ],
+        "doi": "10.1007/978-3-642-15114-9_50",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_50",
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiK10"
       },
       {
@@ -6733,6 +8027,8 @@
           "Christelle Urtado",
           "Sylvain Vauttier"
         ],
+        "doi": "10.1007/978-3-642-15114-9_22",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9_22",
         "url": "https://dblp.org/rec/conf/ecsa/ZhangUV10"
       },
       {
@@ -6742,6 +8038,8 @@
           "Muhammad Ali Babar 0001",
           "Ian Gorton"
         ],
+        "doi": "10.1007/978-3-642-15114-9",
+        "ee": "https://doi.org/10.1007/978-3-642-15114-9",
         "url": "https://dblp.org/rec/conf/ecsa/2010"
       }
     ],
@@ -6754,6 +8052,8 @@
           "Jos J. M. Trienekens",
           "Paul W. P. J. Grefen"
         ],
+        "doi": "10.1007/978-3-540-88030-1_17",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_17",
         "url": "https://dblp.org/rec/conf/ecsa/AngelovTG08"
       },
       {
@@ -6763,6 +8063,8 @@
           "Martin Assmann",
           "Gregor Engels"
         ],
+        "doi": "10.1007/978-3-540-88030-1_34",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_34",
         "url": "https://dblp.org/rec/conf/ecsa/AssmannE08"
       },
       {
@@ -6771,6 +8073,8 @@
         "authors": [
           "Colin Atkinson 0001"
         ],
+        "doi": "10.1007/978-3-540-88030-1_2",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_2",
         "url": "https://dblp.org/rec/conf/ecsa/Atkinson08"
       },
       {
@@ -6783,6 +8087,8 @@
           "Christina Chavez",
           "Alessandro Garcia 0001"
         ],
+        "doi": "10.1007/978-3-540-88030-1_26",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_26",
         "url": "https://dblp.org/rec/conf/ecsa/BatistaGCCG08"
       },
       {
@@ -6792,6 +8098,8 @@
           "Marco Bernardo 0001",
           "Edoardo Bont\u00e0"
         ],
+        "doi": "10.1007/978-3-540-88030-1_3",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_3",
         "url": "https://dblp.org/rec/conf/ecsa/BernardoB08"
       },
       {
@@ -6804,6 +8112,8 @@
           "Tom Holvoet",
           "Alexander Helleboogh"
         ],
+        "doi": "10.1007/978-3-540-88030-1_7",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_7",
         "url": "https://dblp.org/rec/conf/ecsa/BouckeWHHH08"
       },
       {
@@ -6814,6 +8124,8 @@
           "Rog\u00e9rio de Lemos",
           "Cec\u00edlia M. F. Rubira"
         ],
+        "doi": "10.1007/978-3-540-88030-1_11",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_11",
         "url": "https://dblp.org/rec/conf/ecsa/BritoLR08"
       },
       {
@@ -6823,6 +8135,8 @@
           "Rafael Capilla",
           "Muhammad Ali Babar 0001"
         ],
+        "doi": "10.1007/978-3-540-88030-1_18",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_18",
         "url": "https://dblp.org/rec/conf/ecsa/CapillaB08"
       },
       {
@@ -6834,6 +8148,8 @@
           "Mourad Oussalah 0001",
           "Dalila Tamzalit"
         ],
+        "doi": "10.1007/978-3-540-88030-1_28",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_28",
         "url": "https://dblp.org/rec/conf/ecsa/ChardignySOT08"
       },
       {
@@ -6845,6 +8161,8 @@
           "D. Salouros",
           "Paul G. Spirakis"
         ],
+        "doi": "10.1007/978-3-540-88030-1_29",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_29",
         "url": "https://dblp.org/rec/conf/ecsa/ChatzigiannakisLSS08"
       },
       {
@@ -6854,6 +8172,8 @@
           "Henrik B\u00e6rbak Christensen",
           "Klaus Marius Hansen"
         ],
+        "doi": "10.1007/978-3-540-88030-1_15",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_15",
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenH08"
       },
       {
@@ -6864,6 +8184,8 @@
           "Vytautas Stuikys",
           "Jevgenijus Toldinas"
         ],
+        "doi": "10.1007/978-3-540-88030-1_32",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_32",
         "url": "https://dblp.org/rec/conf/ecsa/DamaseviciusST08"
       },
       {
@@ -6875,6 +8197,8 @@
           "Ladjel Bellatreche",
           "Yamine A\u00eft Ameur"
         ],
+        "doi": "10.1007/978-3-540-88030-1_27",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_27",
         "url": "https://dblp.org/rec/conf/ecsa/FankamJBA08"
       },
       {
@@ -6889,6 +8213,8 @@
           "Eduardo Santana de Almeida",
           "Silvio Romero de Lemos Meira"
         ],
+        "doi": "10.1007/978-3-540-88030-1_6",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_6",
         "url": "https://dblp.org/rec/conf/ecsa/FilhoCNOLAM08"
       },
       {
@@ -6899,6 +8225,8 @@
           "Vincent Englebert",
           "Raimundas Matulevicius"
         ],
+        "doi": "10.1007/978-3-540-88030-1_30",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_30",
         "url": "https://dblp.org/rec/conf/ecsa/GilsonEM08"
       },
       {
@@ -6909,6 +8237,8 @@
           "Hans J\u00fcrgen Ohlbach",
           "Edgar-Philipp Stoffel"
         ],
+        "doi": "10.1007/978-3-540-88030-1_24",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_24",
         "url": "https://dblp.org/rec/conf/ecsa/HanselOS08"
       },
       {
@@ -6918,6 +8248,8 @@
           "Ahmad Waqas Kamal",
           "Paris Avgeriou"
         ],
+        "doi": "10.1007/978-3-540-88030-1_13",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_13",
         "url": "https://dblp.org/rec/conf/ecsa/KamalA08"
       },
       {
@@ -6926,6 +8258,8 @@
         "authors": [
           "Gerald Kotonya"
         ],
+        "doi": "10.1007/978-3-540-88030-1_9",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_9",
         "url": "https://dblp.org/rec/conf/ecsa/Kotonya08"
       },
       {
@@ -6935,6 +8269,8 @@
           "Larix Lee",
           "Philippe Kruchten"
         ],
+        "doi": "10.1007/978-3-540-88030-1_37",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_37",
         "url": "https://dblp.org/rec/conf/ecsa/LeeK08"
       },
       {
@@ -6945,6 +8281,8 @@
           "Alfredo Matteo",
           "Roberto Rahamut"
         ],
+        "doi": "10.1007/978-3-540-88030-1_36",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_36",
         "url": "https://dblp.org/rec/conf/ecsa/LosavioMR08"
       },
       {
@@ -6955,6 +8293,8 @@
           "Ebrahim Bagheri",
           "Ali A. Ghorbani 0001"
         ],
+        "doi": "10.1007/978-3-540-88030-1_20",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_20",
         "url": "https://dblp.org/rec/conf/ecsa/MakkiBG08"
       },
       {
@@ -6964,6 +8304,8 @@
           "Gonzalo M\u00e9ndez 0001",
           "Ang\u00e9lica de Antonio"
         ],
+        "doi": "10.1007/978-3-540-88030-1_8",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_8",
         "url": "https://dblp.org/rec/conf/ecsa/MendezA08"
       },
       {
@@ -6973,6 +8315,8 @@
           "Mubarak Mohammad",
           "Vasu S. Alagar"
         ],
+        "doi": "10.1007/978-3-540-88030-1_23",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_23",
         "url": "https://dblp.org/rec/conf/ecsa/MohammadA08"
       },
       {
@@ -6983,6 +8327,8 @@
           "Mireille Blay-Fornarino",
           "Michel Riveill"
         ],
+        "doi": "10.1007/978-3-540-88030-1_5",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_5",
         "url": "https://dblp.org/rec/conf/ecsa/MosserBR08"
       },
       {
@@ -6995,6 +8341,8 @@
           "Jilles van Gurp",
           "Tomi M\u00e4nnist\u00f6"
         ],
+        "doi": "10.1007/978-3-540-88030-1_14",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_14",
         "url": "https://dblp.org/rec/conf/ecsa/MyllarniemiPRGM08"
       },
       {
@@ -7004,6 +8352,8 @@
           "Elena Navarro 0001",
           "Carlos E. Cuesta"
         ],
+        "doi": "10.1007/978-3-540-88030-1_10",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_10",
         "url": "https://dblp.org/rec/conf/ecsa/NavarroC08"
       },
       {
@@ -7015,6 +8365,8 @@
           "Louis F\u00e9raud",
           "Christian Percebois"
         ],
+        "doi": "10.1007/978-3-540-88030-1_12",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_12",
         "url": "https://dblp.org/rec/conf/ecsa/OberDFP08"
       },
       {
@@ -7023,6 +8375,8 @@
         "authors": [
           "Dewayne E. Perry"
         ],
+        "doi": "10.1007/978-3-540-88030-1_1",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_1",
         "url": "https://dblp.org/rec/conf/ecsa/Perry08"
       },
       {
@@ -7032,6 +8386,8 @@
           "M\u00f3nica Pinto",
           "Lidia Fuentes"
         ],
+        "doi": "10.1007/978-3-540-88030-1_31",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_31",
         "url": "https://dblp.org/rec/conf/ecsa/PintoF08"
       },
       {
@@ -7042,6 +8398,8 @@
           "Sander Schouten",
           "Hans van Vliet"
         ],
+        "doi": "10.1007/978-3-540-88030-1_4",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_4",
         "url": "https://dblp.org/rec/conf/ecsa/RaadtSV08"
       },
       {
@@ -7050,6 +8408,8 @@
         "authors": [
           "Claudia Raibulet"
         ],
+        "doi": "10.1007/978-3-540-88030-1_33",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_33",
         "url": "https://dblp.org/rec/conf/ecsa/Raibulet08"
       },
       {
@@ -7059,6 +8419,8 @@
           "Banani Roy",
           "T. C. Nicholas Graham"
         ],
+        "doi": "10.1007/978-3-540-88030-1_16",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_16",
         "url": "https://dblp.org/rec/conf/ecsa/RoyG08"
       },
       {
@@ -7071,6 +8433,8 @@
           "Esperanza Marcos",
           "Fl\u00e1vio Oquendo"
         ],
+        "doi": "10.1007/978-3-540-88030-1_21",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_21",
         "url": "https://dblp.org/rec/conf/ecsa/SanzQCMO08"
       },
       {
@@ -7081,6 +8445,8 @@
           "Jennifer P\u00e9rez",
           "Jos\u00e9 A. Cars\u00ed"
         ],
+        "doi": "10.1007/978-3-540-88030-1_22",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_22",
         "url": "https://dblp.org/rec/conf/ecsa/SoriaPC08"
       },
       {
@@ -7091,6 +8457,8 @@
           "Fei-Ching Kuo",
           "Man Fai Lau"
         ],
+        "doi": "10.1007/978-3-540-88030-1_25",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_25",
         "url": "https://dblp.org/rec/conf/ecsa/TangKL08"
       },
       {
@@ -7100,6 +8468,8 @@
           "Ricardo Terra",
           "Marco T\u00falio de Oliveira Valente"
         ],
+        "doi": "10.1007/978-3-540-88030-1_19",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_19",
         "url": "https://dblp.org/rec/conf/ecsa/TerraV08"
       },
       {
@@ -7109,6 +8479,8 @@
           "Andrzej Zalewski",
           "Marcin Ludzia"
         ],
+        "doi": "10.1007/978-3-540-88030-1_35",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1_35",
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiL08"
       },
       {
@@ -7119,6 +8491,8 @@
           "Dharini Balasubramaniam",
           "Katrina Falkner"
         ],
+        "doi": "10.1007/978-3-540-88030-1",
+        "ee": "https://doi.org/10.1007/978-3-540-88030-1",
         "url": "https://dblp.org/rec/conf/ecsa/2008"
       }
     ]
