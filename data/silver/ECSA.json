@@ -4,6 +4,7 @@
   "years": {
     "2023": [
       {
+        "title": "Evolution and Anti-patterns Visualized: MicroProspect in Microservice Architecture.",
         "year": "2023",
         "authors": {
           "0": {
@@ -44,6 +45,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AdamsACPHCdT23"
       },
       {
+        "title": "Scalable Cloud-Native Pipeline for Efficient 3D Model Reconstruction from Monocular Smartphone Images.",
         "year": "2023",
         "authors": {
           "0": {
@@ -68,6 +70,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AghilarATN23"
       },
       {
+        "title": "Pragmatic Architectural Framework to Design for Sustainability in Cloud Software Services.",
         "year": "2023",
         "authors": {
           "0": {
@@ -84,6 +87,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AhmadisakhaA23"
       },
       {
+        "title": "An Approach and Toolset to Semi-automatically Recover and Visualise Micro-Service Architecture.",
         "year": "2023",
         "authors": {
           "0": {
@@ -112,6 +116,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AliAFRS23"
       },
       {
+        "title": "Stakeholder Inclusion and Value Diversity: An Evaluation Using an Access Control System.",
         "year": "2023",
         "authors": {
           "0": {
@@ -140,6 +145,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlidoostiSILR23"
       },
       {
+        "title": "Tool Support for the Adaptation of Quality of Service Trade-Offs in Service- and Cloud-Based Dynamic Routing Architectures.",
         "year": "2023",
         "authors": {
           "0": {
@@ -156,6 +162,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AmiriZ23"
       },
       {
+        "title": "A Query Language for Software Architecture Information.",
         "year": "2023",
         "authors": {
           "0": {
@@ -180,6 +187,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AmmermannJLS23"
       },
       {
+        "title": "A Comparison of Static and Dynamic Analysis to Identify Microservices in Monolith Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -200,6 +208,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AndradeSS23"
       },
       {
+        "title": "Tools Reconstructing Microservice Architecture: A Systematic Mapping Study.",
         "year": "2023",
         "authors": {
           "0": {
@@ -232,6 +241,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BakhtinLSBCT23"
       },
       {
+        "title": "Architecting Artificial Intelligence for Autonomous Cars: The OpenPilot Framework.",
         "year": "2023",
         "authors": {
           "0": {
@@ -248,6 +258,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BaresiT23"
       },
       {
+        "title": "Architecting Explainable Service Robots.",
         "year": "2023",
         "authors": {
           "0": {
@@ -280,6 +291,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BersaniCLMRS23"
       },
       {
+        "title": "Continuous Evaluation of Consistency in Software Architecture Models.",
         "year": "2023",
         "authors": {
           "0": {
@@ -308,6 +320,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BiswasMACN23"
       },
       {
+        "title": "An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security.",
         "year": "2023",
         "authors": {
           "0": {
@@ -332,6 +345,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BoltzHGH23"
       },
       {
+        "title": "What Rationales Drive Architectural Decisions? An Empirical Inquiry.",
         "year": "2023",
         "authors": {
           "0": {
@@ -360,6 +374,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BorowaLSSZ23"
       },
       {
+        "title": "A Graph-Based Java Projects Representation for Antipatterns Detection.",
         "year": "2023",
         "authors": {
           "0": {
@@ -376,6 +391,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CapuanoM23"
       },
       {
+        "title": "Experience of the Architectural Evolution of a Big Data System.",
         "year": "2023",
         "authors": {
           "0": {
@@ -392,6 +408,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CerezoV23"
       },
       {
+        "title": "DevOps Patterns: A Rapid Review.",
         "year": "2023",
         "authors": {
           "0": {
@@ -408,6 +425,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CopeiK23"
       },
       {
+        "title": "Towards Assessing Spread in Sets of Software Architecture Designs.",
         "year": "2023",
         "authors": {
           "0": {
@@ -432,6 +450,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CortellessaDPT23"
       },
       {
+        "title": "Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces.",
         "year": "2023",
         "authors": {
           "0": {
@@ -452,6 +471,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DiazPaceWG23"
       },
       {
+        "title": "Cloud-Native Architecture for Mixed File-Based and API-Based Digital Twin Exchange.",
         "year": "2023",
         "authors": {
           "0": {
@@ -468,6 +488,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EskandaniG23"
       },
       {
+        "title": "Towards a Sustainability-Aware Software Architecture Evaluation for Cloud-Based Software Services.",
         "year": "2023",
         "authors": {
           "0": {
@@ -484,6 +505,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FatimaL23"
       },
       {
+        "title": "Analysing Interoperability in Digital Twin Software Architectures for Manufacturing.",
         "year": "2023",
         "authors": {
           "0": {
@@ -508,6 +530,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FerkoBPB23"
       },
       {
+        "title": "TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties.",
         "year": "2023",
         "authors": {
           "0": {
@@ -532,6 +555,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FrankBHH23"
       },
       {
+        "title": "Carving Sustainability into Architecture Knowledge Practice.",
         "year": "2023",
         "authors": {
           "0": {
@@ -548,6 +572,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FunkeL23"
       },
       {
+        "title": "Designing and Evaluating Interoperable Industry 4.0 Middleware Software Architecture: Reconfiguration of Robotic System.",
         "year": "2023",
         "authors": {
           "0": {
@@ -564,6 +589,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JepsenW23"
       },
       {
+        "title": "MAPE-K Based Guidelines for Designing Reactive and Proactive Self-adaptive Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -580,6 +606,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JilderdaR23"
       },
       {
+        "title": "Automated Integration of Heteregeneous Architecture Information into a Unified Model.",
         "year": "2023",
         "authors": {
           "0": {
@@ -604,6 +631,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JordanKLS23"
       },
       {
+        "title": "Parallel and Distributed Architecture for Multilingual Open Source Intelligence Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -624,6 +652,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KaramanliogluYK23"
       },
       {
+        "title": "Designing a Reference Architecture for the C-ITS Services.",
         "year": "2023",
         "authors": {
           "0": {
@@ -644,6 +673,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KarkhanisDB23"
       },
       {
+        "title": "Automated Reverse Engineering of the Technology-Induced Software System Structure.",
         "year": "2023",
         "authors": {
           "0": {
@@ -668,6 +698,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KirschnerKPK23"
       },
       {
+        "title": "Studying the Evolution of Library Utilization in Maven Projects: A Metric-Based Approach.",
         "year": "2023",
         "authors": {
           "0": {
@@ -696,6 +727,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KolydaKNAC23"
       },
       {
+        "title": "Towards an Urban Digital Twins Continuum Architecture.",
         "year": "2023",
         "authors": {
           "0": {
@@ -728,6 +760,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LasoTBTCM23"
       },
       {
+        "title": "Slicing and Visualizing F&apos; Topologies with F&apos;Prism.",
         "year": "2023",
         "authors": {
           "0": {
@@ -764,6 +797,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LiTUNMLT23"
       },
       {
+        "title": "Maestro: A Deep Learning Based Tool to Find and Explore Architectural Design Decisions in Issue Tracking Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -788,6 +822,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MaarleveldDDS23"
       },
       {
+        "title": "Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.",
         "year": "2023",
         "authors": {
           "0": {
@@ -812,6 +847,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MarzidMS23"
       },
       {
+        "title": "Declarative Representation of UML State Machines for Querying and Simulation.",
         "year": "2023",
         "authors": {
           "0": {
@@ -832,6 +868,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MehrafroozJC23"
       },
       {
+        "title": "Architecture for Digital Twin-Based Reinforcement Learning Optimization of Cyber-Physical Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -876,6 +913,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ModrakowskiBHEJDMBB23"
       },
       {
+        "title": "Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu.",
         "year": "2023",
         "authors": {
           "0": {
@@ -896,6 +934,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ProkhorenkoIB23"
       },
       {
+        "title": "Extracting the Architecture of Microservices: An Approach for Explainability and Traceability.",
         "year": "2023",
         "authors": {
           "0": {
@@ -912,6 +951,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/QuevalZ23"
       },
       {
+        "title": "Performance Comparison of Monolith and Microservice Architectures - An Analysis of the State of the Art.",
         "year": "2023",
         "authors": {
           "0": {
@@ -932,6 +972,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RodriguesSA23"
       },
       {
+        "title": "HITA: An Architecture for System-level Testing of Healthcare IoT Applications.",
         "year": "2023",
         "authors": {
           "0": {
@@ -956,6 +997,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SartajAYG23"
       },
       {
+        "title": "Towards Behavior-Based Analysis of Android Obfuscated Malware.",
         "year": "2023",
         "authors": {
           "0": {
@@ -988,6 +1030,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SawadogoKLDSM23"
       },
       {
+        "title": "Demeter: An Architecture for Long-Term Monitoring of Software Power Consumption.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1012,6 +1055,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SiffreBNP23"
       },
       {
+        "title": "Shaping IoT Systems Together: The User-System Mixed-Initiative Paradigm and Its Challenges.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1036,6 +1080,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SpalazzeseSAD23"
       },
       {
+        "title": "An Experience Report on the Design and Implementation of an Ad-hoc Blockchain Platform for Tactical Edge Applications.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1064,6 +1109,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TranBTLW23"
       },
       {
+        "title": "Threat Modeling: A Rough Diamond or Fool&apos;s Gold?",
         "year": "2023",
         "authors": {
           "0": {
@@ -1084,6 +1130,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TranYJ23"
       },
       {
+        "title": "Guidance Models for Designing Big Data Cyber Security Analytics Systems.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1100,6 +1147,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/UllahB23"
       },
       {
+        "title": "Analysis, Design, Test, and DevOps in Microservice-Based Software Architectures: Results from Pakistan.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1124,6 +1172,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/UnluSAD23"
       },
       {
+        "title": "Technical Debt in Microservices: A Mixed-Method Case Study.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1148,6 +1197,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaMSV23"
       },
       {
+        "title": "Designing a Future-Proof Reference Architecture for Network Digital Twins.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1172,6 +1222,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaSVP23"
       },
       {
+        "title": "Sarch-Knows: A Knowledge Graph for Modeling Security Scenarios at the Software Architecture Level.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1196,6 +1247,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VergaraVargasRST23"
       },
       {
+        "title": "Architecture-Based Attack Path Analysis for Identifying Potential Security Incidents.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1216,6 +1268,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WalterHR23"
       },
       {
+        "title": "Learning from Each Other: How Are Architectural Mistakes Communicated in Industry?",
         "year": "2023",
         "authors": {
           "0": {
@@ -1236,6 +1289,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WieseBH23"
       },
       {
+        "title": "Data-Driven Analysis of Gender Fairness in the Software Engineering Academic Landscape.",
         "year": "2023",
         "authors": {
           "0": {
@@ -1268,6 +1322,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/dAloisioDMMSM23"
       },
       {
+        "title": "Software Architecture. ECSA 2022 Tracks and Workshops - Prague, Czech Republic, September 19-23, 2022, Revised Selected Papers",
         "year": "2023",
         "authors": {
           "0": {
@@ -1292,6 +1347,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2022w"
       },
       {
+        "title": "Software Architecture - 17th European Conference, ECSA 2023, Istanbul, Turkey, September 18-22, 2023, Proceedings",
         "year": "2023",
         "authors": {
           "0": {
@@ -1322,6 +1378,7 @@
     ],
     "2022": [
       {
+        "title": "Controlling Automatic Experiment-Driven Systems Using Statistics and Machine Learning.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1334,6 +1391,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Abdullah22"
       },
       {
+        "title": "Introducing Estimators - Abstraction for Easy ML Employment in Self-adaptive Architectures.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1366,6 +1424,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbdullahTBHKP22"
       },
       {
+        "title": "DAT: Data Architecture Modeling Tool for Data-Driven Applications.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1386,6 +1445,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbughazalaMS22"
       },
       {
+        "title": "MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-adaptive Systems.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1406,6 +1466,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlbertsGB22"
       },
       {
+        "title": "Assessing Security of Internal Vehicle Networks.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1442,6 +1503,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlkoutliABDTWS22"
       },
       {
+        "title": "Apache Kafka as a Middleware to Support the PLC-Service Bus Architecture with IEC 61499.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1466,6 +1528,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AshiwalGAZ22"
       },
       {
+        "title": "Continuous Dependability Assessment of Microservice Systems.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1498,6 +1561,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AvritzerCJRTH22"
       },
       {
+        "title": "Engineering of Trust Analysis-Driven Digital Twins for a Medical Device.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1530,6 +1594,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BersaniBGMRS22"
       },
       {
+        "title": "Debiasing Architectural Decision-Making: A Workshop-Based Training Approach.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1558,6 +1623,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BorowaJMPZ22"
       },
       {
+        "title": "Trust Management in the Internet of Everything.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1570,6 +1636,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Buhnova22"
       },
       {
+        "title": "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1590,6 +1657,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CadavidAA22"
       },
       {
+        "title": "Towards Online Testing Under Uncertainty Using Model-Based Reinforcement Learning.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1614,6 +1682,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CamilliMST22"
       },
       {
+        "title": "A Maude Formalization of Object Nets.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1630,6 +1699,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CapraK22"
       },
       {
+        "title": "Teaching Microservice Architecture Using DevOps - An Experience Report.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1642,6 +1712,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Christensen22"
       },
       {
+        "title": "Developing an AI-Enabled IIoT Platform - Lessons Learned from Early Use Case Validation.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1686,6 +1757,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EichelbergerPRVDLWNH22"
       },
       {
+        "title": "Using I4.0 Digital Twins in Agriculture.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1706,6 +1778,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FalcaoMR22"
       },
       {
+        "title": "Finding Reusable Machine Learning Components to Build Programming Language Processing Pipelines.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1738,6 +1811,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FlynnVLLES22"
       },
       {
+        "title": "Establishing a Benchmark Dataset for Traceability Link Recovery Between Software Architecture Documentation and Models.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1766,6 +1840,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FuchssCKSK22"
       },
       {
+        "title": "Avoiding Excessive Data Exposure Through Microservice APIs.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1782,6 +1857,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GenferZ22"
       },
       {
+        "title": "From Informal Architecture Diagrams to Flexible Blended Models.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1806,6 +1882,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JongelingCCC22"
       },
       {
+        "title": "AutoArx: Digital Twins of Living Architectures.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1826,6 +1903,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JordanLS22"
       },
       {
+        "title": "A Taxonomy for Design Decisions in Software Architecture Documentation.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1850,6 +1928,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KeimHSK22"
       },
       {
+        "title": "Towards Characterization of Edge-Cloud Continuum.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1870,6 +1949,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KhalyeyevBH22"
       },
       {
+        "title": "Blockchain-Based Architecture of Immutable Document Repository.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1886,6 +1966,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KijasZ22"
       },
       {
+        "title": "Feature-Based Investigation of Simulation Structure and Behaviour.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1910,6 +1991,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KochHHR22"
       },
       {
+        "title": "A Toolchain for Simulation Component Specification and Identification.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1926,6 +2008,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KochR22"
       },
       {
+        "title": "Towards Uncertainty Reduction Tactics for Behavior Adaptation.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1946,6 +2029,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KreutzWT22"
       },
       {
+        "title": "A Systematic Survey of Architectural Approaches and Trade-Offs in Data De-identification.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1962,6 +2046,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LanduytJ22"
       },
       {
+        "title": "To Deprecate or to Simply Drop Operations? An Empirical Study on the Evolution of a Large OpenAPI Collection.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1982,6 +2067,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LauroSP22"
       },
       {
+        "title": "An Overview About Terravis Architecture Large-Scale Business Process Integration for Swiss Land Register Processes.",
         "year": "2022",
         "authors": {
           "0": {
@@ -1994,6 +2080,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Lubke22"
       },
       {
+        "title": "Enabling IoT Connectivity and Interoperability by Using Automated Gateways.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2010,6 +2097,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MatevskaS22"
       },
       {
+        "title": "Methodical Approach for Centralization Evaluation of Modern Automotive E/E Architectures.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2030,6 +2118,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MauserWZ22"
       },
       {
+        "title": "Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2054,6 +2143,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZSB22"
       },
       {
+        "title": "Optimized Machine Learning Input for Evolutionary Source Code to Architecture Mapping.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2074,6 +2164,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW22"
       },
       {
+        "title": "Persistence Factories Architectural Design Pattern.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2090,6 +2181,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Ortiz-FuentesH22"
       },
       {
+        "title": "Generalization of Machine-Learning Adaptation in Ensemble-Based Self-adaptive Systems.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2110,6 +2202,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PacovskyHK22"
       },
       {
+        "title": "Should Microservice Security Smells Stay or be Refactored? Towards a Trade-off Analysis.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2134,6 +2227,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PonceSAB22"
       },
       {
+        "title": "Microservices Security: Bad vs. Good Practices.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2158,6 +2252,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PonceSAB22a"
       },
       {
+        "title": "A Methodological Approach to Verify Architecture Resiliency.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2182,6 +2277,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SantosSCM22"
       },
       {
+        "title": "Multi-metric Approach for Decomposition of Microservice-Based Data Science Workflows.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2202,6 +2298,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroerWG22"
       },
       {
+        "title": "ExpressO: From Express.js Implementation Code to OpenAPI Interface Descriptions.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2222,6 +2319,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SerboutRP22"
       },
       {
+        "title": "DevOps in Robotics: Challenges and Practices.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2250,6 +2348,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SilvaKWRI22"
       },
       {
+        "title": "ARCHI4MOM: Using Tracing Information to Extract the Architecture of Microservice-Based Systems from Message-Oriented Middleware.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2270,6 +2369,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SinghWK22"
       },
       {
+        "title": "Architectural Revision of the E-Assessment System JACK.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2282,6 +2382,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Striewe22"
       },
       {
+        "title": "ProML: A Decentralised Platform for Provenance Management of Machine Learning Software Systems.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2314,6 +2415,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TranSBCAL22"
       },
       {
+        "title": "Tool-Based Attack Graph Estimation and Scenario Analysis for Software Architectures.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2330,6 +2432,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WalterR22"
       },
       {
+        "title": "Accurate Performance Predictions with Component-Based Models of Data Streaming Applications.",
         "year": "2022",
         "authors": {
           "0": {
@@ -2350,6 +2453,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WerleSK22"
       },
       {
+        "title": "Software Architecture - 15th European Conference, ECSA 2021 Tracks and Workshops; V\u00e4xj\u00f6, Sweden, September 13-17, 2021, Revised Selected Papers",
         "year": "2022",
         "authors": {
           "0": {
@@ -2374,6 +2478,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2021w"
       },
       {
+        "title": "Software Architecture - 16th European Conference, ECSA 2022, Prague, Czech Republic, September 19-23, 2022, Proceedings",
         "year": "2022",
         "authors": {
           "0": {
@@ -2400,6 +2505,7 @@
     ],
     "2021": [
       {
+        "title": "Human Behavior-Oriented Architectural Design.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2424,6 +2530,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbughazalaMMV21"
       },
       {
+        "title": "A Probabilistic Model for Personality Trait Focused Explainability.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2444,6 +2551,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlharbiHG21"
       },
       {
+        "title": "A Probabilistic Model for Effective Explainability Based on Personality Traits.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2464,6 +2572,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlharbiHG21a"
       },
       {
+        "title": "OpEx Driven Software Architecture A Case Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2484,6 +2593,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AndreoCB21"
       },
       {
+        "title": "A Model-Driven Approach for Formally Verifying SysML-Based Dynamic Software Architectures (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2496,6 +2606,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Araujo21"
       },
       {
+        "title": "Reliable Event Routing in the Cloud and on the Edge - An Internet-of-Things Solution in the AgeTech Domain.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2520,6 +2631,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BasigLAZ21"
       },
       {
+        "title": "A Runtime Safety Enforcement Approach by Monitoring and Adaptation.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2540,6 +2652,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BonfantiRS21"
       },
       {
+        "title": "Gabble: Managing Integration Knowledge in IoT-Systems with Logical Reasoning (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2560,6 +2673,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BurzlaffAB21"
       },
       {
+        "title": "Applying Knowledge-Driven Architecture Composition with Gabble.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2580,6 +2694,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BurzlaffAB21a"
       },
       {
+        "title": "An Experience Report on Modernizing I/O Configuration Software.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2608,6 +2723,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuschBSNG21"
       },
       {
+        "title": "Explaining Architectural Design Tradeoff Spaces: A Machine Learning Approach.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2632,6 +2748,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CamaraSGS21"
       },
       {
+        "title": "A Machine Learning Approach to Service Discovery for Microservice Architectures.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2656,6 +2773,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioTMV21"
       },
       {
+        "title": "Enhancing System Quality Attributes via Microservices Adoption (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2668,6 +2786,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Capuano21"
       },
       {
+        "title": "Self-Adaptation for Machine Learning Based Systems.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2700,6 +2819,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Casimiro0GMKK21"
       },
       {
+        "title": "Self-adaptive Machine Learning Systems: Research Challenges and Opportunities.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2732,6 +2852,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CasimiroRGMKK21"
       },
       {
+        "title": "Summary: A Domain Specific-Model and DevOps Approach for Big Data Analytics Architectures (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2752,6 +2873,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosVC21"
       },
       {
+        "title": "An Analysis of Software Parallelism in Big Data Technologies for Data-Intensive Architectures.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2772,6 +2894,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CerezoCV21"
       },
       {
+        "title": "Architectural Tactics for Energy-Aware Robotics Software: A Preliminary Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2800,6 +2923,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChinnappanMLAL21"
       },
       {
+        "title": "Toward Awareness Creation of Common Challenges Women are Facing in Academia: A Study from a German Perspective.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2840,6 +2964,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CoralloMRHKKSS21"
       },
       {
+        "title": "Preemptive Anomaly Prediction in IoT Components (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2860,6 +2985,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DialloNT21"
       },
       {
+        "title": "A Comparison of Machine Learning-Based Text Classifiers for Mapping Source Code to Architectural Modules.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2884,6 +3010,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FloreanJSH21"
       },
       {
+        "title": "Scenario-based Resilience Evaluation and Improvement of Microservice Architectures: An Experience Report.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2916,6 +3043,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FrankHWKKH21"
       },
       {
+        "title": "Interactive Elicitation of Resilience Scenarios Based on Hazard Analysis Techniques.",
         "year": "2021",
         "authors": {
           "0": {
@@ -2952,6 +3080,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FrankHWKZKH21"
       },
       {
+        "title": "Sketches and Natural Language in Agile Modeling (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2964,6 +3093,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Fuchs21"
       },
       {
+        "title": "A Framework for Adaptive Context and User-Related Management of Multimedia Contents (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -2984,6 +3114,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FuginiFR21"
       },
       {
+        "title": "A Microservices Architecture for Machine Learning Assisted Decision Support in a Real-Time Field Sensors Environment (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3004,6 +3135,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GasperisPF21"
       },
       {
+        "title": "Ensuring threat-model assumptions by using static code analyses.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3024,6 +3156,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GeismannHB21"
       },
       {
+        "title": "Identifying Domain-Based Cyclic Dependencies in Microservice APIs Using Source Code Detectors.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3040,6 +3173,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GenferZ21"
       },
       {
+        "title": "Summary: Architecture Design Evaluation of PaaS Cloud Applications using Generated Prototypes (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3060,6 +3194,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GesvindrGB21"
       },
       {
+        "title": "Architectural Access Control Policy Refinement and Verification under Uncertainty (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3072,6 +3207,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Hahner21"
       },
       {
+        "title": "Co-evolving Digital Architecture Twins (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3084,6 +3220,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Jordan21"
       },
       {
+        "title": "Enabling SMEs to Industry 4.0 Using the BaSyx Middleware: A Case Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3128,6 +3265,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KannothHDRRJMKA21"
       },
       {
+        "title": "Trace Link Recovery for Software Architecture Documentation.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3160,6 +3298,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KeimSFKSK21"
       },
       {
+        "title": "Model-Driven Reverse Engineering of Technology-Induced Architecture for Quality Prediction (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3172,6 +3311,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Kirschner21"
       },
       {
+        "title": "Summary: A Functional Safety Assessment Method for Cooperative Automotive Architecture (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3204,6 +3344,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KochantharaRSCD21"
       },
       {
+        "title": "Modeling, Visualizing, and Checking Software Architectures Collaboratively in Shared Virtual Worlds.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3220,6 +3361,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KoschkeS21"
       },
       {
+        "title": "Dynamic Updates of Virtual PLCs Deployed as Kubernetes Microservices.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3252,6 +3394,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KoziolekBARSR21"
       },
       {
+        "title": "Towards a Taxonomy of Autonomous Systems.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3272,6 +3415,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KugelePG21"
       },
       {
+        "title": "Blended Graphical and Textual Modelling of UML-RT State-Machines: An Industrial Experience.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3296,6 +3440,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LatifajCAM21"
       },
       {
+        "title": "Towards Automated Support for Blended Modelling of UML-RT Embedded Software Architectures.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3320,6 +3465,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LatifajCMP21"
       },
       {
+        "title": "An Architectural Approach for Enabling and Developing Cooperative Behaviour in Diverse Autonomous Robots.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3348,6 +3494,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LinkolaMLKM21"
       },
       {
+        "title": "FLRA: A Reference Architecture for Federated Learning Systems.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3372,6 +3519,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LoLPZ21"
       },
       {
+        "title": "Towards Novel and Intentional Cooperation of Diverse Autonomous Robots: An Architectural Approach.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3396,6 +3544,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MakitaloLLM21"
       },
       {
+        "title": "Applicability of Machine Learning Architectural Patterns in Vehicle Architecture: A Case Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3416,6 +3565,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MosinDS21"
       },
       {
+        "title": "Simulation of Software Architectures of Smart Ecosystems: Theory and Practice (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3440,6 +3590,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NetoMAN21"
       },
       {
+        "title": "Foundations and Research Agenda for Simulation of Smart Ecosystems Architectures.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3464,6 +3615,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NetoMAN21a"
       },
       {
+        "title": "Developing a Software Reference Architecture for Journalistic Knowledge Platforms.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3480,6 +3632,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OcanaO21"
       },
       {
+        "title": "Optimized Dependency Weights in Source Code Clustering.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3500,6 +3653,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21"
       },
       {
+        "title": "Studying Expert Initial Set and Hard to Map Cases in Automated Code-to-Architecture Mappings (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3520,6 +3674,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21a"
       },
       {
+        "title": "Hard Cases in Source Code to Architecture Mapping using Naive Bayes.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3540,6 +3695,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21b"
       },
       {
+        "title": "A Preliminary Study on the Use of Keywords for Source Code to Architecture Mappings.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3560,6 +3716,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21c"
       },
       {
+        "title": "Mapping Source Code to Modular Architectures Using Keywords.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3580,6 +3737,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW21d"
       },
       {
+        "title": "ATDx: A tool for Providing a Data-driven Overview of Architectural Technical Debt in Software-intensive Systems (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3604,6 +3762,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OspinaVML21"
       },
       {
+        "title": "Design Choices in Building an MSR Tool: The Case of Kaiaulu (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3620,6 +3779,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ParadisK21"
       },
       {
+        "title": "Building the MSR Tool Kaiaulu: Design Principles and Experiences.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3636,6 +3796,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ParadisK21a"
       },
       {
+        "title": "Two Different Facets of Architectural Smells Criticality: An Empirical Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3656,6 +3817,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PigazziniFF21"
       },
       {
+        "title": "Software Architectures for Edge Analytics: A Survey.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3680,6 +3842,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Platenius-MohrA21"
       },
       {
+        "title": "State of the Practice in Application Programming Interfaces (APIs): A Case Study.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3712,6 +3875,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RaatikainenKSKM21"
       },
       {
+        "title": "Towards Holistic Modeling of Microservice Architectures Using LEMMA.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3736,6 +3900,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RademacherSWT21"
       },
       {
+        "title": "Towards an Extensible Approach for Generative Microservice Development and Deployment Using LEMMA.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3760,6 +3925,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RademacherSWT21a"
       },
       {
+        "title": "A Vision to identify Architectural Smells in Self-Adaptive Systems using Behavioral Maps (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3784,6 +3950,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SantosFPS21"
       },
       {
+        "title": "Behavioral Maps: Identifying Architectural Smells in Self-adaptive Systems at Runtime.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3808,6 +3975,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SantosFSP21"
       },
       {
+        "title": "Identifying Confidentiality Violations in Architectural Design Using Palladio (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3836,6 +4004,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SeifermannWHHR21"
       },
       {
+        "title": "Updating Service-Based Software Systems in Air-Gapped Environments.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3860,6 +4029,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ShabelnykFDT21"
       },
       {
+        "title": "Towards Hierarchical Code-to-Architecture Mapping Using Information Retrieval.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3876,6 +4046,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaH21"
       },
       {
+        "title": "Hierarchical Code-to-Architecture Mapping.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3892,6 +4063,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaH21a"
       },
       {
+        "title": "Design and Analysis of Self-protection: Adaptive Security for Software-Intensive Systems (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3904,6 +4076,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Skandylas21"
       },
       {
+        "title": "An Exploratory Study on Architectural Knowledge in Issue Tracking Systems.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3924,6 +4097,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SolimanGA21"
       },
       {
+        "title": "Gropius-VSC: IDE Support for Cross-Component Issue Management (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -3948,6 +4122,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SpethKB021"
       },
       {
+        "title": "Cost-Aware Migration to Functions-as-a-Service Architecture.",
         "year": "2021",
         "authors": {
           "0": {
@@ -3968,6 +4143,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/StaffordTM21"
       },
       {
+        "title": "Hybrid-Cloud SQL Federation System at Twitter.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4020,6 +4196,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TangWWWLCLKGNM21"
       },
       {
+        "title": "Serving Hybrid-Cloud SQL Interactive Queries at Twitter.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4080,6 +4257,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TangWWWLCLKGNMM21"
       },
       {
+        "title": "Mapping Program Elements to Layers using Centrality Measures and Machine Learning Techniques.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4096,6 +4274,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ThakareK21"
       },
       {
+        "title": "Summary: Identifying Architectural Technical Debt, Principal and Interest in Microservices - A Multiple-Case Study (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -4116,6 +4295,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ToledoMS21"
       },
       {
+        "title": "What is in a Name? An Analysis of Associations Among Java Packaging and Artifact Names.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4132,6 +4312,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ToosiM21"
       },
       {
+        "title": "Taxonomy of Edge Blockchain Network Designs.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4148,6 +4329,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TranB21"
       },
       {
+        "title": "Automated Scheduling of Multi-Robot System Missions: An Architectural Perspective (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -4160,6 +4342,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Vazquez21"
       },
       {
+        "title": "Summary: Building and Evaluating a Theory of Architectural Technical Debt in Software-Intensive Systems (short paper).",
         "year": "2021",
         "authors": {
           "0": {
@@ -4184,6 +4367,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaKLM21"
       },
       {
+        "title": "Architectural Optimization for Confidentiality Under Structural Uncertainty.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4220,6 +4404,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WalterHSBHPH21"
       },
       {
+        "title": "How Software Architects Focus Their Attention.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4236,6 +4421,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WoodsB21"
       },
       {
+        "title": "Software Architecture - 15th European Conference, ECSA 2021, Virtual Event, Sweden, September 13-17, 2021, Proceedings",
         "year": "2021",
         "authors": {
           "0": {
@@ -4268,6 +4454,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2021"
       },
       {
+        "title": "ECSA 2021 Companion Volume, Virtual (originally: V\u00e4xj\u00f6, Sweden), 13-17 September, 2021.",
         "year": "2021",
         "authors": {
           "0": {
@@ -4290,6 +4477,7 @@
     ],
     "2020": [
       {
+        "title": "The PDEng Program on Software Technology - Experience Report on a Doctorate Level Architecture Training Program.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4306,6 +4494,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AertsD20"
       },
       {
+        "title": "Monolith Migration Complexity Tuning Through the Application of Microservices Patterns.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4322,6 +4511,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlmeidaS20"
       },
       {
+        "title": "A Multi-objective Performance Optimization Approach for Self-adaptive Architectures.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4334,6 +4524,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Arcelli20"
       },
       {
+        "title": "Teaching Students Software Architecture Decision Making.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4358,6 +4549,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CapillaZCA20"
       },
       {
+        "title": "Decentralized Architecture for Energy-Aware Service Assembly.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4382,6 +4574,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioDGM20"
       },
       {
+        "title": "Architectural Concerns for Digital Twin of the Organization.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4414,6 +4607,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CaporuscioEHJKP20"
       },
       {
+        "title": "Formal Software Architectural Migration Towards Emerging Architectural Styles.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4434,6 +4628,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChondamrongkulS20"
       },
       {
+        "title": "Quick Evaluation of a Software Architecture Using the Decision-Centric Architecture Review Method: An Experience Report.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4454,6 +4649,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CruzSA20"
       },
       {
+        "title": "Empowering SysML-Based Software Architecture Description with Formal Verification: From SysADL to CSP.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4490,6 +4686,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DiasOBCLOA20"
       },
       {
+        "title": "Continuous Experimentation for Automotive Software on the Example of a Heavy Commercial Vehicle in Daily Operation.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4506,6 +4703,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GiaimoB20"
       },
       {
+        "title": "An Initial Study on the Association Between Architectural Smells and Degradation.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4518,6 +4716,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Herold20"
       },
       {
+        "title": "Architecture-Centric Support for Integrating Security Tools in a Security Orchestration Platform.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4538,6 +4737,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/IslamBN20"
       },
       {
+        "title": "Does BERT Understand Code? - An Exploratory Study on the Detection of Architectural Tactics in Code.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4562,6 +4762,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KeimKKM20"
       },
       {
+        "title": "A Comparison of MQTT Brokers for Distributed IoT Edge Computing.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4582,6 +4783,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KoziolekGR20"
       },
       {
+        "title": "The Quest for Introducing Technical Debt Management in a Large-Scale Industrial Company.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4598,6 +4800,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiO20"
       },
       {
+        "title": "Determining Microservice Boundaries: A Case Study Using Static and Dynamic Software Analysis.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4630,6 +4833,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MatiasCFBFR20"
       },
       {
+        "title": "IAS: An IoT Architectural Self-adaptation Framework.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4654,6 +4858,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MoghaddamRLG20"
       },
       {
+        "title": "Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4682,6 +4887,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZPMG20"
       },
       {
+        "title": "A Flexible Architecture for Key Performance Indicators Assessment in Smart Cities.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4706,6 +4912,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SanctisIRW20"
       },
       {
+        "title": "Towards Using Probabilistic Models to Design Software Systems with Inherent Uncertainty.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4726,6 +4933,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SerbanPV20"
       },
       {
+        "title": "VisArch: Visualisation of Performance-based Architectural Refactorings.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4758,6 +4966,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiAGJHG20"
       },
       {
+        "title": "Architectural Technical Debt: A Grounded Theory.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4778,6 +4987,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VerdecchiaKL20"
       },
       {
+        "title": "Data Stream Operations as First-Class Entities in Component-Based Performance Models.",
         "year": "2020",
         "authors": {
           "0": {
@@ -4798,6 +5008,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WerleSK20"
       },
       {
+        "title": "Software Architecture - 14th European Conference, ECSA 2020, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings",
         "year": "2020",
         "authors": {
           "0": {
@@ -4826,6 +5037,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2020"
       },
       {
+        "title": "Software Architecture - 14th European Conference, ECSA 2020 Tracks and Workshops, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings",
         "year": "2020",
         "authors": {
           "0": {
@@ -4880,6 +5092,7 @@
     ],
     "2019": [
       {
+        "title": "A logical architecture design method for microservices architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -4932,6 +5145,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/0002SMMSMPRM0P19"
       },
       {
+        "title": "Kubow: an architecture-based self-adaptation service for cloud native applications.",
         "year": "2019",
         "authors": {
           "0": {
@@ -4956,6 +5170,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AderaldoMSG19"
       },
       {
+        "title": "Big data from the cloud to the edge: the aggregate computing solution.",
         "year": "2019",
         "authors": {
           "0": {
@@ -4988,6 +5203,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AliDDSVW19"
       },
       {
+        "title": "Dynamic security rules for legacy systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5028,6 +5244,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AliHHKHSWV19"
       },
       {
+        "title": "Promoting trust in interoperability of systems-of-systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5040,6 +5257,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Allian19"
       },
       {
+        "title": "Blueprints for architecture drivers and architecture solutions for Industry 4.0 shopfloor applications.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5064,6 +5282,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AntoninoSZK19"
       },
       {
+        "title": "Architecture trace diagrams for cyber-physical systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5088,6 +5307,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BorstingHRG19"
       },
       {
+        "title": "Software architecture knowledge sharing with the architecture knowledge base (AKB).",
         "year": "2019",
         "authors": {
           "0": {
@@ -5108,6 +5328,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BrandnerMW19"
       },
       {
+        "title": "A recommender system for software architecture decision making.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5124,6 +5345,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BrandnerW19"
       },
       {
+        "title": "Assisting women in career change towards software engineering: experience from Czechitas NGO.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5144,6 +5366,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuhnovaJP19"
       },
       {
+        "title": "Assessing the Quality Impact of Features in Component-Based Software Architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5168,6 +5391,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuschFEK19"
       },
       {
+        "title": "A systems-of-systems security framework for requirements definition in cloud environment.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5184,6 +5408,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CarturanG19"
       },
       {
+        "title": "A Survey on Big Data Analytics Solutions Deployment.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5212,6 +5437,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosPVVC19"
       },
       {
+        "title": "Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5232,6 +5458,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosVC19"
       },
       {
+        "title": "Towards creation of a reference architecture for trust-based digital ecosystems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5260,6 +5487,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CioroaicaCBKD19"
       },
       {
+        "title": "Towards an architecture for big data analytics leveraging edge/fog paradigms.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5280,6 +5508,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Diaz-de-ArcayaM19"
       },
       {
+        "title": "PageRank and criticality of architectural smells.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5308,6 +5537,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FontanaPRBR19"
       },
       {
+        "title": "Towards a parallel template catalogue for software performance predictions.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5332,6 +5562,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FrankKH019"
       },
       {
+        "title": "What Quality Attributes Can We Find in Product Backlogs? A Machine Learning Perspective.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5352,6 +5583,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GalsterGG19"
       },
       {
+        "title": "A formal design of the hybrid European rail traffic management system.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5372,6 +5604,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GaspariRG19"
       },
       {
+        "title": "Process-mining based dynamic software architecture reconstruction.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5388,6 +5621,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JongW19"
       },
       {
+        "title": "Detection of conflicts and inconsistencies between architecture solutions.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5416,6 +5650,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KallweitAJKL19"
       },
       {
+        "title": "Investigating quality requirements from a human perspective in IoT-based software architectures for education.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5436,6 +5671,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KassabNA19"
       },
       {
+        "title": "A bottom-up approach for reconstructing software architecture product lines.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5460,6 +5696,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KerdoudiZTS19"
       },
       {
+        "title": "The applicability of palladio for assessing the quality of cloud-based microservice architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5480,6 +5717,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KlinakuB019"
       },
       {
+        "title": "Architecturing Elastic Edge Storage Services for Data-Driven Decision Making.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5496,6 +5734,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LujicT19"
       },
       {
+        "title": "A framework for managing uncertainty in software architecture.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5508,6 +5747,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Lupafya19"
       },
       {
+        "title": "A Four-Layer Architecture Pattern for Constructing and Managing Digital Twins.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5540,6 +5780,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiSPGGB19"
       },
       {
+        "title": "Stochastic hybrid systems meet software components for well-founded cyber-physical systems software architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5552,6 +5793,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Malenfant19"
       },
       {
+        "title": "Guiding Architectural Decision Making on Service Mesh Based Microservice Architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5568,6 +5810,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MalkiZ19"
       },
       {
+        "title": "Identifying availability tactics to support security architectural design of microservice-based systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5584,6 +5827,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MarquezA19"
       },
       {
+        "title": "Gender balance in computer science and engineering in Italian universities.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5600,6 +5844,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MarzollaM19"
       },
       {
+        "title": "ACE: Easy Deployment of Field Optimization Experiments.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5620,6 +5865,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MattosBO19"
       },
       {
+        "title": "Assessing Adaptability of Software Architectures for Cyber Physical Production Systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5652,6 +5898,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MayrhoferMZGWE19"
       },
       {
+        "title": "Self-accounting in architecture-based self-adaptation.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5672,6 +5919,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MirandolaRS19"
       },
       {
+        "title": "ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5688,6 +5936,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MucciniV19"
       },
       {
+        "title": "Streamlining value in a FOSS project.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5720,6 +5969,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MullerVHSST19"
       },
       {
+        "title": "Continuous Adaptation Management in Collective Intelligence Systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5744,6 +5994,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MusilMWB19"
       },
       {
+        "title": "A formal semantics for supporting the automated synthesis of choreography-based architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5756,6 +6007,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Najem19"
       },
       {
+        "title": "Architecting for scale: the case for systematic software reuse in managing technical debt in start-ups.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5768,6 +6020,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Njima19"
       },
       {
+        "title": "Supporting Architectural Decision Making on Data Management in Microservice Architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5800,6 +6053,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NtentosZPSLM19"
       },
       {
+        "title": "From a Monolith to a Microservices Architecture: An Approach Based on Transactional Contexts.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5820,6 +6074,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NunesSS19"
       },
       {
+        "title": "Placing human values at the core of socio-technical systems development: a project case study.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5840,6 +6095,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OgunyemiPV19"
       },
       {
+        "title": "An exploration and experiment tool suite for code to architecture mapping techniques.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5860,6 +6116,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW19"
       },
       {
+        "title": "Semi-automatic mapping of source code using naive Bayes.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5880,6 +6137,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW19a"
       },
       {
+        "title": "Mitigating security threats through the use of security tactics to design secure cyber-physical systems (CPS).",
         "year": "2019",
         "authors": {
           "0": {
@@ -5900,6 +6158,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OrellanaVA19"
       },
       {
+        "title": "To what extent formal methods are applicable for performance analysis of smart cyber-physical systems?",
         "year": "2019",
         "authors": {
           "0": {
@@ -5928,6 +6187,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PagliariDCMT19"
       },
       {
+        "title": "National cultures and gender balance in ICT: a preliminary study.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5944,6 +6204,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PalaciosC19"
       },
       {
+        "title": "Automatic detection of architectural bad smells through semantic representation of code.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5956,6 +6217,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Pigazzini19"
       },
       {
+        "title": "Tool Support for the Migration to Microservice Architecture: An Industrial Case Study.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5976,6 +6238,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PigazziniFM19"
       },
       {
+        "title": "An Exploratory Study of Naturalistic Decision Making in Complex Software Architecture Environments.",
         "year": "2019",
         "authors": {
           "0": {
@@ -5992,6 +6255,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PowerW19"
       },
       {
+        "title": "QoS-Based Formation of Software Architectures in the Internet of Things.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6012,6 +6276,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SanctisST19"
       },
       {
+        "title": "Gender gap?: a snapshot of a bachelor computer science course at Graz University of Technology.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6028,6 +6293,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchindlerM19"
       },
       {
+        "title": "Discovering architectural rules in practice.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6044,6 +6310,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroderB19"
       },
       {
+        "title": "Applicability of controlled natural languages for architecture analysis and documentation: an industrial case study.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6060,6 +6327,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroderB19a"
       },
       {
+        "title": "Architecture description language for climate smart agriculture systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6092,6 +6360,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafAESSM19"
       },
       {
+        "title": "Women participation in open source software communities.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6104,6 +6373,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Singh19"
       },
       {
+        "title": "Evaluating the Effectiveness of Multi-level Greedy Modularity Clustering for Software Architecture Recovery.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6116,6 +6386,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Sozer19"
       },
       {
+        "title": "Components and Design Alternatives in E-Assessment Systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6128,6 +6399,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Striewe19"
       },
       {
+        "title": "Source-code divergence diagnosis using constraints and cryptography.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6148,6 +6420,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ToosiBS19"
       },
       {
+        "title": "Inspection guidelines to identify security design flaws.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6172,6 +6445,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TumaHMS19"
       },
       {
+        "title": "A study of over-the-air (OTA) update systems for CPS and IoT operating systems.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6192,6 +6466,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VillegasOA19"
       },
       {
+        "title": "Has social sustainability been addressed in software architectures?",
         "year": "2019",
         "authors": {
           "0": {
@@ -6212,6 +6487,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VolpatoAN19"
       },
       {
+        "title": "ADOOPLA - Combining Product-Line- and Product-Level Criteria in Multi-objective Optimization of Product Line Architectures.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6232,6 +6508,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WagemannKS19"
       },
       {
+        "title": "Towards service discovery and autonomic version management in self-healing microservices architecture.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6244,6 +6521,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Wang19"
       },
       {
+        "title": "Optimising Architectures for Performance, Cost, and Security.",
         "year": "2019",
         "authors": {
           "0": {
@@ -6268,6 +6546,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Yasaweerasinghelage19"
       },
       {
+        "title": "Software Architecture - 13th European Conference, ECSA 2019, Paris, France, September 9-13, 2019, Proceedings",
         "year": "2019",
         "authors": {
           "0": {
@@ -6288,6 +6567,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2019"
       },
       {
+        "title": "Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings (Proceedings Volume 2),",
         "year": "2019",
         "authors": {
           "0": {
@@ -6334,6 +6614,7 @@
     ],
     "2018": [
       {
+        "title": "The visual variables in UML: how are they used by women?",
         "year": "2018",
         "authors": {
           "0": {
@@ -6354,6 +6635,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AhmarPG18"
       },
       {
+        "title": "Aggregation of security metrics for decision making: a reference architecture.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6374,6 +6656,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AhmedNJ18"
       },
       {
+        "title": "A reference architecture for space systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6402,6 +6685,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlanaHUMS18"
       },
       {
+        "title": "Modeling of dynamic trust contracts for industry 4.0 systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6434,6 +6718,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AliHHVSW18"
       },
       {
+        "title": "ECo-IoT: An Architectural Approach for Realizing Emergent Configurations in the Internet of Things.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6454,6 +6739,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlkhabbasSD18"
       },
       {
+        "title": "Gender in software engineering degrees.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6470,6 +6756,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AllerN18"
       },
       {
+        "title": "Educating to achieve healthy open source ecosystems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6494,6 +6781,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AmorimMAC18"
       },
       {
+        "title": "Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6534,6 +6822,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Antonino0MFBBKN18"
       },
       {
+        "title": "A DSL for MAPE Patterns Representation in Self-adapting Systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6558,6 +6847,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ArcainiMRS18"
       },
       {
+        "title": "Towards an enterprise architecture controlling framework.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6574,6 +6864,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ArriolaM18"
       },
       {
+        "title": "On the model-driven synthesis of evolvable service choreographies.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6602,6 +6893,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AutiliSGPT18"
       },
       {
+        "title": "A Quantitative Approach for the Assessment of Microservice Architecture Deployment Alternatives by Automated Performance Testing.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6634,6 +6926,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AvritzerFJRSH18"
       },
       {
+        "title": "Beethoven: An Event-Driven Lightweight Platform for Microservice Orchestration.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6662,6 +6955,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BarbosaGMRM18"
       },
       {
+        "title": "MOTION: an application of ASMETA to mobile ad-hoc NETworks domain.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6678,6 +6972,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BevilacquaB18"
       },
       {
+        "title": "An evolutionary game for integrity attacks and defences for advanced metering infrastructure.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6694,6 +6989,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BoudkoA18"
       },
       {
+        "title": "A Platform for the Automated Provisioning of Architecture Information for Large-Scale Service-Oriented Software Systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6714,6 +7010,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherWH18"
       },
       {
+        "title": "A high-level petri net-based formal model of distributed self-adaptive systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6734,6 +7031,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CamilliBC18"
       },
       {
+        "title": "Drones, ecall and cyber physical systems for public safety: answering points 112.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6758,6 +7056,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CampilloVFA18"
       },
       {
+        "title": "Ripple effect to evaluate the impact of changes in architectural design decisions.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6774,6 +7073,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CarrilloC18"
       },
       {
+        "title": "Executing Architectural Models for Big Data Analytics.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6794,6 +7094,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CastellanosCR18"
       },
       {
+        "title": "Teaching the next generation of software architects: a gender-focused survey on worldwide curricula.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6806,6 +7107,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Castro18"
       },
       {
+        "title": "Providing Context as a Service Using Service-Oriented Mobile Indie Fog and Opportunistic Computing.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6822,6 +7124,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChangS18"
       },
       {
+        "title": "Crunch: Automated Assessment of Microservice Architecture Assignments with Formative Feedback.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6834,6 +7137,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Christensen18"
       },
       {
+        "title": "Using historical and weather data for marketing and category management in ecommerce: the experience of EW-shopp.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6854,6 +7158,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CreslovnikKC18"
       },
       {
+        "title": "Temporal anonymity in the AMS scenario without a TTP.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6866,6 +7171,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Eskeland18"
       },
       {
+        "title": "Which factors affect the evangelist&apos;s support during training sessions in mobile software ecosystems?",
         "year": "2018",
         "authors": {
           "0": {
@@ -6894,6 +7200,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FontaoEFSD18"
       },
       {
+        "title": "Towards Preserving Information Flow Security on Architectural Composition of Cyber-Physical Systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6910,6 +7217,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GerkingS18"
       },
       {
+        "title": "A microservices experience in the banking industry.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6926,6 +7234,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GilD18"
       },
       {
+        "title": "Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of software architectures.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6946,6 +7255,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GuamanPD18"
       },
       {
+        "title": "Empirical Insights into the Evolving Role of Architects in Decision-Making in an Agile Context.",
         "year": "2018",
         "authors": {
           "0": {
@@ -6974,6 +7284,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HeijenkBLVS18"
       },
       {
+        "title": "Guaranteed latency applications in edge-cloud environment.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7002,6 +7313,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HnetynkaKAGK18"
       },
       {
+        "title": "Scalable online learning for flink: SOLMA library.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7034,6 +7346,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JamilDWMMB18"
       },
       {
+        "title": "Architectural challenges on the analysis of human behaviour in synthetic environments.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7054,6 +7367,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JeronimoAM18"
       },
       {
+        "title": "Quantitative security assurance metrics: REST API case studies.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7070,6 +7384,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KattP18"
       },
       {
+        "title": "Spotlighting Use Case Specific Architectures.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7090,6 +7405,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KerdoudiTS18"
       },
       {
+        "title": "Industrial experience on code clean-up using architectural conformance checking.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7102,6 +7418,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Koschke18"
       },
       {
+        "title": "An equal opportunity concept for the coordinated research effort AESC.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7122,6 +7439,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Koziolek0W18"
       },
       {
+        "title": "An integrated approach for context-aware development.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7138,6 +7456,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MaciasN18"
       },
       {
+        "title": "Architectural aspects of digital twins in IIoT systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7154,6 +7473,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiG18"
       },
       {
+        "title": "A Catalogue of Architectural Decisions for Designing IIoT Systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7174,6 +7494,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MalakutiGK18"
       },
       {
+        "title": "A pattern language for scalable microservices-based systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7194,6 +7515,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MarquezVA18"
       },
       {
+        "title": "Guidance of Architectural Changes in Technical Systems with Varying Operational Modes.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7218,6 +7540,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MartinFKR18"
       },
       {
+        "title": "Large scale anomaly detection in data center logs and metrics.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7238,6 +7561,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Martinez-Alvarez18"
       },
       {
+        "title": "Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7262,6 +7586,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MartiniFBR18"
       },
       {
+        "title": "Context-aware edge process management for mobile thing-to-fog environment.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7282,6 +7607,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MassCS18"
       },
       {
+        "title": "Generality vs. reusability in architecture-based self-adaptation: the case for self-adaptive microservices.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7306,6 +7632,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MendoncaGSC18"
       },
       {
+        "title": "A decentralized architecture and simple consensus algorithm for autonomous agents.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7334,6 +7661,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MeyerH0WG18"
       },
       {
+        "title": "Cracking the monolith: challenges in data transitioning to cloud native architectures.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7354,6 +7682,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MishraKN18"
       },
       {
+        "title": "IoT Architectural Styles - A Systematic Mapping Study.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7370,6 +7699,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MucciniM18"
       },
       {
+        "title": "Self-adaptive IoT architectures: an emergency handling case study.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7394,6 +7724,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MucciniSMS18"
       },
       {
+        "title": "Real-time prediction of flight arrival times using surveillance information.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7414,6 +7745,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MunozSC18"
       },
       {
+        "title": "Model-based engineering &amp; simulation of software-intensive systems-of-systems: experience report and lessons learned.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7438,6 +7770,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NetoMKN18"
       },
       {
+        "title": "Data wrangling at scale: the experience of EW-shopp.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7458,6 +7791,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NikolovCP18"
       },
       {
+        "title": "MoSAIC: a middleware-induced software archIteCture design decision support system.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7482,6 +7816,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NoceraMSN18"
       },
       {
+        "title": "Towards improved initial mapping in semi automatic clustering.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7502,6 +7837,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW18"
       },
       {
+        "title": "Formally Describing Self-organizing Architectures for Systems-of-Systems on the Internet-of-Things.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7514,6 +7850,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Oquendo18"
       },
       {
+        "title": "Security tactics selection poker (TaSPeR): a card game to select security tactics to satisfy security requirements.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7546,6 +7883,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OssesMVOVA18"
       },
       {
+        "title": "ATA: architecture-based technology advisor tool.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7562,6 +7900,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PhalakK18"
       },
       {
+        "title": "Software Migration and Architecture Evolution with Industrial Platforms: A Multi-case Study.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7582,6 +7921,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Plakidas0Z18"
       },
       {
+        "title": "Model-based support for decision-making in architecture evolution of complex software systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7602,6 +7942,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Plakidas0Z18a"
       },
       {
+        "title": "Understanding Architecture Decisions in Context - An Industry Case Study of Architects&apos; Decision-Making Context.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7618,6 +7959,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PowerW18"
       },
       {
+        "title": "Ecosystems effects on software-consuming organizations: an experience report on two observational studies.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7638,6 +7980,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SantosWF18"
       },
       {
+        "title": "Risk-driven security metrics development for software-defined networking.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7654,6 +7997,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SavolaS18"
       },
       {
+        "title": "Using Informal Knowledge for Improving Software Quality Trade-Off Decisions.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7674,6 +8018,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchneiderBK18"
       },
       {
+        "title": "An ontology-based approach for documenting and validating architecture rules.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7690,6 +8035,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroderR18"
       },
       {
+        "title": "Arduino realization of CAPS IoT architecture descriptions.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7710,6 +8056,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafAM18"
       },
       {
+        "title": "ArIA: arduino code generation based on the CAPS.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7730,6 +8077,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafMA18"
       },
       {
+        "title": "A comparative analysis of self-adaptive patterns in cyber-physical systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7750,6 +8098,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafMS18"
       },
       {
+        "title": "Uncertainty expressions in software architecture group decision making: explorative study.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7782,6 +8131,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ShumaievBKBHM18"
       },
       {
+        "title": "An acknowledged system of systems for educational internet of everything ecosystems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7798,6 +8148,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB18"
       },
       {
+        "title": "Container-based architecture to optimize the integration of microservices into cloud-based data-intensive application scenarios.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7810,6 +8161,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Simonis18"
       },
       {
+        "title": "A mapping study of software architecture recovery for software product lines.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7830,6 +8182,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SinkalaBH18"
       },
       {
+        "title": "AjiL: enabling model-driven microservice development.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7858,6 +8211,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SorgallaWRSZ18"
       },
       {
+        "title": "Abstraction Layered Architecture: Writing Maintainable Embedded Code.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7874,6 +8228,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SprayS18"
       },
       {
+        "title": "Objectification using procedure-relational, matrix decomposition and synchronization dynamics.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7902,6 +8257,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ToosiOWBB18"
       },
       {
+        "title": "Service architectures and dynamic solutions for interoperability of IoT, network functions and cloud resources.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7922,6 +8278,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TruongGH18"
       },
       {
+        "title": "Two Architectural Threat Analysis Techniques Compared.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7938,6 +8295,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TumaS18"
       },
       {
+        "title": "Combining real-time risk visualization and anomaly detection.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7962,6 +8320,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VaisanenNLK18"
       },
       {
+        "title": "An approach to integrate systems towards a directed system-of-systems.",
         "year": "2018",
         "authors": {
           "0": {
@@ -7982,6 +8341,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VargasGB18"
       },
       {
+        "title": "Towards precision fishery: standardized modelling of smart services in the fishery domain.",
         "year": "2018",
         "authors": {
           "0": {
@@ -8002,6 +8362,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WalderhaugAB18"
       },
       {
+        "title": "Applying Architecture-Based Adaptation to Automate the Management of Internet-of-Things.",
         "year": "2018",
         "authors": {
           "0": {
@@ -8026,6 +8387,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WeynsI0M18"
       },
       {
+        "title": "Software Architecture Measurement - Experiences from a Multinational Company.",
         "year": "2018",
         "authors": {
           "0": {
@@ -8070,6 +8432,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WuCKMLCGLZ18"
       },
       {
+        "title": "Changeable manufacturing processes using service-based decision-making and I4.0 service-oriented architecture.",
         "year": "2018",
         "authors": {
           "0": {
@@ -8082,6 +8445,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Zhang18"
       },
       {
+        "title": "Software Architecture - 12th European Conference on Software Architecture, ECSA 2018, Madrid, Spain, September 24-28, 2018, Proceedings",
         "year": "2018",
         "authors": {
           "0": {
@@ -8102,6 +8466,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2018"
       },
       {
+        "title": "Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings, ECSA 2018, Madrid, Spain, September 24-28, 2018",
         "year": "2018",
         "authors": {
           "0": {
@@ -8124,6 +8489,7 @@
     ],
     "2017": [
       {
+        "title": "An empirical approach for determining context of mobile systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8144,6 +8510,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbusairMI17"
       },
       {
+        "title": "Adaptation for situational-aware cyber-physical systems driven by energy consumption and human safety.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8168,6 +8535,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbusairSMI17"
       },
       {
+        "title": "Green architecture for sustainable eLearning systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8184,6 +8552,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlharthiS17"
       },
       {
+        "title": "Evaluating software architecture erosion for PL/SQL programs.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8204,6 +8573,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AltinisikES17"
       },
       {
+        "title": "Towards a well-formed software architecture analysis.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8220,6 +8590,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AltoyanP17"
       },
       {
+        "title": "Automatic Extraction of Design Decisions from Issue Management Systems: A Machine Learning Based Approach.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8248,6 +8619,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BhatSBHM17"
       },
       {
+        "title": "Towards a framework for managing architectural design decisions.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8268,6 +8640,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BhatSM17"
       },
       {
+        "title": "Towards a practical maintainability quality model for service-and microservice-based systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8288,6 +8661,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BognerWZ17"
       },
       {
+        "title": "The female contribution in architecting a set of tools for a formal method: role of women in software architecture (short paper).",
         "year": "2017",
         "authors": {
           "0": {
@@ -8312,6 +8686,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BonfantiCRS17"
       },
       {
+        "title": "Microservices in a Small Development Organization - An Industrial Experience Report.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8344,6 +8719,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherWWLWA17"
       },
       {
+        "title": "Autonomic component ensembles for dynamic evolving architectures of context-aware smart systems: invited talk abstract.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8356,6 +8732,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Bures17"
       },
       {
+        "title": "Synthesis and Quantitative Verification of Tradeoff Spaces for Families of Software Systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8376,6 +8753,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CamaraGS17"
       },
       {
+        "title": "The relationship between the cost of cybercrime and web security posture: a case study on Belgian companies.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8412,6 +8790,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChenVVPHDJ17"
       },
       {
+        "title": "The Evolution of Technical Debt in the Apache Ecosystem.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8436,6 +8815,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DigkasLCA17"
       },
       {
+        "title": "Communication-efficient privacy-preserving smart metering.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8448,6 +8828,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Eskeland17"
       },
       {
+        "title": "Preventing Erosion in Exception Handling Design Using Static-Architecture Conformance Checking.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8472,6 +8853,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FilhoRAB17"
       },
       {
+        "title": "Risk-based adaptive authentication for internet of things in smart home eHealth.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8488,6 +8870,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GebrieA17"
       },
       {
+        "title": "Considerations About Continuous Experimentation for Resource-Constrained Platforms in Self-driving Vehicles.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8508,6 +8891,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GiaimoBK17"
       },
       {
+        "title": "Measuring the value of privacy and the efficacy of PETs.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8524,6 +8908,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HalunenK17"
       },
       {
+        "title": "Decision Models for Microservices: Design Areas, Stakeholders, Use Cases, and Requirements.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8544,6 +8929,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HaselbockWB17"
       },
       {
+        "title": "A study on cybersecurity industrial end-user perspectives in Finland.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8568,6 +8954,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KanstrenSHK17"
       },
       {
+        "title": "Control of Self-adaptation Under Partial Observation: A Modular Approach.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8580,6 +8967,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Khakpour17"
       },
       {
+        "title": "Architecture analysis to predict project risks: using containers to aid risk assessment.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8592,6 +8980,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Leigh17"
       },
       {
+        "title": "Software Architecture Risk Containers.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8612,6 +9001,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LeighWZ17"
       },
       {
+        "title": "Are code smell detection tools suitable for detecting architecture degradation?",
         "year": "2017",
         "authors": {
           "0": {
@@ -8636,6 +9026,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LenhardHBH17"
       },
       {
+        "title": "A domain model for self-adaptive software systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8664,6 +9055,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MoghaddamDPGL17"
       },
       {
+        "title": "Towards a reference software architecture for improving the accessibility and usability of open course ware.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8680,6 +9072,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MoralesB17"
       },
       {
+        "title": "Modeling embedded systems using a tailored view framework and architecture modeling constraints.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8708,6 +9101,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MorgensternAKPK17"
       },
       {
+        "title": "Green software development and research with the HADAS toolkit.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8728,6 +9122,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MunozPF17"
       },
       {
+        "title": "Software architecture and reference architecture of software-intensive systems and systems-of-systems: contributions to the state of the art.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8844,6 +9239,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NakagawaAOSPLFS17"
       },
       {
+        "title": "PARAD Repository: On the Capitalization of the Performance Analysis Process for AADL Designs.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8864,6 +9260,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NguyenOG17"
       },
       {
+        "title": "The relationship of code churn and architectural violations in the open source software JabRef.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8884,6 +9281,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OlssonEW17"
       },
       {
+        "title": "Software architecture reconstruction and compliance checking: a case study.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8900,6 +9298,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PruijtW17"
       },
       {
+        "title": "Software architecture reconstruction research support as provided by HUSACCT.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8920,6 +9319,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PruijtWW17"
       },
       {
+        "title": "Evaluation of self-adaptive systems: a women perspective.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8936,6 +9336,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RaibuletF17"
       },
       {
+        "title": "Towards context aware computations offloading in 5G.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8956,6 +9357,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RealeTH17"
       },
       {
+        "title": "Current level of cybersecurity competence and future development: case Finland.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8968,6 +9370,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Savola17"
       },
       {
+        "title": "Architecture conformance checking with description logics.",
         "year": "2017",
         "authors": {
           "0": {
@@ -8984,6 +9387,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroderR17"
       },
       {
+        "title": "An Architecture Framework for Modelling and Simulation of Situational-Aware Cyber-Physical Systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9008,6 +9412,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17"
       },
       {
+        "title": "CAPSim: simulation and code generation based on the CAPS.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9032,6 +9437,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17a"
       },
       {
+        "title": "Simulating architectures of situational-aware cyber-physical space.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9056,6 +9462,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SharafAMA17b"
       },
       {
+        "title": "Taming missions and architecture in software intensive systems-of-systems.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9068,6 +9475,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Silva17"
       },
       {
+        "title": "Role of women in software architecture: an attempt at a systematic literature review.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9088,6 +9496,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SpichkovaST17"
       },
       {
+        "title": "Continuous Rearchitecting of QoS Models: Collaborative Analysis for Uncertainty Reduction.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9104,6 +9513,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiM17"
       },
       {
+        "title": "Categorization of cyber security deception events for measuring the severity level of advanced targeted breaches.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9116,6 +9526,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Vaisanen17"
       },
       {
+        "title": "An open architecture approach: towards common design principles for an IoT architecture.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9132,6 +9543,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VogelG17"
       },
       {
+        "title": "Two perspectives on reference architecture sustainability.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9160,6 +9572,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VolpatoORCN17"
       },
       {
+        "title": "MAGMA: build management-based generation of microservice infrastructures.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9184,6 +9597,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WizentySRS17"
       },
       {
+        "title": "A Model for Prioritization of Software Architecture Effort.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9200,6 +9614,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WoodsB17"
       },
       {
+        "title": "Architectural Assumptions and Their Management in Industry - An Exploratory Study.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9232,6 +9647,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/YangLAEHP17"
       },
       {
+        "title": "On Cognitive Biases in Architecture Decision Making.",
         "year": "2017",
         "authors": {
           "0": {
@@ -9252,6 +9668,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiBR17"
       },
       {
+        "title": "Software Architecture - 11th European Conference, ECSA 2017, Canterbury, UK, September 11-15, 2017, Proceedings",
         "year": "2017",
         "authors": {
           "0": {
@@ -9268,6 +9685,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/2017"
       },
       {
+        "title": "11th European Conference on Software Architecture, ECSA 2017, Companion Proceedings, Canterbury, United Kingdom, September 11-15, 2017",
         "year": "2017",
         "authors": {
           "0": {
@@ -9282,6 +9700,7 @@
     ],
     "2016": [
       {
+        "title": "Towards Seamless Analysis of Software Interoperability: Automatic Identification of Conceptual Constraints in API Documentation.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9302,6 +9721,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbukwaikAR16"
       },
       {
+        "title": "Towards a Framework for Building SaaS Applications Operating in Diverse and Dynamic Environments.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9318,6 +9738,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AgrawalP16"
       },
       {
+        "title": "Design Decision Documentation: A Literature Overview.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9338,6 +9759,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlexeevaPM16"
       },
       {
+        "title": "Materializing Architecture Recovered from Object-Oriented Source Code in Component-Based Languages.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9370,6 +9792,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlsharaSTBDS16"
       },
       {
+        "title": "Architects in Scrum: What Challenges Do They Face?",
         "year": "2016",
         "authors": {
           "0": {
@@ -9390,6 +9813,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AngelovMG16"
       },
       {
+        "title": "SeaClouds: An Open Reference Architecture for Multi-cloud Governance.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9434,6 +9858,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BrogiCCDNGPPS16"
       },
       {
+        "title": "Statistical Model Checking of Dynamic Software Architectures.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9466,6 +9891,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteQTOBL16"
       },
       {
+        "title": "An Empirical Study on Collaborative Architecture Decision Making in Software Teams.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9490,6 +9916,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DasanayakeMAO16"
       },
       {
+        "title": "Using Hypergraph Clustering for Software Architecture Reconstruction of Data-Tier Software.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9514,6 +9941,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ErsoyKAS16"
       },
       {
+        "title": "Architectural Homeostasis in Self-Adaptive Software-Intensive Cyber-Physical Systems.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9542,6 +9970,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Gerostathopoulos16"
       },
       {
+        "title": "Evolution Style: Framework for Dynamic Evolution of Real-Time Software Architecture.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9562,6 +9991,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HassanQO16"
       },
       {
+        "title": "Retrofitting Controlled Dynamic Reconfiguration into the Architecture Description Language MontiArcAutomaton.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9590,6 +10020,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HeimKRRW16"
       },
       {
+        "title": "Towards an Architecture for an UI-Compositor for Multi-OS Environments.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9606,6 +10037,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HolsteinW16"
       },
       {
+        "title": "Inferring Architectural Evolution from Source Code Analysis - A Tool-Supported Approach for the Detection of Architectural Tactics.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9630,6 +10062,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KaptoEKT16"
       },
       {
+        "title": "A Long Way to Quality-Driven Pattern-Based Architecting.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9650,6 +10083,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MeCL16"
       },
       {
+        "title": "Formal Verification of Software-Intensive Systems Architectures Described with Piping and Instrumentation Diagrams.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9682,6 +10116,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Mesli-KesraouiK16"
       },
       {
+        "title": "Software Architecture Challenges and Emerging Research in Software-Intensive Systems-of-Systems.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9694,6 +10129,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Oquendo16"
       },
       {
+        "title": "Executing Software Architecture Descriptions with SysADL.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9714,6 +10150,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OquendoLB16"
       },
       {
+        "title": "Task-Specific Architecture Documentation for Developers - Why Separation of Concerns in Architecture Documentation is Counterproductive for Developers.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9730,6 +10167,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RostN16"
       },
       {
+        "title": "Consistent Inconsistency Management: A Concern-Driven Approach.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9754,6 +10192,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchenkhuizenWJC16"
       },
       {
+        "title": "Architecture Modeling and Analysis of Security in Android Systems.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9790,6 +10229,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchmerlGSBMCG16"
       },
       {
+        "title": "Software Architecture Design Reasoning: A Card Game to Help Novice Designers.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9814,6 +10254,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchriekWTB16"
       },
       {
+        "title": "Architecture Enforcement Concerns and Activities - An Expert Study.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9834,6 +10275,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchroderRS16"
       },
       {
+        "title": "Diversifying Software Architecture for Sustainability: A Value-Based Perspective.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9858,6 +10300,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SobhyBMK16"
       },
       {
+        "title": "The Disappearance of Technical Specifications in Web and Mobile Applications - A Survey Among Professionals.",
         "year": "2016",
         "authors": {
           "0": {
@@ -9874,6 +10317,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TheunissenH16"
       },
       {
+        "title": "Software Architecture - 10th European Conference, ECSA 2016, Copenhagen, Denmark, November 28 - December 2, 2016, Proceedings",
         "year": "2016",
         "authors": {
           "0": {
@@ -9896,6 +10340,7 @@
     ],
     "2015": [
       {
+        "title": "SmartyCo: Managing Cyber-Physical Systems for Smart Environments.",
         "year": "2015",
         "authors": {
           "0": {
@@ -9924,6 +10369,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/0002QDSV15"
       },
       {
+        "title": "Architectural Reasoning Support for Product-Lines of Self-adaptive Software Systems - A Case Study.",
         "year": "2015",
         "authors": {
           "0": {
@@ -9940,6 +10386,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbbasA15"
       },
       {
+        "title": "Towards a Framework for Building Adaptive App-Based Web Applications Using Dynamic Appification.",
         "year": "2015",
         "authors": {
           "0": {
@@ -9956,6 +10403,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AgrawalP15"
       },
       {
+        "title": "High-Level Language Support for Reconfiguration Control in Component-Based Architectures.",
         "year": "2015",
         "authors": {
           "0": {
@@ -9976,6 +10424,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlvaresRS15"
       },
       {
+        "title": "Tailoring the ATAM for Software Ecosystems.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10000,6 +10449,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AmorimMAC15"
       },
       {
+        "title": "An Approach to Software Architecting in Agile Software Development Projects in Education.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10016,6 +10466,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AngelovB15"
       },
       {
+        "title": "An Architecture-Centric Approach for Dynamic Smart Spaces.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10032,6 +10483,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BaresiS15"
       },
       {
+        "title": "The Layered Architecture Recovery as a Quadratic Assignment Problem.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10060,6 +10512,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BelleEDKM15"
       },
       {
+        "title": "Revisiting Architectural Tactics for Security.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10080,6 +10533,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FernandezAP15"
       },
       {
+        "title": "Understanding the Use of Reference Architectures in Agile Software Development Projects.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10096,6 +10550,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GalsterA15"
       },
       {
+        "title": "Meta-Adaptation Strategies for Adaptation in Cyber-Physical Systems.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10128,6 +10583,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Gerostathopoulos15"
       },
       {
+        "title": "Collecting Requirements and Ideas for Architectural Group Decision-Making Based on Four Approaches.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10144,6 +10600,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GroherW15"
       },
       {
+        "title": "(Automated) Software Modularization Using Community Detection.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10160,6 +10617,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HansenM15"
       },
       {
+        "title": "An Energy Consumption Perspective on Software Architecture - A Case Study on Architectural Change.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10192,6 +10650,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JagroepWSBVB15"
       },
       {
+        "title": "Opening the Ecosystem Flood Gates: Architecture Challenges of Opening Interfaces Within a Product Portfolio.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10204,6 +10663,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Jansen15"
       },
       {
+        "title": "Automatic Translation of Architecture Constraint Specifications into Components.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10232,6 +10692,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KallelTTDK15"
       },
       {
+        "title": "Learning Objectives for a Course on Software Architecture.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10248,6 +10709,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarW15"
       },
       {
+        "title": "Characterization of Cyber-Foraging Usage Contexts.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10264,6 +10726,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LewisL15"
       },
       {
+        "title": "On the Social Dimensions of Architectural Decisions.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10284,6 +10747,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MucciniTR15"
       },
       {
+        "title": "Software Architecture for the Cloud - A Roadmap Towards Control-Theoretic, Model-Based Cloud Architecture.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10300,6 +10764,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PahlJ15"
       },
       {
+        "title": "Modeling RESTful Conversations with Extended BPMN Choreography Diagrams.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10320,6 +10785,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PautassoIS15"
       },
       {
+        "title": "Design of a Domain-Specific Language Based on a Technology-Independent Web Service Framework.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10340,6 +10806,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RademacherPS15"
       },
       {
+        "title": "Distilling Best Practices for Agile Development from Architecture Methodology - Experiences from Industrial Application.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10368,6 +10835,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RostWNLS15"
       },
       {
+        "title": "Improving the Quality of Architecture Design Through Peer-Reviews and Recombination.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10384,6 +10852,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ShahinB15"
       },
       {
+        "title": "A Lean Automotive E/E-System Design Approach with Integrated Requirements Management Capability.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10408,6 +10877,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SporerMKB15"
       },
       {
+        "title": "Model-Based Energy Efficiency Analysis of Software Architectures.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10432,6 +10902,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/StierKGR15"
       },
       {
+        "title": "Using Feature Models for Distributed Deployment in Extended Smart Home Architecture.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10452,6 +10923,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TahriDP15"
       },
       {
+        "title": "Software Designers Satisfice.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10468,6 +10940,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TangV15"
       },
       {
+        "title": "Exploiting Traceability Uncertainty Between Software Architectural Models and Performance Analysis Results.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10488,6 +10961,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TrubianiGE15"
       },
       {
+        "title": "A Specialised Social Network Software Architecture for Efficient Household Water Use Management.",
         "year": "2015",
         "authors": {
           "0": {
@@ -10504,6 +10978,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WangC15"
       },
       {
+        "title": "Software Architecture - 9th European Conference, ECSA 2015, Dubrovnik/Cavtat, Croatia, September 7-11, 2015, Proceedings",
         "year": "2015",
         "authors": {
           "0": {
@@ -10526,6 +11001,7 @@
     ],
     "2014": [
       {
+        "title": "Interoperability-Related Architectural Problems and Solutions in Information Systems: A Scoping Study.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10546,6 +11022,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AbukwaikTR14"
       },
       {
+        "title": "Towards an Improved Stakeholder Management for Software Reference Architectures.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10562,6 +11039,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AngelovH14"
       },
       {
+        "title": "Semi-automated Design Guidance Enhancer (SADGE): A Framework for Architectural Guidance Development.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10578,6 +11056,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AnvaariZ14"
       },
       {
+        "title": "Layered Connectors - Revisiting the Formal Basis of Architectural Connection for Complex Distributed Systems.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10594,6 +11073,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BennaceurI14"
       },
       {
+        "title": "fUML-Driven Design and Performance Analysis of Software Agents for Wireless Sensor Network.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10614,6 +11094,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BerardinelliMP14"
       },
       {
+        "title": "Gossiping Components for Cyber-Physical Systems.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10646,6 +11127,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuresGHKKP14"
       },
       {
+        "title": "How Do Software Architects Specify and Validate Quality Requirements?",
         "year": "2014",
         "authors": {
           "0": {
@@ -10666,6 +11148,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CaraccioloLN14"
       },
       {
+        "title": "Architecture-Based Code Generation: From \u03c0-ADL Architecture Descriptions to Implementations in the Go Language.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10686,6 +11169,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteOB14"
       },
       {
+        "title": "Architectural Support for Model-Driven Performance Prediction of Distributed Real-Time Embedded Systems of Systems.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10710,6 +11194,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChiprianovFSP14"
       },
       {
+        "title": "Using Policies for Handling Complexity of Event-Driven Architectures.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10734,6 +11219,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FreudenreichAFB14"
       },
       {
+        "title": "A Property Description Framework for Composable Software.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10754,6 +11240,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FrommgenLB14"
       },
       {
+        "title": "Combining Architectural Design Decisions and Legacy System Evolution.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10774,6 +11261,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GerdesLR14"
       },
       {
+        "title": "Safety Perspective for Supporting Architectural Design of Safety-Critical Systems.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10794,6 +11282,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GurbuzTE14"
       },
       {
+        "title": "Recommending Refactorings to Re-establish Architectural Consistency.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10810,6 +11299,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HeroldM14"
       },
       {
+        "title": "Runtime Enforcement of Dynamic Security Policies.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10830,6 +11320,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HorcasPF14"
       },
       {
+        "title": "Adapting Enterprise Architecture at a Software Development Company and the Resultant Benefits.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10850,6 +11341,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JamrozPW14"
       },
       {
+        "title": "Multi-tenant Architecture Comparison.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10874,6 +11366,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KabbedijkPJB14"
       },
       {
+        "title": "Generating EAST-ADL Event Chains from Scenario-Based Requirements Specifications.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10894,6 +11387,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KochHD14"
       },
       {
+        "title": "Service Development and Architecture Management for an Enterprise SOA.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10914,6 +11408,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KriechbaumBW14"
       },
       {
+        "title": "Architecture Strategies for Cyber-Foraging: Preliminary Results from a Systematic Literature Review.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10934,6 +11429,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LewisLP14"
       },
       {
+        "title": "RA-Ubi: A Reference Architecture for Ubiquitous Computing.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10962,6 +11458,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MachadoSBLN14"
       },
       {
+        "title": "Towards a Coordination-Centric Architecture Metamodel for Social Web Applications.",
         "year": "2014",
         "authors": {
           "0": {
@@ -10982,6 +11479,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MusilMB14"
       },
       {
+        "title": "Ontology-Driven Pattern Selection and Matching in Software Design.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11002,6 +11500,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NoiaMS14"
       },
       {
+        "title": "Towards a Process to Design Architectures of Service-Oriented Robotic Systems.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11030,6 +11529,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraLFON14"
       },
       {
+        "title": "Effort Estimation for Architectural Refactoring to Introduce Module Isolation.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11054,6 +11554,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OzturkSSA14"
       },
       {
+        "title": "Specification and Detection of SOA Antipatterns in Web Services.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11078,6 +11579,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PalmaMTG14"
       },
       {
+        "title": "Integrating Service Matchers into a Service Market Architecture.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11098,6 +11600,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PlateniusBS14"
       },
       {
+        "title": "Suitability of Software Architecture Decision Making Methods for Group Decisions.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11114,6 +11617,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RekhaM14"
       },
       {
+        "title": "Enactment of Components Extracted from an Object-Oriented Application.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11134,6 +11638,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SeriaiSS14"
       },
       {
+        "title": "Modeling the Interactions between Decisions within Software Architecture Knowledge.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11150,6 +11655,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SolimanR14"
       },
       {
+        "title": "A Consistency Framework for Dynamic Reconfiguration in AO-Middleware Architectures.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11170,6 +11676,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SurajbaliGC14"
       },
       {
+        "title": "A Fresh Look at Codification Approaches for SAKM: A Systematic Literature Review.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11186,6 +11693,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WeinreichG14"
       },
       {
+        "title": "Scalable Architectures for Platform-as-a-Service Clouds: Performance and Cost Analysis.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11210,6 +11718,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/XiongFPM14"
       },
       {
+        "title": "Co-evolving Pattern Synthesis and Class Responsibility Assignment in Architectural Synthesis.",
         "year": "2014",
         "authors": {
           "0": {
@@ -11226,6 +11735,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/XuL14"
       },
       {
+        "title": "Software Architecture - 8th European Conference, ECSA 2014, Vienna, Austria, August 25-29, 2014. Proceedings",
         "year": "2014",
         "authors": {
           "0": {
@@ -11244,6 +11754,7 @@
     ],
     "2013": [
       {
+        "title": "The Role of Quality Attributes in Service-Based Systems Architecting: A Survey.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11268,6 +11779,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AmellerGAF13"
       },
       {
+        "title": "Software Reference Architectures - Exploring Their Usage and Design in Practice.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11288,6 +11800,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AngelovTK13"
       },
       {
+        "title": "Architectural Decision-Making in Enterprises: Preliminary Findings from an Exploratory Study in Norwegian Electricity Industry.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11308,6 +11821,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AnvaariCJ13"
       },
       {
+        "title": "Towards Continuous Reference Architecture Conformance Analysis.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11324,6 +11838,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BuchgeherW13"
       },
       {
+        "title": "Describing Cloud Applications Architectures.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11344,6 +11859,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CavalcanteMB13"
       },
       {
+        "title": "Towards a Bigraph-Based Model for Context-Aware Adaptive Systems.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11360,6 +11876,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CherfiaB13"
       },
       {
+        "title": "Specifying System Architecture from SysML Requirements and Component Interfaces.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11380,6 +11897,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChoualiCM13"
       },
       {
+        "title": "Architectural Slicing: Towards Automatic Harvesting of Architectural Prototypes.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11396,6 +11914,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenH13"
       },
       {
+        "title": "Towards an Architecture for Managing Big Semantic Data in Real-Time.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11416,6 +11935,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CuestaMF13"
       },
       {
+        "title": "Maintaining Architectural Conformance during Software Development: A Practical Approach.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11432,6 +11952,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DimechB13"
       },
       {
+        "title": "Characterising Software Platforms from an Architectural Perspective.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11452,6 +11973,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EklundOL13"
       },
       {
+        "title": "Towards a Multi-scale Modeling for Architectural Deployment Based on Bigraphs.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11472,6 +11994,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GassaraRJ13"
       },
       {
+        "title": "Swap Fairness for Thrashing Mitigation.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11492,6 +12015,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GoichonSF13"
       },
       {
+        "title": "Analysis Support for TADL2 Timing Constraints on EAST-ADL Models.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11516,6 +12040,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GoknilSPM13"
       },
       {
+        "title": "Controlled Experiment on the Supportive Effect of Architectural Component Diagrams for Design Understanding of Novice Architects.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11532,6 +12057,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HaitzerZ13"
       },
       {
+        "title": "MVIC - An MVC Extension for Interactive, Multimodal Applications.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11548,6 +12074,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HeseniusG13"
       },
       {
+        "title": "Architecture-Centric Modeling of Design Decisions for Validation and Traceability.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11560,6 +12087,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Kuster13"
       },
       {
+        "title": "SysADL: A SysML Profile for Software Architecture Description.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11580,6 +12108,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LeiteOB13"
       },
       {
+        "title": "Toward Industry Friendly Software Architecture Evaluation.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11596,6 +12125,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LiZ13"
       },
       {
+        "title": "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11616,6 +12146,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LytraTZ13"
       },
       {
+        "title": "Towards Extensive Software Architecture Erosion Repairs.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11632,6 +12163,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MairH13"
       },
       {
+        "title": "Benefits and Drawbacks of Reference Architectures.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11656,6 +12188,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Martinez-FernandezAFM13"
       },
       {
+        "title": "Classification of Design Decisions - An Expert Survey in Practice.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11672,6 +12205,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MiesbauerW13"
       },
       {
+        "title": "Concurrent Object-Oriented Development with Behavioral Design Patterns.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11696,6 +12230,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MorandiWNG13"
       },
       {
+        "title": "Team Situational Awareness and Architectural Decision Making with the Software Architecture Warehouse.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11712,6 +12247,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NowakP13"
       },
       {
+        "title": "Run-Time Support to Manage Architectural Variability Specified with CVL.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11732,6 +12268,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PascualPF13"
       },
       {
+        "title": "Towards an Optimized Software Architecture for Component Adaptation at Middleware Level.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11752,6 +12289,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PramsohlerSB13"
       },
       {
+        "title": "Software Architecture Documentation for Developers: A Survey.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11776,6 +12314,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RostNLC13"
       },
       {
+        "title": "PANDArch: A Pluggable Automated Non-intrusive Dynamic Architecture Conformance Checker.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11792,6 +12331,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB13"
       },
       {
+        "title": "A Lightweight Language for Software Product Lines Architecture Description.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11816,6 +12356,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SilvaMCB13"
       },
       {
+        "title": "Composition-Centered Architectural Pattern Description Language.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11840,6 +12381,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ThatSOB13"
       },
       {
+        "title": "Difficulty of Architectural Decisions - A Survey with Professional Architects.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11860,6 +12402,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TofanGA13"
       },
       {
+        "title": "Building Correct by Construction SOA Design Patterns: Modeling and Refinement.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11880,6 +12423,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TounsiKK13"
       },
       {
+        "title": "Making the Right Decision: Supporting Architects with Design Decision Data.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11896,6 +12440,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VenB13"
       },
       {
+        "title": "Claims and Evidence for Architecture-Based Self-adaptation: A Systematic Literature Review.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11912,6 +12457,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WeynsA13"
       },
       {
+        "title": "Towards Automated Deployment of Distributed Adaptation Systems.",
         "year": "2013",
         "authors": {
           "0": {
@@ -11928,6 +12474,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZouariR13"
       },
       {
+        "title": "Software Architecture - 7th European Conference, ECSA 2013, Montpellier, France, July 1-5, 2013. Proceedings",
         "year": "2013",
         "authors": {
           "0": {
@@ -11942,6 +12489,7 @@
     ],
     "2011": [
       {
+        "title": "Reverse Engineering Architectural Feature Models.",
         "year": "2011",
         "authors": {
           "0": {
@@ -11974,6 +12522,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AcherCCMDL11"
       },
       {
+        "title": "ReflexML: UML-Based Architecture-to-Code Traceability and Consistency Checking.",
         "year": "2011",
         "authors": {
           "0": {
@@ -11990,6 +12539,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AdersbergerP11"
       },
       {
+        "title": "An Architecture Analysis Approach for Supporting Black-Box Software Development.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12006,6 +12556,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AdmodisastroK11"
       },
       {
+        "title": "Towards Systematic Integration of Quality Requirements into Software Architecture.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12026,6 +12577,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AlebrahimHH11"
       },
       {
+        "title": "On How to Deal with Uncertainty When Architecting Embedded Software and Systems.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12038,6 +12590,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Axelsson11"
       },
       {
+        "title": "PL-AspectualACME: An Aspect-Oriented Architectural Description Language for Software Product Lines.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12062,6 +12615,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BarbosaBGS11"
       },
       {
+        "title": "Towards Real-Time Monitoring and Controlling of Enterprise Architectures Using Business Software Control Centers.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12082,6 +12636,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BruckmannGP11"
       },
       {
+        "title": "An Enhanced Architectural Knowledge Metamodel Linking Architectural Design Decisions to other Artifacts in the Software Engineering Lifecycle.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12110,6 +12665,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CapillaZZAK11"
       },
       {
+        "title": "Architecture-Based Run-Time Fault Diagnosis.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12134,6 +12690,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CasanovaSGA11"
       },
       {
+        "title": "Guiding Architects in Selecting Architectural Evolution Alternatives.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12154,6 +12711,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CiraciSA11"
       },
       {
+        "title": "DAMASCo: A Framework for the Automatic Composition of Component-Based and Service-Oriented Architectures.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12170,6 +12728,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CuboP11"
       },
       {
+        "title": "Software Is a Directed Multigraph.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12190,6 +12749,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DabrowskiST11"
       },
       {
+        "title": "A Constructive Approach to Compositional Architecture Design.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12206,6 +12766,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DeitersR11"
       },
       {
+        "title": "Software Language Engineering of Architectural Viewpoints.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12222,6 +12783,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DemirliT11"
       },
       {
+        "title": "Change Impact Analysis in Product-Line Architectures.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12246,6 +12808,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DiazPGW11"
       },
       {
+        "title": "An Architectural Approach to End User Orchestrations.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12274,6 +12837,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DwivediEFGS11"
       },
       {
+        "title": "Software Packaging Approaches - A Comparison Framework.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12290,6 +12854,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EbadA11"
       },
       {
+        "title": "A Self-adaptive Monitoring Framework for Component-Based Software Systems.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12306,6 +12871,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EhlersH11"
       },
       {
+        "title": "Autonomic Computing Driven by Feature Models and Architecture in FamiWare.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12326,6 +12892,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GamezFA11"
       },
       {
+        "title": "Verifying Composite Service Transactional Behavior with EVENT-B.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12354,6 +12921,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HamelGKBG11"
       },
       {
+        "title": "An Architecture-Based Verification Technique for AADL Specifications.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12374,6 +12942,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JohnsenPL11"
       },
       {
+        "title": "Extending UML Components to Develop Software Product-Line Architectures: Lessons Learned.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12414,6 +12983,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JrCCGOFMG11"
       },
       {
+        "title": "Towards a Model-Based Approach for Reconfigurable DRE Systems.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12438,6 +13008,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KrichenHZJ11"
       },
       {
+        "title": "Resource Management in the Air Traffic Domain.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12462,6 +13033,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LulliMPR11"
       },
       {
+        "title": "Performance Simulation of Runtime Reconfigurable Component-Based Software Architectures.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12482,6 +13054,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MassowHH11"
       },
       {
+        "title": "A Question-Based Method for Deriving Software Architectures.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12502,6 +13075,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MullerKG11"
       },
       {
+        "title": "Enhancing Architecture Design Methods for Improved Flexibility in Long-Living Information Systems.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12514,6 +13088,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Naab11"
       },
       {
+        "title": "Reference Architecture and Product Line Architecture: A Subtle But Critical Difference.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12534,6 +13109,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NakagawaAB11"
       },
       {
+        "title": "Using Model Transformation Techniques for the Superimposition of Architectural Styles.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12558,6 +13134,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NavarroCPR11"
       },
       {
+        "title": "A Service-Oriented Reference Architecture for Software Testing Tools.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12574,6 +13151,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraN11"
       },
       {
+        "title": "Dynamically Reconfigurable Resource-Aware Component Framework: Architecture and Concepts.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12598,6 +13176,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OrlicDML11"
       },
       {
+        "title": "A Reusable Business Tier Component with a Single Wide Range Static Interface.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12618,6 +13197,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PereiraAS11"
       },
       {
+        "title": "Runtime Performance Management of Information Broker-Based Adaptive Applications.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12634,6 +13214,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PurhonenS11"
       },
       {
+        "title": "From EAST-ADL to AUTOSAR Software Architecture: A Mapping Scheme.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12658,6 +13239,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/QureshiCLT11"
       },
       {
+        "title": "Decouplink: Dynamic Links for Java.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12674,6 +13256,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RytterJ11"
       },
       {
+        "title": "Web-Scale Human Task Management.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12686,6 +13269,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Schulte11"
       },
       {
+        "title": "A Model for Specifying Rationale Using an Architecture Description Language.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12702,6 +13286,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SilvaB11"
       },
       {
+        "title": "Design and Evaluation of a Process for Identifying Architecture Patterns in Open Source Software.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12722,6 +13307,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/StolAB11"
       },
       {
+        "title": "Supporting Communication and Cooperation in Global Software Development with Agile Service Networks.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12738,6 +13324,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TamburriL11"
       },
       {
+        "title": "Defining Architectural Viewpoints for Quality Concerns.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12754,6 +13341,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TekinerdoganS11"
       },
       {
+        "title": "Supervising the Evolution of Web Service Orchestrations Using Quality Requirements.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12770,6 +13358,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineZ11"
       },
       {
+        "title": "Aspect-Connectors to Support the Evolution of Component-Based Product Line Architectures: A Comparative Study.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12786,6 +13375,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TizzeiR11"
       },
       {
+        "title": "Reducing Architectural Knowledge Vaporization by Applying the Repertory Grid Technique.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12806,6 +13396,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TofanGA11"
       },
       {
+        "title": "Capturing Architecture Evolution with Maps of Architectural Decisions 2.0.",
         "year": "2011",
         "authors": {
           "0": {
@@ -12826,6 +13417,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiKS11"
       },
       {
+        "title": "Software Architecture - 5th European Conference, ECSA 2011, Essen, Germany, September 13-16, 2011. Proceedings",
         "year": "2011",
         "authors": {
           "0": {
@@ -12848,6 +13440,7 @@
     ],
     "2010": [
       {
+        "title": "MDA Tool for Telecom Service Functional Design.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12868,6 +13461,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AhujaSN10"
       },
       {
+        "title": "Context-Aware Quality Model Driven Approach: A New Approach for Quality Control in Pervasive Computing Environments.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12888,6 +13482,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AltiBR10"
       },
       {
+        "title": "Identity Management Mismatch Challenges in the Danish Municipality Administration System.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12904,6 +13499,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AndersenC10"
       },
       {
+        "title": "A Framework for Dynamic Self-optimization of Power and Dependability Requirements in Green Cloud Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12916,6 +13512,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Bahsoon10"
       },
       {
+        "title": "A NUI Based Multiple Perspective Variability Modeling CASE Tool.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12928,6 +13525,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Bashroush10"
       },
       {
+        "title": "Explaining Architectural Choices to Non-architects.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12944,6 +13542,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BerniniT10"
       },
       {
+        "title": "Facilitating the Selection of Architectural Patterns by Means of a Marked Requirements Model.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12964,6 +13563,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BerrocalGM10"
       },
       {
+        "title": "Impact Evaluation for Quality-Oriented Architectural Decisions regarding Evolvability.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12980,6 +13580,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BodeR10"
       },
       {
+        "title": "Architecture in the Age of Compositionality.",
         "year": "2010",
         "authors": {
           "0": {
@@ -12992,6 +13593,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Bosch10"
       },
       {
+        "title": "Functional Architecture Modeling for the Software Product Industry.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13008,6 +13610,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BrinkkemperP10"
       },
       {
+        "title": "An Architectural Blueprint for Model Driven Development and Maintenance of Business Logic for Information Systems.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13024,6 +13627,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BruckmannG10"
       },
       {
+        "title": "Software Architecture Recovery Process Based on Object-Oriented Source Code and Documentation.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13040,6 +13644,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChardignyS10"
       },
       {
+        "title": "Lightweight and Continuous Architectural Software Quality Assurance Using the aSQA Technique.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13060,6 +13665,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenHL10"
       },
       {
+        "title": "A Classification of Value for Software Architecture Decisions.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13076,6 +13682,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EklundA10"
       },
       {
+        "title": "Using Domain Knowledge to Boost Software Architecture Evaluation.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13092,6 +13699,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ElorantaK10"
       },
       {
+        "title": "On the Role of Architectural Styles in Improving the Adaptation Support of Middleware Platforms.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13108,6 +13716,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/EsfahaniM10"
       },
       {
+        "title": "A Model for Dynamic Reconfiguration in Service-Oriented Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13124,6 +13733,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FiadeiroL10"
       },
       {
+        "title": "Naive Architecting - Understanding the Reasoning Process of Students - A Descriptive Survey.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13140,6 +13750,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HeeschA10"
       },
       {
+        "title": "Many to Many Service Discovery: A First Approach.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13156,6 +13767,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Hock-koonO10"
       },
       {
+        "title": "Specifying Loose Coupling from Existing Service Composition Approaches.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13172,6 +13784,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Hock-koonO10a"
       },
       {
+        "title": "Customer Value in Architecture Decision Making.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13188,6 +13801,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/IvanovicA10"
       },
       {
+        "title": "Dynamic Architectural Constraints Monitoring and Reconfiguration in Service Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13208,6 +13822,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/JohnWP10"
       },
       {
+        "title": "A Formal Approach to Enforcing Consistency in Self-adaptive Systems.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13228,6 +13843,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KacemKD10"
       },
       {
+        "title": "Mining Relationships between the Participants of Architectural Patterns.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13244,6 +13860,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KamalA10"
       },
       {
+        "title": "Ontological Analysis for Generating Baseline Architectural Descriptions.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13260,6 +13877,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarJ10"
       },
       {
+        "title": "Identifying Architectural Connectors through Formal Concept Analysis of Communication Primitives.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13276,6 +13894,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KiwelekarJ10a"
       },
       {
+        "title": "Linking Design Decisions to Design Models in Model-Based Software Development.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13292,6 +13911,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KonemannZ10"
       },
       {
+        "title": "Where Did All This Good Architectural Knowledge Go?",
         "year": "2010",
         "authors": {
           "0": {
@@ -13304,6 +13924,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Kruchten10"
       },
       {
+        "title": "Expert Activities Automation through Enhanced Business Services Orchestration.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13320,6 +13941,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KrupaviciuteF10"
       },
       {
+        "title": "On the Need of Safe Software Product Line Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13336,6 +13958,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Lopez-HerrejonE10"
       },
       {
+        "title": "Toward an Aspect Oriented ADL for Embedded Systems.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13360,6 +13983,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LoukilKZJ10"
       },
       {
+        "title": "Towards Architecture-Centric Software Generation.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13388,6 +14012,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LungBSEG10"
       },
       {
+        "title": "Learning from the Cell Life-Cycle: A Self-adaptive Paradigm.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13412,6 +14037,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MarcoGII10"
       },
       {
+        "title": "Reference Models and Reference Architectures Based on Service-Oriented Architecture: A Systematic Review.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13436,6 +14062,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OliveiraFFN10"
       },
       {
+        "title": "Dynamic Adaptive Service Architecture - Towards Coordinated Service Composition.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13448,6 +14075,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Pahl10"
       },
       {
+        "title": "Feature-Based Composition of Software Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13472,6 +14100,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ParraCBD10"
       },
       {
+        "title": "Flexible Working Architectures: Agile Architecting Using PPCs.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13496,6 +14125,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PerezDGA10"
       },
       {
+        "title": "An Architectural Approach to Composing Reputation-Based Distributed Services.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13516,6 +14146,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PhoomvuthisarnLZ10"
       },
       {
+        "title": "Modelling Changes and Data Transfers for Architecture-Based Runtime Evolution of Distributed Applications.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13544,6 +14175,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Phung-KhacGSBK10"
       },
       {
+        "title": "Experiences from Scenario-Based Architecture Evaluations with ATAM.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13564,6 +14196,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ReijonenKH10"
       },
       {
+        "title": "ByADL: An MDE Framework for Building Extensible Architecture Description Languages.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13592,6 +14225,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RuscioMMPP10"
       },
       {
+        "title": "Independently Extensibile Contexts.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13608,6 +14242,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RytterJ10"
       },
       {
+        "title": "Architecting a Model-Driven Aspect-Oriented Product Line for a Digital TV Middleware: A Refactoring Experience.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13656,6 +14291,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SaraivaPBDPKAFMS10"
       },
       {
+        "title": "Assessing the Impact of AOSD on Layered Software Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13676,6 +14312,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SaraivaSF10"
       },
       {
+        "title": "Experiences in Making Architectural Decisions during the Development of a New Base Station Platform.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13700,6 +14337,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SavolainenKMN10"
       },
       {
+        "title": "Automated Detection of Least Privilege Violations in Software Architectures.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13720,6 +14358,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ScandariatoBJ10"
       },
       {
+        "title": "Communicating Architectural Knowledge: Requirements for Software Architecture Knowledge Management Tools.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13736,6 +14375,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SchwittekE10"
       },
       {
+        "title": "Mediating Connector Patterns for Components Interoperability.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13752,6 +14392,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SpalazzeseI10"
       },
       {
+        "title": "An ADL-Approach to Specifying and Analyzing Centralized-Mode Architectural Connection.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13772,6 +14413,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SuYZ10"
       },
       {
+        "title": "Software Architecture Constraints as Customizable, Reusable and Composable Entities.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13796,6 +14438,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineDSF10"
       },
       {
+        "title": "From Web Components to Web Services: Opening Development for Third Parties.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13812,6 +14455,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TibermacineK10"
       },
       {
+        "title": "BeeEye: A Framework for Constructing Architectural Views.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13836,6 +14480,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/VerjusCRD10"
       },
       {
+        "title": "REST in Practice.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13848,6 +14493,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Webber10"
       },
       {
+        "title": "Integrating Requirements and Design Decisions in Architecture Representation.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13864,6 +14510,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/WeinreichB10"
       },
       {
+        "title": "Architecture Decision-Making in Support of Complexity Control.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13880,6 +14527,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiK10"
       },
       {
+        "title": "Architecture-Centric Component-Based Development Needs a Three-Level ADL.",
         "year": "2010",
         "authors": {
           "0": {
@@ -13900,6 +14548,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZhangUV10"
       },
       {
+        "title": "Software Architecture, 4th European Conference, ECSA 2010, Copenhagen, Denmark, August 23-26, 2010. Proceedings",
         "year": "2010",
         "authors": {
           "0": {
@@ -13918,6 +14567,7 @@
     ],
     "2008": [
       {
+        "title": "Towards a Method for the Evaluation of Reference Architectures: Experiences from a Case.",
         "year": "2008",
         "authors": {
           "0": {
@@ -13938,6 +14588,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AngelovTG08"
       },
       {
+        "title": "Transition to Service-Oriented Enterprise Architecture.",
         "year": "2008",
         "authors": {
           "0": {
@@ -13954,6 +14605,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/AssmannE08"
       },
       {
+        "title": "Component-Oriented Verification of Software Architectures through Built-in Tests.",
         "year": "2008",
         "authors": {
           "0": {
@@ -13966,6 +14618,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Atkinson08"
       },
       {
+        "title": "On the Interplay of Aspects and Dynamic Reconfiguration in a Specification-to-Deployment Environment.",
         "year": "2008",
         "authors": {
           "0": {
@@ -13994,6 +14647,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BatistaGCCG08"
       },
       {
+        "title": "Non-synchronous Communications in Process Algebraic Architectural Description Languages.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14010,6 +14664,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BernardoB08"
       },
       {
+        "title": "Characterizing Relations between Architectural Views.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14038,6 +14693,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BouckeWHHH08"
       },
       {
+        "title": "Development of Fault-Tolerant Software Systems Based on Architectural Abstractions.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14058,6 +14714,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/BritoLR08"
       },
       {
+        "title": "On the Role of Architectural Design Decisions in Software Product Line Engineering.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14074,6 +14731,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/CapillaB08"
       },
       {
+        "title": "Search-Based Extraction of Component-Based Architecture from Object-Oriented Systems.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14098,6 +14756,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChardignySOT08"
       },
       {
+        "title": "A Security Model for Internet-Based Digital Asset Management Systems.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14122,6 +14781,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChatzigiannakisLSS08"
       },
       {
+        "title": "Architectural Prototyping in Industrial Practice.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14138,6 +14798,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ChristensenH08"
       },
       {
+        "title": "Domain Ontology-Based Generative Component Design Using Feature Diagrams and Meta-programming Techniques.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14158,6 +14819,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/DamaseviciusST08"
       },
       {
+        "title": "Extending the ANSI/SPARC Architecture Database with Explicit Data Semantics: An Ontology-Based Approach.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14182,6 +14844,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FankamJBA08"
       },
       {
+        "title": "Evaluating Domain Design Approaches Using Systematic Review.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14218,6 +14881,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/FilhoCNOLAM08"
       },
       {
+        "title": "A Large Scope Transformational Approach for Distributed Architecture Design.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14238,6 +14902,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/GilsonEM08"
       },
       {
+        "title": "L-DSMS - A Local Data Stream Management System.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14258,6 +14923,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/HanselOS08"
       },
       {
+        "title": "Modeling Architectural Patterns&apos; Behavior Using Architectural Primitives.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14274,6 +14940,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/KamalA08"
       },
       {
+        "title": "An Architecture-Centric Development Environment for Black-Box Component-Based Systems.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14286,6 +14953,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Kotonya08"
       },
       {
+        "title": "Visualizing Software Architectural Design Decisions.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14302,6 +14970,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LeeK08"
       },
       {
+        "title": "Web Services Domain Analysis Based on Quality Standards.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14322,6 +14991,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/LosavioMR08"
       },
       {
+        "title": "Automating Architecture Trade-Off Decision Making through a Complex Multi-attribute Decision Process.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14342,6 +15012,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MakkiBG08"
       },
       {
+        "title": "How Do Agents Affect Modifiability? A Comparison between Two Architectures for Intelligent Virtual Environments for Training.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14358,6 +15029,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MendezA08"
       },
       {
+        "title": "TADL - An Architecture Description Language for Trustworthy Component-Based Systems.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14374,6 +15046,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MohammadA08"
       },
       {
+        "title": "Web Services Orchestrations Evolution: A Merge Process for Behavioral Evolution.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14394,6 +15067,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MosserBR08"
       },
       {
+        "title": "Approach for Dynamically Composing Decentralised Service Architectures with Cross-Cutting Constraints.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14422,6 +15096,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/MyllarniemiPRGM08"
       },
       {
+        "title": "Automating the Trace of Architectural Design Decisions and Rationales Using a MDD Approach.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14438,6 +15113,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/NavarroC08"
       },
       {
+        "title": "Towards Interoperability in Component Based Development with a Family of DSLs.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14462,6 +15138,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/OberDFP08"
       },
       {
+        "title": "Issues in Architecture Evolution: Using Design Intent in Maintenance and Controlling Dynamic Evolution.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14474,6 +15151,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Perry08"
       },
       {
+        "title": "Towards a Software Process for Aspect-Oriented Modeling of Quality Attributes.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14490,6 +15168,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/PintoF08"
       },
       {
+        "title": "Stakeholder Perception of Enterprise Architecture.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14510,6 +15189,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RaadtSV08"
       },
       {
+        "title": "Facets of Adaptivity.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14522,6 +15202,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/Raibulet08"
       },
       {
+        "title": "An Iterative Framework for Software Architecture Recovery: An Experience Report.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14538,6 +15219,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/RoyG08"
       },
       {
+        "title": "Representing Service-Oriented Architectural Models Using pi-ADL.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14566,6 +15248,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SanzQCMO08"
       },
       {
+        "title": "Managing Dynamic Evolution of Architectural Types.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14586,6 +15269,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/SoriaPC08"
       },
       {
+        "title": "Towards Independent Software Architecture Review.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14606,6 +15290,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TangKL08"
       },
       {
+        "title": "Towards a Dependency Constraint Language to Manage Software Architectures.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14622,6 +15307,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/TerraV08"
       },
       {
+        "title": "Diagrammatic Modeling of Architectural Decisions.",
         "year": "2008",
         "authors": {
           "0": {
@@ -14638,6 +15324,7 @@
         "url": "https://dblp.org/rec/conf/ecsa/ZalewskiL08"
       },
       {
+        "title": "Software Architecture, Second European Conference, ECSA 2008, Paphos, Cyprus, September 29 - October 1, 2008, Proceedings",
         "year": "2008",
         "authors": {
           "0": {

@@ -39,7 +39,6 @@ def gender_map_names(venue):
 
             # Set the authors to the new, genderized authors 
             paper["authors"] = genderized_authors
-            del paper["title"]
         
         with open(cache_path, "w") as f:
             json.dump(data, f, indent=2)
