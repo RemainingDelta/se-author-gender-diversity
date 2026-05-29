@@ -1,7 +1,7 @@
 lint:
 	ruff check src/
 
-format:
+fix:
 	ruff format src/
 
 ci:
