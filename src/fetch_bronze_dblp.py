@@ -5,67 +5,71 @@ import time
 from datetime import datetime
 
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
-YEARS  = range(2008, 2024)
-OUT    = "data/bronze/dblp"
+YEARS = range(2008, 2024)
+OUT = "data/bronze/dblp"
 
 os.makedirs(OUT, exist_ok=True)
 
+
 def fetch_all_papers(venue, retries=3):
     all_papers = []
-    page_size  = 1000
-    start      = 0
-    total      = None
+    page_size = 1000
+    start = 0
+    total = None
 
     while True:
         params = {
-            "q":      f"venue:{venue}:",
+            "q": f"venue:{venue}:",
             "format": "json",
-            "h":      page_size,
-            "f":      start,
+            "h": page_size,
+            "f": start,
         }
 
         for attempt in range(retries):
             res = requests.get("https://dblp.org/search/publ/api", params=params)
 
             if res.status_code != 200:
-                print(f"    HTTP {res.status_code} — retrying ({attempt+1}/{retries})")
-                time.sleep(2 ** attempt)
+                print(
+                    f"    HTTP {res.status_code} — retrying ({attempt + 1}/{retries})"
+                )
+                time.sleep(2**attempt)
                 continue
 
             if not res.text.strip():
-                print(f"    Empty response — retrying ({attempt+1}/{retries})")
-                time.sleep(2 ** attempt)
+                print(f"    Empty response — retrying ({attempt + 1}/{retries})")
+                time.sleep(2**attempt)
                 continue
 
             try:
-                data  = res.json()
-                hits  = data["result"]["hits"].get("hit", [])
+                data = res.json()
+                hits = data["result"]["hits"].get("hit", [])
                 total = int(data["result"]["hits"].get("@total", 0))
 
                 for hit in hits:
-                    info    = hit["info"]
+                    info = hit["info"]
                     authors = info.get("authors", {}).get("author", [])
                     if isinstance(authors, dict):
                         authors = [authors]
                     raw_names = [
-                        a["text"] if isinstance(a, dict) else a
-                        for a in authors
+                        a["text"] if isinstance(a, dict) else a for a in authors
                     ]
-                    all_papers.append({
-                        "title":   info.get("title"),
-                        "year":    info.get("year"),
-                        "authors": raw_names,
-                        "doi":     info.get("doi"),    # ← added
-                        "ee":      info.get("ee"),     # ← added as fallback
-                        "url":     info.get("url"),
-                    })
+                    all_papers.append(
+                        {
+                            "title": info.get("title"),
+                            "year": info.get("year"),
+                            "authors": raw_names,
+                            "doi": info.get("doi"),  # ← added
+                            "ee": info.get("ee"),  # ← added as fallback
+                            "url": info.get("url"),
+                        }
+                    )
 
                 print(f"    fetched {start + len(hits)} / {total}")
                 break
 
             except Exception as e:
-                print(f"    Parse error: {e} — retrying ({attempt+1}/{retries})")
-                time.sleep(2 ** attempt)
+                print(f"    Parse error: {e} — retrying ({attempt + 1}/{retries})")
+                time.sleep(2**attempt)
         else:
             print(f"    Failed after {retries} attempts, stopping pagination")
             break
@@ -96,9 +100,9 @@ def fetch_venue(venue):
             by_year.setdefault(year, []).append(paper)
 
     cache = {
-        "venue":      venue,
+        "venue": venue,
         "fetched_at": datetime.now().isoformat(),
-        "years":      by_year,
+        "years": by_year,
     }
 
     with open(cache_path, "w") as f:
