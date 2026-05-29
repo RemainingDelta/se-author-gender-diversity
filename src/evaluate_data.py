@@ -11,7 +11,6 @@ OUT = "data/silver"
 
 def gender_map_names(venue):
     detector = gender.Detector()
-    names = {}
     cache_path = f"{OUT}/{venue}.json"
 
     if os.path.exists(cache_path):
