@@ -9,8 +9,8 @@ OUTPUT_DIR = Path("data/bronze/openalex_topics")
 OPENALEX_URL = "https://api.openalex.org/works"
 HEADERS = {"User-Agent": "gender-diversity-study/1.0 (your@email.com)"}
 BATCH_SIZE = 50
-BATCH_SLEEP = 1.0   # seconds between OpenAlex requests
-FILE_SLEEP = 0.5    # seconds between venue files
+BATCH_SLEEP = 1.0  # seconds between OpenAlex requests
+FILE_SLEEP = 0.5  # seconds between venue files
 
 
 def normalise_doi(doi: str) -> str:
