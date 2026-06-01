@@ -16,7 +16,7 @@ if __name__ == "__main__":
             for i in range(len(paper["authors"])):
                 author_name = paper["authors"][i]
                 author_set.add(author_name)
-    
+
     sample = list(itertools.islice(author_set, 100))
 
     with open(write_path, "w") as f:

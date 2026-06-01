@@ -50,7 +50,7 @@ def gender_map_names(venue):
 
         with open(cache_path, "w") as f:
             json.dump(data, f, indent=2)
-
+            
 
 if __name__ == "__main__":
     for venue in VENUES:
