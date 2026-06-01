@@ -1,4 +1,5 @@
 import json
+import re
 import os
 import gender_guesser.detector as gender
 
@@ -30,6 +31,15 @@ def gender_map_names(venue):
 
             for i in range(len(paper["authors"])):
                 author_name = paper["authors"][i]
+
+                # --- Clean data ---
+                # fix apostrophe error
+                author_name = author_name.replace("&apos;", "'")
+
+                # remove any trailing ID numbers
+                author_name = re.sub(" \d{4}", "", author_name)
+
+                # assign result to new author format
                 first_name = author_name.split(" ")[0]
 
                 genderized_authors[i] = {
