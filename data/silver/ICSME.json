@@ -8,7 +8,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Walter Lucas 0001",
+            "name": "Walter Lucas",
             "gender": "male"
           },
           "1": {
@@ -29,7 +29,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Carlos Galindo 0002",
+            "name": "Carlos Galindo",
             "gender": "male"
           },
           "1": {
@@ -37,7 +37,7 @@
             "gender": "female"
           },
           "2": {
-            "name": "Sergio P\u00e9rez 0001",
+            "name": "Sergio P\u00e9rez",
             "gender": "male"
           },
           "3": {
@@ -54,7 +54,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Mingwei Liu 0002",
+            "name": "Mingwei Liu",
             "gender": "unknown"
           },
           "1": {
@@ -62,7 +62,7 @@
             "gender": "female"
           },
           "2": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "3": {
@@ -225,7 +225,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Bihuan Chen 0001",
+            "name": "Bihuan Chen",
             "gender": "unknown"
           },
           "2": {
@@ -237,7 +237,7 @@
             "gender": "andy"
           },
           "4": {
-            "name": "Kaifeng Huang 0001",
+            "name": "Kaifeng Huang",
             "gender": "unknown"
           },
           "5": {
@@ -245,7 +245,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           }
         },
@@ -417,7 +417,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Bin Lin 0008",
+            "name": "Bin Lin",
             "gender": "andy"
           },
           "3": {
@@ -513,7 +513,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Michael Pfeiffer 0005",
+            "name": "Michael Pfeiffer",
             "gender": "male"
           },
           "5": {
@@ -559,7 +559,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Takashi Kobayashi 0001",
+            "name": "Takashi Kobayashi",
             "gender": "male"
           },
           "2": {
@@ -588,7 +588,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Karim Ali 0001",
+            "name": "Karim Ali",
             "gender": "male"
           },
           "4": {
@@ -654,7 +654,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Christoph Seidl 0001",
+            "name": "Christoph Seidl",
             "gender": "male"
           },
           "2": {
@@ -662,7 +662,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -687,11 +687,11 @@
             "gender": "male"
           },
           "3": {
-            "name": "Tao Yue 0002",
+            "name": "Tao Yue",
             "gender": "andy"
           },
           "4": {
-            "name": "Shaukat Ali 0001",
+            "name": "Shaukat Ali",
             "gender": "unknown"
           },
           "5": {
@@ -716,7 +716,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Jian Dong 0010",
+            "name": "Jian Dong",
             "gender": "andy"
           },
           "2": {
@@ -761,11 +761,11 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Xuan-Bach Dinh Le 0001",
+            "name": "Xuan-Bach Dinh Le",
             "gender": "unknown"
           },
           "7": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -812,11 +812,11 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Abhishek Kumar 0016",
+            "name": "Abhishek Kumar",
             "gender": "unknown"
           },
           "1": {
-            "name": "Partha Pratim Das 0001",
+            "name": "Partha Pratim Das",
             "gender": "unknown"
           },
           "2": {
@@ -837,7 +837,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Jinqiu Yang 0001",
+            "name": "Jinqiu Yang",
             "gender": "unknown"
           }
         },
@@ -854,7 +854,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Mohamed Soliman 0001",
+            "name": "Mohamed Soliman",
             "gender": "male"
           },
           "2": {
@@ -916,7 +916,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Jos\u00e9 Cano 0001",
+            "name": "Jos\u00e9 Cano",
             "gender": "male"
           },
           "3": {
@@ -937,7 +937,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           },
           "2": {
@@ -1025,7 +1025,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Simone Romano 0001",
+            "name": "Simone Romano",
             "gender": "female"
           },
           "2": {
@@ -1083,7 +1083,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Tushar Sharma 0001",
+            "name": "Tushar Sharma",
             "gender": "unknown"
           }
         },
@@ -1117,7 +1117,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Iftekhar Ahmed 0001",
+            "name": "Iftekhar Ahmed",
             "gender": "unknown"
           },
           "3": {
@@ -1304,7 +1304,7 @@
             "gender": "male"
           },
           "7": {
-            "name": "Tushar Sharma 0001",
+            "name": "Tushar Sharma",
             "gender": "unknown"
           }
         },
@@ -1325,7 +1325,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           }
         },
@@ -1358,7 +1358,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           }
         },
@@ -1446,11 +1446,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Shu Wang 0004",
+            "name": "Shu Wang",
             "gender": "andy"
           },
           "2": {
-            "name": "Xinda Wang 0001",
+            "name": "Xinda Wang",
             "gender": "unknown"
           },
           "3": {
@@ -1462,7 +1462,7 @@
             "gender": "female"
           },
           "5": {
-            "name": "Kun Sun 0001",
+            "name": "Kun Sun",
             "gender": "andy"
           }
         },
@@ -1479,7 +1479,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Markus Wagner 0007",
+            "name": "Markus Wagner",
             "gender": "male"
           },
           "2": {
@@ -1530,7 +1530,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Yanlin Wang 0001",
+            "name": "Yanlin Wang",
             "gender": "unknown"
           },
           "1": {
@@ -1558,11 +1558,11 @@
             "gender": "unknown"
           },
           "7": {
-            "name": "Hui Li 0057",
+            "name": "Hui Li",
             "gender": "andy"
           },
           "8": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           },
           "9": {
@@ -1621,15 +1621,15 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Zheng Li 0002",
+            "name": "Zheng Li",
             "gender": "andy"
           },
           "2": {
-            "name": "Yong Liu 0030",
+            "name": "Yong Liu",
             "gender": "mostly_male"
           },
           "3": {
-            "name": "Xiang Chen 0005",
+            "name": "Xiang Chen",
             "gender": "andy"
           },
           "4": {
@@ -1658,7 +1658,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Heng Li 0007",
+            "name": "Heng Li",
             "gender": "andy"
           },
           "4": {
@@ -1696,11 +1696,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Dan Hao 0001",
+            "name": "Dan Hao",
             "gender": "male"
           },
           "2": {
-            "name": "Lu Zhang 0023",
+            "name": "Lu Zhang",
             "gender": "andy"
           }
         },
@@ -1713,7 +1713,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Xin Zhou 0014",
+            "name": "Xin Zhou",
             "gender": "andy"
           },
           "1": {
@@ -1725,7 +1725,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Zhou Yang 0003",
+            "name": "Zhou Yang",
             "gender": "andy"
           },
           "4": {
@@ -1733,7 +1733,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -1756,7 +1756,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Zhuo Zhang 0007",
+            "name": "Zhuo Zhang",
             "gender": "andy"
           },
           "1": {
@@ -1768,11 +1768,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Meng Yan 0001",
+            "name": "Meng Yan",
             "gender": "andy"
           },
           "4": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           }
         },
@@ -1789,11 +1789,11 @@
             "gender": "female"
           },
           "1": {
-            "name": "Shaowei Wang 0002",
+            "name": "Shaowei Wang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Haoxiang Zhang 0001",
+            "name": "Haoxiang Zhang",
             "gender": "unknown"
           },
           "3": {
@@ -1801,7 +1801,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Yuan Tian 0008",
+            "name": "Yuan Tian",
             "gender": "andy"
           }
         },
@@ -1898,7 +1898,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Bruno Rossi 0001",
+            "name": "Bruno Rossi",
             "gender": "male"
           },
           "2": {
@@ -2118,7 +2118,7 @@
             "gender": "andy"
           },
           "5": {
-            "name": "Lu Wang 0014",
+            "name": "Lu Wang",
             "gender": "andy"
           },
           "6": {
@@ -2289,7 +2289,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Ting Zhang 0011",
+            "name": "Ting Zhang",
             "gender": "andy"
           },
           "2": {
@@ -2297,7 +2297,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "4": {
@@ -2418,7 +2418,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Eunseok Lee 0001",
+            "name": "Eunseok Lee",
             "gender": "unknown"
           }
         },
@@ -2539,7 +2539,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Rui Abreu 0001",
+            "name": "Rui Abreu",
             "gender": "male"
           },
           "2": {
@@ -2622,7 +2622,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Heng Li 0007",
+            "name": "Heng Li",
             "gender": "andy"
           }
         },
@@ -2743,11 +2743,11 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Xuan-Bach Dinh Le 0001",
+            "name": "Xuan-Bach Dinh Le",
             "gender": "unknown"
           },
           "5": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "6": {
@@ -2772,7 +2772,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Bin Lin 0008",
+            "name": "Bin Lin",
             "gender": "andy"
           },
           "3": {
@@ -2780,7 +2780,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "5": {
@@ -2838,7 +2838,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Mart\u00edn Varela 0001",
+            "name": "Mart\u00edn Varela",
             "gender": "male"
           }
         },
@@ -2922,7 +2922,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Chao Peng 0002",
+            "name": "Chao Peng",
             "gender": "andy"
           },
           "1": {
@@ -2943,7 +2943,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Chao Peng 0002",
+            "name": "Chao Peng",
             "gender": "andy"
           },
           "1": {
@@ -3010,11 +3010,11 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Kui Liu 0001",
+            "name": "Kui Liu",
             "gender": "andy"
           },
           "3": {
-            "name": "Bo Lin 0011",
+            "name": "Bo Lin",
             "gender": "male"
           },
           "4": {
@@ -3022,7 +3022,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "6": {
@@ -3047,7 +3047,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Csaba Nagy 0001",
+            "name": "Csaba Nagy",
             "gender": "male"
           },
           "2": {
@@ -3055,7 +3055,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -3326,11 +3326,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Yao Zhang 0009",
+            "name": "Yao Zhang",
             "gender": "andy"
           },
           "4": {
-            "name": "Shanshan Li 0001",
+            "name": "Shanshan Li",
             "gender": "unknown"
           },
           "5": {
@@ -3388,15 +3388,15 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xiwei Xu 0001",
+            "name": "Xiwei Xu",
             "gender": "unknown"
           },
           "3": {
-            "name": "Liming Zhu 0001",
+            "name": "Liming Zhu",
             "gender": "unknown"
           },
           "4": {
-            "name": "Qinghua Lu 0001",
+            "name": "Qinghua Lu",
             "gender": "unknown"
           }
         },
@@ -3417,11 +3417,11 @@
             "gender": "female"
           },
           "2": {
-            "name": "Yang Xiao 0011",
+            "name": "Yang Xiao",
             "gender": "andy"
           },
           "3": {
-            "name": "Feng Li 0045",
+            "name": "Feng Li",
             "gender": "andy"
           },
           "4": {
@@ -3437,7 +3437,7 @@
             "gender": "unknown"
           },
           "7": {
-            "name": "Wei Huo 0005",
+            "name": "Wei Huo",
             "gender": "andy"
           }
         },
@@ -3571,15 +3571,15 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Huaijin Wang 0001",
+            "name": "Huaijin Wang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Pingchuan Ma 0004",
+            "name": "Pingchuan Ma",
             "gender": "unknown"
           },
           "3": {
-            "name": "Shuai Wang 0011",
+            "name": "Shuai Wang",
             "gender": "unknown"
           },
           "4": {
@@ -3591,7 +3591,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Qiyi Tang 0003",
+            "name": "Qiyi Tang",
             "gender": "unknown"
           },
           "7": {
@@ -3616,11 +3616,11 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Guang Yang 0019",
+            "name": "Guang Yang",
             "gender": "andy"
           },
           "2": {
-            "name": "Xiang Chen 0005",
+            "name": "Xiang Chen",
             "gender": "andy"
           },
           "3": {
@@ -3670,7 +3670,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Ting Zhang 0011",
+            "name": "Ting Zhang",
             "gender": "andy"
           },
           "1": {
@@ -3686,7 +3686,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "5": {
@@ -3703,19 +3703,19 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Lingyu Zhang 0005",
+            "name": "Lingyu Zhang",
             "gender": "unknown"
           },
           "1": {
-            "name": "Huiyan Wang 0001",
+            "name": "Huiyan Wang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Chang Xu 0001",
+            "name": "Chang Xu",
             "gender": "andy"
           },
           "3": {
-            "name": "Ping Yu 0011",
+            "name": "Ping Yu",
             "gender": "andy"
           }
         },
@@ -3728,7 +3728,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Dario Amoroso d&apos;Aragona",
+            "name": "Dario Amoroso d'Aragona",
             "gender": "male"
           },
           "1": {
@@ -3736,7 +3736,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Simone Romano 0001",
+            "name": "Simone Romano",
             "gender": "female"
           },
           "3": {
@@ -3775,7 +3775,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Shaowei Wang 0002",
+            "name": "Shaowei Wang",
             "gender": "unknown"
           },
           "1": {
@@ -3787,7 +3787,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Yuan Tian 0008",
+            "name": "Yuan Tian",
             "gender": "andy"
           },
           "4": {
@@ -3804,7 +3804,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Nan Yang 0009",
+            "name": "Nan Yang",
             "gender": "mostly_female"
           },
           "1": {
@@ -3899,7 +3899,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Zhou Yang 0003",
+            "name": "Zhou Yang",
             "gender": "andy"
           },
           "2": {
@@ -3911,7 +3911,7 @@
             "gender": "andy"
           },
           "4": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -3932,7 +3932,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Karim Ali 0001",
+            "name": "Karim Ali",
             "gender": "male"
           },
           "3": {
@@ -3970,11 +3970,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -4015,7 +4015,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Alessandro Garcia 0001",
+            "name": "Alessandro Garcia",
             "gender": "male"
           },
           "7": {
@@ -4023,11 +4023,11 @@
             "gender": "unknown"
           },
           "8": {
-            "name": "M\u00e1rcio Ribeiro 0001",
+            "name": "M\u00e1rcio Ribeiro",
             "gender": "male"
           },
           "9": {
-            "name": "Daniel Oliveira 0005",
+            "name": "Daniel Oliveira",
             "gender": "male"
           },
           "10": {
@@ -4295,7 +4295,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Jian Gu 0001",
+            "name": "Jian Gu",
             "gender": "andy"
           },
           "1": {
@@ -4324,7 +4324,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -4353,7 +4353,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -4399,7 +4399,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Tobias Hey 0001",
+            "name": "Tobias Hey",
             "gender": "male"
           },
           "1": {
@@ -4523,7 +4523,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Hao Zhong 0001",
+            "name": "Hao Zhong",
             "gender": "andy"
           },
           "2": {
@@ -4607,7 +4607,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Bin Lin 0008",
+            "name": "Bin Lin",
             "gender": "andy"
           },
           "3": {
@@ -4615,7 +4615,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "5": {
@@ -4728,7 +4728,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xiwei Xu 0001",
+            "name": "Xiwei Xu",
             "gender": "unknown"
           }
         },
@@ -4790,11 +4790,11 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Yingfei Xiong 0001",
+            "name": "Yingfei Xiong",
             "gender": "unknown"
           },
           "6": {
-            "name": "Gang Huang 0001",
+            "name": "Gang Huang",
             "gender": "andy"
           }
         },
@@ -4815,7 +4815,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -4882,7 +4882,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Marcelo d&apos;Amorim",
+            "name": "Marcelo d'Amorim",
             "gender": "male"
           }
         },
@@ -4958,7 +4958,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Jens Dietrich 0001",
+            "name": "Jens Dietrich",
             "gender": "male"
           },
           "3": {
@@ -5021,7 +5021,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Chao Peng 0002",
+            "name": "Chao Peng",
             "gender": "andy"
           },
           "1": {
@@ -5080,7 +5080,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Alessandro Neri 0005",
+            "name": "Alessandro Neri",
             "gender": "male"
           }
         },
@@ -5252,7 +5252,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Wei Zhang 0004",
+            "name": "Wei Zhang",
             "gender": "andy"
           },
           "2": {
@@ -5268,11 +5268,11 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Haiyan Zhao 0001",
+            "name": "Haiyan Zhao",
             "gender": "unknown"
           },
           "6": {
-            "name": "Zhi Jin 0001",
+            "name": "Zhi Jin",
             "gender": "andy"
           }
         },
@@ -5322,15 +5322,15 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "3": {
-            "name": "Xiwei Xu 0001",
+            "name": "Xiwei Xu",
             "gender": "unknown"
           },
           "4": {
-            "name": "Liming Zhu 0001",
+            "name": "Liming Zhu",
             "gender": "unknown"
           }
         },
@@ -5343,7 +5343,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Jie Tan 0002",
+            "name": "Jie Tan",
             "gender": "andy"
           },
           "1": {
@@ -5364,11 +5364,11 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Wei Tao 0003",
+            "name": "Wei Tao",
             "gender": "andy"
           },
           "1": {
-            "name": "Yanlin Wang 0001",
+            "name": "Yanlin Wang",
             "gender": "unknown"
           },
           "2": {
@@ -5384,11 +5384,11 @@
             "gender": "andy"
           },
           "5": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           },
           "6": {
-            "name": "Dongmei Zhang 0001",
+            "name": "Dongmei Zhang",
             "gender": "unknown"
           },
           "7": {
@@ -5413,7 +5413,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Anas Mahmoud 0001",
+            "name": "Anas Mahmoud",
             "gender": "male"
           }
         },
@@ -5475,11 +5475,11 @@
             "gender": "male"
           },
           "3": {
-            "name": "Csaba Nagy 0001",
+            "name": "Csaba Nagy",
             "gender": "male"
           },
           "4": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "5": {
@@ -5500,7 +5500,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Ali Mesbah 0001",
+            "name": "Ali Mesbah",
             "gender": "male"
           }
         },
@@ -5513,7 +5513,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Zhou Yang 0003",
+            "name": "Zhou Yang",
             "gender": "andy"
           },
           "1": {
@@ -5529,7 +5529,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -5542,7 +5542,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Wei Yuan 0011",
+            "name": "Wei Yuan",
             "gender": "andy"
           },
           "1": {
@@ -5550,11 +5550,11 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Hailong Sun 0001",
+            "name": "Hailong Sun",
             "gender": "unknown"
           },
           "3": {
-            "name": "Xudong Liu 0001",
+            "name": "Xudong Liu",
             "gender": "unknown"
           }
         },
@@ -5596,19 +5596,19 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Kui Liu 0001",
+            "name": "Kui Liu",
             "gender": "andy"
           },
           "2": {
-            "name": "Dongsun Kim 0001",
+            "name": "Dongsun Kim",
             "gender": "unknown"
           },
           "3": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "4": {
-            "name": "Zhe Liu 0001",
+            "name": "Zhe Liu",
             "gender": "andy"
           },
           "5": {
@@ -5629,7 +5629,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Xiao-Yi Zhang 0005",
+            "name": "Xiao-Yi Zhang",
             "gender": "andy"
           },
           "1": {
@@ -5646,7 +5646,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Xin Zhou 0014",
+            "name": "Xin Zhou",
             "gender": "andy"
           },
           "1": {
@@ -5654,7 +5654,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -5671,15 +5671,15 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Kui Liu 0001",
+            "name": "Kui Liu",
             "gender": "andy"
           },
           "2": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "3": {
-            "name": "Zhe Liu 0001",
+            "name": "Zhe Liu",
             "gender": "andy"
           },
           "4": {
@@ -5704,7 +5704,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Heng Li 0007",
+            "name": "Heng Li",
             "gender": "andy"
           },
           "2": {
@@ -5735,7 +5735,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           },
           "1": {
@@ -5756,7 +5756,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Yao Lu 0003",
+            "name": "Yao Lu",
             "gender": "andy"
           },
           "1": {
@@ -5764,15 +5764,15 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Minghui Zhou 0001",
+            "name": "Minghui Zhou",
             "gender": "unknown"
           },
           "3": {
-            "name": "Yang Zhang 0026",
+            "name": "Yang Zhang",
             "gender": "andy"
           },
           "4": {
-            "name": "Tao Wang 0006",
+            "name": "Tao Wang",
             "gender": "andy"
           },
           "5": {
@@ -5831,7 +5831,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Marcos C\u00e9sar de Oliveira 0001",
+            "name": "Marcos C\u00e9sar de Oliveira",
             "gender": "male"
           },
           "2": {
@@ -5855,11 +5855,11 @@
             "gender": "male"
           },
           "7": {
-            "name": "Gustavo Pinto 0001",
+            "name": "Gustavo Pinto",
             "gender": "male"
           },
           "8": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -5901,7 +5901,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -5998,7 +5998,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Alessandro F. Garcia 0001",
+            "name": "Alessandro F. Garcia",
             "gender": "male"
           },
           "2": {
@@ -6018,7 +6018,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "M\u00e1rcio Ribeiro 0001",
+            "name": "M\u00e1rcio Ribeiro",
             "gender": "male"
           },
           "7": {
@@ -6273,7 +6273,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           },
           "4": {
@@ -6369,11 +6369,11 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Ting Su 0001",
+            "name": "Ting Su",
             "gender": "andy"
           },
           "3": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "4": {
@@ -6436,7 +6436,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -6448,7 +6448,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           }
         },
@@ -6557,7 +6557,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Subodh Sharma 0001",
+            "name": "Subodh Sharma",
             "gender": "unknown"
           }
         },
@@ -6582,7 +6582,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Michael Hilton 0001",
+            "name": "Michael Hilton",
             "gender": "male"
           },
           "4": {
@@ -6645,7 +6645,7 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Hailong Zhang 0006",
+            "name": "Hailong Zhang",
             "gender": "unknown"
           },
           "3": {
@@ -6687,7 +6687,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Wei Li 0254",
+            "name": "Wei Li",
             "gender": "andy"
           },
           "1": {
@@ -6703,7 +6703,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Yuting Chen 0001",
+            "name": "Yuting Chen",
             "gender": "unknown"
           }
         },
@@ -6724,7 +6724,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Peng Liang 0001",
+            "name": "Peng Liang",
             "gender": "andy"
           },
           "3": {
@@ -6732,7 +6732,7 @@
             "gender": "mostly_female"
           },
           "4": {
-            "name": "Chen Yang 0007",
+            "name": "Chen Yang",
             "gender": "andy"
           }
         },
@@ -6745,7 +6745,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Mingyang Li 0005",
+            "name": "Mingyang Li",
             "gender": "unknown"
           },
           "1": {
@@ -6753,15 +6753,15 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Lin Shi 0006",
+            "name": "Lin Shi",
             "gender": "female"
           },
           "3": {
-            "name": "Qing Wang 0001",
+            "name": "Qing Wang",
             "gender": "andy"
           },
           "4": {
-            "name": "Jun Hu 0015",
+            "name": "Jun Hu",
             "gender": "mostly_male"
           },
           "5": {
@@ -6790,7 +6790,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Patrick Lam 0001",
+            "name": "Patrick Lam",
             "gender": "male"
           }
         },
@@ -6824,11 +6824,11 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Mingwei Liu 0002",
+            "name": "Mingwei Liu",
             "gender": "unknown"
           },
           "1": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "2": {
@@ -6844,11 +6844,11 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Wang 0119",
+            "name": "Xin Wang",
             "gender": "andy"
           },
           "6": {
-            "name": "Yang Liu 0003",
+            "name": "Yang Liu",
             "gender": "andy"
           },
           "7": {
@@ -6865,7 +6865,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Mingwei Liu 0002",
+            "name": "Mingwei Liu",
             "gender": "unknown"
           },
           "1": {
@@ -6873,11 +6873,11 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "3": {
-            "name": "Chong Wang 0013",
+            "name": "Chong Wang",
             "gender": "andy"
           },
           "4": {
@@ -6885,7 +6885,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Wang 0119",
+            "name": "Xin Wang",
             "gender": "andy"
           },
           "6": {
@@ -6914,11 +6914,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Wei Chen 0018",
+            "name": "Wei Chen",
             "gender": "andy"
           },
           "4": {
-            "name": "Jun Wei 0001",
+            "name": "Jun Wei",
             "gender": "mostly_male"
           }
         },
@@ -6931,11 +6931,11 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Wei Ma 0014",
+            "name": "Wei Ma",
             "gender": "andy"
           },
           "1": {
-            "name": "Thomas Laurent 0003",
+            "name": "Thomas Laurent",
             "gender": "male"
           },
           "2": {
@@ -7064,7 +7064,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Gias Uddin 0001",
+            "name": "Gias Uddin",
             "gender": "unknown"
           },
           "2": {
@@ -7198,7 +7198,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Gordon Fraser 0001",
+            "name": "Gordon Fraser",
             "gender": "male"
           },
           "3": {
@@ -7240,7 +7240,7 @@
             "gender": "mostly_male"
           },
           "1": {
-            "name": "Jinqiu Yang 0001",
+            "name": "Jinqiu Yang",
             "gender": "unknown"
           }
         },
@@ -7328,7 +7328,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Dong Wang 0044",
+            "name": "Dong Wang",
             "gender": "andy"
           },
           "2": {
@@ -7369,7 +7369,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Zhuo Li 0013",
+            "name": "Zhuo Li",
             "gender": "andy"
           },
           "5": {
@@ -7377,11 +7377,11 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Lei Ma 0003",
+            "name": "Lei Ma",
             "gender": "andy"
           },
           "7": {
-            "name": "Jianjun Zhao 0001",
+            "name": "Jianjun Zhao",
             "gender": "unknown"
           }
         },
@@ -7427,7 +7427,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "He Zhang 0001",
+            "name": "He Zhang",
             "gender": "andy"
           },
           "4": {
@@ -7502,7 +7502,7 @@
             "gender": "andy"
           },
           "3": {
-            "name": "Wei Yang 0013",
+            "name": "Wei Yang",
             "gender": "andy"
           },
           "4": {
@@ -7510,7 +7510,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Tao Xie 0001",
+            "name": "Tao Xie",
             "gender": "andy"
           },
           "6": {
@@ -7573,7 +7573,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Bruno da Silva 0002",
+            "name": "Bruno da Silva",
             "gender": "male"
           },
           "1": {
@@ -7606,7 +7606,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Marcelo d&apos;Amorim",
+            "name": "Marcelo d'Amorim",
             "gender": "male"
           }
         },
@@ -7677,7 +7677,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Tushar Sharma 0001",
+            "name": "Tushar Sharma",
             "gender": "unknown"
           }
         },
@@ -7769,7 +7769,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "Alessandro F. Garcia 0001",
+            "name": "Alessandro F. Garcia",
             "gender": "male"
           },
           "6": {
@@ -7824,11 +7824,11 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Bihuan Chen 0001",
+            "name": "Bihuan Chen",
             "gender": "unknown"
           },
           "2": {
-            "name": "Kaifeng Huang 0001",
+            "name": "Kaifeng Huang",
             "gender": "unknown"
           },
           "3": {
@@ -7840,7 +7840,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "6": {
@@ -7848,7 +7848,7 @@
             "gender": "unknown"
           },
           "7": {
-            "name": "Yang Liu 0003",
+            "name": "Yang Liu",
             "gender": "andy"
           }
         },
@@ -7861,7 +7861,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Wei Wang 0277",
+            "name": "Wei Wang",
             "gender": "andy"
           },
           "1": {
@@ -7869,11 +7869,11 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Haoyu Wang 0001",
+            "name": "Haoyu Wang",
             "gender": "unknown"
           },
           "3": {
-            "name": "Kai Chen 0012",
+            "name": "Kai Chen",
             "gender": "male"
           },
           "4": {
@@ -7881,7 +7881,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xiaohong Li 0001",
+            "name": "Xiaohong Li",
             "gender": "unknown"
           }
         },
@@ -8006,7 +8006,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Lei Ma 0003",
+            "name": "Lei Ma",
             "gender": "andy"
           }
         },
@@ -8023,15 +8023,15 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Jiashuo Zhang 0001",
+            "name": "Jiashuo Zhang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Jianbo Gao 0003",
+            "name": "Jianbo Gao",
             "gender": "unknown"
           },
           "3": {
-            "name": "Yue Li 0037",
+            "name": "Yue Li",
             "gender": "andy"
           },
           "4": {
@@ -8043,7 +8043,7 @@
             "gender": "andy"
           },
           "6": {
-            "name": "Zhong Chen 0001",
+            "name": "Zhong Chen",
             "gender": "andy"
           }
         },
@@ -8098,11 +8098,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Yuan Tian 0008",
+            "name": "Yuan Tian",
             "gender": "andy"
           },
           "2": {
-            "name": "Jinqiu Yang 0001",
+            "name": "Jinqiu Yang",
             "gender": "unknown"
           }
         },
@@ -8119,7 +8119,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Meng Yan 0001",
+            "name": "Meng Yan",
             "gender": "andy"
           },
           "2": {
@@ -8127,7 +8127,7 @@
             "gender": "andy"
           },
           "3": {
-            "name": "Zhou Xu 0003",
+            "name": "Zhou Xu",
             "gender": "andy"
           },
           "4": {
@@ -8135,11 +8135,11 @@
             "gender": "andy"
           },
           "5": {
-            "name": "Dan Yang 0001",
+            "name": "Dan Yang",
             "gender": "male"
           },
           "6": {
-            "name": "Xiaohong Zhang 0002",
+            "name": "Xiaohong Zhang",
             "gender": "unknown"
           }
         },
@@ -8169,7 +8169,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Wei Zhang 0249",
+            "name": "Wei Zhang",
             "gender": "andy"
           }
         },
@@ -8182,7 +8182,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Pengcheng Zhang 0001",
+            "name": "Pengcheng Zhang",
             "gender": "unknown"
           },
           "1": {
@@ -8203,7 +8203,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Ting Zhang 0011",
+            "name": "Ting Zhang",
             "gender": "andy"
           },
           "1": {
@@ -8219,7 +8219,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "5": {
@@ -8257,11 +8257,11 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Chenguang Zhu 0002",
+            "name": "Chenguang Zhu",
             "gender": "unknown"
           },
           "1": {
-            "name": "Yi Li 0008",
+            "name": "Yi Li",
             "gender": "andy"
           },
           "2": {
@@ -8286,7 +8286,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Chengcheng Wan 0001",
+            "name": "Chengcheng Wan",
             "gender": "unknown"
           },
           "2": {
@@ -8294,11 +8294,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Yuting Chen 0001",
+            "name": "Yuting Chen",
             "gender": "unknown"
           },
           "4": {
-            "name": "Zhendong Su 0001",
+            "name": "Zhendong Su",
             "gender": "unknown"
           }
         },
@@ -8367,11 +8367,11 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Luis Cruz 0002",
+            "name": "Luis Cruz",
             "gender": "male"
           },
           "1": {
-            "name": "Rui Abreu 0001",
+            "name": "Rui Abreu",
             "gender": "male"
           },
           "2": {
@@ -8379,11 +8379,11 @@
             "gender": "male"
           },
           "3": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "4": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           }
         },
@@ -8481,7 +8481,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Ali Ouni 0001",
+            "name": "Ali Ouni",
             "gender": "male"
           }
         },
@@ -8582,7 +8582,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Bin Liang 0002",
+            "name": "Bin Liang",
             "gender": "andy"
           },
           "5": {
@@ -8695,7 +8695,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Stefan Wagner 0001",
+            "name": "Stefan Wagner",
             "gender": "male"
           },
           "3": {
@@ -8795,7 +8795,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Mohamed Abdelrazek 0001",
+            "name": "Mohamed Abdelrazek",
             "gender": "male"
           },
           "4": {
@@ -8829,7 +8829,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Rui Abreu 0001",
+            "name": "Rui Abreu",
             "gender": "male"
           },
           "2": {
@@ -8841,7 +8841,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Luis Cruz 0002",
+            "name": "Luis Cruz",
             "gender": "male"
           }
         },
@@ -8929,7 +8929,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Stefan Wagner 0001",
+            "name": "Stefan Wagner",
             "gender": "male"
           },
           "3": {
@@ -9001,11 +9001,11 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Zhipeng Gao 0002",
+            "name": "Zhipeng Gao",
             "gender": "unknown"
           },
           "1": {
-            "name": "Vinoj Jayasundara 0001",
+            "name": "Vinoj Jayasundara",
             "gender": "unknown"
           },
           "2": {
@@ -9013,11 +9013,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "4": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "5": {
@@ -9042,7 +9042,7 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Shuang Liu 0007",
+            "name": "Shuang Liu",
             "gender": "andy"
           },
           "3": {
@@ -9126,11 +9126,11 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Huong Ha 0001",
+            "name": "Huong Ha",
             "gender": "mostly_female"
           },
           "1": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           }
         },
@@ -9147,7 +9147,7 @@
             "gender": "mostly_male"
           },
           "1": {
-            "name": "Ali Mesbah 0001",
+            "name": "Ali Mesbah",
             "gender": "male"
           },
           "2": {
@@ -9284,7 +9284,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Zhe Jin 0001",
+            "name": "Zhe Jin",
             "gender": "andy"
           },
           "1": {
@@ -9292,7 +9292,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           }
         },
@@ -9498,7 +9498,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Chang Liu 0028",
+            "name": "Chang Liu",
             "gender": "andy"
           },
           "1": {
@@ -9689,7 +9689,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Emily Hill 0001",
+            "name": "Emily Hill",
             "gender": "female"
           }
         },
@@ -9722,7 +9722,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Emily Hill 0001",
+            "name": "Emily Hill",
             "gender": "female"
           }
         },
@@ -9806,7 +9806,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xavier Blanc 0001",
+            "name": "Xavier Blanc",
             "gender": "male"
           },
           "3": {
@@ -10028,7 +10028,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Tetsuya Kanda 0001",
+            "name": "Tetsuya Kanda",
             "gender": "male"
           },
           "3": {
@@ -10090,7 +10090,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           }
         },
@@ -10115,7 +10115,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -10169,7 +10169,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Anas Mahmoud 0001",
+            "name": "Anas Mahmoud",
             "gender": "male"
           }
         },
@@ -10215,7 +10215,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Eduardo Figueiredo 0001",
+            "name": "Eduardo Figueiredo",
             "gender": "male"
           },
           "3": {
@@ -10286,7 +10286,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Tao Wang 0077",
+            "name": "Tao Wang",
             "gender": "andy"
           },
           "1": {
@@ -10302,7 +10302,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Frank Mueller 0001",
+            "name": "Frank Mueller",
             "gender": "male"
           }
         },
@@ -10361,7 +10361,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Lu Wang 0014",
+            "name": "Lu Wang",
             "gender": "andy"
           }
         },
@@ -10374,7 +10374,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Chunhua Yang 0004",
+            "name": "Chunhua Yang",
             "gender": "unknown"
           },
           "1": {
@@ -10433,19 +10433,19 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Bo Zhang 0057",
+            "name": "Bo Zhang",
             "gender": "male"
           },
           "1": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Junjie Chen 0003",
+            "name": "Junjie Chen",
             "gender": "unknown"
           },
           "3": {
-            "name": "Dan Hao 0001",
+            "name": "Dan Hao",
             "gender": "male"
           },
           "4": {
@@ -10462,19 +10462,19 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Bo Zhang 0057",
+            "name": "Bo Zhang",
             "gender": "male"
           },
           "1": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Junjie Chen 0003",
+            "name": "Junjie Chen",
             "gender": "unknown"
           },
           "3": {
-            "name": "Dan Hao 0001",
+            "name": "Dan Hao",
             "gender": "male"
           },
           "4": {
@@ -10499,7 +10499,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Mingyuan Xia 0001",
+            "name": "Mingyuan Xia",
             "gender": "unknown"
           },
           "3": {
@@ -10536,7 +10536,7 @@
             "gender": "andy"
           },
           "5": {
-            "name": "Tao Xie 0001",
+            "name": "Tao Xie",
             "gender": "andy"
           }
         },
@@ -10576,7 +10576,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Stefan Fischer 0006",
+            "name": "Stefan Fischer",
             "gender": "male"
           },
           "1": {
@@ -10601,7 +10601,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Bin Lin 0008",
+            "name": "Bin Lin",
             "gender": "andy"
           },
           "1": {
@@ -10617,7 +10617,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "5": {
@@ -10676,7 +10676,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Csaba Nagy 0001",
+            "name": "Csaba Nagy",
             "gender": "male"
           },
           "2": {
@@ -10684,7 +10684,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -10709,7 +10709,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "D&apos;angellys Cavalcanti Feitosa",
+            "name": "D'angellys Cavalcanti Feitosa",
             "gender": "unknown"
           },
           "4": {
@@ -10789,7 +10789,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Antonio Martini 0001",
+            "name": "Antonio Martini",
             "gender": "male"
           },
           "2": {
@@ -11039,11 +11039,11 @@
             "gender": "male"
           },
           "2": {
-            "name": "Fabian Beck 0001",
+            "name": "Fabian Beck",
             "gender": "male"
           },
           "3": {
-            "name": "Martin Pinzger 0001",
+            "name": "Martin Pinzger",
             "gender": "male"
           }
         },
@@ -11064,7 +11064,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Martin Pinzger 0001",
+            "name": "Martin Pinzger",
             "gender": "male"
           }
         },
@@ -11106,7 +11106,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Emily Hill 0001",
+            "name": "Emily Hill",
             "gender": "female"
           }
         },
@@ -11136,11 +11136,11 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Yikun Hu 0003",
+            "name": "Yikun Hu",
             "gender": "unknown"
           },
           "1": {
-            "name": "Yuanyuan Zhang 0002",
+            "name": "Yuanyuan Zhang",
             "gender": "unknown"
           },
           "2": {
@@ -11148,7 +11148,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Hui Wang 0037",
+            "name": "Hui Wang",
             "gender": "andy"
           },
           "4": {
@@ -11545,7 +11545,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Hongwei Li 0017",
+            "name": "Hongwei Li",
             "gender": "unknown"
           },
           "1": {
@@ -11561,11 +11561,11 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "5": {
-            "name": "Mingwei Liu 0002",
+            "name": "Mingwei Liu",
             "gender": "unknown"
           },
           "6": {
@@ -11607,11 +11607,11 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Kui Liu 0001",
+            "name": "Kui Liu",
             "gender": "andy"
           },
           "1": {
-            "name": "Dongsun Kim 0001",
+            "name": "Dongsun Kim",
             "gender": "unknown"
           },
           "2": {
@@ -11619,7 +11619,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "4": {
@@ -11652,7 +11652,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Vincent Ng 0001",
+            "name": "Vincent Ng",
             "gender": "male"
           }
         },
@@ -11841,7 +11841,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Anh Tuan Nguyen 0001",
+            "name": "Anh Tuan Nguyen",
             "gender": "mostly_female"
           },
           "1": {
@@ -11912,7 +11912,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "2": {
@@ -11950,7 +11950,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           },
           "1": {
@@ -11967,7 +11967,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           },
           "1": {
@@ -12043,7 +12043,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Simone Romano 0001",
+            "name": "Simone Romano",
             "gender": "female"
           }
         },
@@ -12148,7 +12148,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Philipp Leitner 0001",
+            "name": "Philipp Leitner",
             "gender": "male"
           }
         },
@@ -12261,7 +12261,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           }
         },
@@ -12329,11 +12329,11 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           },
           "2": {
-            "name": "Hao Zhong 0001",
+            "name": "Hao Zhong",
             "gender": "andy"
           }
         },
@@ -12383,7 +12383,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Mingyuan Xia 0001",
+            "name": "Mingyuan Xia",
             "gender": "unknown"
           },
           "4": {
@@ -12408,11 +12408,11 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           },
           "3": {
-            "name": "Yingfei Xiong 0001",
+            "name": "Yingfei Xiong",
             "gender": "unknown"
           },
           "4": {
@@ -12441,7 +12441,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Jun Ma 0010",
+            "name": "Jun Ma",
             "gender": "mostly_male"
           },
           "3": {
@@ -12449,11 +12449,11 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Chang Xu 0001",
+            "name": "Chang Xu",
             "gender": "andy"
           },
           "5": {
-            "name": "Jian Lu 0001",
+            "name": "Jian Lu",
             "gender": "andy"
           }
         },
@@ -12705,7 +12705,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Antonio Martini 0001",
+            "name": "Antonio Martini",
             "gender": "male"
           },
           "2": {
@@ -12886,7 +12886,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Jinfu Chen 0002",
+            "name": "Jinfu Chen",
             "gender": "unknown"
           },
           "1": {
@@ -13044,7 +13044,7 @@
             "gender": "mostly_male"
           },
           "2": {
-            "name": "Ali Mesbah 0001",
+            "name": "Ali Mesbah",
             "gender": "male"
           },
           "3": {
@@ -13090,7 +13090,7 @@
             "gender": "andy"
           },
           "2": {
-            "name": "Tianchi Liu 0002",
+            "name": "Tianchi Liu",
             "gender": "unknown"
           },
           "3": {
@@ -13106,7 +13106,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Jian Lu 0001",
+            "name": "Jian Lu",
             "gender": "andy"
           }
         },
@@ -13123,15 +13123,15 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Huiyan Wang 0001",
+            "name": "Huiyan Wang",
             "gender": "unknown"
           },
           "2": {
-            "name": "Chang Xu 0001",
+            "name": "Chang Xu",
             "gender": "andy"
           },
           "3": {
-            "name": "Jian Lu 0001",
+            "name": "Jian Lu",
             "gender": "andy"
           }
         },
@@ -13144,7 +13144,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Monika Gupta 0002",
+            "name": "Monika Gupta",
             "gender": "female"
           }
         },
@@ -13161,7 +13161,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Xiaohong Li 0001",
+            "name": "Xiaohong Li",
             "gender": "unknown"
           },
           "2": {
@@ -13173,7 +13173,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Zhiyong Feng 0002",
+            "name": "Zhiyong Feng",
             "gender": "unknown"
           }
         },
@@ -13224,7 +13224,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "\u00c1kos Kiss 0001",
+            "name": "\u00c1kos Kiss",
             "gender": "male"
           },
           "2": {
@@ -13245,7 +13245,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Eric Verbeek 0002",
+            "name": "Eric Verbeek",
             "gender": "male"
           },
           "2": {
@@ -13274,11 +13274,11 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -13312,7 +13312,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Thomas Fritz 0001",
+            "name": "Thomas Fritz",
             "gender": "male"
           }
         },
@@ -13388,7 +13388,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           }
         },
@@ -13413,7 +13413,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           },
           "4": {
@@ -13430,7 +13430,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Zhiqiang Li 0003",
+            "name": "Zhiqiang Li",
             "gender": "unknown"
           },
           "1": {
@@ -13442,7 +13442,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           }
         },
@@ -13509,7 +13509,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Nicholas Nelson 0002",
+            "name": "Nicholas Nelson",
             "gender": "male"
           },
           "2": {
@@ -13684,7 +13684,7 @@
             "gender": "male"
           },
           "8": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "9": {
@@ -13825,7 +13825,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Christian Berger 0001",
+            "name": "Christian Berger",
             "gender": "male"
           },
           "2": {
@@ -13837,7 +13837,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Mohammad Ali 0002",
+            "name": "Mohammad Ali",
             "gender": "male"
           },
           "5": {
@@ -14004,7 +14004,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Philipp Leitner 0001",
+            "name": "Philipp Leitner",
             "gender": "male"
           },
           "5": {
@@ -14046,7 +14046,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Shuai Wang 0001",
+            "name": "Shuai Wang",
             "gender": "unknown"
           },
           "1": {
@@ -14054,11 +14054,11 @@
             "gender": "male"
           },
           "2": {
-            "name": "Tao Yue 0002",
+            "name": "Tao Yue",
             "gender": "andy"
           },
           "3": {
-            "name": "Shaukat Ali 0001",
+            "name": "Shaukat Ali",
             "gender": "unknown"
           },
           "4": {
@@ -14075,11 +14075,11 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Shuai Wang 0011",
+            "name": "Shuai Wang",
             "gender": "unknown"
           },
           "1": {
-            "name": "Pei Wang 0007",
+            "name": "Pei Wang",
             "gender": "andy"
           },
           "2": {
@@ -14096,11 +14096,11 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Shuai Wang 0011",
+            "name": "Shuai Wang",
             "gender": "unknown"
           },
           "1": {
-            "name": "Pei Wang 0007",
+            "name": "Pei Wang",
             "gender": "andy"
           },
           "2": {
@@ -14121,7 +14121,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Bin Lin 0008",
+            "name": "Bin Lin",
             "gender": "andy"
           },
           "2": {
@@ -14171,11 +14171,11 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
@@ -14183,7 +14183,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Abhishek Sharma 0002",
+            "name": "Abhishek Sharma",
             "gender": "unknown"
           },
           "4": {
@@ -14213,11 +14213,11 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Wenyuan Xu 0006",
+            "name": "Wenyuan Xu",
             "gender": "unknown"
           },
           "1": {
-            "name": "Xiaobing Sun 0001",
+            "name": "Xiaobing Sun",
             "gender": "unknown"
           },
           "2": {
@@ -14225,7 +14225,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Bin Li 0006",
+            "name": "Bin Li",
             "gender": "andy"
           }
         },
@@ -14238,19 +14238,19 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Meng Yan 0001",
+            "name": "Meng Yan",
             "gender": "andy"
           },
           "1": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "2": {
-            "name": "Xiaohong Zhang 0002",
+            "name": "Xiaohong Zhang",
             "gender": "unknown"
           },
           "3": {
-            "name": "Dan Yang 0001",
+            "name": "Dan Yang",
             "gender": "male"
           },
           "4": {
@@ -14288,7 +14288,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Xin Yi 0002",
+            "name": "Xin Yi",
             "gender": "andy"
           },
           "1": {
@@ -14330,7 +14330,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Na Meng 0001",
+            "name": "Na Meng",
             "gender": "andy"
           },
           "2": {
@@ -14380,7 +14380,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Yuanyuan Zhang 0002",
+            "name": "Yuanyuan Zhang",
             "gender": "unknown"
           },
           "2": {
@@ -14388,7 +14388,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Yikun Hu 0003",
+            "name": "Yikun Hu",
             "gender": "unknown"
           },
           "4": {
@@ -14427,7 +14427,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Ali Ouni 0001",
+            "name": "Ali Ouni",
             "gender": "male"
           },
           "1": {
@@ -14448,7 +14448,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Li Li 0029",
+            "name": "Li Li",
             "gender": "andy"
           },
           "1": {
@@ -14733,7 +14733,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Chunyang Chen 0001",
+            "name": "Chunyang Chen",
             "gender": "unknown"
           },
           "1": {
@@ -14741,7 +14741,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Lei Han 0003",
+            "name": "Lei Han",
             "gender": "andy"
           }
         },
@@ -14871,7 +14871,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Gustavo Pinto 0001",
+            "name": "Gustavo Pinto",
             "gender": "male"
           },
           "3": {
@@ -15081,11 +15081,11 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Xuan-Bach Dinh Le 0001",
+            "name": "Xuan-Bach Dinh Le",
             "gender": "unknown"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
@@ -15102,7 +15102,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Xuan-Bach Dinh Le 0001",
+            "name": "Xuan-Bach Dinh Le",
             "gender": "unknown"
           },
           "1": {
@@ -15110,7 +15110,7 @@
             "gender": "mostly_male"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -15144,7 +15144,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Boyang Li 0002",
+            "name": "Boyang Li",
             "gender": "unknown"
           }
         },
@@ -15169,11 +15169,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Lin Chen 0015",
+            "name": "Lin Chen",
             "gender": "female"
           },
           "4": {
-            "name": "Lei Xu 0003",
+            "name": "Lei Xu",
             "gender": "andy"
           },
           "5": {
@@ -15438,7 +15438,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Anh Tuan Nguyen 0001",
+            "name": "Anh Tuan Nguyen",
             "gender": "mostly_female"
           },
           "2": {
@@ -15455,7 +15455,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Anh Tuan Nguyen 0001",
+            "name": "Anh Tuan Nguyen",
             "gender": "mostly_female"
           },
           "1": {
@@ -15480,7 +15480,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Emily Hill 0001",
+            "name": "Emily Hill",
             "gender": "female"
           },
           "2": {
@@ -15593,7 +15593,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Deepak D&apos;Souza",
+            "name": "Deepak D'Souza",
             "gender": "mostly_male"
           },
           "3": {
@@ -15610,7 +15610,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Gustavo Pinto 0001",
+            "name": "Gustavo Pinto",
             "gender": "male"
           },
           "1": {
@@ -15635,7 +15635,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Gustavo Pinto 0001",
+            "name": "Gustavo Pinto",
             "gender": "male"
           },
           "1": {
@@ -15946,7 +15946,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Justin Smith 0001",
+            "name": "Justin Smith",
             "gender": "male"
           }
         },
@@ -16030,11 +16030,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Xuan-Bach Dinh Le 0001",
+            "name": "Xuan-Bach Dinh Le",
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -16126,7 +16126,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Lu Wang 0014",
+            "name": "Lu Wang",
             "gender": "andy"
           },
           "1": {
@@ -16205,7 +16205,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Jun Wei 0001",
+            "name": "Jun Wei",
             "gender": "mostly_male"
           }
         },
@@ -16222,7 +16222,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Lin Shi 0006",
+            "name": "Lin Shi",
             "gender": "female"
           },
           "2": {
@@ -16230,7 +16230,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Qing Wang 0001",
+            "name": "Qing Wang",
             "gender": "andy"
           },
           "4": {
@@ -16247,7 +16247,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "1": {
@@ -16255,7 +16255,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -16284,7 +16284,7 @@
             "gender": "andy"
           },
           "3": {
-            "name": "Jing Li 0034",
+            "name": "Jing Li",
             "gender": "andy"
           },
           "4": {
@@ -16301,15 +16301,15 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Yun Zhang 0011",
+            "name": "Yun Zhang",
             "gender": "andy"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "3": {
@@ -16338,7 +16338,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Jie Liu 0008",
+            "name": "Jie Liu",
             "gender": "andy"
           },
           "2": {
@@ -16358,15 +16358,15 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Dan Ye 0004",
+            "name": "Dan Ye",
             "gender": "male"
           },
           "7": {
-            "name": "Jun Wei 0001",
+            "name": "Jun Wei",
             "gender": "mostly_male"
           },
           "8": {
-            "name": "Tao Huang 0001",
+            "name": "Tao Huang",
             "gender": "andy"
           }
         },
@@ -16389,7 +16389,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Benjamin Biegel 0001",
+            "name": "Benjamin Biegel",
             "gender": "male"
           },
           "1": {
@@ -16397,7 +16397,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Stephan Diehl 0001",
+            "name": "Stephan Diehl",
             "gender": "male"
           }
         },
@@ -16628,7 +16628,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Simon Butler 0001",
+            "name": "Simon Butler",
             "gender": "male"
           },
           "1": {
@@ -16636,7 +16636,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Yijun Yu 0001",
+            "name": "Yijun Yu",
             "gender": "unknown"
           }
         },
@@ -16661,7 +16661,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -16762,11 +16762,11 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Zhen Dong 0004",
+            "name": "Zhen Dong",
             "gender": "andy"
           },
           "1": {
-            "name": "Artur Andrzejak 0001",
+            "name": "Artur Andrzejak",
             "gender": "male"
           },
           "2": {
@@ -16855,7 +16855,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Yan Gao 0006",
+            "name": "Yan Gao",
             "gender": "male"
           },
           "1": {
@@ -17177,11 +17177,11 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
-            "name": "Ming Li 0005",
+            "name": "Ming Li",
             "gender": "andy"
           }
         },
@@ -17344,7 +17344,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Csaba Nagy 0001",
+            "name": "Csaba Nagy",
             "gender": "male"
           },
           "1": {
@@ -17614,7 +17614,7 @@
             "gender": "mostly_female"
           },
           "7": {
-            "name": "Charles Hill 0001",
+            "name": "Charles Hill",
             "gender": "male"
           },
           "8": {
@@ -17669,7 +17669,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Simone Romano 0001",
+            "name": "Simone Romano",
             "gender": "female"
           },
           "1": {
@@ -17715,15 +17715,15 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Abhishek Sharma 0002",
+            "name": "Abhishek Sharma",
             "gender": "unknown"
           },
           "1": {
-            "name": "Yuan Tian 0008",
+            "name": "Yuan Tian",
             "gender": "andy"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           }
         },
@@ -17845,7 +17845,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Csaba Nagy 0001",
+            "name": "Csaba Nagy",
             "gender": "male"
           },
           "2": {
@@ -17870,7 +17870,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Yuan Tian 0008",
+            "name": "Yuan Tian",
             "gender": "andy"
           },
           "1": {
@@ -17878,7 +17878,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -17916,7 +17916,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Ali Mesbah 0001",
+            "name": "Ali Mesbah",
             "gender": "male"
           }
         },
@@ -18054,7 +18054,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Carsten Franke 0001",
+            "name": "Carsten Franke",
             "gender": "male"
           },
           "3": {
@@ -18092,19 +18092,19 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Xin Xia 0001",
+            "name": "Xin Xia",
             "gender": "andy"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
-            "name": "Xinyu Wang 0001",
+            "name": "Xinyu Wang",
             "gender": "unknown"
           },
           "3": {
-            "name": "Xiaohu Yang 0001",
+            "name": "Xiaohu Yang",
             "gender": "unknown"
           }
         },
@@ -18203,11 +18203,11 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Benjamin Biegel 0001",
+            "name": "Benjamin Biegel",
             "gender": "male"
           },
           "1": {
-            "name": "Fabian Beck 0001",
+            "name": "Fabian Beck",
             "gender": "male"
           },
           "2": {
@@ -18215,7 +18215,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Stephan Diehl 0001",
+            "name": "Stephan Diehl",
             "gender": "male"
           }
         },
@@ -18228,7 +18228,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Rui Abreu 0001",
+            "name": "Rui Abreu",
             "gender": "male"
           },
           "1": {
@@ -18240,7 +18240,7 @@
             "gender": "mostly_male"
           },
           "3": {
-            "name": "Pedro Martins 0001",
+            "name": "Pedro Martins",
             "gender": "male"
           },
           "4": {
@@ -18261,7 +18261,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Rui Abreu 0001",
+            "name": "Rui Abreu",
             "gender": "male"
           },
           "1": {
@@ -18273,7 +18273,7 @@
             "gender": "mostly_male"
           },
           "3": {
-            "name": "Pedro Martins 0001",
+            "name": "Pedro Martins",
             "gender": "male"
           },
           "4": {
@@ -18373,7 +18373,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Pedro Silva 0002",
+            "name": "Pedro Silva",
             "gender": "male"
           },
           "2": {
@@ -18516,7 +18516,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Martin Pinzger 0001",
+            "name": "Martin Pinzger",
             "gender": "male"
           }
         },
@@ -18596,7 +18596,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Joost Visser 0001",
+            "name": "Joost Visser",
             "gender": "male"
           }
         },
@@ -18625,7 +18625,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Alessandro F. Garcia 0001",
+            "name": "Alessandro F. Garcia",
             "gender": "male"
           },
           "5": {
@@ -18825,7 +18825,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Stefan Fischer 0006",
+            "name": "Stefan Fischer",
             "gender": "male"
           },
           "1": {
@@ -18863,7 +18863,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Fran\u00e7ois Gauthier 0001",
+            "name": "Fran\u00e7ois Gauthier",
             "gender": "male"
           },
           "1": {
@@ -19073,7 +19073,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Thomas Fritz 0001",
+            "name": "Thomas Fritz",
             "gender": "male"
           },
           "2": {
@@ -19098,7 +19098,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Shaukat Ali 0001",
+            "name": "Shaukat Ali",
             "gender": "unknown"
           }
         },
@@ -19119,7 +19119,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Christoph Seidl 0001",
+            "name": "Christoph Seidl",
             "gender": "male"
           }
         },
@@ -19212,7 +19212,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "3": {
@@ -19233,11 +19233,11 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Ding Li 0001",
+            "name": "Ding Li",
             "gender": "andy"
           },
           "1": {
-            "name": "Shuai Hao 0002",
+            "name": "Shuai Hao",
             "gender": "unknown"
           },
           "2": {
@@ -19258,7 +19258,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Yun Lin 0001",
+            "name": "Yun Lin",
             "gender": "andy"
           },
           "1": {
@@ -19266,15 +19266,15 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Xin Peng 0001",
+            "name": "Xin Peng",
             "gender": "andy"
           },
           "3": {
-            "name": "Yang Liu 0003",
+            "name": "Yang Liu",
             "gender": "andy"
           },
           "4": {
-            "name": "Jun Sun 0001",
+            "name": "Jun Sun",
             "gender": "mostly_male"
           },
           "5": {
@@ -19282,7 +19282,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "Jin Song Dong 0001",
+            "name": "Jin Song Dong",
             "gender": "female"
           }
         },
@@ -19332,7 +19332,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Bo Liu 0001",
+            "name": "Bo Liu",
             "gender": "male"
           },
           "1": {
@@ -19340,7 +19340,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Bin Wang 0062",
+            "name": "Bin Wang",
             "gender": "andy"
           },
           "3": {
@@ -19432,7 +19432,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -19482,7 +19482,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "M\u00e1rcio Ribeiro 0001",
+            "name": "M\u00e1rcio Ribeiro",
             "gender": "male"
           }
         },
@@ -19683,7 +19683,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           }
         },
@@ -19708,7 +19708,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Michele Lanza 0001",
+            "name": "Michele Lanza",
             "gender": "female"
           },
           "4": {
@@ -19742,7 +19742,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Mohammad Masudur Rahman 0001",
+            "name": "Mohammad Masudur Rahman",
             "gender": "male"
           },
           "1": {
@@ -19806,7 +19806,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Martin Pinzger 0001",
+            "name": "Martin Pinzger",
             "gender": "male"
           }
         },
@@ -20096,7 +20096,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Sunghun Kim 0001",
+            "name": "Sunghun Kim",
             "gender": "unknown"
           }
         },
@@ -20130,7 +20130,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Xin Yang 0018",
+            "name": "Xin Yang",
             "gender": "andy"
           },
           "2": {
@@ -20234,7 +20234,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Wei Wang 0001",
+            "name": "Wei Wang",
             "gender": "andy"
           },
           "1": {
@@ -20251,11 +20251,11 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Shaowei Wang 0002",
+            "name": "Shaowei Wang",
             "gender": "unknown"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
@@ -20272,11 +20272,11 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Shaowei Wang 0002",
+            "name": "Shaowei Wang",
             "gender": "unknown"
           },
           "1": {
-            "name": "David Lo 0001",
+            "name": "David Lo",
             "gender": "male"
           },
           "2": {
@@ -20301,23 +20301,23 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Yingfei Xiong 0001",
+            "name": "Yingfei Xiong",
             "gender": "unknown"
           },
           "2": {
-            "name": "Hongyu Zhang 0002",
+            "name": "Hongyu Zhang",
             "gender": "unknown"
           },
           "3": {
-            "name": "Dan Hao 0001",
+            "name": "Dan Hao",
             "gender": "male"
           },
           "4": {
-            "name": "Lu Zhang 0023",
+            "name": "Lu Zhang",
             "gender": "andy"
           },
           "5": {
-            "name": "Hong Mei 0001",
+            "name": "Hong Mei",
             "gender": "andy"
           }
         },
@@ -20376,7 +20376,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Yan Yan 0021",
+            "name": "Yan Yan",
             "gender": "male"
           },
           "1": {
@@ -20418,11 +20418,11 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Yue Yu 0001",
+            "name": "Yue Yu",
             "gender": "andy"
           },
           "1": {
-            "name": "Huaimin Wang 0001",
+            "name": "Huaimin Wang",
             "gender": "unknown"
           },
           "2": {
@@ -20464,7 +20464,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Yu Zhou 0010",
+            "name": "Yu Zhou",
             "gender": "andy"
           },
           "1": {
@@ -20501,7 +20501,7 @@
             "gender": "andy"
           },
           "3": {
-            "name": "Yong Jin 0008",
+            "name": "Yong Jin",
             "gender": "mostly_male"
           },
           "4": {
@@ -20509,7 +20509,7 @@
             "gender": "unknown"
           },
           "5": {
-            "name": "Lu Zhang 0023",
+            "name": "Lu Zhang",
             "gender": "andy"
           }
         },
