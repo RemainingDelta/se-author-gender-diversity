@@ -6,8 +6,7 @@ import gender_guesser.detector as gender
 names = {}
 
 # Removing ICSE and ICSME to figure out error with openalex json parsing
-# VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
-VENUES = ["ECSA", "MSR"]
+VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN = "data/bronze"
 OUT = "data/silver"
 
@@ -20,7 +19,7 @@ def gender_map_names(venue):
         print(f"  {venue} — already cached, skipping")
         return
 
-    with open(f"{IN}/dblp/{venue}.json", "r") as file:
+    with open(f"{IN}/dblp/{venue}.json", "r", encoding="utf-8") as file:
         data = json.load(file)
 
     for year in data["years"].values():
@@ -37,7 +36,7 @@ def gender_map_names(venue):
                 author_name = author_name.replace("&apos;", "'")
 
                 # remove any trailing ID numbers
-                author_name = re.sub(" \d{4}", "", author_name)
+                author_name = re.sub(r" \d{4}", "", author_name)
 
                 # assign result to new author format
                 first_name = author_name.split(" ")[0]
@@ -50,8 +49,9 @@ def gender_map_names(venue):
             # Set the authors to the new, genderized authors
             paper["authors"] = genderized_authors
 
-        with open(cache_path, "w") as f:
-            json.dump(data, f, indent=2)
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 def associate_paper_topics(venue):
     cache_path = f"{OUT}/topics/{venue}.json"
@@ -60,28 +60,25 @@ def associate_paper_topics(venue):
         print(f"  {venue} — already cached, skipping")
         return
 
-    with open(f"{IN}/openalex_topics/{venue}.json", "r") as file:
+    with open(f"{IN}/openalex_topics/{venue}.json", "r", encoding="utf-8") as file:
         data = json.load(file)
-        paper_topics = {
-            "venue" : venue, 
-            "papers" : []
-            }
+        paper_topics = {"venue": venue, "papers": []}
 
     for key in data["papers"]:
         title = data["papers"][key]["dblp_title"]
-        topic = data["papers"][key]["openalex"]["primary_topic"]["display_name"] if \
-        data["papers"][key]["openalex"] is not None else None
+        topic = (
+            data["papers"][key]["openalex"]["primary_topic"]["display_name"]
+            if data["papers"][key]["openalex"] is not None
+            else None
+        )
 
-        compressed_paper = {
-            "title" : title, 
-            "topic" : topic
-            }
+        compressed_paper = {"title": title, "topic": topic}
 
         # Add paper info to the json
         paper_topics["papers"].append(compressed_paper)
 
-    with open(cache_path, "w") as f:
-        json.dump(paper_topics, f, indent=2)
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(paper_topics, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":

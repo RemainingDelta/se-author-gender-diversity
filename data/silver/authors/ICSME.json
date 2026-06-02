@@ -12,11 +12,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Rodrigo Bonif\u00e1cio",
+            "name": "Rodrigo Bonifácio",
             "gender": "male"
           },
           "2": {
-            "name": "Jo\u00e3o Saraiva",
+            "name": "João Saraiva",
             "gender": "mostly_male"
           }
         },
@@ -37,7 +37,7 @@
             "gender": "female"
           },
           "2": {
-            "name": "Sergio P\u00e9rez",
+            "name": "Sergio Pérez",
             "gender": "male"
           },
           "3": {
@@ -204,7 +204,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Malte Lauk\u00f6tter",
+            "name": "Malte Laukötter",
             "gender": "male"
           },
           "2": {
@@ -270,7 +270,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Jacob Kr\u00fcger",
+            "name": "Jacob Krüger",
             "gender": "male"
           },
           "4": {
@@ -295,7 +295,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           },
           "2": {
@@ -699,7 +699,7 @@
             "gender": "male"
           },
           "6": {
-            "name": "Jan F. Nyg\u00e5rd",
+            "name": "Jan F. Nygård",
             "gender": "male"
           }
         },
@@ -891,7 +891,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "C\u00e9sar Fran\u00e7a",
+            "name": "César França",
             "gender": "male"
           },
           "5": {
@@ -916,7 +916,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Jos\u00e9 Cano",
+            "name": "José Cano",
             "gender": "male"
           },
           "3": {
@@ -1180,7 +1180,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Daniel Rodr\u00edguez-C\u00e1rdenas",
+            "name": "Daniel Rodríguez-Cárdenas",
             "gender": "male"
           },
           "1": {
@@ -1213,7 +1213,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Jo\u00e3o Saraiva",
+            "name": "João Saraiva",
             "gender": "mostly_male"
           }
         },
@@ -1379,7 +1379,7 @@
             "gender": "female"
           },
           "2": {
-            "name": "L\u00e9andre Brault",
+            "name": "Léandre Brault",
             "gender": "mostly_male"
           },
           "3": {
@@ -1387,7 +1387,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "5": {
@@ -1404,7 +1404,7 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Quentin Sti\u00e9venart",
+            "name": "Quentin Stiévenart",
             "gender": "male"
           },
           "1": {
@@ -1496,11 +1496,11 @@
         "year": "2023",
         "authors": {
           "0": {
-            "name": "Marcel Valov\u00fd",
+            "name": "Marcel Valový",
             "gender": "male"
           },
           "1": {
-            "name": "Alena Buchalcevov\u00e1",
+            "name": "Alena Buchalcevová",
             "gender": "female"
           }
         },
@@ -1517,7 +1517,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           }
         },
@@ -1742,7 +1742,7 @@
         "url": "https://dblp.org/rec/conf/icsm/ZhouXH0H023"
       },
       {
-        "title": "IEEE International Conference on Software Maintenance and Evolution, ICSME 2023, Bogot\u00e1, Colombia, October 1-6, 2023",
+        "title": "IEEE International Conference on Software Maintenance and Evolution, ICSME 2023, Bogotá, Colombia, October 1-6, 2023",
         "year": "2023",
         "authors": {},
         "doi": "10.1109/ICSME58846.2023",
@@ -1873,11 +1873,11 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Pascal Marc Andr\u00e9",
+            "name": "Pascal Marc André",
             "gender": "male"
           },
           "1": {
-            "name": "Quentin Sti\u00e9venart",
+            "name": "Quentin Stiévenart",
             "gender": "male"
           },
           "2": {
@@ -1990,11 +1990,11 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "D\u00e9agl\u00e1n Connolly Bree",
+            "name": "Déaglán Connolly Bree",
             "gender": "unknown"
           },
           "1": {
-            "name": "Mel \u00d3 Cinn\u00e9ide",
+            "name": "Mel Ó Cinnéide",
             "gender": "mostly_female"
           }
         },
@@ -2160,7 +2160,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "C\u00e9line Deknop",
+            "name": "Céline Deknop",
             "gender": "female"
           },
           "1": {
@@ -2185,11 +2185,11 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Tom\u00e1s Fiedor",
+            "name": "Tomás Fiedor",
             "gender": "male"
           },
           "1": {
-            "name": "Jir\u00ed Pavela",
+            "name": "Jirí Pavela",
             "gender": "unknown"
           },
           "2": {
@@ -2197,7 +2197,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Tom\u00e1s Vojnar",
+            "name": "Tomás Vojnar",
             "gender": "male"
           }
         },
@@ -2318,7 +2318,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Christian K\u00e4stner",
+            "name": "Christian Kästner",
             "gender": "male"
           },
           "2": {
@@ -2431,11 +2431,11 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Tim Kr\u00e4uter",
+            "name": "Tim Kräuter",
             "gender": "male"
           },
           "1": {
-            "name": "Harald K\u00f6nig",
+            "name": "Harald König",
             "gender": "male"
           },
           "2": {
@@ -2830,15 +2830,15 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Jesse Nyyss\u00f6l\u00e4",
+            "name": "Jesse Nyyssölä",
             "gender": "male"
           },
           "1": {
-            "name": "Mika M\u00e4ntyl\u00e4",
+            "name": "Mika Mäntylä",
             "gender": "male"
           },
           "2": {
-            "name": "Mart\u00edn Varela",
+            "name": "Martín Varela",
             "gender": "male"
           }
         },
@@ -2981,7 +2981,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Tim Puhlf\u00fcr\u00df",
+            "name": "Tim Puhlfürß",
             "gender": "male"
           },
           "1": {
@@ -3030,7 +3030,7 @@
             "gender": "unknown"
           },
           "7": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           }
         },
@@ -3118,7 +3118,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           },
           "5": {
@@ -3210,7 +3210,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Alexander Schulthei\u00df",
+            "name": "Alexander Schultheiß",
             "gender": "male"
           },
           "1": {
@@ -3218,7 +3218,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Thomas Th\u00fcm",
+            "name": "Thomas Thüm",
             "gender": "male"
           },
           "3": {
@@ -3243,7 +3243,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Otmane A\u00eft Mohamed",
+            "name": "Otmane Aït Mohamed",
             "gender": "unknown"
           },
           "3": {
@@ -3509,7 +3509,7 @@
         "year": "2022",
         "authors": {
           "0": {
-            "name": "Camilo Vel\u00e1zquez-Rodr\u00edguez",
+            "name": "Camilo Velázquez-Rodríguez",
             "gender": "male"
           },
           "1": {
@@ -3645,7 +3645,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Fran\u00e7ois Belias",
+            "name": "François Belias",
             "gender": "male"
           },
           "2": {
@@ -3779,7 +3779,7 @@
             "gender": "unknown"
           },
           "1": {
-            "name": "Daniel M. Germ\u00e1n",
+            "name": "Daniel M. Germán",
             "gender": "male"
           },
           "2": {
@@ -3841,7 +3841,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Andr\u00e9 Sch\u00e4fer",
+            "name": "André Schäfer",
             "gender": "male"
           }
         },
@@ -3995,7 +3995,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Wesley K. G. Assun\u00e7\u00e3o",
+            "name": "Wesley K. G. Assunção",
             "gender": "male"
           },
           "2": {
@@ -4007,7 +4007,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Vin\u00edcius Soares",
+            "name": "Vinícius Soares",
             "gender": "unknown"
           },
           "5": {
@@ -4023,7 +4023,7 @@
             "gender": "unknown"
           },
           "8": {
-            "name": "M\u00e1rcio Ribeiro",
+            "name": "Márcio Ribeiro",
             "gender": "male"
           },
           "9": {
@@ -4035,7 +4035,7 @@
             "gender": "male"
           },
           "11": {
-            "name": "Jo\u00e3o Lucas Marques",
+            "name": "João Lucas Marques",
             "gender": "mostly_male"
           },
           "12": {
@@ -4052,11 +4052,11 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "D\u00e9agl\u00e1n Connolly Bree",
+            "name": "Déaglán Connolly Bree",
             "gender": "unknown"
           },
           "1": {
-            "name": "Mel \u00d3 Cinn\u00e9ide",
+            "name": "Mel Ó Cinnéide",
             "gender": "mostly_female"
           }
         },
@@ -4227,7 +4227,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Jean-Marc J\u00e9z\u00e9quel",
+            "name": "Jean-Marc Jézéquel",
             "gender": "unknown"
           }
         },
@@ -4282,7 +4282,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Jacob Kr\u00fcger",
+            "name": "Jacob Krüger",
             "gender": "male"
           }
         },
@@ -4424,7 +4424,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Mahugnon Honor\u00e9 Hou\u00e9kp\u00e9todji",
+            "name": "Mahugnon Honoré Houékpétodji",
             "gender": "unknown"
           },
           "1": {
@@ -4432,7 +4432,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "3": {
@@ -4440,7 +4440,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "J\u00e9r\u00f4me Sudich",
+            "name": "Jérôme Sudich",
             "gender": "male"
           }
         },
@@ -5426,7 +5426,7 @@
         "year": "2021",
         "authors": {
           "0": {
-            "name": "Beno\u00eet Verhaeghe",
+            "name": "Benoît Verhaeghe",
             "gender": "male"
           },
           "1": {
@@ -5446,7 +5446,7 @@
             "gender": "female"
           },
           "5": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "6": {
@@ -5616,7 +5616,7 @@
             "gender": "male"
           },
           "6": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           }
         },
@@ -5687,7 +5687,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           }
         },
@@ -5831,7 +5831,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Marcos C\u00e9sar de Oliveira",
+            "name": "Marcos César de Oliveira",
             "gender": "male"
           },
           "2": {
@@ -5839,11 +5839,11 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "Jos\u00e9 Fortes Neto",
+            "name": "José Fortes Neto",
             "gender": "male"
           },
           "4": {
-            "name": "Rodrigo Bonif\u00e1cio",
+            "name": "Rodrigo Bonifácio",
             "gender": "male"
           },
           "5": {
@@ -6006,7 +6006,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Wesley K. G. Assun\u00e7\u00e3o",
+            "name": "Wesley K. G. Assunção",
             "gender": "male"
           },
           "4": {
@@ -6018,7 +6018,7 @@
             "gender": "unknown"
           },
           "6": {
-            "name": "M\u00e1rcio Ribeiro",
+            "name": "Márcio Ribeiro",
             "gender": "male"
           },
           "7": {
@@ -6144,11 +6144,11 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Camilo Escobar-Vel\u00e1squez",
+            "name": "Camilo Escobar-Velásquez",
             "gender": "male"
           },
           "1": {
-            "name": "Michael Osorio-Ria\u00f1o",
+            "name": "Michael Osorio-Riaño",
             "gender": "male"
           },
           "2": {
@@ -6160,7 +6160,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Mario Linares-V\u00e1squez",
+            "name": "Mario Linares-Vásquez",
             "gender": "male"
           }
         },
@@ -6198,7 +6198,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Jacob Kr\u00fcger",
+            "name": "Jacob Krüger",
             "gender": "male"
           },
           "2": {
@@ -6487,27 +6487,27 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Ferenc Horv\u00e1th",
+            "name": "Ferenc Horváth",
             "gender": "male"
           },
           "1": {
-            "name": "\u00c1rp\u00e1d Besz\u00e9des",
+            "name": "Árpád Beszédes",
             "gender": "male"
           },
           "2": {
-            "name": "B\u00e9la Vancsics",
+            "name": "Béla Vancsics",
             "gender": "male"
           },
           "3": {
-            "name": "Gerg\u00f6 Balogh",
+            "name": "Gergö Balogh",
             "gender": "unknown"
           },
           "4": {
-            "name": "L\u00e1szl\u00f3 Vid\u00e1cs",
+            "name": "László Vidács",
             "gender": "male"
           },
           "5": {
-            "name": "Tibor Gyim\u00f3thy",
+            "name": "Tibor Gyimóthy",
             "gender": "male"
           }
         },
@@ -6599,7 +6599,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Jacob Kr\u00fcger",
+            "name": "Jacob Krüger",
             "gender": "male"
           },
           "1": {
@@ -6620,7 +6620,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "F\u00e1bio Petrillo",
+            "name": "Fábio Petrillo",
             "gender": "unknown"
           },
           "2": {
@@ -6989,11 +6989,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           },
           "2": {
-            "name": "Rodrigo Bonif\u00e1cio",
+            "name": "Rodrigo Bonifácio",
             "gender": "male"
           },
           "3": {
@@ -7223,7 +7223,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Andr\u00e9 C. Hora",
+            "name": "André C. Hora",
             "gender": "male"
           }
         },
@@ -7311,7 +7311,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Yigit K\u00fc\u00e7\u00fck",
+            "name": "Yigit Küçük",
             "gender": "unknown"
           }
         },
@@ -7544,7 +7544,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "L\u00e9uson M. P. da Silva",
+            "name": "Léuson M. P. da Silva",
             "gender": "unknown"
           },
           "1": {
@@ -7560,7 +7560,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Jo\u00e3o Moisakis",
+            "name": "João Moisakis",
             "gender": "mostly_male"
           }
         },
@@ -7749,7 +7749,7 @@
         "year": "2020",
         "authors": {
           "0": {
-            "name": "Anderson G. Uch\u00f4a",
+            "name": "Anderson G. Uchôa",
             "gender": "male"
           },
           "1": {
@@ -7960,7 +7960,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           }
         },
@@ -8426,7 +8426,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Rodrigo Rebou\u00e7as de Almeida",
+            "name": "Rodrigo Rebouças de Almeida",
             "gender": "male"
           }
         },
@@ -8439,7 +8439,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Rodrigo Rebou\u00e7as de Almeida",
+            "name": "Rodrigo Rebouças de Almeida",
             "gender": "male"
           },
           "1": {
@@ -8447,7 +8447,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           }
         },
@@ -8553,7 +8553,7 @@
             "gender": "unknown"
           },
           "3": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           }
         },
@@ -8649,7 +8649,7 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+            "name": "Yann-Gaël Guéhéneuc",
             "gender": "unknown"
           }
         },
@@ -8662,7 +8662,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Laura Bello-Jim\u00e9nez",
+            "name": "Laura Bello-Jiménez",
             "gender": "female"
           },
           "1": {
@@ -8670,7 +8670,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Mario Linares-V\u00e1squez",
+            "name": "Mario Linares-Vásquez",
             "gender": "male"
           },
           "3": {
@@ -8837,7 +8837,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           },
           "4": {
@@ -9401,7 +9401,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Cl\u00e9ment Quinton",
+            "name": "Clément Quinton",
             "gender": "male"
           }
         },
@@ -9426,7 +9426,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Paul Gr\u00fcnbacher",
+            "name": "Paul Grünbacher",
             "gender": "male"
           }
         },
@@ -9439,7 +9439,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Yigit K\u00fc\u00e7\u00fck",
+            "name": "Yigit Küçük",
             "gender": "unknown"
           },
           "1": {
@@ -9627,7 +9627,7 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Gustavo Siz\u00edlio Nery",
+            "name": "Gustavo Sizílio Nery",
             "gender": "male"
           },
           "1": {
@@ -9635,7 +9635,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           }
         },
@@ -9802,7 +9802,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Jean-R\u00e9my Falleri",
+            "name": "Jean-Rémy Falleri",
             "gender": "unknown"
           },
           "2": {
@@ -9810,7 +9810,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           },
           "4": {
@@ -9839,7 +9839,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Carlos Bernal-C\u00e1rdenas",
+            "name": "Carlos Bernal-Cárdenas",
             "gender": "male"
           },
           "4": {
@@ -9894,15 +9894,15 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "William Ravelo-M\u00e9ndez",
+            "name": "William Ravelo-Méndez",
             "gender": "male"
           },
           "1": {
-            "name": "Camilo Escobar-Vel\u00e1squez",
+            "name": "Camilo Escobar-Velásquez",
             "gender": "male"
           },
           "2": {
-            "name": "Mario Linares-V\u00e1squez",
+            "name": "Mario Linares-Vásquez",
             "gender": "male"
           }
         },
@@ -9973,7 +9973,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "B\u00e9la Bartalos",
+            "name": "Béla Bartalos",
             "gender": "male"
           }
         },
@@ -10190,11 +10190,11 @@
             "gender": "female"
           },
           "2": {
-            "name": "Santiago Li\u00f1\u00e1n",
+            "name": "Santiago Liñán",
             "gender": "male"
           },
           "3": {
-            "name": "Mario Linares-V\u00e1squez",
+            "name": "Mario Linares-Vásquez",
             "gender": "male"
           }
         },
@@ -10223,7 +10223,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Christian K\u00e4stner",
+            "name": "Christian Kästner",
             "gender": "male"
           }
         },
@@ -10399,7 +10399,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Maur\u00edcio Finavaro Aniche",
+            "name": "Maurício Finavaro Aniche",
             "gender": "male"
           }
         },
@@ -10549,11 +10549,11 @@
         "year": "2019",
         "authors": {
           "0": {
-            "name": "Th\u00e9o Zimmermann",
+            "name": "Théo Zimmermann",
             "gender": "male"
           },
           "1": {
-            "name": "Annal\u00ed Casanueva Art\u00eds",
+            "name": "Annalí Casanueva Artís",
             "gender": "unknown"
           }
         },
@@ -10697,11 +10697,11 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Rodrigo Rebou\u00e7as de Almeida",
+            "name": "Rodrigo Rebouças de Almeida",
             "gender": "male"
           },
           "1": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           },
           "2": {
@@ -10993,7 +10993,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Ricardo P\u00e9rez-Castillo",
+            "name": "Ricardo Pérez-Castillo",
             "gender": "male"
           },
           "2": {
@@ -11307,7 +11307,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "\u00c1rp\u00e1d Kiss",
+            "name": "Árpád Kiss",
             "gender": "male"
           },
           "1": {
@@ -11503,7 +11503,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           }
         },
@@ -11586,7 +11586,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Laura Bello-Jim\u00e9nez",
+            "name": "Laura Bello-Jiménez",
             "gender": "female"
           },
           "2": {
@@ -11594,7 +11594,7 @@
             "gender": "female"
           },
           "3": {
-            "name": "Mario Linares-V\u00e1squez",
+            "name": "Mario Linares-Vásquez",
             "gender": "male"
           }
         },
@@ -11623,7 +11623,7 @@
             "gender": "andy"
           },
           "4": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           },
           "5": {
@@ -12240,7 +12240,7 @@
         "year": "2018",
         "authors": {
           "0": {
-            "name": "Mat\u00fas Sul\u00edr",
+            "name": "Matús Sulír",
             "gender": "unknown"
           }
         },
@@ -12634,11 +12634,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Paul Gr\u00fcnbacher",
+            "name": "Paul Grünbacher",
             "gender": "male"
           },
           "2": {
-            "name": "Herbert Pr\u00e4hofer",
+            "name": "Herbert Prähofer",
             "gender": "male"
           },
           "3": {
@@ -12742,7 +12742,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           }
         },
@@ -13220,15 +13220,15 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Ren\u00e1ta Hodov\u00e1n",
+            "name": "Renáta Hodován",
             "gender": "female"
           },
           "1": {
-            "name": "\u00c1kos Kiss",
+            "name": "Ákos Kiss",
             "gender": "male"
           },
           "2": {
-            "name": "Tibor Gyim\u00f3thy",
+            "name": "Tibor Gyimóthy",
             "gender": "male"
           }
         },
@@ -13249,7 +13249,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Daniel M. Germ\u00e1n",
+            "name": "Daniel M. Germán",
             "gender": "male"
           },
           "3": {
@@ -13676,7 +13676,7 @@
             "gender": "male"
           },
           "6": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           },
           "7": {
@@ -13688,7 +13688,7 @@
             "gender": "female"
           },
           "9": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "10": {
@@ -13879,7 +13879,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Daniel M. Germ\u00e1n",
+            "name": "Daniel M. Germán",
             "gender": "male"
           },
           "3": {
@@ -13887,7 +13887,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           }
         },
@@ -13942,11 +13942,11 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "1": {
-            "name": "Carlos Bernal-C\u00e1rdenas",
+            "name": "Carlos Bernal-Cárdenas",
             "gender": "male"
           },
           "2": {
@@ -13967,7 +13967,7 @@
         "year": "2017",
         "authors": {
           "0": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "1": {
@@ -14062,7 +14062,7 @@
             "gender": "unknown"
           },
           "4": {
-            "name": "Jan F. Nyg\u00e5rd",
+            "name": "Jan F. Nygård",
             "gender": "male"
           }
         },
@@ -14452,7 +14452,7 @@
             "gender": "andy"
           },
           "1": {
-            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "name": "Tegawendé F. Bissyandé",
             "gender": "unknown"
           },
           "2": {
@@ -14565,11 +14565,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Herbert Pr\u00e4hofer",
+            "name": "Herbert Prähofer",
             "gender": "male"
           },
           "2": {
-            "name": "Paul Gr\u00fcnbacher",
+            "name": "Paul Grünbacher",
             "gender": "male"
           }
         },
@@ -14598,7 +14598,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           }
         },
@@ -14674,11 +14674,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Andr\u00e9 C. Hora",
+            "name": "André C. Hora",
             "gender": "male"
           },
           "2": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           }
         },
@@ -14716,11 +14716,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "Jean-R\u00e9my Falleri",
+            "name": "Jean-Rémy Falleri",
             "gender": "unknown"
           },
           "2": {
-            "name": "Laurent R\u00e9veill\u00e8re",
+            "name": "Laurent Réveillère",
             "gender": "male"
           }
         },
@@ -14879,7 +14879,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           }
         },
@@ -14980,11 +14980,11 @@
             "gender": "female"
           },
           "3": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "4": {
-            "name": "Arnaud Mon\u00e9gier",
+            "name": "Arnaud Monégier",
             "gender": "male"
           }
         },
@@ -15014,7 +15014,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Ulf Karg\u00e9n",
+            "name": "Ulf Kargén",
             "gender": "male"
           },
           "1": {
@@ -15031,7 +15031,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Rapha\u00ebl Khoury",
+            "name": "Raphaël Khoury",
             "gender": "male"
           },
           "1": {
@@ -15190,7 +15190,7 @@
         "year": "2016",
         "authors": {
           "0": {
-            "name": "Dierk L\u00fcdemann",
+            "name": "Dierk Lüdemann",
             "gender": "male"
           },
           "1": {
@@ -15396,7 +15396,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "2": {
@@ -16147,7 +16147,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+            "name": "Yann-Gaël Guéhéneuc",
             "gender": "unknown"
           },
           "2": {
@@ -16168,7 +16168,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Jos\u00e9 Teodoro da Silva",
+            "name": "José Teodoro da Silva",
             "gender": "male"
           },
           "2": {
@@ -16180,7 +16180,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Marco Aur\u00e9lio Gerosa",
+            "name": "Marco Aurélio Gerosa",
             "gender": "male"
           }
         },
@@ -16549,7 +16549,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Gerg\u00f6 Balogh",
+            "name": "Gergö Balogh",
             "gender": "unknown"
           },
           "1": {
@@ -16557,19 +16557,19 @@
             "gender": "unknown"
           },
           "2": {
-            "name": "\u00c1rp\u00e1d Besz\u00e9des",
+            "name": "Árpád Beszédes",
             "gender": "male"
           },
           "3": {
-            "name": "L\u00e1szl\u00f3 Vid\u00e1cs",
+            "name": "László Vidács",
             "gender": "male"
           },
           "4": {
-            "name": "Tibor Gyim\u00f3thy",
+            "name": "Tibor Gyimóthy",
             "gender": "male"
           },
           "5": {
-            "name": "\u00c1d\u00e1m Zolt\u00e1n V\u00e9gh",
+            "name": "Ádám Zoltán Végh",
             "gender": "male"
           }
         },
@@ -16603,7 +16603,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "\u00c1rp\u00e1d Besz\u00e9des",
+            "name": "Árpád Beszédes",
             "gender": "male"
           },
           "2": {
@@ -16611,11 +16611,11 @@
             "gender": "male"
           },
           "3": {
-            "name": "Judit J\u00e1sz",
+            "name": "Judit Jász",
             "gender": "female"
           },
           "4": {
-            "name": "B\u00e9la Vancsics",
+            "name": "Béla Vancsics",
             "gender": "male"
           }
         },
@@ -16808,7 +16808,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Emelie Engstr\u00f6m",
+            "name": "Emelie Engström",
             "gender": "female"
           }
         },
@@ -16906,7 +16906,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "P\u00e9ter Heged\u00fcs",
+            "name": "Péter Hegedüs",
             "gender": "male"
           }
         },
@@ -16919,7 +16919,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Andr\u00e9 C. Hora",
+            "name": "André C. Hora",
             "gender": "male"
           },
           "1": {
@@ -16935,11 +16935,11 @@
             "gender": "female"
           },
           "4": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "5": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           }
         },
@@ -16952,11 +16952,11 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Andr\u00e9 C. Hora",
+            "name": "André C. Hora",
             "gender": "male"
           },
           "1": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           }
         },
@@ -17206,7 +17206,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           }
         },
@@ -17444,7 +17444,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           },
           "2": {
@@ -17490,7 +17490,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "2": {
@@ -17573,7 +17573,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Elmar J\u00fcrgens",
+            "name": "Elmar Jürgens",
             "gender": "male"
           }
         },
@@ -17698,11 +17698,11 @@
             "gender": "female"
           },
           "3": {
-            "name": "St\u00e9phane Ducasse",
+            "name": "Stéphane Ducasse",
             "gender": "mostly_male"
           },
           "4": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           }
         },
@@ -17740,7 +17740,7 @@
             "gender": "female"
           },
           "1": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           },
           "2": {
@@ -17841,7 +17841,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "G\u00e1bor Szoke",
+            "name": "Gábor Szoke",
             "gender": "male"
           },
           "1": {
@@ -17849,7 +17849,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "P\u00e9ter Heged\u00fcs",
+            "name": "Péter Hegedüs",
             "gender": "male"
           },
           "3": {
@@ -17857,7 +17857,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Tibor Gyim\u00f3thy",
+            "name": "Tibor Gyimóthy",
             "gender": "male"
           }
         },
@@ -17946,7 +17946,7 @@
         "year": "2015",
         "authors": {
           "0": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "1": {
@@ -17975,7 +17975,7 @@
             "gender": "male"
           },
           "1": {
-            "name": "Mario Linares V\u00e1squez",
+            "name": "Mario Linares Vásquez",
             "gender": "male"
           },
           "2": {
@@ -17987,7 +17987,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "Daniel M. Germ\u00e1n",
+            "name": "Daniel M. Germán",
             "gender": "male"
           },
           "5": {
@@ -18025,7 +18025,7 @@
             "gender": "female"
           },
           "2": {
-            "name": "Susanne R\u00f6sch",
+            "name": "Susanne Rösch",
             "gender": "female"
           },
           "3": {
@@ -18232,11 +18232,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "J\u00e1come Cunha",
+            "name": "Jácome Cunha",
             "gender": "unknown"
           },
           "2": {
-            "name": "Jo\u00e3o Paulo Fernandes",
+            "name": "João Paulo Fernandes",
             "gender": "mostly_male"
           },
           "3": {
@@ -18248,7 +18248,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "Jo\u00e3o Saraiva",
+            "name": "João Saraiva",
             "gender": "mostly_male"
           }
         },
@@ -18265,11 +18265,11 @@
             "gender": "male"
           },
           "1": {
-            "name": "J\u00e1come Cunha",
+            "name": "Jácome Cunha",
             "gender": "unknown"
           },
           "2": {
-            "name": "Jo\u00e3o Paulo Fernandes",
+            "name": "João Paulo Fernandes",
             "gender": "mostly_male"
           },
           "3": {
@@ -18281,7 +18281,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "Jo\u00e3o Saraiva",
+            "name": "João Saraiva",
             "gender": "mostly_male"
           }
         },
@@ -18461,7 +18461,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Elmar J\u00fcrgens",
+            "name": "Elmar Jürgens",
             "gender": "male"
           }
         },
@@ -18609,7 +18609,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "N\u00e9lio Cacho",
+            "name": "Nélio Cacho",
             "gender": "unknown"
           },
           "1": {
@@ -18629,7 +18629,7 @@
             "gender": "male"
           },
           "5": {
-            "name": "Thiago C\u00e9sar",
+            "name": "Thiago César",
             "gender": "unknown"
           },
           "6": {
@@ -18645,7 +18645,7 @@
             "gender": "male"
           },
           "9": {
-            "name": "Israel Garc\u00eda",
+            "name": "Israel García",
             "gender": "male"
           }
         },
@@ -18733,7 +18733,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Ma\u00eblick Claes",
+            "name": "Maëlick Claes",
             "gender": "unknown"
           },
           "1": {
@@ -18766,7 +18766,7 @@
             "gender": "male"
           },
           "3": {
-            "name": "Uir\u00e1 Kulesza",
+            "name": "Uirá Kulesza",
             "gender": "unknown"
           },
           "4": {
@@ -18863,7 +18863,7 @@
         "year": "2014",
         "authors": {
           "0": {
-            "name": "Fran\u00e7ois Gauthier",
+            "name": "François Gauthier",
             "gender": "male"
           },
           "1": {
@@ -19303,7 +19303,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Paul Gr\u00fcnbacher",
+            "name": "Paul Grünbacher",
             "gender": "male"
           },
           "3": {
@@ -19311,7 +19311,7 @@
             "gender": "female"
           },
           "4": {
-            "name": "Herbert Pr\u00e4hofer",
+            "name": "Herbert Prähofer",
             "gender": "male"
           },
           "5": {
@@ -19482,7 +19482,7 @@
             "gender": "male"
           },
           "4": {
-            "name": "M\u00e1rcio Ribeiro",
+            "name": "Márcio Ribeiro",
             "gender": "male"
           }
         },
@@ -19558,7 +19558,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "Marco T\u00falio Valente",
+            "name": "Marco Túlio Valente",
             "gender": "male"
           },
           "3": {
@@ -20221,7 +20221,7 @@
             "gender": "male"
           },
           "2": {
-            "name": "\u00c9rika F. Cota",
+            "name": "Érika F. Cota",
             "gender": "unknown"
           }
         },
