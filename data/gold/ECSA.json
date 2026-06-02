@@ -1,0 +1,2716 @@
+{
+  "Lauren Adams": {
+    "gender": "mostly_female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Amr S. Abdelfattah": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Md Showkat Hossain Chy": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Samantha Perry": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Patrick E. Harris": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tom\u00e1s Cern\u00fd": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "5",
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Dario Amoroso d'Aragona": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "6"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Davide Taibi": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "7",
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Potito Aghilar": {
+    "gender": "male",
+    "associated_topics": [
+      "3D Surveying and Cultural Heritage"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Vito Walter Anelli": {
+    "gender": "male",
+    "associated_topics": [
+      "3D Surveying and Cultural Heritage"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Michelantonio Trizio": {
+    "gender": "unknown",
+    "associated_topics": [
+      "3D Surveying and Cultural Heritage"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tommaso Di Noia": {
+    "gender": "male",
+    "associated_topics": [
+      "3D Surveying and Cultural Heritage"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sahar Ahmadisakha": {
+    "gender": "female",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Vasilios Andrikopoulos": {
+    "gender": "male",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nour Ali": {
+    "gender": "mostly_female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nuha Alshuqayran": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Rana Fakeeh": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Thoybur Rohman": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Carlos Sol\u00eds": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Razieh Alidoosti": {
+    "gender": "female",
+    "associated_topics": [
+      "Knowledge Management and Sharing"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Martina De Sanctis": {
+    "gender": "female",
+    "associated_topics": [
+      "Knowledge Management and Sharing",
+      "Context-Aware Activity Recognition Systems"
+    ],
+    "authorship_positions": [
+      "1",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Ludovico Iovino": {
+    "gender": "male",
+    "associated_topics": [
+      "Knowledge Management and Sharing"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Patricia Lago": {
+    "gender": "female",
+    "associated_topics": [
+      "Knowledge Management and Sharing",
+      "Green IT and Sustainability",
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "3",
+      "1",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Maryam Razavian": {
+    "gender": "female",
+    "associated_topics": [
+      "Knowledge Management and Sharing"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Amirali Amiri": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Uwe Zdun": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Joshua Ammermann": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sven Jordan": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies",
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "1",
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Lukas Linsbauer": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies",
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "2",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Ina Schaefer": {
+    "gender": "female",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies",
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "3",
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Bernardo Andrade": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Samuel Santos": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Ant\u00f3nio Rito Silva": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Alexander Bakhtin": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Xiaozhou Li": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jacopo Soldani": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Antonio Brogi": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Luciano Baresi": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Damian A. Tamburri": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Marcello M. Bersani": {
+    "gender": "male",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Matteo Camilli": {
+    "gender": "male",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Livia Lestingi": {
+    "gender": "female",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Raffaela Mirandola": {
+    "gender": "female",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Matteo G. Rossi": {
+    "gender": "male",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Patrizia Scandurra": {
+    "gender": "female",
+    "associated_topics": [
+      "Scientific Computing and Data Management",
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "5",
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Priom Biswas": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andreas Morgenstern": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Pablo Oliveira Antonino": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Rafael Capilla": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Elisa Yumi Nakagawa": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "4",
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nicolas Boltz": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sebastian Hahner": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Christopher Gerking": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Robert Heinrich": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "3",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Klara Borowa": {
+    "gender": "female",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Rafal Lewanczyk": {
+    "gender": "male",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Klaudia Stpiczynska": {
+    "gender": "female",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Patryk Stradomski": {
+    "gender": "male",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andrzej Zalewski": {
+    "gender": "male",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Roberta Capuano": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Henry Muccini": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research",
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "1",
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Felipe Cerezo": {
+    "gender": "male",
+    "associated_topics": [
+      "Graph Theory and Algorithms"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Bel\u00e9n Vela": {
+    "gender": "female",
+    "associated_topics": [
+      "Graph Theory and Algorithms"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sebastian Copei": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jens Kosiol": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Vittorio Cortellessa": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "J. Andres Diaz-Pace": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software Engineering Research",
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "1",
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Daniele Di Pompeo": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Michele Tucci": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Rebekka Wohlrab": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "David Garlan": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nafise Eskandani": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sten Gr\u00fcner": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Iffat Fatima": {
+    "gender": "female",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Enxhi Ferko": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Alessio Bucaioni": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Patrizio Pelliccione": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Moris Behnam": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sebastian Frank": {
+    "gender": "male",
+    "associated_topics": [
+      "Formal Methods in Verification"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Julian Brott": {
+    "gender": "male",
+    "associated_topics": [
+      "Formal Methods in Verification"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "M. Alireza Hakamian": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Formal Methods in Verification"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andr\u00e9 van Hoorn": {
+    "gender": "male",
+    "associated_topics": [
+      "Formal Methods in Verification",
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "3",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Markus Funke": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sune Chung Jepsen": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Torben Worm": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Hendrik Jilderda": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Claudia Raibulet": {
+    "gender": "female",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies",
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "1",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Christoph K\u00f6nig": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Alper Karamanlioglu": {
+    "gender": "male",
+    "associated_topics": [
+      "Web Data Mining and Analysis"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Gokhan Yurtalan": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Web Data Mining and Analysis"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Yahya Bahadir Karatas": {
+    "gender": "male",
+    "associated_topics": [
+      "Web Data Mining and Analysis"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Priyanka Karkhanis": {
+    "gender": "female",
+    "associated_topics": [
+      "Mobile Agent-Based Network Management"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Yanja Dajsuren": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Mobile Agent-Based Network Management"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Mark van den Brand": {
+    "gender": "male",
+    "associated_topics": [
+      "Mobile Agent-Based Network Management"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Yves Richard Kirschner": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jan Keim": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nico Peter": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Anne Koziolek": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Maria Kolyda": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Eirini Kostoglou": {
+    "gender": "female",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nikolaos Nikolaidis": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Apostolos Ampatzoglou": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Alexander Chatzigeorgiou": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sergio Laso": {
+    "gender": "male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Lorenzo Toro-G\u00e1lvez": {
+    "gender": "male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Javier Berrocal": {
+    "gender": "mostly_male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Javier Troya": {
+    "gender": "mostly_male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Carlos Canal": {
+    "gender": "male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Juan Manuel Murillo": {
+    "gender": "male",
+    "associated_topics": [
+      "Smart Cities and Technologies"
+    ],
+    "authorship_positions": [
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jialong Li": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Christos Tsigkanos": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Toshihide Ubukata": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Zhenyu Mao": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nianyu Li": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Kenji Tei": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Testing and Debugging Techniques"
+    ],
+    "authorship_positions": [
+      "6"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jesse Maarleveld": {
+    "gender": "male",
+    "associated_topics": [
+      "Data Visualization and Analytics"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Arjan Dekker": {
+    "gender": "male",
+    "associated_topics": [
+      "Data Visualization and Analytics"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sarah Druyts": {
+    "gender": "female",
+    "associated_topics": [
+      "Data Visualization and Analytics"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Mohamed Soliman": {
+    "gender": "male",
+    "associated_topics": [
+      "Data Visualization and Analytics"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Francesca Marzi": {
+    "gender": "female",
+    "associated_topics": [
+      "Machine Learning and Data Classification",
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "0",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Giordano d'Aloisio": {
+    "gender": "male",
+    "associated_topics": [
+      "Machine Learning and Data Classification",
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "1",
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Antinisca Di Marco": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Machine Learning and Data Classification",
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "2",
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Giovanni Stilo": {
+    "gender": "male",
+    "associated_topics": [
+      "Machine Learning and Data Classification",
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "3",
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Zohreh Mehrafrooz": {
+    "gender": "female",
+    "associated_topics": [
+      "Model-Driven Software Engineering Techniques"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Ali Jannatpour": {
+    "gender": "male",
+    "associated_topics": [
+      "Model-Driven Software Engineering Techniques"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Constantinos Constantinides": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Model-Driven Software Engineering Techniques"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Elias Modrakowski": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Niklas Braun": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Mehrnoush Hajnorouzi": {
+    "gender": "female",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andreas Eich": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Narges Javaheri": {
+    "gender": "female",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Richard Doornbos": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Sebastian Moritz": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "6"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jan-Willem Bikker": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "7"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Rutger van Beek": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "8"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Victor Prokhorenko": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Chadni Islam": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software Engineering Research"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Muhammad Ali Babar": {
+    "gender": "male",
+    "associated_topics": [
+      "Software Engineering Research",
+      "Blockchain Technology Applications and Security",
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "2",
+      "1",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Pierre-Jean Queval": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Helena Rodrigues": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Alberto Avritzer": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Hassan Sartaj": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Shaukat Ali": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tao Yue": {
+    "gender": "andy",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Julie Marie Gj\u00f8by": {
+    "gender": "female",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Zakaria Sawadogo": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Muhammad Taimoor Khan": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "George Loukas": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jean Marie Dembele": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Georgia Sakellari": {
+    "gender": "female",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Gervais Mendy": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Malware Detection Techniques"
+    ],
+    "authorship_positions": [
+      "5"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Lylian Siffre": {
+    "gender": "male",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Gabriel Breuil": {
+    "gender": "male",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Adel Noureddine": {
+    "gender": "male",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Renaud Pawlak": {
+    "gender": "male",
+    "associated_topics": [
+      "Green IT and Sustainability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Romina Spalazzese": {
+    "gender": "female",
+    "associated_topics": [
+      "Context-Aware Activity Recognition Systems"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Fahed Alkhabbas": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Context-Aware Activity Recognition Systems"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Paul Davidsson": {
+    "gender": "male",
+    "associated_topics": [
+      "Context-Aware Activity Recognition Systems"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Nguyen Khoi Tran": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Blockchain Technology Applications and Security"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Julian Thorpe": {
+    "gender": "male",
+    "associated_topics": [
+      "Blockchain Technology Applications and Security"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Seth Leslie": {
+    "gender": "male",
+    "associated_topics": [
+      "Blockchain Technology Applications and Security"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andrew Walters": {
+    "gender": "male",
+    "associated_topics": [
+      "Blockchain Technology Applications and Security"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Anh-Duy Tran": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Koen Yskout": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Wouter Joosen": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Faheem Ullah": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "H\u00fcseyin \u00dcnl\u00fc": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "G\u00f6rkem Kilin\u00e7 Soylu": {
+    "gender": "mostly_male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Isra Shafique Ahmad": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Onur Demir\u00f6rs": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Roberto Verdecchia": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "0",
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Kevin Maggi": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Leonardo Scommegna": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "2",
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Enrico Vicario": {
+    "gender": "male",
+    "associated_topics": [
+      "Software System Performance and Reliability",
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "3",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tommaso Pecorella": {
+    "gender": "male",
+    "associated_topics": [
+      "Digital Transformation in Industry"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Jeisson Vergara-Vargas": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Felipe Restrepo-Calle": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Salah Sadou": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Chouki Tibermacine": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Information and Cyber Security",
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "3",
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Maximilian Walter": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Ralf H. Reussner": {
+    "gender": "male",
+    "associated_topics": [
+      "Information and Cyber Security"
+    ],
+    "authorship_positions": [
+      "2"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Marion Wiese": {
+    "gender": "female",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Axel-Frederik Brand": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Design Education and Practice"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Andrea D'Angelo": {
+    "gender": "female",
+    "associated_topics": [
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Diana Di Marco": {
+    "gender": "female",
+    "associated_topics": [
+      "Ethics and Social Impacts of AI"
+    ],
+    "authorship_positions": [
+      "3"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tha\u00eds Batista": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Tom\u00e1s Bures": {
+    "gender": "male",
+    "associated_topics": [
+      "Scientific Computing and Data Management"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Bedir Tekinerdogan": {
+    "gender": "unknown",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "0"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Catia Trubiani": {
+    "gender": "female",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "1"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  },
+  "Carlos E. Cuesta": {
+    "gender": "male",
+    "associated_topics": [
+      "Advanced Software Engineering Methodologies"
+    ],
+    "authorship_positions": [
+      "4"
+    ],
+    "collaborator_genders": {
+      "male": 0,
+      "female": 0,
+      "non-binary": 0
+    }
+  }
+}

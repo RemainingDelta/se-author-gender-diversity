@@ -3,8 +3,6 @@ import re
 import os
 import gender_guesser.detector as gender
 
-names = {}
-
 # Removing ICSE and ICSME to figure out error with openalex json parsing
 # VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 VENUES = ["ECSA", "MSR"]
@@ -64,7 +62,7 @@ def associate_paper_topics(venue):
         data = json.load(file)
         paper_topics = {
             "venue" : venue, 
-            "papers" : []
+            "papers" : {}
             }
 
     for key in data["papers"]:
@@ -72,13 +70,8 @@ def associate_paper_topics(venue):
         topic = data["papers"][key]["openalex"]["primary_topic"]["display_name"] if \
         data["papers"][key]["openalex"] is not None else None
 
-        compressed_paper = {
-            "title" : title, 
-            "topic" : topic
-            }
-
         # Add paper info to the json
-        paper_topics["papers"].append(compressed_paper)
+        paper_topics["papers"][title] = {"topic" : topic}
 
     with open(cache_path, "w") as f:
         json.dump(paper_topics, f, indent=2)
