@@ -15,10 +15,10 @@ def synthesize_data(venue):
         print(f"  {venue} — already cached, skipping")
         return
 
-    with open(f"{IN}/authors/{venue}.json", "r") as file:
+    with open(f"{IN}/authors/{venue}.json", "r", encoding="utf-8") as file:
         author_data = json.load(file)
 
-    with open(f"{IN}/topics/{venue}.json", "r") as file:
+    with open(f"{IN}/topics/{venue}.json", "r", encoding="utf-8") as file:
         topic_data = json.load(file)
 
     output = {}
@@ -33,6 +33,7 @@ def synthesize_data(venue):
                     # If the author is not recorded yet, create an entry in the JSON for them
                     output[author["name"]] = {
                         "gender" : author["gender"],
+                        "confidence" : author["probability"],
                         "associated_topics" : [],
                         "authorship_positions" : [],
                         "collaborator_genders" : {
@@ -44,10 +45,16 @@ def synthesize_data(venue):
 
                 # Now that the author is in the JSON, update their stats with the new info
                 # Add the paper topic to their associated_topics
-                output[author["name"]]["associated_topics"].append(topic_data["papers"][paper["title"]]["topic"])
+                # If paper cannot be found (Characters don't perfectly match, slightly different title from OpenAlex),
+                # then simply enter "not found" in paper topic
+                try: 
+                    output[author["name"]]["associated_topics"].append(topic_data["papers"][paper["title"]]["topic"])
+                except KeyError:
+                    output[author["name"]]["associated_topics"].append("not found")
 
-                # Add their position in this paper to their authorship_positions
-                output[author["name"]]["authorship_positions"].append(author_index)
+                # Add their position in this paper to their authorship_positions, 
+                # divided by the total number of authors in this paper
+                output[author["name"]]["authorship_positions"].append(int(author_index) / len(paper["authors"]))
 
                 # TODO: Update the info on collaborators' genders
 
