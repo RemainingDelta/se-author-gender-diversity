@@ -310,7 +310,12 @@
     "Accurate Performance Predictions with Component-Based Models of Data Streaming Applications.": {
       "topic": "Cloud Computing and Resource Management"
     },
+<<<<<<< HEAD
     "Software Architecture - 15th European Conference, ECSA 2021 Tracks and Workshops; V\u00c3\u00a4xj\u00c3\u00b6, Sweden, September 13-17, 2021, Revised Selected Papers": {
+=======
+    {
+      "title": "Software Architecture - 15th European Conference, ECSA 2021 Tracks and Workshops; Växjö, Sweden, September 13-17, 2021, Revised Selected Papers",
+>>>>>>> 556fcd10e49463e70cb3f027d1c588d27ae63b70
       "topic": "Advanced Software Engineering Methodologies"
     },
     "Software Architecture - 16th European Conference, ECSA 2022, Prague, Czech Republic, September 19-23, 2022, Proceedings": {
@@ -1309,7 +1314,12 @@
     "How Do Software Architects Specify and Validate Quality Requirements?": {
       "topic": "Advanced Software Engineering Methodologies"
     },
+<<<<<<< HEAD
     "Architecture-Based Code Generation: From \u00cf\u20ac-ADL Architecture Descriptions to Implementations in the Go Language.": {
+=======
+    {
+      "title": "Architecture-Based Code Generation: From π-ADL Architecture Descriptions to Implementations in the Go Language.",
+>>>>>>> 556fcd10e49463e70cb3f027d1c588d27ae63b70
       "topic": "Advanced Software Engineering Methodologies"
     },
     "Architectural Support for Model-Driven Performance Prediction of Distributed Real-Time Embedded Systems of Systems.": {

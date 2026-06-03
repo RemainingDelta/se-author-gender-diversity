@@ -109,7 +109,12 @@
     "Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates.": {
       "topic": "Software System Performance and Reliability"
     },
+<<<<<<< HEAD
     "Do Subjectivity and Objectivity Always Agree\u00c6\u2019 A Case Study with Stack Overflow Questions.": {
+=======
+    {
+      "title": "Do Subjectivity and Objectivity Always Agreeƒ A Case Study with Stack Overflow Questions.",
+>>>>>>> 556fcd10e49463e70cb3f027d1c588d27ae63b70
       "topic": "Software Engineering Research"
     },
     "Phylogenetic Analysis of Reticulate Software Evolution.": {

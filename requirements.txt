@@ -1,0 +1,4 @@
+requests
+gender-guesser
+python-dotenv
+ruff
