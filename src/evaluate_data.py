@@ -1,23 +1,22 @@
 import json
 import re
 import os
-import gender_guesser.detector as gender
 
-names = {}
-
-# Removing ICSE and ICSME to figure out error with openalex json parsing
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN = "data/bronze"
 OUT = "data/silver"
+GENDER_LOOKUP_PATH = "data/bronze/genderize/gender_lookup.json"
 
 
 def gender_map_names(venue):
-    detector = gender.Detector()
     cache_path = f"{OUT}/authors/{venue}.json"
 
     if os.path.exists(cache_path):
         print(f"  {venue} — already cached, skipping")
         return
+
+    with open(GENDER_LOOKUP_PATH, encoding="utf-8") as f:
+        gender_lookup = json.load(f)
 
     with open(f"{IN}/dblp/{venue}.json", "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -38,12 +37,12 @@ def gender_map_names(venue):
                 # remove any trailing ID numbers
                 author_name = re.sub(r" \d{4}", "", author_name)
 
-                # assign result to new author format
-                first_name = author_name.split(" ")[0]
+                result = gender_lookup.get(author_name, {})
 
                 genderized_authors[i] = {
                     "name": author_name,
-                    "gender": detector.get_gender(f"{first_name}"),
+                    "gender": result.get("gender"),
+                    "probability": result.get("probability"),
                 }
 
             # Set the authors to the new, genderized authors
