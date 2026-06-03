@@ -41,7 +41,9 @@ if __name__ == "__main__":
     remaining = [n for n in all_names if n not in cache]
     print(f"{len(cache)} already cached, {len(remaining)} remaining")
 
-    batches = [remaining[i : i + BATCH_SIZE] for i in range(0, len(remaining), BATCH_SIZE)]
+    batches = [
+        remaining[i : i + BATCH_SIZE] for i in range(0, len(remaining), BATCH_SIZE)
+    ]
 
     for i, batch in enumerate(batches):
         results = fetch_batch(batch, API_KEY)
