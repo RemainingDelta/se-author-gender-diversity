@@ -1,18 +1,26 @@
 import json
 import os
 
-# Removing ICSE and ICSME to figure out error with openalex json parsing
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN = "data/silver"
 OUT = "data/gold"
 
 
-def synthesize_data(venue):
-    cache_path = f"{OUT}/{venue}.json"
+def classify_gender(gender, probability):
+    if gender is None:
+        return "unknown"
+    if probability >= 0.70:
+        if gender == "female":
+            return "female-presenting"
+        if gender == "male":
+            return "male-presenting"
+    return "unclassified"
 
+
+def build_author_data(venue):
+    cache_path = f"{OUT}/{venue}.json"
     if os.path.exists(cache_path):
-        print(f"  {venue} — already cached, skipping")
-        return
+        os.remove(cache_path)
 
     with open(f"{IN}/authors/{venue}.json", "r", encoding="utf-8") as file:
         author_data = json.load(file)
@@ -20,64 +28,135 @@ def synthesize_data(venue):
     with open(f"{IN}/topics/{venue}.json", "r", encoding="utf-8") as file:
         topic_data = json.load(file)
 
-    with open("data/bronze/genderize/gender_lookup.json", "r", encoding="utf-8") as file:
-        gender_data = json.load(file)
-
     output = {}
 
-    for year in author_data["years"].values():
-        for paper in year:
-            for author_index in paper["authors"]:
-                author = paper["authors"][author_index]
+    for year, papers in author_data["years"].items():
+        for paper in papers:
+            for author_index, author in paper["authors"].items():
+                name = author["name"]
 
-                if author["name"] not in output:
-
-                    # If the author is not recorded yet, create an entry in the JSON for them
-                    output[author["name"]] = {
-                        "gender" : author["gender"],
-                        "confidence" : author["probability"],
-                        "associated_topics" : [],
-                        "authorship_positions" : [],
-                        "collaborator_genders" : {
-                            "male" : 0,
-                            "female" : 0,
-                            "non-binary" : 0
-                        }
+                if name not in output:
+                    output[name] = {
+                        "gender_label": classify_gender(
+                            author["gender"], author["probability"]
+                        ),
+                        "associated_topics": [],
+                        "authorship_positions": [],
+                        "collaborator_genders": {
+                            "female_presenting": 0,
+                            "male_presenting": 0,
+                            "unclassified": 0,
+                            "unknown": 0,
+                        },
                     }
 
-                # Now that the author is in the JSON, update their stats with the new info
-                # Add the paper topic to their associated_topics
-                # If paper cannot be found (Characters don't perfectly match, slightly different title from OpenAlex),
-                # then simply enter "not found" in paper topic
-                try: 
-                    output[author["name"]]["associated_topics"].append(topic_data["papers"][paper["title"]]["topic"])
+                # Topic
+                try:
+                    topic = topic_data["papers"][paper["title"]]["topic"]
                 except KeyError:
-                    output[author["name"]]["associated_topics"].append("not found")
+                    topic = None
 
-                # Add their position in this paper to their authorship_positions, 
-                # divided by the total number of authors in this paper
-                output[author["name"]]["authorship_positions"].append(int(author_index) / len(paper["authors"]))
+                if topic is not None and topic != "not found":
+                    output[name]["associated_topics"].append(topic)
 
-                # TODO: Update the info on collaborators' genders
-                # For each collaborator, lookup using gender lookup JSON in bronze directory
-                for collaborator_index in paper["authors"]:
+                # Authorship position
+                output[name]["authorship_positions"].append(
+                    int(author_index) / len(paper["authors"])
+                )
 
-                    # Make sure the author themselves isn't counted
-                    if collaborator_index != author_index:
-                        collaborator_gender = gender_data[paper["authors"][collaborator_index]["name"]]["gender"]
+                # Collaborator genders
+                for collab_index, collab in paper["authors"].items():
+                    if collab_index != author_index:
+                        collab_label = classify_gender(
+                            collab["gender"], collab["probability"]
+                        )
+                        collab_key = collab_label.replace("-", "_")
+                        output[name]["collaborator_genders"][collab_key] += 1
 
-                        # Increment the count relating to this collaborator's gender
-                        try:
-                            output[author["name"]]["collaborator_genders"][collaborator_gender] += 1
-                        except KeyError:
-                            output[author["name"]]["collaborator_genders"]["non-binary"] += 1
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
 
 
-        with open(cache_path, "w") as f:
-            json.dump(output, f, indent=2)
+def build_yearly_stats():
+    stats = {}
+
+    for venue in VENUES:
+        with open(f"{IN}/authors/{venue}.json", "r", encoding="utf-8") as f:
+            author_data = json.load(f)
+
+        stats[venue] = {}
+
+        for year, papers in author_data["years"].items():
+            counts = {
+                "total_authors": 0,
+                "female_presenting": 0,
+                "male_presenting": 0,
+                "unclassified": 0,
+                "unknown": 0,
+                "first_author_total": 0,
+                "first_author_female_presenting": 0,
+                "first_author_male_presenting": 0,
+                "first_author_unclassified": 0,
+                "first_author_unknown": 0,
+            }
+
+            for paper in papers:
+                for author_index, author in paper["authors"].items():
+                    label = classify_gender(author["gender"], author["probability"])
+                    label_key = label.replace("-", "_")
+
+                    counts["total_authors"] += 1
+                    counts[label_key] += 1
+
+                    if author_index == "0":
+                        counts["first_author_total"] += 1
+                        counts[f"first_author_{label_key}"] += 1
+
+            stats[venue][year] = counts
+
+    with open(f"{OUT}/yearly_stats.json", "w", encoding="utf-8") as f:
+        json.dump(stats, f, indent=2, ensure_ascii=False)
+
+
+def build_topic_stats():
+    stats = {}
+
+    for venue in VENUES:
+        with open(f"{OUT}/{venue}.json", "r", encoding="utf-8") as f:
+            gold_data = json.load(f)
+
+        for author_name, author_info in gold_data.items():
+            label = author_info["gender_label"]
+            label_key = label.replace("-", "_")
+
+            for topic in author_info["associated_topics"]:
+                if topic not in stats:
+                    stats[topic] = {}
+                if venue not in stats[topic]:
+                    stats[topic][venue] = {
+                        "total_authors": 0,
+                        "female_presenting": 0,
+                        "male_presenting": 0,
+                        "unclassified": 0,
+                        "unknown": 0,
+                    }
+
+                stats[topic][venue]["total_authors"] += 1
+                stats[topic][venue][label_key] += 1
+
+    with open(f"{OUT}/topic_stats.json", "w", encoding="utf-8") as f:
+        json.dump(stats, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
+    os.makedirs(OUT, exist_ok=True)
+
     for venue in VENUES:
-        print(f"\nSynthesizing data for {venue}...")
-        synthesize_data(venue)
+        print(f"\nBuilding author data for {venue}...")
+        build_author_data(venue)
+
+    print("\nBuilding yearly stats...")
+    build_yearly_stats()
+
+    print("\nBuilding topic stats...")
+    build_topic_stats()
