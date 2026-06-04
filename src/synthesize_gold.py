@@ -47,16 +47,19 @@ def synthesize_data(venue):
 
                 # Now that the author is in the JSON, update their stats with the new info
                 # Add the paper topic to their associated_topics
-                # If paper cannot be found (Characters don't perfectly match, slightly different title from OpenAlex),
+                # If paper cannot be found (Characters don't perfectly match,
+                # slightly different title from OpenAlex),
                 # then simply enter "not found" in paper topic
-                try: 
-                    output[author["name"]]["associated_topics"].append(topic_data["papers"][paper["title"]]["topic"])
+                try:
+                    output[author["name"]]["associated_topics"].append(
+                        topic_data["papers"][paper["title"]]["topic"])
                 except KeyError:
                     output[author["name"]]["associated_topics"].append("not found")
 
-                # Add their position in this paper to their authorship_positions, 
+                # Add their position in this paper to their authorship_positions,
                 # divided by the total number of authors in this paper
-                output[author["name"]]["authorship_positions"].append(int(author_index) / len(paper["authors"]))
+                output[author["name"]]["authorship_positions"].append(
+                    int(author_index) / len(paper["authors"]))
 
                 # TODO: Update the info on collaborators' genders
                 # For each collaborator, lookup using gender lookup JSON in bronze directory
@@ -64,7 +67,8 @@ def synthesize_data(venue):
 
                     # Make sure the author themselves isn't counted
                     if collaborator_index != author_index:
-                        collaborator_gender = gender_data[paper["authors"][collaborator_index]["name"]]["gender"]
+                        collaborator_gender = \
+                        gender_data[paper["authors"][collaborator_index]["name"]]["gender"]
 
                         # Increment the count relating to this collaborator's gender
                         try:
