@@ -61,7 +61,7 @@ def associate_paper_topics(venue):
 
     with open(f"{IN}/openalex_topics/{venue}.json", "r", encoding="utf-8") as file:
         data = json.load(file)
-        paper_topics = {"venue": venue, "papers": []}
+        paper_topics = {"venue": venue, "papers": {}}
 
     for key in data["papers"]:
         title = data["papers"][key]["dblp_title"]
@@ -70,8 +70,6 @@ def associate_paper_topics(venue):
             if data["papers"][key]["openalex"] is not None
             else None
         )
-
-        compressed_paper = {"title": title, "topic": topic}
 
         # Add paper info to the json
         paper_topics["papers"][title] = {"topic" : topic}

@@ -2,8 +2,7 @@ import json
 import os
 
 # Removing ICSE and ICSME to figure out error with openalex json parsing
-# VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
-VENUES = ["ECSA", "MSR"]
+VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN = "data/silver"
 OUT = "data/gold"
 
@@ -20,6 +19,9 @@ def synthesize_data(venue):
 
     with open(f"{IN}/topics/{venue}.json", "r", encoding="utf-8") as file:
         topic_data = json.load(file)
+
+    with open("data/bronze/genderize/gender_lookup.json", "r", encoding="utf-8") as file:
+        gender_data = json.load(file)
 
     output = {}
 
@@ -57,6 +59,19 @@ def synthesize_data(venue):
                 output[author["name"]]["authorship_positions"].append(int(author_index) / len(paper["authors"]))
 
                 # TODO: Update the info on collaborators' genders
+                # For each collaborator, lookup using gender lookup JSON in bronze directory
+                for collaborator_index in paper["authors"]:
+
+                    # Make sure the author themselves isn't counted
+                    if collaborator_index != author_index:
+                        collaborator_gender = gender_data[paper["authors"][collaborator_index]["name"]]["gender"]
+
+                        # Increment the count relating to this collaborator's gender
+                        try:
+                            output[author["name"]]["collaborator_genders"][collaborator_gender] += 1
+                        except KeyError:
+                            output[author["name"]]["collaborator_genders"]["non-binary"] += 1
+
 
         with open(cache_path, "w") as f:
             json.dump(output, f, indent=2)
@@ -64,5 +79,5 @@ def synthesize_data(venue):
 
 if __name__ == "__main__":
     for venue in VENUES:
-        print(f"\nGender mapping {venue}...")
+        print(f"\nSynthesizing data for {venue}...")
         synthesize_data(venue)
