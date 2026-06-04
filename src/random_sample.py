@@ -12,7 +12,6 @@ if __name__ == "__main__":
         # Iterate through each paper in the JSON, and create a version of the author, keyed
         # by index and containing name and inferred gender
         for paper in year:
-
             for i in range(len(paper["authors"])):
                 author_name = paper["authors"][i]
                 author_set.add(author_name)

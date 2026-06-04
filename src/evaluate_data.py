@@ -72,7 +72,7 @@ def associate_paper_topics(venue):
         )
 
         # Add paper info to the json
-        paper_topics["papers"][title] = {"topic" : topic}
+        paper_topics["papers"][title] = {"topic": topic}
 
     with open(cache_path, "w", encoding="utf-8") as f:
         json.dump(paper_topics, f, indent=2, ensure_ascii=False)
