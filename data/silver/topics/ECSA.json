@@ -1,2569 +1,1928 @@
 {
   "venue": "ECSA",
-  "papers": [
-    {
-      "title": "Evolution and Anti-patterns Visualized: MicroProspect in Microservice Architecture.",
+  "papers": {
+    "Evolution and Anti-patterns Visualized: MicroProspect in Microservice Architecture.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Scalable Cloud-Native Pipeline for Efficient 3D Model Reconstruction from Monocular Smartphone Images.",
+    "Scalable Cloud-Native Pipeline for Efficient 3D Model Reconstruction from Monocular Smartphone Images.": {
       "topic": "3D Surveying and Cultural Heritage"
     },
-    {
-      "title": "Pragmatic Architectural Framework to Design for Sustainability in Cloud Software Services.",
+    "Pragmatic Architectural Framework to Design for Sustainability in Cloud Software Services.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "An Approach and Toolset to Semi-automatically Recover and Visualise Micro-Service Architecture.",
+    "An Approach and Toolset to Semi-automatically Recover and Visualise Micro-Service Architecture.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Stakeholder Inclusion and Value Diversity: An Evaluation Using an Access Control System.",
+    "Stakeholder Inclusion and Value Diversity: An Evaluation Using an Access Control System.": {
       "topic": "Knowledge Management and Sharing"
     },
-    {
-      "title": "Tool Support for the Adaptation of Quality of Service Trade-Offs in Service- and Cloud-Based Dynamic Routing Architectures.",
+    "Tool Support for the Adaptation of Quality of Service Trade-Offs in Service- and Cloud-Based Dynamic Routing Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Query Language for Software Architecture Information.",
+    "A Query Language for Software Architecture Information.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Comparison of Static and Dynamic Analysis to Identify Microservices in Monolith Systems.",
+    "A Comparison of Static and Dynamic Analysis to Identify Microservices in Monolith Systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Tools Reconstructing Microservice Architecture: A Systematic Mapping Study.",
+    "Tools Reconstructing Microservice Architecture: A Systematic Mapping Study.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Architecting Artificial Intelligence for Autonomous Cars: The OpenPilot Framework.",
+    "Architecting Artificial Intelligence for Autonomous Cars: The OpenPilot Framework.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecting Explainable Service Robots.",
+    "Architecting Explainable Service Robots.": {
       "topic": "Scientific Computing and Data Management"
     },
-    {
-      "title": "Continuous Evaluation of Consistency in Software Architecture Models.",
+    "Continuous Evaluation of Consistency in Software Architecture Models.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security.",
+    "An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "What Rationales Drive Architectural Decisions? An Empirical Inquiry.",
+    "What Rationales Drive Architectural Decisions? An Empirical Inquiry.": {
       "topic": "Design Education and Practice"
     },
-    {
-      "title": "A Graph-Based Java Projects Representation for Antipatterns Detection.",
+    "A Graph-Based Java Projects Representation for Antipatterns Detection.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Experience of the Architectural Evolution of a Big Data System.",
+    "Experience of the Architectural Evolution of a Big Data System.": {
       "topic": "Graph Theory and Algorithms"
     },
-    {
-      "title": "DevOps Patterns: A Rapid Review.",
+    "DevOps Patterns: A Rapid Review.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Assessing Spread in Sets of Software Architecture Designs.",
+    "Towards Assessing Spread in Sets of Software Architecture Designs.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces.",
+    "Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Cloud-Native Architecture for Mixed File-Based and API-Based Digital Twin Exchange.",
+    "Cloud-Native Architecture for Mixed File-Based and API-Based Digital Twin Exchange.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Towards a Sustainability-Aware Software Architecture Evaluation for Cloud-Based Software Services.",
+    "Towards a Sustainability-Aware Software Architecture Evaluation for Cloud-Based Software Services.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Analysing Interoperability in Digital Twin Software Architectures for Manufacturing.",
+    "Analysing Interoperability in Digital Twin Software Architectures for Manufacturing.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties.",
+    "TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties.": {
       "topic": "Formal Methods in Verification"
     },
-    {
-      "title": "Carving Sustainability into Architecture Knowledge Practice.",
+    "Carving Sustainability into Architecture Knowledge Practice.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Designing and Evaluating Interoperable Industry 4.0 Middleware Software Architecture: Reconfiguration of Robotic System.",
+    "Designing and Evaluating Interoperable Industry 4.0 Middleware Software Architecture: Reconfiguration of Robotic System.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "MAPE-K Based Guidelines for Designing Reactive and Proactive Self-adaptive Systems.",
+    "MAPE-K Based Guidelines for Designing Reactive and Proactive Self-adaptive Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Automated Integration of Heteregeneous Architecture Information into a Unified Model.",
+    "Automated Integration of Heteregeneous Architecture Information into a Unified Model.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Parallel and Distributed Architecture for Multilingual Open Source Intelligence Systems.",
+    "Parallel and Distributed Architecture for Multilingual Open Source Intelligence Systems.": {
       "topic": "Web Data Mining and Analysis"
     },
-    {
-      "title": "Designing a Reference Architecture for the C-ITS Services.",
+    "Designing a Reference Architecture for the C-ITS Services.": {
       "topic": "Mobile Agent-Based Network Management"
     },
-    {
-      "title": "Automated Reverse Engineering of the Technology-Induced Software System Structure.",
+    "Automated Reverse Engineering of the Technology-Induced Software System Structure.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Studying the Evolution of Library Utilization in Maven Projects: A Metric-Based Approach.",
+    "Studying the Evolution of Library Utilization in Maven Projects: A Metric-Based Approach.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards an Urban Digital Twins Continuum Architecture.",
+    "Towards an Urban Digital Twins Continuum Architecture.": {
       "topic": "Smart Cities and Technologies"
     },
-    {
-      "title": "Slicing and Visualizing F&apos; Topologies with F&apos;Prism.",
+    "Slicing and Visualizing F&apos; Topologies with F&apos;Prism.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "Maestro: A Deep Learning Based Tool to Find and Explore Architectural Design Decisions in Issue Tracking Systems.",
+    "Maestro: A Deep Learning Based Tool to Find and Explore Architectural Design Decisions in Issue Tracking Systems.": {
       "topic": "Data Visualization and Analytics"
     },
-    {
-      "title": "Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.",
+    "Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.": {
       "topic": "Machine Learning and Data Classification"
     },
-    {
-      "title": "Declarative Representation of UML State Machines for Querying and Simulation.",
+    "Declarative Representation of UML State Machines for Querying and Simulation.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Architecture for Digital Twin-Based Reinforcement Learning Optimization of Cyber-Physical Systems.",
+    "Architecture for Digital Twin-Based Reinforcement Learning Optimization of Cyber-Physical Systems.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu.",
+    "Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Extracting the Architecture of Microservices: An Approach for Explainability and Traceability.",
+    "Extracting the Architecture of Microservices: An Approach for Explainability and Traceability.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Performance Comparison of Monolith and Microservice Architectures - An Analysis of the State of the Art.",
+    "Performance Comparison of Monolith and Microservice Architectures - An Analysis of the State of the Art.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "HITA: An Architecture for System-level Testing of Healthcare IoT Applications.",
+    "HITA: An Architecture for System-level Testing of Healthcare IoT Applications.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Towards Behavior-Based Analysis of Android Obfuscated Malware.",
+    "Towards Behavior-Based Analysis of Android Obfuscated Malware.": {
       "topic": "Advanced Malware Detection Techniques"
     },
-    {
-      "title": "Demeter: An Architecture for Long-Term Monitoring of Software Power Consumption.",
+    "Demeter: An Architecture for Long-Term Monitoring of Software Power Consumption.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Shaping IoT Systems Together: The User-System Mixed-Initiative Paradigm and Its Challenges.",
+    "Shaping IoT Systems Together: The User-System Mixed-Initiative Paradigm and Its Challenges.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "An Experience Report on the Design and Implementation of an Ad-hoc Blockchain Platform for Tactical Edge Applications.",
+    "An Experience Report on the Design and Implementation of an Ad-hoc Blockchain Platform for Tactical Edge Applications.": {
       "topic": "Blockchain Technology Applications and Security"
     },
-    {
-      "title": "Threat Modeling: A Rough Diamond or Fool&apos;s Gold?",
+    "Threat Modeling: A Rough Diamond or Fool&apos;s Gold?": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Guidance Models for Designing Big Data Cyber Security Analytics Systems.",
+    "Guidance Models for Designing Big Data Cyber Security Analytics Systems.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Analysis, Design, Test, and DevOps in Microservice-Based Software Architectures: Results from Pakistan.",
+    "Analysis, Design, Test, and DevOps in Microservice-Based Software Architectures: Results from Pakistan.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Technical Debt in Microservices: A Mixed-Method Case Study.",
+    "Technical Debt in Microservices: A Mixed-Method Case Study.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Designing a Future-Proof Reference Architecture for Network Digital Twins.",
+    "Designing a Future-Proof Reference Architecture for Network Digital Twins.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Sarch-Knows: A Knowledge Graph for Modeling Security Scenarios at the Software Architecture Level.",
+    "Sarch-Knows: A Knowledge Graph for Modeling Security Scenarios at the Software Architecture Level.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Architecture-Based Attack Path Analysis for Identifying Potential Security Incidents.",
+    "Architecture-Based Attack Path Analysis for Identifying Potential Security Incidents.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Learning from Each Other: How Are Architectural Mistakes Communicated in Industry?",
+    "Learning from Each Other: How Are Architectural Mistakes Communicated in Industry?": {
       "topic": "Design Education and Practice"
     },
-    {
-      "title": "Data-Driven Analysis of Gender Fairness in the Software Engineering Academic Landscape.",
+    "Data-Driven Analysis of Gender Fairness in the Software Engineering Academic Landscape.": {
       "topic": "Ethics and Social Impacts of AI"
     },
-    {
-      "title": "Software Architecture. ECSA 2022 Tracks and Workshops - Prague, Czech Republic, September 19-23, 2022, Revised Selected Papers",
+    "Software Architecture. ECSA 2022 Tracks and Workshops - Prague, Czech Republic, September 19-23, 2022, Revised Selected Papers": {
       "topic": "Scientific Computing and Data Management"
     },
-    {
-      "title": "Software Architecture - 17th European Conference, ECSA 2023, Istanbul, Turkey, September 18-22, 2023, Proceedings",
+    "Software Architecture - 17th European Conference, ECSA 2023, Istanbul, Turkey, September 18-22, 2023, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Controlling Automatic Experiment-Driven Systems Using Statistics and Machine Learning.",
+    "Controlling Automatic Experiment-Driven Systems Using Statistics and Machine Learning.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "Introducing Estimators - Abstraction for Easy ML Employment in Self-adaptive Architectures.",
+    "Introducing Estimators - Abstraction for Easy ML Employment in Self-adaptive Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "DAT: Data Architecture Modeling Tool for Data-Driven Applications.",
+    "DAT: Data Architecture Modeling Tool for Data-Driven Applications.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-adaptive Systems.",
+    "MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-adaptive Systems.": {
       "topic": "Advanced Bandit Algorithms Research"
     },
-    {
-      "title": "Assessing Security of Internal Vehicle Networks.",
+    "Assessing Security of Internal Vehicle Networks.": {
       "topic": "Vehicular Ad Hoc Networks (VANETs)"
     },
-    {
-      "title": "Apache Kafka as a Middleware to Support the PLC-Service Bus Architecture with IEC 61499.",
+    "Apache Kafka as a Middleware to Support the PLC-Service Bus Architecture with IEC 61499.": {
       "topic": "Flexible and Reconfigurable Manufacturing Systems"
     },
-    {
-      "title": "Continuous Dependability Assessment of Microservice Systems.",
+    "Continuous Dependability Assessment of Microservice Systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Engineering of Trust Analysis-Driven Digital Twins for a Medical Device.",
+    "Engineering of Trust Analysis-Driven Digital Twins for a Medical Device.": {
       "topic": "Healthcare Technology and Patient Monitoring"
     },
-    {
-      "title": "Debiasing Architectural Decision-Making: A Workshop-Based Training Approach.",
+    "Debiasing Architectural Decision-Making: A Workshop-Based Training Approach.": {
       "topic": "Design Education and Practice"
     },
-    {
-      "title": "Trust Management in the Internet of Everything.",
+    "Trust Management in the Internet of Everything.": {
       "topic": "Blockchain Technology Applications and Security"
     },
-    {
-      "title": "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study.",
+    "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study.": {
       "topic": "Systems Engineering Methodologies and Applications"
     },
-    {
-      "title": "Towards Online Testing Under Uncertainty Using Model-Based Reinforcement Learning.",
+    "Towards Online Testing Under Uncertainty Using Model-Based Reinforcement Learning.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "A Maude Formalization of Object Nets.",
+    "A Maude Formalization of Object Nets.": {
       "topic": "Distributed systems and fault tolerance"
     },
-    {
-      "title": "Teaching Microservice Architecture Using DevOps - An Experience Report.",
+    "Teaching Microservice Architecture Using DevOps - An Experience Report.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Developing an AI-Enabled IIoT Platform - Lessons Learned from Early Use Case Validation.",
+    "Developing an AI-Enabled IIoT Platform - Lessons Learned from Early Use Case Validation.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Using I4.0 Digital Twins in Agriculture.",
+    "Using I4.0 Digital Twins in Agriculture.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Finding Reusable Machine Learning Components to Build Programming Language Processing Pipelines.",
+    "Finding Reusable Machine Learning Components to Build Programming Language Processing Pipelines.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Establishing a Benchmark Dataset for Traceability Link Recovery Between Software Architecture Documentation and Models.",
+    "Establishing a Benchmark Dataset for Traceability Link Recovery Between Software Architecture Documentation and Models.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Avoiding Excessive Data Exposure Through Microservice APIs.",
+    "Avoiding Excessive Data Exposure Through Microservice APIs.": {
       "topic": "Advanced Malware Detection Techniques"
     },
-    {
-      "title": "From Informal Architecture Diagrams to Flexible Blended Models.",
+    "From Informal Architecture Diagrams to Flexible Blended Models.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "AutoArx: Digital Twins of Living Architectures.",
+    "AutoArx: Digital Twins of Living Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Taxonomy for Design Decisions in Software Architecture Documentation.",
+    "A Taxonomy for Design Decisions in Software Architecture Documentation.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards Characterization of Edge-Cloud Continuum.",
+    "Towards Characterization of Edge-Cloud Continuum.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Blockchain-Based Architecture of Immutable Document Repository.",
+    "Blockchain-Based Architecture of Immutable Document Repository.": {
       "topic": "Blockchain Technology Applications and Security"
     },
-    {
-      "title": "Feature-Based Investigation of Simulation Structure and Behaviour.",
+    "Feature-Based Investigation of Simulation Structure and Behaviour.": {
       "topic": "Simulation Techniques and Applications"
     },
-    {
-      "title": "A Toolchain for Simulation Component Specification and Identification.",
+    "A Toolchain for Simulation Component Specification and Identification.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "Towards Uncertainty Reduction Tactics for Behavior Adaptation.",
+    "Towards Uncertainty Reduction Tactics for Behavior Adaptation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Systematic Survey of Architectural Approaches and Trade-Offs in Data De-identification.",
+    "A Systematic Survey of Architectural Approaches and Trade-Offs in Data De-identification.": {
       "topic": "Anomaly Detection Techniques and Applications"
     },
-    {
-      "title": "To Deprecate or to Simply Drop Operations? An Empirical Study on the Evolution of a Large OpenAPI Collection.",
+    "To Deprecate or to Simply Drop Operations? An Empirical Study on the Evolution of a Large OpenAPI Collection.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "An Overview About Terravis Architecture Large-Scale Business Process Integration for Swiss Land Register Processes.",
+    "An Overview About Terravis Architecture Large-Scale Business Process Integration for Swiss Land Register Processes.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Enabling IoT Connectivity and Interoperability by Using Automated Gateways.",
+    "Enabling IoT Connectivity and Interoperability by Using Automated Gateways.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Methodical Approach for Centralization Evaluation of Modern Automotive E/E Architectures.",
+    "Methodical Approach for Centralization Evaluation of Modern Automotive E/E Architectures.": {
       "topic": "Embedded Systems Design Techniques"
     },
-    {
-      "title": "Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies.",
+    "Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Optimized Machine Learning Input for Evolutionary Source Code to Architecture Mapping.",
+    "Optimized Machine Learning Input for Evolutionary Source Code to Architecture Mapping.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Persistence Factories Architectural Design Pattern.",
+    "Persistence Factories Architectural Design Pattern.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Generalization of Machine-Learning Adaptation in Ensemble-Based Self-adaptive Systems.",
+    "Generalization of Machine-Learning Adaptation in Ensemble-Based Self-adaptive Systems.": {
       "topic": "Distributed systems and fault tolerance"
     },
-    {
-      "title": "Should Microservice Security Smells Stay or be Refactored? Towards a Trade-off Analysis.",
+    "Should Microservice Security Smells Stay or be Refactored? Towards a Trade-off Analysis.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Microservices Security: Bad vs. Good Practices.",
+    "Microservices Security: Bad vs. Good Practices.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Methodological Approach to Verify Architecture Resiliency.",
+    "A Methodological Approach to Verify Architecture Resiliency.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Multi-metric Approach for Decomposition of Microservice-Based Data Science Workflows.",
+    "Multi-metric Approach for Decomposition of Microservice-Based Data Science Workflows.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "ExpressO: From Express.js Implementation Code to OpenAPI Interface Descriptions.",
+    "ExpressO: From Express.js Implementation Code to OpenAPI Interface Descriptions.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "DevOps in Robotics: Challenges and Practices.",
+    "DevOps in Robotics: Challenges and Practices.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "ARCHI4MOM: Using Tracing Information to Extract the Architecture of Microservice-Based Systems from Message-Oriented Middleware.",
+    "ARCHI4MOM: Using Tracing Information to Extract the Architecture of Microservice-Based Systems from Message-Oriented Middleware.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Architectural Revision of the E-Assessment System JACK.",
+    "Architectural Revision of the E-Assessment System JACK.": {
       "topic": "E-Learning and Knowledge Management"
     },
-    {
-      "title": "ProML: A Decentralised Platform for Provenance Management of Machine Learning Software Systems.",
+    "ProML: A Decentralised Platform for Provenance Management of Machine Learning Software Systems.": {
       "topic": "Scientific Computing and Data Management"
     },
-    {
-      "title": "Tool-Based Attack Graph Estimation and Scenario Analysis for Software Architectures.",
+    "Tool-Based Attack Graph Estimation and Scenario Analysis for Software Architectures.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Accurate Performance Predictions with Component-Based Models of Data Streaming Applications.",
+    "Accurate Performance Predictions with Component-Based Models of Data Streaming Applications.": {
       "topic": "Cloud Computing and Resource Management"
     },
-    {
-      "title": "Software Architecture - 15th European Conference, ECSA 2021 Tracks and Workshops; Växjö, Sweden, September 13-17, 2021, Revised Selected Papers",
+    "Software Architecture - 15th European Conference, ECSA 2021 Tracks and Workshops; Växjö, Sweden, September 13-17, 2021, Revised Selected Papers": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture - 16th European Conference, ECSA 2022, Prague, Czech Republic, September 19-23, 2022, Proceedings",
+    "Software Architecture - 16th European Conference, ECSA 2022, Prague, Czech Republic, September 19-23, 2022, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Human Behavior-Oriented Architectural Design.",
+    "Human Behavior-Oriented Architectural Design.": {
       "topic": "Evacuation and Crowd Dynamics"
     },
-    {
-      "title": "A Probabilistic Model for Effective Explainability Based on Personality Traits.",
+    "A Probabilistic Model for Effective Explainability Based on Personality Traits.": {
       "topic": "Explainable Artificial Intelligence (XAI)"
     },
-    {
-      "title": "Reliable Event Routing in the Cloud and on the Edge - An Internet-of-Things Solution in the AgeTech Domain.",
+    "Reliable Event Routing in the Cloud and on the Edge - An Internet-of-Things Solution in the AgeTech Domain.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "A Runtime Safety Enforcement Approach by Monitoring and Adaptation.",
+    "A Runtime Safety Enforcement Approach by Monitoring and Adaptation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Applying Knowledge-Driven Architecture Composition with Gabble.",
+    "Applying Knowledge-Driven Architecture Composition with Gabble.": {
       "topic": "Semantic Web and Ontologies"
     },
-    {
-      "title": "An Experience Report on Modernizing I/O Configuration Software.",
+    "An Experience Report on Modernizing I/O Configuration Software.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Explaining Architectural Design Tradeoff Spaces: A Machine Learning Approach.",
+    "Explaining Architectural Design Tradeoff Spaces: A Machine Learning Approach.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A Machine Learning Approach to Service Discovery for Microservice Architectures.",
+    "A Machine Learning Approach to Service Discovery for Microservice Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Self-adaptive Machine Learning Systems: Research Challenges and Opportunities.",
+    "Self-adaptive Machine Learning Systems: Research Challenges and Opportunities.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Analysis of Software Parallelism in Big Data Technologies for Data-Intensive Architectures.",
+    "An Analysis of Software Parallelism in Big Data Technologies for Data-Intensive Architectures.": {
       "topic": "Parallel Computing and Optimization Techniques"
     },
-    {
-      "title": "Architectural Tactics for Energy-Aware Robotics Software: A Preliminary Study.",
+    "Architectural Tactics for Energy-Aware Robotics Software: A Preliminary Study.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Toward Awareness Creation of Common Challenges Women are Facing in Academia: A Study from a German Perspective.",
+    "Toward Awareness Creation of Common Challenges Women are Facing in Academia: A Study from a German Perspective.": {
       "topic": "Gender Diversity and Inequality"
     },
-    {
-      "title": "Interactive Elicitation of Resilience Scenarios Based on Hazard Analysis Techniques.",
+    "Interactive Elicitation of Resilience Scenarios Based on Hazard Analysis Techniques.": {
       "topic": "Risk and Safety Analysis"
     },
-    {
-      "title": "Identifying Domain-Based Cyclic Dependencies in Microservice APIs Using Source Code Detectors.",
+    "Identifying Domain-Based Cyclic Dependencies in Microservice APIs Using Source Code Detectors.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Enabling SMEs to Industry 4.0 Using the BaSyx Middleware: A Case Study.",
+    "Enabling SMEs to Industry 4.0 Using the BaSyx Middleware: A Case Study.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Trace Link Recovery for Software Architecture Documentation.",
+    "Trace Link Recovery for Software Architecture Documentation.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Dynamic Updates of Virtual PLCs Deployed as Kubernetes Microservices.",
+    "Dynamic Updates of Virtual PLCs Deployed as Kubernetes Microservices.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Towards a Taxonomy of Autonomous Systems.",
+    "Towards a Taxonomy of Autonomous Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Blended Graphical and Textual Modelling of UML-RT State-Machines: An Industrial Experience.",
+    "Blended Graphical and Textual Modelling of UML-RT State-Machines: An Industrial Experience.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "An Architectural Approach for Enabling and Developing Cooperative Behaviour in Diverse Autonomous Robots.",
+    "An Architectural Approach for Enabling and Developing Cooperative Behaviour in Diverse Autonomous Robots.": {
       "topic": "Multi-Agent Systems and Negotiation"
     },
-    {
-      "title": "FLRA: A Reference Architecture for Federated Learning Systems.",
+    "FLRA: A Reference Architecture for Federated Learning Systems.": {
       "topic": "Privacy-Preserving Technologies in Data"
     },
-    {
-      "title": "Foundations and Research Agenda for Simulation of Smart Ecosystems Architectures.",
+    "Foundations and Research Agenda for Simulation of Smart Ecosystems Architectures.": {
       "topic": "Systems Engineering Methodologies and Applications"
     },
-    {
-      "title": "Optimized Dependency Weights in Source Code Clustering.",
+    "Optimized Dependency Weights in Source Code Clustering.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Mapping Source Code to Modular Architectures Using Keywords.",
+    "Mapping Source Code to Modular Architectures Using Keywords.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Building the MSR Tool Kaiaulu: Design Principles and Experiences.",
+    "Building the MSR Tool Kaiaulu: Design Principles and Experiences.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Software Architectures for Edge Analytics: A Survey.",
+    "Software Architectures for Edge Analytics: A Survey.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "State of the Practice in Application Programming Interfaces (APIs): A Case Study.",
+    "State of the Practice in Application Programming Interfaces (APIs): A Case Study.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Towards an Extensible Approach for Generative Microservice Development and Deployment Using LEMMA.",
+    "Towards an Extensible Approach for Generative Microservice Development and Deployment Using LEMMA.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Behavioral Maps: Identifying Architectural Smells in Self-adaptive Systems at Runtime.",
+    "Behavioral Maps: Identifying Architectural Smells in Self-adaptive Systems at Runtime.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Updating Service-Based Software Systems in Air-Gapped Environments.",
+    "Updating Service-Based Software Systems in Air-Gapped Environments.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Hierarchical Code-to-Architecture Mapping.",
+    "Hierarchical Code-to-Architecture Mapping.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Exploratory Study on Architectural Knowledge in Issue Tracking Systems.",
+    "An Exploratory Study on Architectural Knowledge in Issue Tracking Systems.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Serving Hybrid-Cloud SQL Interactive Queries at Twitter.",
+    "Serving Hybrid-Cloud SQL Interactive Queries at Twitter.": {
       "topic": "Cloud Computing and Resource Management"
     },
-    {
-      "title": "Taxonomy of Edge Blockchain Network Designs.",
+    "Taxonomy of Edge Blockchain Network Designs.": {
       "topic": "Blockchain Technology Applications and Security"
     },
-    {
-      "title": "Architectural Optimization for Confidentiality Under Structural Uncertainty.",
+    "Architectural Optimization for Confidentiality Under Structural Uncertainty.": {
       "topic": "Software Reliability and Analysis Research"
     },
-    {
-      "title": "How Software Architects Focus Their Attention.",
+    "How Software Architects Focus Their Attention.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Software Architecture - 15th European Conference, ECSA 2021, Virtual Event, Sweden, September 13-17, 2021, Proceedings",
+    "Software Architecture - 15th European Conference, ECSA 2021, Virtual Event, Sweden, September 13-17, 2021, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "The PDEng Program on Software Technology - Experience Report on a Doctorate Level Architecture Training Program.",
+    "The PDEng Program on Software Technology - Experience Report on a Doctorate Level Architecture Training Program.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Monolith Migration Complexity Tuning Through the Application of Microservices Patterns.",
+    "Monolith Migration Complexity Tuning Through the Application of Microservices Patterns.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Multi-objective Performance Optimization Approach for Self-adaptive Architectures.",
+    "A Multi-objective Performance Optimization Approach for Self-adaptive Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Teaching Students Software Architecture Decision Making.",
+    "Teaching Students Software Architecture Decision Making.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Decentralized Architecture for Energy-Aware Service Assembly.",
+    "Decentralized Architecture for Energy-Aware Service Assembly.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Architectural Concerns for Digital Twin of the Organization.",
+    "Architectural Concerns for Digital Twin of the Organization.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Formal Software Architectural Migration Towards Emerging Architectural Styles.",
+    "Formal Software Architectural Migration Towards Emerging Architectural Styles.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Quick Evaluation of a Software Architecture Using the Decision-Centric Architecture Review Method: An Experience Report.",
+    "Quick Evaluation of a Software Architecture Using the Decision-Centric Architecture Review Method: An Experience Report.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Empowering SysML-Based Software Architecture Description with Formal Verification: From SysADL to CSP.",
+    "Empowering SysML-Based Software Architecture Description with Formal Verification: From SysADL to CSP.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Continuous Experimentation for Automotive Software on the Example of a Heavy Commercial Vehicle in Daily Operation.",
+    "Continuous Experimentation for Automotive Software on the Example of a Heavy Commercial Vehicle in Daily Operation.": {
       "topic": "Simulation Techniques and Applications"
     },
-    {
-      "title": "An Initial Study on the Association Between Architectural Smells and Degradation.",
+    "An Initial Study on the Association Between Architectural Smells and Degradation.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Architecture-Centric Support for Integrating Security Tools in a Security Orchestration Platform.",
+    "Architecture-Centric Support for Integrating Security Tools in a Security Orchestration Platform.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Does BERT Understand Code? - An Exploratory Study on the Detection of Architectural Tactics in Code.",
+    "Does BERT Understand Code? - An Exploratory Study on the Detection of Architectural Tactics in Code.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A Comparison of MQTT Brokers for Distributed IoT Edge Computing.",
+    "A Comparison of MQTT Brokers for Distributed IoT Edge Computing.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "The Quest for Introducing Technical Debt Management in a Large-Scale Industrial Company.",
+    "The Quest for Introducing Technical Debt Management in a Large-Scale Industrial Company.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Determining Microservice Boundaries: A Case Study Using Static and Dynamic Software Analysis.",
+    "Determining Microservice Boundaries: A Case Study Using Static and Dynamic Software Analysis.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "IAS: An IoT Architectural Self-adaptation Framework.",
+    "IAS: An IoT Architectural Self-adaptation Framework.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices.",
+    "Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Flexible Architecture for Key Performance Indicators Assessment in Smart Cities.",
+    "A Flexible Architecture for Key Performance Indicators Assessment in Smart Cities.": {
       "topic": "Smart Cities and Technologies"
     },
-    {
-      "title": "Towards Using Probabilistic Models to Design Software Systems with Inherent Uncertainty.",
+    "Towards Using Probabilistic Models to Design Software Systems with Inherent Uncertainty.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "VisArch: Visualisation of Performance-based Architectural Refactorings.",
+    "VisArch: Visualisation of Performance-based Architectural Refactorings.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Architectural Technical Debt: A Grounded Theory.",
+    "Architectural Technical Debt: A Grounded Theory.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Data Stream Operations as First-Class Entities in Component-Based Performance Models.",
+    "Data Stream Operations as First-Class Entities in Component-Based Performance Models.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Software Architecture - 14th European Conference, ECSA 2020, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings",
+    "Software Architecture - 14th European Conference, ECSA 2020, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Software Architecture - 14th European Conference, ECSA 2020 Tracks and Workshops, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings",
+    "Software Architecture - 14th European Conference, ECSA 2020 Tracks and Workshops, L&apos;Aquila, Italy, September 14-18, 2020, Proceedings": {
       "topic": "Artificial Intelligence in Healthcare"
     },
-    {
-      "title": "A logical architecture design method for microservices architectures.",
+    "A logical architecture design method for microservices architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Kubow: an architecture-based self-adaptation service for cloud native applications.",
+    "Kubow: an architecture-based self-adaptation service for cloud native applications.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Big data from the cloud to the edge: the aggregate computing solution.",
+    "Big data from the cloud to the edge: the aggregate computing solution.": {
       "topic": "Cloud Data Security Solutions"
     },
-    {
-      "title": "Dynamic security rules for legacy systems.",
+    "Dynamic security rules for legacy systems.": {
       "topic": "Security and Verification in Computing"
     },
-    {
-      "title": "Promoting trust in interoperability of systems-of-systems.",
+    "Promoting trust in interoperability of systems-of-systems.": {
       "topic": "Blockchain Technology Applications and Security"
     },
-    {
-      "title": "Blueprints for architecture drivers and architecture solutions for Industry 4.0 shopfloor applications.",
+    "Blueprints for architecture drivers and architecture solutions for Industry 4.0 shopfloor applications.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Architecture trace diagrams for cyber-physical systems.",
+    "Architecture trace diagrams for cyber-physical systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software architecture knowledge sharing with the architecture knowledge base (AKB).",
+    "Software architecture knowledge sharing with the architecture knowledge base (AKB).": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A recommender system for software architecture decision making.",
+    "A recommender system for software architecture decision making.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Assisting women in career change towards software engineering: experience from Czechitas NGO.",
+    "Assisting women in career change towards software engineering: experience from Czechitas NGO.": {
       "topic": "Teaching and Learning Programming"
     },
-    {
-      "title": "Assessing the Quality Impact of Features in Component-Based Software Architectures.",
+    "Assessing the Quality Impact of Features in Component-Based Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A systems-of-systems security framework for requirements definition in cloud environment.",
+    "A systems-of-systems security framework for requirements definition in cloud environment.": {
       "topic": "Systems Engineering Methodologies and Applications"
     },
-    {
-      "title": "A Survey on Big Data Analytics Solutions Deployment.",
+    "A Survey on Big Data Analytics Solutions Deployment.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach.",
+    "Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Towards creation of a reference architecture for trust-based digital ecosystems.",
+    "Towards creation of a reference architecture for trust-based digital ecosystems.": {
       "topic": "Distributed systems and fault tolerance"
     },
-    {
-      "title": "Towards an architecture for big data analytics leveraging edge/fog paradigms.",
+    "Towards an architecture for big data analytics leveraging edge/fog paradigms.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "PageRank and criticality of architectural smells.",
+    "PageRank and criticality of architectural smells.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards a parallel template catalogue for software performance predictions.",
+    "Towards a parallel template catalogue for software performance predictions.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "What Quality Attributes Can We Find in Product Backlogs? A Machine Learning Perspective.",
+    "What Quality Attributes Can We Find in Product Backlogs? A Machine Learning Perspective.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A formal design of the hybrid European rail traffic management system.",
+    "A formal design of the hybrid European rail traffic management system.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Process-mining based dynamic software architecture reconstruction.",
+    "Process-mining based dynamic software architecture reconstruction.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "Detection of conflicts and inconsistencies between architecture solutions.",
+    "Detection of conflicts and inconsistencies between architecture solutions.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Investigating quality requirements from a human perspective in IoT-based software architectures for education.",
+    "Investigating quality requirements from a human perspective in IoT-based software architectures for education.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "A bottom-up approach for reconstructing software architecture product lines.",
+    "A bottom-up approach for reconstructing software architecture product lines.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "The applicability of palladio for assessing the quality of cloud-based microservice architectures.",
+    "The applicability of palladio for assessing the quality of cloud-based microservice architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Architecturing Elastic Edge Storage Services for Data-Driven Decision Making.",
+    "Architecturing Elastic Edge Storage Services for Data-Driven Decision Making.": {
       "topic": "Time Series Analysis and Forecasting"
     },
-    {
-      "title": "A framework for managing uncertainty in software architecture.",
+    "A framework for managing uncertainty in software architecture.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Four-Layer Architecture Pattern for Constructing and Managing Digital Twins.",
+    "A Four-Layer Architecture Pattern for Constructing and Managing Digital Twins.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "Stochastic hybrid systems meet software components for well-founded cyber-physical systems software architectures.",
+    "Stochastic hybrid systems meet software components for well-founded cyber-physical systems software architectures.": {
       "topic": "Simulation Techniques and Applications"
     },
-    {
-      "title": "Guiding Architectural Decision Making on Service Mesh Based Microservice Architectures.",
+    "Guiding Architectural Decision Making on Service Mesh Based Microservice Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Identifying availability tactics to support security architectural design of microservice-based systems.",
+    "Identifying availability tactics to support security architectural design of microservice-based systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Gender balance in computer science and engineering in Italian universities.",
+    "Gender balance in computer science and engineering in Italian universities.": {
       "topic": "Information Systems Education and Curriculum Development"
     },
-    {
-      "title": "ACE: Easy Deployment of Field Optimization Experiments.",
+    "ACE: Easy Deployment of Field Optimization Experiments.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "Assessing Adaptability of Software Architectures for Cyber Physical Production Systems.",
+    "Assessing Adaptability of Software Architectures for Cyber Physical Production Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Self-accounting in architecture-based self-adaptation.",
+    "Self-accounting in architecture-based self-adaptation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation.",
+    "ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Streamlining value in a FOSS project.",
+    "Streamlining value in a FOSS project.": {
       "topic": "Open Source Software Innovations"
     },
-    {
-      "title": "Continuous Adaptation Management in Collective Intelligence Systems.",
+    "Continuous Adaptation Management in Collective Intelligence Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A formal semantics for supporting the automated synthesis of choreography-based architectures.",
+    "A formal semantics for supporting the automated synthesis of choreography-based architectures.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Architecting for scale: the case for systematic software reuse in managing technical debt in start-ups.",
+    "Architecting for scale: the case for systematic software reuse in managing technical debt in start-ups.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Supporting Architectural Decision Making on Data Management in Microservice Architectures.",
+    "Supporting Architectural Decision Making on Data Management in Microservice Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "From a Monolith to a Microservices Architecture: An Approach Based on Transactional Contexts.",
+    "From a Monolith to a Microservices Architecture: An Approach Based on Transactional Contexts.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Placing human values at the core of socio-technical systems development: a project case study.",
+    "Placing human values at the core of socio-technical systems development: a project case study.": {
       "topic": "Usability and User Interface Design"
     },
-    {
-      "title": "An exploration and experiment tool suite for code to architecture mapping techniques.",
+    "An exploration and experiment tool suite for code to architecture mapping techniques.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Semi-automatic mapping of source code using naive Bayes.",
+    "Semi-automatic mapping of source code using naive Bayes.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Mitigating security threats through the use of security tactics to design secure cyber-physical systems (CPS).",
+    "Mitigating security threats through the use of security tactics to design secure cyber-physical systems (CPS).": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "To what extent formal methods are applicable for performance analysis of smart cyber-physical systems?",
+    "To what extent formal methods are applicable for performance analysis of smart cyber-physical systems?": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "National cultures and gender balance in ICT: a preliminary study.",
+    "National cultures and gender balance in ICT: a preliminary study.": {
       "topic": "Gender and Technology in Education"
     },
-    {
-      "title": "Automatic detection of architectural bad smells through semantic representation of code.",
+    "Automatic detection of architectural bad smells through semantic representation of code.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Tool Support for the Migration to Microservice Architecture: An Industrial Case Study.",
+    "Tool Support for the Migration to Microservice Architecture: An Industrial Case Study.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "An Exploratory Study of Naturalistic Decision Making in Complex Software Architecture Environments.",
+    "An Exploratory Study of Naturalistic Decision Making in Complex Software Architecture Environments.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "QoS-Based Formation of Software Architectures in the Internet of Things.",
+    "QoS-Based Formation of Software Architectures in the Internet of Things.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Gender gap?: a snapshot of a bachelor computer science course at Graz University of Technology.",
+    "Gender gap?: a snapshot of a bachelor computer science course at Graz University of Technology.": {
       "topic": "Teaching and Learning Programming"
     },
-    {
-      "title": "Discovering architectural rules in practice.",
+    "Discovering architectural rules in practice.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Applicability of controlled natural languages for architecture analysis and documentation: an industrial case study.",
+    "Applicability of controlled natural languages for architecture analysis and documentation: an industrial case study.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Architecture description language for climate smart agriculture systems.",
+    "Architecture description language for climate smart agriculture systems.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Women participation in open source software communities.",
+    "Women participation in open source software communities.": {
       "topic": "Open Source Software Innovations"
     },
-    {
-      "title": "Evaluating the Effectiveness of Multi-level Greedy Modularity Clustering for Software Architecture Recovery.",
+    "Evaluating the Effectiveness of Multi-level Greedy Modularity Clustering for Software Architecture Recovery.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Components and Design Alternatives in E-Assessment Systems.",
+    "Components and Design Alternatives in E-Assessment Systems.": {
       "topic": "E-Learning and Knowledge Management"
     },
-    {
-      "title": "Source-code divergence diagnosis using constraints and cryptography.",
+    "Source-code divergence diagnosis using constraints and cryptography.": {
       "topic": "Advanced Malware Detection Techniques"
     },
-    {
-      "title": "Inspection guidelines to identify security design flaws.",
+    "Inspection guidelines to identify security design flaws.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A study of over-the-air (OTA) update systems for CPS and IoT operating systems.",
+    "A study of over-the-air (OTA) update systems for CPS and IoT operating systems.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Has social sustainability been addressed in software architectures?",
+    "Has social sustainability been addressed in software architectures?": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "ADOOPLA - Combining Product-Line- and Product-Level Criteria in Multi-objective Optimization of Product Line Architectures.",
+    "ADOOPLA - Combining Product-Line- and Product-Level Criteria in Multi-objective Optimization of Product Line Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards service discovery and autonomic version management in self-healing microservices architecture.",
+    "Towards service discovery and autonomic version management in self-healing microservices architecture.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Optimising Architectures for Performance, Cost, and Security.",
+    "Optimising Architectures for Performance, Cost, and Security.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Software Architecture - 13th European Conference, ECSA 2019, Paris, France, September 9-13, 2019, Proceedings",
+    "Software Architecture - 13th European Conference, ECSA 2019, Paris, France, September 9-13, 2019, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings (Proceedings Volume 2),",
+    "Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings (Proceedings Volume 2),": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "The visual variables in UML: how are they used by women?",
+    "The visual variables in UML: how are they used by women?": {
       "topic": "Data Visualization and Analytics"
     },
-    {
-      "title": "Aggregation of security metrics for decision making: a reference architecture.",
+    "Aggregation of security metrics for decision making: a reference architecture.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "A reference architecture for space systems.",
+    "A reference architecture for space systems.": {
       "topic": "Spacecraft Design and Technology"
     },
-    {
-      "title": "Modeling of dynamic trust contracts for industry 4.0 systems.",
+    "Modeling of dynamic trust contracts for industry 4.0 systems.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "ECo-IoT: An Architectural Approach for Realizing Emergent Configurations in the Internet of Things.",
+    "ECo-IoT: An Architectural Approach for Realizing Emergent Configurations in the Internet of Things.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Gender in software engineering degrees.",
+    "Gender in software engineering degrees.": {
       "topic": "Gender and Technology in Education"
     },
-    {
-      "title": "Educating to achieve healthy open source ecosystems.",
+    "Educating to achieve healthy open source ecosystems.": {
       "topic": "Open Source Software Innovations"
     },
-    {
-      "title": "Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes.",
+    "Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A DSL for MAPE Patterns Representation in Self-adapting Systems.",
+    "A DSL for MAPE Patterns Representation in Self-adapting Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards an enterprise architecture controlling framework.",
+    "Towards an enterprise architecture controlling framework.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "On the model-driven synthesis of evolvable service choreographies.",
+    "On the model-driven synthesis of evolvable service choreographies.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "A Quantitative Approach for the Assessment of Microservice Architecture Deployment Alternatives by Automated Performance Testing.",
+    "A Quantitative Approach for the Assessment of Microservice Architecture Deployment Alternatives by Automated Performance Testing.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Beethoven: An Event-Driven Lightweight Platform for Microservice Orchestration.",
+    "Beethoven: An Event-Driven Lightweight Platform for Microservice Orchestration.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "MOTION: an application of ASMETA to mobile ad-hoc NETworks domain.",
+    "MOTION: an application of ASMETA to mobile ad-hoc NETworks domain.": {
       "topic": "Mobile Ad Hoc Networks"
     },
-    {
-      "title": "An evolutionary game for integrity attacks and defences for advanced metering infrastructure.",
+    "An evolutionary game for integrity attacks and defences for advanced metering infrastructure.": {
       "topic": "Smart Grid Security and Resilience"
     },
-    {
-      "title": "A Platform for the Automated Provisioning of Architecture Information for Large-Scale Service-Oriented Software Systems.",
+    "A Platform for the Automated Provisioning of Architecture Information for Large-Scale Service-Oriented Software Systems.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A high-level petri net-based formal model of distributed self-adaptive systems.",
+    "A high-level petri net-based formal model of distributed self-adaptive systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Drones, ecall and cyber physical systems for public safety: answering points 112.",
+    "Drones, ecall and cyber physical systems for public safety: answering points 112.": {
       "topic": "Real-Time Systems Scheduling"
     },
-    {
-      "title": "Ripple effect to evaluate the impact of changes in architectural design decisions.",
+    "Ripple effect to evaluate the impact of changes in architectural design decisions.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Executing Architectural Models for Big Data Analytics.",
+    "Executing Architectural Models for Big Data Analytics.": {
       "topic": "Big Data and Business Intelligence"
     },
-    {
-      "title": "Teaching the next generation of software architects: a gender-focused survey on worldwide curricula.",
+    "Teaching the next generation of software architects: a gender-focused survey on worldwide curricula.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Providing Context as a Service Using Service-Oriented Mobile Indie Fog and Opportunistic Computing.",
+    "Providing Context as a Service Using Service-Oriented Mobile Indie Fog and Opportunistic Computing.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Crunch: Automated Assessment of Microservice Architecture Assignments with Formative Feedback.",
+    "Crunch: Automated Assessment of Microservice Architecture Assignments with Formative Feedback.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Using historical and weather data for marketing and category management in ecommerce: the experience of EW-shopp.",
+    "Using historical and weather data for marketing and category management in ecommerce: the experience of EW-shopp.": {
       "topic": "Digital Marketing and Social Media"
     },
-    {
-      "title": "Temporal anonymity in the AMS scenario without a TTP.",
+    "Temporal anonymity in the AMS scenario without a TTP.": {
       "topic": "Smart Grid Security and Resilience"
     },
-    {
-      "title": "Which factors affect the evangelist&apos;s support during training sessions in mobile software ecosystems?",
+    "Which factors affect the evangelist&apos;s support during training sessions in mobile software ecosystems?": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Towards Preserving Information Flow Security on Architectural Composition of Cyber-Physical Systems.",
+    "Towards Preserving Information Flow Security on Architectural Composition of Cyber-Physical Systems.": {
       "topic": "Security and Verification in Computing"
     },
-    {
-      "title": "A microservices experience in the banking industry.",
+    "A microservices experience in the banking industry.": {
       "topic": "Digital Platforms and Economics"
     },
-    {
-      "title": "Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of software architectures.",
+    "Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of software architectures.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Empirical Insights into the Evolving Role of Architects in Decision-Making in an Agile Context.",
+    "Empirical Insights into the Evolving Role of Architects in Decision-Making in an Agile Context.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Guaranteed latency applications in edge-cloud environment.",
+    "Guaranteed latency applications in edge-cloud environment.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Scalable online learning for flink: SOLMA library.",
+    "Scalable online learning for flink: SOLMA library.": {
       "topic": "Data Stream Mining Techniques"
     },
-    {
-      "title": "Architectural challenges on the analysis of human behaviour in synthetic environments.",
+    "Architectural challenges on the analysis of human behaviour in synthetic environments.": {
       "topic": "Virtual Reality Applications and Impacts"
     },
-    {
-      "title": "Quantitative security assurance metrics: REST API case studies.",
+    "Quantitative security assurance metrics: REST API case studies.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Spotlighting Use Case Specific Architectures.",
+    "Spotlighting Use Case Specific Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Industrial experience on code clean-up using architectural conformance checking.",
+    "Industrial experience on code clean-up using architectural conformance checking.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An equal opportunity concept for the coordinated research effort AESC.",
+    "An equal opportunity concept for the coordinated research effort AESC.": {
       "topic": "Sociology and Education Studies"
     },
-    {
-      "title": "An integrated approach for context-aware development.",
+    "An integrated approach for context-aware development.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Architectural aspects of digital twins in IIoT systems.",
+    "Architectural aspects of digital twins in IIoT systems.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "A Catalogue of Architectural Decisions for Designing IIoT Systems.",
+    "A Catalogue of Architectural Decisions for Designing IIoT Systems.": {
       "topic": "Digital Transformation in Industry"
     },
-    {
-      "title": "A pattern language for scalable microservices-based systems.",
+    "A pattern language for scalable microservices-based systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Guidance of Architectural Changes in Technical Systems with Varying Operational Modes.",
+    "Guidance of Architectural Changes in Technical Systems with Varying Operational Modes.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Large scale anomaly detection in data center logs and metrics.",
+    "Large scale anomaly detection in data center logs and metrics.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company.",
+    "Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Context-aware edge process management for mobile thing-to-fog environment.",
+    "Context-aware edge process management for mobile thing-to-fog environment.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Generality vs. reusability in architecture-based self-adaptation: the case for self-adaptive microservices.",
+    "Generality vs. reusability in architecture-based self-adaptation: the case for self-adaptive microservices.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A decentralized architecture and simple consensus algorithm for autonomous agents.",
+    "A decentralized architecture and simple consensus algorithm for autonomous agents.": {
       "topic": "Traffic control and management"
     },
-    {
-      "title": "Cracking the monolith: challenges in data transitioning to cloud native architectures.",
+    "Cracking the monolith: challenges in data transitioning to cloud native architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "IoT Architectural Styles - A Systematic Mapping Study.",
+    "IoT Architectural Styles - A Systematic Mapping Study.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Self-adaptive IoT architectures: an emergency handling case study.",
+    "Self-adaptive IoT architectures: an emergency handling case study.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Real-time prediction of flight arrival times using surveillance information.",
+    "Real-time prediction of flight arrival times using surveillance information.": {
       "topic": "Air Traffic Management and Optimization"
     },
-    {
-      "title": "Model-based engineering &amp; simulation of software-intensive systems-of-systems: experience report and lessons learned.",
+    "Model-based engineering &amp; simulation of software-intensive systems-of-systems: experience report and lessons learned.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Data wrangling at scale: the experience of EW-shopp.",
+    "Data wrangling at scale: the experience of EW-shopp.": {
       "topic": "Advanced Database Systems and Queries"
     },
-    {
-      "title": "MoSAIC: a middleware-induced software archIteCture design decision support system.",
+    "MoSAIC: a middleware-induced software archIteCture design decision support system.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Towards improved initial mapping in semi automatic clustering.",
+    "Towards improved initial mapping in semi automatic clustering.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Formally Describing Self-organizing Architectures for Systems-of-Systems on the Internet-of-Things.",
+    "Formally Describing Self-organizing Architectures for Systems-of-Systems on the Internet-of-Things.": {
       "topic": "Systems Engineering Methodologies and Applications"
     },
-    {
-      "title": "Security tactics selection poker (TaSPeR): a card game to select security tactics to satisfy security requirements.",
+    "Security tactics selection poker (TaSPeR): a card game to select security tactics to satisfy security requirements.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "ATA: architecture-based technology advisor tool.",
+    "ATA: architecture-based technology advisor tool.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Software Migration and Architecture Evolution with Industrial Platforms: A Multi-case Study.",
+    "Software Migration and Architecture Evolution with Industrial Platforms: A Multi-case Study.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Model-based support for decision-making in architecture evolution of complex software systems.",
+    "Model-based support for decision-making in architecture evolution of complex software systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Understanding Architecture Decisions in Context - An Industry Case Study of Architects&apos; Decision-Making Context.",
+    "Understanding Architecture Decisions in Context - An Industry Case Study of Architects&apos; Decision-Making Context.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Ecosystems effects on software-consuming organizations: an experience report on two observational studies.",
+    "Ecosystems effects on software-consuming organizations: an experience report on two observational studies.": {
       "topic": "Big Data and Business Intelligence"
     },
-    {
-      "title": "Risk-driven security metrics development for software-defined networking.",
+    "Risk-driven security metrics development for software-defined networking.": {
       "topic": "Software-Defined Networks and 5G"
     },
-    {
-      "title": "Using Informal Knowledge for Improving Software Quality Trade-Off Decisions.",
+    "Using Informal Knowledge for Improving Software Quality Trade-Off Decisions.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "An ontology-based approach for documenting and validating architecture rules.",
+    "An ontology-based approach for documenting and validating architecture rules.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Arduino realization of CAPS IoT architecture descriptions.",
+    "Arduino realization of CAPS IoT architecture descriptions.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "ArIA: arduino code generation based on the CAPS.",
+    "ArIA: arduino code generation based on the CAPS.": {
       "topic": "Robotics and Automated Systems"
     },
-    {
-      "title": "A comparative analysis of self-adaptive patterns in cyber-physical systems.",
+    "A comparative analysis of self-adaptive patterns in cyber-physical systems.": {
       "topic": "Modular Robots and Swarm Intelligence"
     },
-    {
-      "title": "Uncertainty expressions in software architecture group decision making: explorative study.",
+    "Uncertainty expressions in software architecture group decision making: explorative study.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "An acknowledged system of systems for educational internet of everything ecosystems.",
+    "An acknowledged system of systems for educational internet of everything ecosystems.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Container-based architecture to optimize the integration of microservices into cloud-based data-intensive application scenarios.",
+    "Container-based architecture to optimize the integration of microservices into cloud-based data-intensive application scenarios.": {
       "topic": "Cloud Computing and Resource Management"
     },
-    {
-      "title": "A mapping study of software architecture recovery for software product lines.",
+    "A mapping study of software architecture recovery for software product lines.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "AjiL: enabling model-driven microservice development.",
+    "AjiL: enabling model-driven microservice development.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Abstraction Layered Architecture: Writing Maintainable Embedded Code.",
+    "Abstraction Layered Architecture: Writing Maintainable Embedded Code.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Objectification using procedure-relational, matrix decomposition and synchronization dynamics.",
+    "Objectification using procedure-relational, matrix decomposition and synchronization dynamics.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Service architectures and dynamic solutions for interoperability of IoT, network functions and cloud resources.",
+    "Service architectures and dynamic solutions for interoperability of IoT, network functions and cloud resources.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Two Architectural Threat Analysis Techniques Compared.",
+    "Two Architectural Threat Analysis Techniques Compared.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Combining real-time risk visualization and anomaly detection.",
+    "Combining real-time risk visualization and anomaly detection.": {
       "topic": "Anomaly Detection Techniques and Applications"
     },
-    {
-      "title": "An approach to integrate systems towards a directed system-of-systems.",
+    "An approach to integrate systems towards a directed system-of-systems.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Towards precision fishery: standardized modelling of smart services in the fishery domain.",
+    "Towards precision fishery: standardized modelling of smart services in the fishery domain.": {
       "topic": "Marine and fisheries research"
     },
-    {
-      "title": "Applying Architecture-Based Adaptation to Automate the Management of Internet-of-Things.",
+    "Applying Architecture-Based Adaptation to Automate the Management of Internet-of-Things.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture Measurement - Experiences from a Multinational Company.",
+    "Software Architecture Measurement - Experiences from a Multinational Company.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Changeable manufacturing processes using service-based decision-making and I4.0 service-oriented architecture.",
+    "Changeable manufacturing processes using service-based decision-making and I4.0 service-oriented architecture.": {
       "topic": "Flexible and Reconfigurable Manufacturing Systems"
     },
-    {
-      "title": "Software Architecture - 12th European Conference on Software Architecture, ECSA 2018, Madrid, Spain, September 24-28, 2018, Proceedings",
+    "Software Architecture - 12th European Conference on Software Architecture, ECSA 2018, Madrid, Spain, September 24-28, 2018, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings, ECSA 2018, Madrid, Spain, September 24-28, 2018",
+    "Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings, ECSA 2018, Madrid, Spain, September 24-28, 2018": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "An empirical approach for determining context of mobile systems.",
+    "An empirical approach for determining context of mobile systems.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Adaptation for situational-aware cyber-physical systems driven by energy consumption and human safety.",
+    "Adaptation for situational-aware cyber-physical systems driven by energy consumption and human safety.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Green architecture for sustainable eLearning systems.",
+    "Green architecture for sustainable eLearning systems.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Evaluating software architecture erosion for PL/SQL programs.",
+    "Evaluating software architecture erosion for PL/SQL programs.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards a well-formed software architecture analysis.",
+    "Towards a well-formed software architecture analysis.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Automatic Extraction of Design Decisions from Issue Management Systems: A Machine Learning Based Approach.",
+    "Automatic Extraction of Design Decisions from Issue Management Systems: A Machine Learning Based Approach.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards a framework for managing architectural design decisions.",
+    "Towards a framework for managing architectural design decisions.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a practical maintainability quality model for service-and microservice-based systems.",
+    "Towards a practical maintainability quality model for service-and microservice-based systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "The female contribution in architecting a set of tools for a formal method: role of women in software architecture (short paper).",
+    "The female contribution in architecting a set of tools for a formal method: role of women in software architecture (short paper).": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Microservices in a Small Development Organization - An Industrial Experience Report.",
+    "Microservices in a Small Development Organization - An Industrial Experience Report.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Autonomic component ensembles for dynamic evolving architectures of context-aware smart systems: invited talk abstract.",
+    "Autonomic component ensembles for dynamic evolving architectures of context-aware smart systems: invited talk abstract.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Synthesis and Quantitative Verification of Tradeoff Spaces for Families of Software Systems.",
+    "Synthesis and Quantitative Verification of Tradeoff Spaces for Families of Software Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "The relationship between the cost of cybercrime and web security posture: a case study on Belgian companies.",
+    "The relationship between the cost of cybercrime and web security posture: a case study on Belgian companies.": {
       "topic": "Web Application Security Vulnerabilities"
     },
-    {
-      "title": "The Evolution of Technical Debt in the Apache Ecosystem.",
+    "The Evolution of Technical Debt in the Apache Ecosystem.": {
       "topic": "Open Source Software Innovations"
     },
-    {
-      "title": "Communication-efficient privacy-preserving smart metering.",
+    "Communication-efficient privacy-preserving smart metering.": {
       "topic": "Cryptography and Data Security"
     },
-    {
-      "title": "Preventing Erosion in Exception Handling Design Using Static-Architecture Conformance Checking.",
+    "Preventing Erosion in Exception Handling Design Using Static-Architecture Conformance Checking.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Risk-based adaptive authentication for internet of things in smart home eHealth.",
+    "Risk-based adaptive authentication for internet of things in smart home eHealth.": {
       "topic": "User Authentication and Security Systems"
     },
-    {
-      "title": "Considerations About Continuous Experimentation for Resource-Constrained Platforms in Self-driving Vehicles.",
+    "Considerations About Continuous Experimentation for Resource-Constrained Platforms in Self-driving Vehicles.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Measuring the value of privacy and the efficacy of PETs.",
+    "Measuring the value of privacy and the efficacy of PETs.": {
       "topic": "Privacy-Preserving Technologies in Data"
     },
-    {
-      "title": "Decision Models for Microservices: Design Areas, Stakeholders, Use Cases, and Requirements.",
+    "Decision Models for Microservices: Design Areas, Stakeholders, Use Cases, and Requirements.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A study on cybersecurity industrial end-user perspectives in Finland.",
+    "A study on cybersecurity industrial end-user perspectives in Finland.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Control of Self-adaptation Under Partial Observation: A Modular Approach.",
+    "Control of Self-adaptation Under Partial Observation: A Modular Approach.": {
       "topic": "Petri Nets in System Modeling"
     },
-    {
-      "title": "Architecture analysis to predict project risks: using containers to aid risk assessment.",
+    "Architecture analysis to predict project risks: using containers to aid risk assessment.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Software Architecture Risk Containers.",
+    "Software Architecture Risk Containers.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Are code smell detection tools suitable for detecting architecture degradation?",
+    "Are code smell detection tools suitable for detecting architecture degradation?": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A domain model for self-adaptive software systems.",
+    "A domain model for self-adaptive software systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a reference software architecture for improving the accessibility and usability of open course ware.",
+    "Towards a reference software architecture for improving the accessibility and usability of open course ware.": {
       "topic": "Open Education and E-Learning"
     },
-    {
-      "title": "Modeling embedded systems using a tailored view framework and architecture modeling constraints.",
+    "Modeling embedded systems using a tailored view framework and architecture modeling constraints.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Green software development and research with the HADAS toolkit.",
+    "Green software development and research with the HADAS toolkit.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Software architecture and reference architecture of software-intensive systems and systems-of-systems: contributions to the state of the art.",
+    "Software architecture and reference architecture of software-intensive systems and systems-of-systems: contributions to the state of the art.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "PARAD Repository: On the Capitalization of the Performance Analysis Process for AADL Designs.",
+    "PARAD Repository: On the Capitalization of the Performance Analysis Process for AADL Designs.": {
       "topic": "Real-Time Systems Scheduling"
     },
-    {
-      "title": "The relationship of code churn and architectural violations in the open source software JabRef.",
+    "The relationship of code churn and architectural violations in the open source software JabRef.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Software architecture reconstruction and compliance checking: a case study.",
+    "Software architecture reconstruction and compliance checking: a case study.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software architecture reconstruction research support as provided by HUSACCT.",
+    "Software architecture reconstruction research support as provided by HUSACCT.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Evaluation of self-adaptive systems: a women perspective.",
+    "Evaluation of self-adaptive systems: a women perspective.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards context aware computations offloading in 5G.",
+    "Towards context aware computations offloading in 5G.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Current level of cybersecurity competence and future development: case Finland.",
+    "Current level of cybersecurity competence and future development: case Finland.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Architecture conformance checking with description logics.",
+    "Architecture conformance checking with description logics.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architecture Framework for Modelling and Simulation of Situational-Aware Cyber-Physical Systems.",
+    "An Architecture Framework for Modelling and Simulation of Situational-Aware Cyber-Physical Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "CAPSim: simulation and code generation based on the CAPS.",
+    "CAPSim: simulation and code generation based on the CAPS.": {
       "topic": "Simulation Techniques and Applications"
     },
-    {
-      "title": "Simulating architectures of situational-aware cyber-physical space.",
+    "Simulating architectures of situational-aware cyber-physical space.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Taming missions and architecture in software intensive systems-of-systems.",
+    "Taming missions and architecture in software intensive systems-of-systems.": {
       "topic": null
     },
-    {
-      "title": "Role of women in software architecture: an attempt at a systematic literature review.",
+    "Role of women in software architecture: an attempt at a systematic literature review.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Continuous Rearchitecting of QoS Models: Collaborative Analysis for Uncertainty Reduction.",
+    "Continuous Rearchitecting of QoS Models: Collaborative Analysis for Uncertainty Reduction.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Categorization of cyber security deception events for measuring the severity level of advanced targeted breaches.",
+    "Categorization of cyber security deception events for measuring the severity level of advanced targeted breaches.": {
       "topic": "Network Security and Intrusion Detection"
     },
-    {
-      "title": "An open architecture approach: towards common design principles for an IoT architecture.",
+    "An open architecture approach: towards common design principles for an IoT architecture.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Two perspectives on reference architecture sustainability.",
+    "Two perspectives on reference architecture sustainability.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "MAGMA: build management-based generation of microservice infrastructures.",
+    "MAGMA: build management-based generation of microservice infrastructures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Model for Prioritization of Software Architecture Effort.",
+    "A Model for Prioritization of Software Architecture Effort.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Architectural Assumptions and Their Management in Industry - An Exploratory Study.",
+    "Architectural Assumptions and Their Management in Industry - An Exploratory Study.": {
       "topic": "Product Development and Customization"
     },
-    {
-      "title": "On Cognitive Biases in Architecture Decision Making.",
+    "On Cognitive Biases in Architecture Decision Making.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Software Architecture - 11th European Conference, ECSA 2017, Canterbury, UK, September 11-15, 2017, Proceedings",
+    "Software Architecture - 11th European Conference, ECSA 2017, Canterbury, UK, September 11-15, 2017, Proceedings": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Towards Seamless Analysis of Software Interoperability: Automatic Identification of Conceptual Constraints in API Documentation.",
+    "Towards Seamless Analysis of Software Interoperability: Automatic Identification of Conceptual Constraints in API Documentation.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards a Framework for Building SaaS Applications Operating in Diverse and Dynamic Environments.",
+    "Towards a Framework for Building SaaS Applications Operating in Diverse and Dynamic Environments.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Design Decision Documentation: A Literature Overview.",
+    "Design Decision Documentation: A Literature Overview.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Materializing Architecture Recovered from Object-Oriented Source Code in Component-Based Languages.",
+    "Materializing Architecture Recovered from Object-Oriented Source Code in Component-Based Languages.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architects in Scrum: What Challenges Do They Face?",
+    "Architects in Scrum: What Challenges Do They Face?": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "SeaClouds: An Open Reference Architecture for Multi-cloud Governance.",
+    "SeaClouds: An Open Reference Architecture for Multi-cloud Governance.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Statistical Model Checking of Dynamic Software Architectures.",
+    "Statistical Model Checking of Dynamic Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Empirical Study on Collaborative Architecture Decision Making in Software Teams.",
+    "An Empirical Study on Collaborative Architecture Decision Making in Software Teams.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Using Hypergraph Clustering for Software Architecture Reconstruction of Data-Tier Software.",
+    "Using Hypergraph Clustering for Software Architecture Reconstruction of Data-Tier Software.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Architectural Homeostasis in Self-Adaptive Software-Intensive Cyber-Physical Systems.",
+    "Architectural Homeostasis in Self-Adaptive Software-Intensive Cyber-Physical Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Evolution Style: Framework for Dynamic Evolution of Real-Time Software Architecture.",
+    "Evolution Style: Framework for Dynamic Evolution of Real-Time Software Architecture.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Retrofitting Controlled Dynamic Reconfiguration into the Architecture Description Language MontiArcAutomaton.",
+    "Retrofitting Controlled Dynamic Reconfiguration into the Architecture Description Language MontiArcAutomaton.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards an Architecture for an UI-Compositor for Multi-OS Environments.",
+    "Towards an Architecture for an UI-Compositor for Multi-OS Environments.": {
       "topic": "Real-Time Systems Scheduling"
     },
-    {
-      "title": "Inferring Architectural Evolution from Source Code Analysis - A Tool-Supported Approach for the Detection of Architectural Tactics.",
+    "Inferring Architectural Evolution from Source Code Analysis - A Tool-Supported Approach for the Detection of Architectural Tactics.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A Long Way to Quality-Driven Pattern-Based Architecting.",
+    "A Long Way to Quality-Driven Pattern-Based Architecting.": {
       "topic": "Multimedia Communication and Technology"
     },
-    {
-      "title": "Formal Verification of Software-Intensive Systems Architectures Described with Piping and Instrumentation Diagrams.",
+    "Formal Verification of Software-Intensive Systems Architectures Described with Piping and Instrumentation Diagrams.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture Challenges and Emerging Research in Software-Intensive Systems-of-Systems.",
+    "Software Architecture Challenges and Emerging Research in Software-Intensive Systems-of-Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Executing Software Architecture Descriptions with SysADL.",
+    "Executing Software Architecture Descriptions with SysADL.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Task-Specific Architecture Documentation for Developers - Why Separation of Concerns in Architecture Documentation is Counterproductive for Developers.",
+    "Task-Specific Architecture Documentation for Developers - Why Separation of Concerns in Architecture Documentation is Counterproductive for Developers.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Consistent Inconsistency Management: A Concern-Driven Approach.",
+    "Consistent Inconsistency Management: A Concern-Driven Approach.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture Modeling and Analysis of Security in Android Systems.",
+    "Architecture Modeling and Analysis of Security in Android Systems.": {
       "topic": "Advanced Malware Detection Techniques"
     },
-    {
-      "title": "Software Architecture Design Reasoning: A Card Game to Help Novice Designers.",
+    "Software Architecture Design Reasoning: A Card Game to Help Novice Designers.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Architecture Enforcement Concerns and Activities - An Expert Study.",
+    "Architecture Enforcement Concerns and Activities - An Expert Study.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Diversifying Software Architecture for Sustainability: A Value-Based Perspective.",
+    "Diversifying Software Architecture for Sustainability: A Value-Based Perspective.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "The Disappearance of Technical Specifications in Web and Mobile Applications - A Survey Among Professionals.",
+    "The Disappearance of Technical Specifications in Web and Mobile Applications - A Survey Among Professionals.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Software Architecture - 10th European Conference, ECSA 2016, Copenhagen, Denmark, November 28 - December 2, 2016, Proceedings",
+    "Software Architecture - 10th European Conference, ECSA 2016, Copenhagen, Denmark, November 28 - December 2, 2016, Proceedings": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "SmartyCo: Managing Cyber-Physical Systems for Smart Environments.",
+    "SmartyCo: Managing Cyber-Physical Systems for Smart Environments.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architectural Reasoning Support for Product-Lines of Self-adaptive Software Systems - A Case Study.",
+    "Architectural Reasoning Support for Product-Lines of Self-adaptive Software Systems - A Case Study.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a Framework for Building Adaptive App-Based Web Applications Using Dynamic Appification.",
+    "Towards a Framework for Building Adaptive App-Based Web Applications Using Dynamic Appification.": {
       "topic": "Web Applications and Data Management"
     },
-    {
-      "title": "High-Level Language Support for Reconfiguration Control in Component-Based Architectures.",
+    "High-Level Language Support for Reconfiguration Control in Component-Based Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Tailoring the ATAM for Software Ecosystems.",
+    "Tailoring the ATAM for Software Ecosystems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Approach to Software Architecting in Agile Software Development Projects in Education.",
+    "An Approach to Software Architecting in Agile Software Development Projects in Education.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "An Architecture-Centric Approach for Dynamic Smart Spaces.",
+    "An Architecture-Centric Approach for Dynamic Smart Spaces.": {
       "topic": "Modular Robots and Swarm Intelligence"
     },
-    {
-      "title": "The Layered Architecture Recovery as a Quadratic Assignment Problem.",
+    "The Layered Architecture Recovery as a Quadratic Assignment Problem.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Revisiting Architectural Tactics for Security.",
+    "Revisiting Architectural Tactics for Security.": {
       "topic": "Information and Cyber Security"
     },
-    {
-      "title": "Understanding the Use of Reference Architectures in Agile Software Development Projects.",
+    "Understanding the Use of Reference Architectures in Agile Software Development Projects.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Meta-Adaptation Strategies for Adaptation in Cyber-Physical Systems.",
+    "Meta-Adaptation Strategies for Adaptation in Cyber-Physical Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Collecting Requirements and Ideas for Architectural Group Decision-Making Based on Four Approaches.",
+    "Collecting Requirements and Ideas for Architectural Group Decision-Making Based on Four Approaches.": {
       "topic": "Construction Project Management and Performance"
     },
-    {
-      "title": "(Automated) Software Modularization Using Community Detection.",
+    "(Automated) Software Modularization Using Community Detection.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "An Energy Consumption Perspective on Software Architecture - A Case Study on Architectural Change.",
+    "An Energy Consumption Perspective on Software Architecture - A Case Study on Architectural Change.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "Opening the Ecosystem Flood Gates: Architecture Challenges of Opening Interfaces Within a Product Portfolio.",
+    "Opening the Ecosystem Flood Gates: Architecture Challenges of Opening Interfaces Within a Product Portfolio.": {
       "topic": "Open Source Software Innovations"
     },
-    {
-      "title": "Automatic Translation of Architecture Constraint Specifications into Components.",
+    "Automatic Translation of Architecture Constraint Specifications into Components.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Learning Objectives for a Course on Software Architecture.",
+    "Learning Objectives for a Course on Software Architecture.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Characterization of Cyber-Foraging Usage Contexts.",
+    "Characterization of Cyber-Foraging Usage Contexts.": {
       "topic": "Green IT and Sustainability"
     },
-    {
-      "title": "On the Social Dimensions of Architectural Decisions.",
+    "On the Social Dimensions of Architectural Decisions.": {
       "topic": "Design Education and Practice"
     },
-    {
-      "title": "Software Architecture for the Cloud - A Roadmap Towards Control-Theoretic, Model-Based Cloud Architecture.",
+    "Software Architecture for the Cloud - A Roadmap Towards Control-Theoretic, Model-Based Cloud Architecture.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Modeling RESTful Conversations with Extended BPMN Choreography Diagrams.",
+    "Modeling RESTful Conversations with Extended BPMN Choreography Diagrams.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Design of a Domain-Specific Language Based on a Technology-Independent Web Service Framework.",
+    "Design of a Domain-Specific Language Based on a Technology-Independent Web Service Framework.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Distilling Best Practices for Agile Development from Architecture Methodology - Experiences from Industrial Application.",
+    "Distilling Best Practices for Agile Development from Architecture Methodology - Experiences from Industrial Application.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Improving the Quality of Architecture Design Through Peer-Reviews and Recombination.",
+    "Improving the Quality of Architecture Design Through Peer-Reviews and Recombination.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A Lean Automotive E/E-System Design Approach with Integrated Requirements Management Capability.",
+    "A Lean Automotive E/E-System Design Approach with Integrated Requirements Management Capability.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Model-Based Energy Efficiency Analysis of Software Architectures.",
+    "Model-Based Energy Efficiency Analysis of Software Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Using Feature Models for Distributed Deployment in Extended Smart Home Architecture.",
+    "Using Feature Models for Distributed Deployment in Extended Smart Home Architecture.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Software Designers Satisfice.",
+    "Software Designers Satisfice.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Exploiting Traceability Uncertainty Between Software Architectural Models and Performance Analysis Results.",
+    "Exploiting Traceability Uncertainty Between Software Architectural Models and Performance Analysis Results.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Specialised Social Network Software Architecture for Efficient Household Water Use Management.",
+    "A Specialised Social Network Software Architecture for Efficient Household Water Use Management.": {
       "topic": "ICT in Developing Communities"
     },
-    {
-      "title": "Software Architecture - 9th European Conference, ECSA 2015, Dubrovnik/Cavtat, Croatia, September 7-11, 2015, Proceedings",
+    "Software Architecture - 9th European Conference, ECSA 2015, Dubrovnik/Cavtat, Croatia, September 7-11, 2015, Proceedings": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Interoperability-Related Architectural Problems and Solutions in Information Systems: A Scoping Study.",
+    "Interoperability-Related Architectural Problems and Solutions in Information Systems: A Scoping Study.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Towards an Improved Stakeholder Management for Software Reference Architectures.",
+    "Towards an Improved Stakeholder Management for Software Reference Architectures.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "Semi-automated Design Guidance Enhancer (SADGE): A Framework for Architectural Guidance Development.",
+    "Semi-automated Design Guidance Enhancer (SADGE): A Framework for Architectural Guidance Development.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Layered Connectors - Revisiting the Formal Basis of Architectural Connection for Complex Distributed Systems.",
+    "Layered Connectors - Revisiting the Formal Basis of Architectural Connection for Complex Distributed Systems.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "fUML-Driven Design and Performance Analysis of Software Agents for Wireless Sensor Network.",
+    "fUML-Driven Design and Performance Analysis of Software Agents for Wireless Sensor Network.": {
       "topic": "Mobile Agent-Based Network Management"
     },
-    {
-      "title": "Gossiping Components for Cyber-Physical Systems.",
+    "Gossiping Components for Cyber-Physical Systems.": {
       "topic": "Distributed systems and fault tolerance"
     },
-    {
-      "title": "How Do Software Architects Specify and Validate Quality Requirements?",
+    "How Do Software Architects Specify and Validate Quality Requirements?": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture-Based Code Generation: From π-ADL Architecture Descriptions to Implementations in the Go Language.",
+    "Architecture-Based Code Generation: From π-ADL Architecture Descriptions to Implementations in the Go Language.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architectural Support for Model-Driven Performance Prediction of Distributed Real-Time Embedded Systems of Systems.",
+    "Architectural Support for Model-Driven Performance Prediction of Distributed Real-Time Embedded Systems of Systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Using Policies for Handling Complexity of Event-Driven Architectures.",
+    "Using Policies for Handling Complexity of Event-Driven Architectures.": {
       "topic": "Advanced Database Systems and Queries"
     },
-    {
-      "title": "A Property Description Framework for Composable Software.",
+    "A Property Description Framework for Composable Software.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Combining Architectural Design Decisions and Legacy System Evolution.",
+    "Combining Architectural Design Decisions and Legacy System Evolution.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Safety Perspective for Supporting Architectural Design of Safety-Critical Systems.",
+    "Safety Perspective for Supporting Architectural Design of Safety-Critical Systems.": {
       "topic": "Safety Systems Engineering in Autonomy"
     },
-    {
-      "title": "Recommending Refactorings to Re-establish Architectural Consistency.",
+    "Recommending Refactorings to Re-establish Architectural Consistency.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Runtime Enforcement of Dynamic Security Policies.",
+    "Runtime Enforcement of Dynamic Security Policies.": {
       "topic": "Security and Verification in Computing"
     },
-    {
-      "title": "Adapting Enterprise Architecture at a Software Development Company and the Resultant Benefits.",
+    "Adapting Enterprise Architecture at a Software Development Company and the Resultant Benefits.": {
       "topic": "Information Technology Governance and Strategy"
     },
-    {
-      "title": "Multi-tenant Architecture Comparison.",
+    "Multi-tenant Architecture Comparison.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Generating EAST-ADL Event Chains from Scenario-Based Requirements Specifications.",
+    "Generating EAST-ADL Event Chains from Scenario-Based Requirements Specifications.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Service Development and Architecture Management for an Enterprise SOA.",
+    "Service Development and Architecture Management for an Enterprise SOA.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Architecture Strategies for Cyber-Foraging: Preliminary Results from a Systematic Literature Review.",
+    "Architecture Strategies for Cyber-Foraging: Preliminary Results from a Systematic Literature Review.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "RA-Ubi: A Reference Architecture for Ubiquitous Computing.",
+    "RA-Ubi: A Reference Architecture for Ubiquitous Computing.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Towards a Coordination-Centric Architecture Metamodel for Social Web Applications.",
+    "Towards a Coordination-Centric Architecture Metamodel for Social Web Applications.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Ontology-Driven Pattern Selection and Matching in Software Design.",
+    "Ontology-Driven Pattern Selection and Matching in Software Design.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Towards a Process to Design Architectures of Service-Oriented Robotic Systems.",
+    "Towards a Process to Design Architectures of Service-Oriented Robotic Systems.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Effort Estimation for Architectural Refactoring to Introduce Module Isolation.",
+    "Effort Estimation for Architectural Refactoring to Introduce Module Isolation.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Specification and Detection of SOA Antipatterns in Web Services.",
+    "Specification and Detection of SOA Antipatterns in Web Services.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Integrating Service Matchers into a Service Market Architecture.",
+    "Integrating Service Matchers into a Service Market Architecture.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Suitability of Software Architecture Decision Making Methods for Group Decisions.",
+    "Suitability of Software Architecture Decision Making Methods for Group Decisions.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Enactment of Components Extracted from an Object-Oriented Application.",
+    "Enactment of Components Extracted from an Object-Oriented Application.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Modeling the Interactions between Decisions within Software Architecture Knowledge.",
+    "Modeling the Interactions between Decisions within Software Architecture Knowledge.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Consistency Framework for Dynamic Reconfiguration in AO-Middleware Architectures.",
+    "A Consistency Framework for Dynamic Reconfiguration in AO-Middleware Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Fresh Look at Codification Approaches for SAKM: A Systematic Literature Review.",
+    "A Fresh Look at Codification Approaches for SAKM: A Systematic Literature Review.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Scalable Architectures for Platform-as-a-Service Clouds: Performance and Cost Analysis.",
+    "Scalable Architectures for Platform-as-a-Service Clouds: Performance and Cost Analysis.": {
       "topic": "Cloud Computing and Resource Management"
     },
-    {
-      "title": "Co-evolving Pattern Synthesis and Class Responsibility Assignment in Architectural Synthesis.",
+    "Co-evolving Pattern Synthesis and Class Responsibility Assignment in Architectural Synthesis.": {
       "topic": "BIM and Construction Integration"
     },
-    {
-      "title": "Software Architecture - 8th European Conference, ECSA 2014, Vienna, Austria, August 25-29, 2014. Proceedings",
+    "Software Architecture - 8th European Conference, ECSA 2014, Vienna, Austria, August 25-29, 2014. Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "The Role of Quality Attributes in Service-Based Systems Architecting: A Survey.",
+    "The Role of Quality Attributes in Service-Based Systems Architecting: A Survey.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Software Reference Architectures - Exploring Their Usage and Design in Practice.",
+    "Software Reference Architectures - Exploring Their Usage and Design in Practice.": {
       "topic": "Web Applications and Data Management"
     },
-    {
-      "title": "Architectural Decision-Making in Enterprises: Preliminary Findings from an Exploratory Study in Norwegian Electricity Industry.",
+    "Architectural Decision-Making in Enterprises: Preliminary Findings from an Exploratory Study in Norwegian Electricity Industry.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards Continuous Reference Architecture Conformance Analysis.",
+    "Towards Continuous Reference Architecture Conformance Analysis.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Describing Cloud Applications Architectures.",
+    "Describing Cloud Applications Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a Bigraph-Based Model for Context-Aware Adaptive Systems.",
+    "Towards a Bigraph-Based Model for Context-Aware Adaptive Systems.": {
       "topic": "Context-Aware Activity Recognition Systems"
     },
-    {
-      "title": "Specifying System Architecture from SysML Requirements and Component Interfaces.",
+    "Specifying System Architecture from SysML Requirements and Component Interfaces.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architectural Slicing: Towards Automatic Harvesting of Architectural Prototypes.",
+    "Architectural Slicing: Towards Automatic Harvesting of Architectural Prototypes.": {
       "topic": "Modular Robots and Swarm Intelligence"
     },
-    {
-      "title": "Towards an Architecture for Managing Big Semantic Data in Real-Time.",
+    "Towards an Architecture for Managing Big Semantic Data in Real-Time.": {
       "topic": "Semantic Web and Ontologies"
     },
-    {
-      "title": "Maintaining Architectural Conformance during Software Development: A Practical Approach.",
+    "Maintaining Architectural Conformance during Software Development: A Practical Approach.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Characterising Software Platforms from an Architectural Perspective.",
+    "Characterising Software Platforms from an Architectural Perspective.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Towards a Multi-scale Modeling for Architectural Deployment Based on Bigraphs.",
+    "Towards a Multi-scale Modeling for Architectural Deployment Based on Bigraphs.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Swap Fairness for Thrashing Mitigation.",
+    "Swap Fairness for Thrashing Mitigation.": {
       "topic": "Advanced Data Storage Technologies"
     },
-    {
-      "title": "Analysis Support for TADL2 Timing Constraints on EAST-ADL Models.",
+    "Analysis Support for TADL2 Timing Constraints on EAST-ADL Models.": {
       "topic": "Formal Methods in Verification"
     },
-    {
-      "title": "Controlled Experiment on the Supportive Effect of Architectural Component Diagrams for Design Understanding of Novice Architects.",
+    "Controlled Experiment on the Supportive Effect of Architectural Component Diagrams for Design Understanding of Novice Architects.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "MVIC - An MVC Extension for Interactive, Multimodal Applications.",
+    "MVIC - An MVC Extension for Interactive, Multimodal Applications.": {
       "topic": "Speech and dialogue systems"
     },
-    {
-      "title": "Architecture-Centric Modeling of Design Decisions for Validation and Traceability.",
+    "Architecture-Centric Modeling of Design Decisions for Validation and Traceability.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "SysADL: A SysML Profile for Software Architecture Description.",
+    "SysADL: A SysML Profile for Software Architecture Description.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Toward Industry Friendly Software Architecture Evaluation.",
+    "Toward Industry Friendly Software Architecture Evaluation.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations.",
+    "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Extensive Software Architecture Erosion Repairs.",
+    "Towards Extensive Software Architecture Erosion Repairs.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Benefits and Drawbacks of Reference Architectures.",
+    "Benefits and Drawbacks of Reference Architectures.": {
       "topic": "Information Technology Governance and Strategy"
     },
-    {
-      "title": "Classification of Design Decisions - An Expert Survey in Practice.",
+    "Classification of Design Decisions - An Expert Survey in Practice.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Concurrent Object-Oriented Development with Behavioral Design Patterns.",
+    "Concurrent Object-Oriented Development with Behavioral Design Patterns.": {
       "topic": "Parallel Computing and Optimization Techniques"
     },
-    {
-      "title": "Team Situational Awareness and Architectural Decision Making with the Software Architecture Warehouse.",
+    "Team Situational Awareness and Architectural Decision Making with the Software Architecture Warehouse.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Run-Time Support to Manage Architectural Variability Specified with CVL.",
+    "Run-Time Support to Manage Architectural Variability Specified with CVL.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "Towards an Optimized Software Architecture for Component Adaptation at Middleware Level.",
+    "Towards an Optimized Software Architecture for Component Adaptation at Middleware Level.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture Documentation for Developers: A Survey.",
+    "Software Architecture Documentation for Developers: A Survey.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "PANDArch: A Pluggable Automated Non-intrusive Dynamic Architecture Conformance Checker.",
+    "PANDArch: A Pluggable Automated Non-intrusive Dynamic Architecture Conformance Checker.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Lightweight Language for Software Product Lines Architecture Description.",
+    "A Lightweight Language for Software Product Lines Architecture Description.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Composition-Centered Architectural Pattern Description Language.",
+    "Composition-Centered Architectural Pattern Description Language.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Difficulty of Architectural Decisions - A Survey with Professional Architects.",
+    "Difficulty of Architectural Decisions - A Survey with Professional Architects.": {
       "topic": "Design Education and Practice"
     },
-    {
-      "title": "Building Correct by Construction SOA Design Patterns: Modeling and Refinement.",
+    "Building Correct by Construction SOA Design Patterns: Modeling and Refinement.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Making the Right Decision: Supporting Architects with Design Decision Data.",
+    "Making the Right Decision: Supporting Architects with Design Decision Data.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Claims and Evidence for Architecture-Based Self-adaptation: A Systematic Literature Review.",
+    "Claims and Evidence for Architecture-Based Self-adaptation: A Systematic Literature Review.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Automated Deployment of Distributed Adaptation Systems.",
+    "Towards Automated Deployment of Distributed Adaptation Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture - 7th European Conference, ECSA 2013, Montpellier, France, July 1-5, 2013. Proceedings",
+    "Software Architecture - 7th European Conference, ECSA 2013, Montpellier, France, July 1-5, 2013. Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Reverse Engineering Architectural Feature Models.",
+    "Reverse Engineering Architectural Feature Models.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "ReflexML: UML-Based Architecture-to-Code Traceability and Consistency Checking.",
+    "ReflexML: UML-Based Architecture-to-Code Traceability and Consistency Checking.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architecture Analysis Approach for Supporting Black-Box Software Development.",
+    "An Architecture Analysis Approach for Supporting Black-Box Software Development.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Systematic Integration of Quality Requirements into Software Architecture.",
+    "Towards Systematic Integration of Quality Requirements into Software Architecture.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "On How to Deal with Uncertainty When Architecting Embedded Software and Systems.",
+    "On How to Deal with Uncertainty When Architecting Embedded Software and Systems.": {
       "topic": "Systems Engineering Methodologies and Applications"
     },
-    {
-      "title": "PL-AspectualACME: An Aspect-Oriented Architectural Description Language for Software Product Lines.",
+    "PL-AspectualACME: An Aspect-Oriented Architectural Description Language for Software Product Lines.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Real-Time Monitoring and Controlling of Enterprise Architectures Using Business Software Control Centers.",
+    "Towards Real-Time Monitoring and Controlling of Enterprise Architectures Using Business Software Control Centers.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "An Enhanced Architectural Knowledge Metamodel Linking Architectural Design Decisions to other Artifacts in the Software Engineering Lifecycle.",
+    "An Enhanced Architectural Knowledge Metamodel Linking Architectural Design Decisions to other Artifacts in the Software Engineering Lifecycle.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture-Based Run-Time Fault Diagnosis.",
+    "Architecture-Based Run-Time Fault Diagnosis.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Guiding Architects in Selecting Architectural Evolution Alternatives.",
+    "Guiding Architects in Selecting Architectural Evolution Alternatives.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "DAMASCo: A Framework for the Automatic Composition of Component-Based and Service-Oriented Architectures.",
+    "DAMASCo: A Framework for the Automatic Composition of Component-Based and Service-Oriented Architectures.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Software Is a Directed Multigraph.",
+    "Software Is a Directed Multigraph.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "A Constructive Approach to Compositional Architecture Design.",
+    "A Constructive Approach to Compositional Architecture Design.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Language Engineering of Architectural Viewpoints.",
+    "Software Language Engineering of Architectural Viewpoints.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Change Impact Analysis in Product-Line Architectures.",
+    "Change Impact Analysis in Product-Line Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architectural Approach to End User Orchestrations.",
+    "An Architectural Approach to End User Orchestrations.": {
       "topic": "Scientific Computing and Data Management"
     },
-    {
-      "title": "Software Packaging Approaches - A Comparison Framework.",
+    "Software Packaging Approaches - A Comparison Framework.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "A Self-adaptive Monitoring Framework for Component-Based Software Systems.",
+    "A Self-adaptive Monitoring Framework for Component-Based Software Systems.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "Autonomic Computing Driven by Feature Models and Architecture in FamiWare.",
+    "Autonomic Computing Driven by Feature Models and Architecture in FamiWare.": {
       "topic": "IoT and Edge/Fog Computing"
     },
-    {
-      "title": "Verifying Composite Service Transactional Behavior with EVENT-B.",
+    "Verifying Composite Service Transactional Behavior with EVENT-B.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "An Architecture-Based Verification Technique for AADL Specifications.",
+    "An Architecture-Based Verification Technique for AADL Specifications.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Extending UML Components to Develop Software Product-Line Architectures: Lessons Learned.",
+    "Extending UML Components to Develop Software Product-Line Architectures: Lessons Learned.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a Model-Based Approach for Reconfigurable DRE Systems.",
+    "Towards a Model-Based Approach for Reconfigurable DRE Systems.": {
       "topic": "Real-Time Systems Scheduling"
     },
-    {
-      "title": "Resource Management in the Air Traffic Domain.",
+    "Resource Management in the Air Traffic Domain.": {
       "topic": "Air Traffic Management and Optimization"
     },
-    {
-      "title": "Performance Simulation of Runtime Reconfigurable Component-Based Software Architectures.",
+    "Performance Simulation of Runtime Reconfigurable Component-Based Software Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A Question-Based Method for Deriving Software Architectures.",
+    "A Question-Based Method for Deriving Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Enhancing Architecture Design Methods for Improved Flexibility in Long-Living Information Systems.",
+    "Enhancing Architecture Design Methods for Improved Flexibility in Long-Living Information Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Reference Architecture and Product Line Architecture: A Subtle But Critical Difference.",
+    "Reference Architecture and Product Line Architecture: A Subtle But Critical Difference.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Using Model Transformation Techniques for the Superimposition of Architectural Styles.",
+    "Using Model Transformation Techniques for the Superimposition of Architectural Styles.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "A Service-Oriented Reference Architecture for Software Testing Tools.",
+    "A Service-Oriented Reference Architecture for Software Testing Tools.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Dynamically Reconfigurable Resource-Aware Component Framework: Architecture and Concepts.",
+    "Dynamically Reconfigurable Resource-Aware Component Framework: Architecture and Concepts.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Reusable Business Tier Component with a Single Wide Range Static Interface.",
+    "A Reusable Business Tier Component with a Single Wide Range Static Interface.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Runtime Performance Management of Information Broker-Based Adaptive Applications.",
+    "Runtime Performance Management of Information Broker-Based Adaptive Applications.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "From EAST-ADL to AUTOSAR Software Architecture: A Mapping Scheme.",
+    "From EAST-ADL to AUTOSAR Software Architecture: A Mapping Scheme.": {
       "topic": "Safety Systems Engineering in Autonomy"
     },
-    {
-      "title": "Decouplink: Dynamic Links for Java.",
+    "Decouplink: Dynamic Links for Java.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Web-Scale Human Task Management.",
+    "Web-Scale Human Task Management.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "A Model for Specifying Rationale Using an Architecture Description Language.",
+    "A Model for Specifying Rationale Using an Architecture Description Language.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Design and Evaluation of a Process for Identifying Architecture Patterns in Open Source Software.",
+    "Design and Evaluation of a Process for Identifying Architecture Patterns in Open Source Software.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Supporting Communication and Cooperation in Global Software Development with Agile Service Networks.",
+    "Supporting Communication and Cooperation in Global Software Development with Agile Service Networks.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Defining Architectural Viewpoints for Quality Concerns.",
+    "Defining Architectural Viewpoints for Quality Concerns.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Supervising the Evolution of Web Service Orchestrations Using Quality Requirements.",
+    "Supervising the Evolution of Web Service Orchestrations Using Quality Requirements.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Aspect-Connectors to Support the Evolution of Component-Based Product Line Architectures: A Comparative Study.",
+    "Aspect-Connectors to Support the Evolution of Component-Based Product Line Architectures: A Comparative Study.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Reducing Architectural Knowledge Vaporization by Applying the Repertory Grid Technique.",
+    "Reducing Architectural Knowledge Vaporization by Applying the Repertory Grid Technique.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Capturing Architecture Evolution with Maps of Architectural Decisions 2.0.",
+    "Capturing Architecture Evolution with Maps of Architectural Decisions 2.0.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture - 5th European Conference, ECSA 2011, Essen, Germany, September 13-16, 2011. Proceedings",
+    "Software Architecture - 5th European Conference, ECSA 2011, Essen, Germany, September 13-16, 2011. Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "MDA Tool for Telecom Service Functional Design.",
+    "MDA Tool for Telecom Service Functional Design.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Context-Aware Quality Model Driven Approach: A New Approach for Quality Control in Pervasive Computing Environments.",
+    "Context-Aware Quality Model Driven Approach: A New Approach for Quality Control in Pervasive Computing Environments.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Identity Management Mismatch Challenges in the Danish Municipality Administration System.",
+    "Identity Management Mismatch Challenges in the Danish Municipality Administration System.": {
       "topic": "Access Control and Trust"
     },
-    {
-      "title": "A Framework for Dynamic Self-optimization of Power and Dependability Requirements in Green Cloud Architectures.",
+    "A Framework for Dynamic Self-optimization of Power and Dependability Requirements in Green Cloud Architectures.": {
       "topic": "Software System Performance and Reliability"
     },
-    {
-      "title": "A NUI Based Multiple Perspective Variability Modeling CASE Tool.",
+    "A NUI Based Multiple Perspective Variability Modeling CASE Tool.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Explaining Architectural Choices to Non-architects.",
+    "Explaining Architectural Choices to Non-architects.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Facilitating the Selection of Architectural Patterns by Means of a Marked Requirements Model.",
+    "Facilitating the Selection of Architectural Patterns by Means of a Marked Requirements Model.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Impact Evaluation for Quality-Oriented Architectural Decisions regarding Evolvability.",
+    "Impact Evaluation for Quality-Oriented Architectural Decisions regarding Evolvability.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture in the Age of Compositionality.",
+    "Architecture in the Age of Compositionality.": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Functional Architecture Modeling for the Software Product Industry.",
+    "Functional Architecture Modeling for the Software Product Industry.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architectural Blueprint for Model Driven Development and Maintenance of Business Logic for Information Systems.",
+    "An Architectural Blueprint for Model Driven Development and Maintenance of Business Logic for Information Systems.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "Software Architecture Recovery Process Based on Object-Oriented Source Code and Documentation.",
+    "Software Architecture Recovery Process Based on Object-Oriented Source Code and Documentation.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Lightweight and Continuous Architectural Software Quality Assurance Using the aSQA Technique.",
+    "Lightweight and Continuous Architectural Software Quality Assurance Using the aSQA Technique.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Classification of Value for Software Architecture Decisions.",
+    "A Classification of Value for Software Architecture Decisions.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Using Domain Knowledge to Boost Software Architecture Evaluation.",
+    "Using Domain Knowledge to Boost Software Architecture Evaluation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "On the Role of Architectural Styles in Improving the Adaptation Support of Middleware Platforms.",
+    "On the Role of Architectural Styles in Improving the Adaptation Support of Middleware Platforms.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Model for Dynamic Reconfiguration in Service-Oriented Architectures.",
+    "A Model for Dynamic Reconfiguration in Service-Oriented Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Naive Architecting - Understanding the Reasoning Process of Students - A Descriptive Survey.",
+    "Naive Architecting - Understanding the Reasoning Process of Students - A Descriptive Survey.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Many to Many Service Discovery: A First Approach.",
+    "Many to Many Service Discovery: A First Approach.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Specifying Loose Coupling from Existing Service Composition Approaches.",
+    "Specifying Loose Coupling from Existing Service Composition Approaches.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Customer Value in Architecture Decision Making.",
+    "Customer Value in Architecture Decision Making.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Dynamic Architectural Constraints Monitoring and Reconfiguration in Service Architectures.",
+    "Dynamic Architectural Constraints Monitoring and Reconfiguration in Service Architectures.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "A Formal Approach to Enforcing Consistency in Self-adaptive Systems.",
+    "A Formal Approach to Enforcing Consistency in Self-adaptive Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Mining Relationships between the Participants of Architectural Patterns.",
+    "Mining Relationships between the Participants of Architectural Patterns.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Ontological Analysis for Generating Baseline Architectural Descriptions.",
+    "Ontological Analysis for Generating Baseline Architectural Descriptions.": {
       "topic": "Semantic Web and Ontologies"
     },
-    {
-      "title": "Identifying Architectural Connectors through Formal Concept Analysis of Communication Primitives.",
+    "Identifying Architectural Connectors through Formal Concept Analysis of Communication Primitives.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Linking Design Decisions to Design Models in Model-Based Software Development.",
+    "Linking Design Decisions to Design Models in Model-Based Software Development.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Where Did All This Good Architectural Knowledge Go?",
+    "Where Did All This Good Architectural Knowledge Go?": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Expert Activities Automation through Enhanced Business Services Orchestration.",
+    "Expert Activities Automation through Enhanced Business Services Orchestration.": {
       "topic": "Business Process Modeling and Analysis"
     },
-    {
-      "title": "On the Need of Safe Software Product Line Architectures.",
+    "On the Need of Safe Software Product Line Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Toward an Aspect Oriented ADL for Embedded Systems.",
+    "Toward an Aspect Oriented ADL for Embedded Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Architecture-Centric Software Generation.",
+    "Towards Architecture-Centric Software Generation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Learning from the Cell Life-Cycle: A Self-adaptive Paradigm.",
+    "Learning from the Cell Life-Cycle: A Self-adaptive Paradigm.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Reference Models and Reference Architectures Based on Service-Oriented Architecture: A Systematic Review.",
+    "Reference Models and Reference Architectures Based on Service-Oriented Architecture: A Systematic Review.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Dynamic Adaptive Service Architecture - Towards Coordinated Service Composition.",
+    "Dynamic Adaptive Service Architecture - Towards Coordinated Service Composition.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Feature-Based Composition of Software Architectures.",
+    "Feature-Based Composition of Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Flexible Working Architectures: Agile Architecting Using PPCs.",
+    "Flexible Working Architectures: Agile Architecting Using PPCs.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architectural Approach to Composing Reputation-Based Distributed Services.",
+    "An Architectural Approach to Composing Reputation-Based Distributed Services.": {
       "topic": "Access Control and Trust"
     },
-    {
-      "title": "Modelling Changes and Data Transfers for Architecture-Based Runtime Evolution of Distributed Applications.",
+    "Modelling Changes and Data Transfers for Architecture-Based Runtime Evolution of Distributed Applications.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Experiences from Scenario-Based Architecture Evaluations with ATAM.",
+    "Experiences from Scenario-Based Architecture Evaluations with ATAM.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "ByADL: An MDE Framework for Building Extensible Architecture Description Languages.",
+    "ByADL: An MDE Framework for Building Extensible Architecture Description Languages.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Independently Extensibile Contexts.",
+    "Independently Extensibile Contexts.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecting a Model-Driven Aspect-Oriented Product Line for a Digital TV Middleware: A Refactoring Experience.",
+    "Architecting a Model-Driven Aspect-Oriented Product Line for a Digital TV Middleware: A Refactoring Experience.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Assessing the Impact of AOSD on Layered Software Architectures.",
+    "Assessing the Impact of AOSD on Layered Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Experiences in Making Architectural Decisions during the Development of a New Base Station Platform.",
+    "Experiences in Making Architectural Decisions during the Development of a New Base Station Platform.": {
       "topic": "BIM and Construction Integration"
     },
-    {
-      "title": "Automated Detection of Least Privilege Violations in Software Architectures.",
+    "Automated Detection of Least Privilege Violations in Software Architectures.": {
       "topic": "Advanced Malware Detection Techniques"
     },
-    {
-      "title": "Communicating Architectural Knowledge: Requirements for Software Architecture Knowledge Management Tools.",
+    "Communicating Architectural Knowledge: Requirements for Software Architecture Knowledge Management Tools.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Mediating Connector Patterns for Components Interoperability.",
+    "Mediating Connector Patterns for Components Interoperability.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "An ADL-Approach to Specifying and Analyzing Centralized-Mode Architectural Connection.",
+    "An ADL-Approach to Specifying and Analyzing Centralized-Mode Architectural Connection.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture Constraints as Customizable, Reusable and Composable Entities.",
+    "Software Architecture Constraints as Customizable, Reusable and Composable Entities.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "From Web Components to Web Services: Opening Development for Third Parties.",
+    "From Web Components to Web Services: Opening Development for Third Parties.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "BeeEye: A Framework for Constructing Architectural Views.",
+    "BeeEye: A Framework for Constructing Architectural Views.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "REST in Practice.",
+    "REST in Practice.": {
       "topic": "Distributed and Parallel Computing Systems"
     },
-    {
-      "title": "Integrating Requirements and Design Decisions in Architecture Representation.",
+    "Integrating Requirements and Design Decisions in Architecture Representation.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture Decision-Making in Support of Complexity Control.",
+    "Architecture Decision-Making in Support of Complexity Control.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Architecture-Centric Component-Based Development Needs a Three-Level ADL.",
+    "Architecture-Centric Component-Based Development Needs a Three-Level ADL.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture, 4th European Conference, ECSA 2010, Copenhagen, Denmark, August 23-26, 2010. Proceedings",
+    "Software Architecture, 4th European Conference, ECSA 2010, Copenhagen, Denmark, August 23-26, 2010. Proceedings": {
       "topic": "Software Engineering Techniques and Practices"
     },
-    {
-      "title": "Towards a Method for the Evaluation of Reference Architectures: Experiences from a Case.",
+    "Towards a Method for the Evaluation of Reference Architectures: Experiences from a Case.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Transition to Service-Oriented Enterprise Architecture.",
+    "Transition to Service-Oriented Enterprise Architecture.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Component-Oriented Verification of Software Architectures through Built-in Tests.",
+    "Component-Oriented Verification of Software Architectures through Built-in Tests.": {
       "topic": "Software Testing and Debugging Techniques"
     },
-    {
-      "title": "On the Interplay of Aspects and Dynamic Reconfiguration in a Specification-to-Deployment Environment.",
+    "On the Interplay of Aspects and Dynamic Reconfiguration in a Specification-to-Deployment Environment.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Non-synchronous Communications in Process Algebraic Architectural Description Languages.",
+    "Non-synchronous Communications in Process Algebraic Architectural Description Languages.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Characterizing Relations between Architectural Views.",
+    "Characterizing Relations between Architectural Views.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Development of Fault-Tolerant Software Systems Based on Architectural Abstractions.",
+    "Development of Fault-Tolerant Software Systems Based on Architectural Abstractions.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "On the Role of Architectural Design Decisions in Software Product Line Engineering.",
+    "On the Role of Architectural Design Decisions in Software Product Line Engineering.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Search-Based Extraction of Component-Based Architecture from Object-Oriented Systems.",
+    "Search-Based Extraction of Component-Based Architecture from Object-Oriented Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Security Model for Internet-Based Digital Asset Management Systems.",
+    "A Security Model for Internet-Based Digital Asset Management Systems.": {
       "topic": "Cloud Data Security Solutions"
     },
-    {
-      "title": "Architectural Prototyping in Industrial Practice.",
+    "Architectural Prototyping in Industrial Practice.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Domain Ontology-Based Generative Component Design Using Feature Diagrams and Meta-programming Techniques.",
+    "Domain Ontology-Based Generative Component Design Using Feature Diagrams and Meta-programming Techniques.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Extending the ANSI/SPARC Architecture Database with Explicit Data Semantics: An Ontology-Based Approach.",
+    "Extending the ANSI/SPARC Architecture Database with Explicit Data Semantics: An Ontology-Based Approach.": {
       "topic": "Semantic Web and Ontologies"
     },
-    {
-      "title": "Evaluating Domain Design Approaches Using Systematic Review.",
+    "Evaluating Domain Design Approaches Using Systematic Review.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "A Large Scope Transformational Approach for Distributed Architecture Design.",
+    "A Large Scope Transformational Approach for Distributed Architecture Design.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "L-DSMS - A Local Data Stream Management System.",
+    "L-DSMS - A Local Data Stream Management System.": {
       "topic": "Advanced Database Systems and Queries"
     },
-    {
-      "title": "Modeling Architectural Patterns&apos; Behavior Using Architectural Primitives.",
+    "Modeling Architectural Patterns&apos; Behavior Using Architectural Primitives.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Architecture-Centric Development Environment for Black-Box Component-Based Systems.",
+    "An Architecture-Centric Development Environment for Black-Box Component-Based Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Visualizing Software Architectural Design Decisions.",
+    "Visualizing Software Architectural Design Decisions.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Web Services Domain Analysis Based on Quality Standards.",
+    "Web Services Domain Analysis Based on Quality Standards.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Automating Architecture Trade-Off Decision Making through a Complex Multi-attribute Decision Process.",
+    "Automating Architecture Trade-Off Decision Making through a Complex Multi-attribute Decision Process.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "How Do Agents Affect Modifiability? A Comparison between Two Architectures for Intelligent Virtual Environments for Training.",
+    "How Do Agents Affect Modifiability? A Comparison between Two Architectures for Intelligent Virtual Environments for Training.": {
       "topic": "Multi-Agent Systems and Negotiation"
     },
-    {
-      "title": "TADL - An Architecture Description Language for Trustworthy Component-Based Systems.",
+    "TADL - An Architecture Description Language for Trustworthy Component-Based Systems.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Web Services Orchestrations Evolution: A Merge Process for Behavioral Evolution.",
+    "Web Services Orchestrations Evolution: A Merge Process for Behavioral Evolution.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Approach for Dynamically Composing Decentralised Service Architectures with Cross-Cutting Constraints.",
+    "Approach for Dynamically Composing Decentralised Service Architectures with Cross-Cutting Constraints.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Automating the Trace of Architectural Design Decisions and Rationales Using a MDD Approach.",
+    "Automating the Trace of Architectural Design Decisions and Rationales Using a MDD Approach.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Interoperability in Component Based Development with a Family of DSLs.",
+    "Towards Interoperability in Component Based Development with a Family of DSLs.": {
       "topic": "Model-Driven Software Engineering Techniques"
     },
-    {
-      "title": "Issues in Architecture Evolution: Using Design Intent in Maintenance and Controlling Dynamic Evolution.",
+    "Issues in Architecture Evolution: Using Design Intent in Maintenance and Controlling Dynamic Evolution.": {
       "topic": "Software Engineering Research"
     },
-    {
-      "title": "Towards a Software Process for Aspect-Oriented Modeling of Quality Attributes.",
+    "Towards a Software Process for Aspect-Oriented Modeling of Quality Attributes.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Stakeholder Perception of Enterprise Architecture.",
+    "Stakeholder Perception of Enterprise Architecture.": {
       "topic": "Information Technology Governance and Strategy"
     },
-    {
-      "title": "Facets of Adaptivity.",
+    "Facets of Adaptivity.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "An Iterative Framework for Software Architecture Recovery: An Experience Report.",
+    "An Iterative Framework for Software Architecture Recovery: An Experience Report.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Representing Service-Oriented Architectural Models Using pi-ADL.",
+    "Representing Service-Oriented Architectural Models Using pi-ADL.": {
       "topic": "Service-Oriented Architecture and Web Services"
     },
-    {
-      "title": "Managing Dynamic Evolution of Architectural Types.",
+    "Managing Dynamic Evolution of Architectural Types.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards Independent Software Architecture Review.",
+    "Towards Independent Software Architecture Review.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Towards a Dependency Constraint Language to Manage Software Architectures.",
+    "Towards a Dependency Constraint Language to Manage Software Architectures.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Diagrammatic Modeling of Architectural Decisions.",
+    "Diagrammatic Modeling of Architectural Decisions.": {
       "topic": "Advanced Software Engineering Methodologies"
     },
-    {
-      "title": "Software Architecture, Second European Conference, ECSA 2008, Paphos, Cyprus, September 29 - October 1, 2008, Proceedings",
+    "Software Architecture, Second European Conference, ECSA 2008, Paphos, Cyprus, September 29 - October 1, 2008, Proceedings": {
       "topic": "Advanced Software Engineering Methodologies"
     }
-  ]
+  }
 }
