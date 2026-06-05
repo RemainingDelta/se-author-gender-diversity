@@ -1,3 +1,6 @@
+up:
+	cd app && npm run dev
+
 lint:
 	ruff check src/
 

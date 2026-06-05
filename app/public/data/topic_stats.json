@@ -1,0 +1,3559 @@
+{
+  "Software Engineering Research": {
+    "ICSE": {
+      "total_authors": 4745,
+      "female_presenting": 791,
+      "male_presenting": 3369,
+      "unclassified": 542,
+      "unknown": 43
+    },
+    "ECSA": {
+      "total_authors": 233,
+      "female_presenting": 61,
+      "male_presenting": 155,
+      "unclassified": 17,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2381,
+      "female_presenting": 404,
+      "male_presenting": 1827,
+      "unclassified": 132,
+      "unknown": 18
+    },
+    "ICSME": {
+      "total_authors": 1802,
+      "female_presenting": 285,
+      "male_presenting": 1339,
+      "unclassified": 155,
+      "unknown": 23
+    }
+  },
+  "Gaze Tracking and Assistive Technology": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 4,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Impact of Technology on Adolescents": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 4,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Malware Detection Techniques": {
+    "ICSE": {
+      "total_authors": 830,
+      "female_presenting": 137,
+      "male_presenting": 551,
+      "unclassified": 123,
+      "unknown": 19
+    },
+    "ECSA": {
+      "total_authors": 21,
+      "female_presenting": 1,
+      "male_presenting": 18,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 180,
+      "female_presenting": 34,
+      "male_presenting": 129,
+      "unclassified": 15,
+      "unknown": 2
+    },
+    "ICSME": {
+      "total_authors": 111,
+      "female_presenting": 21,
+      "male_presenting": 78,
+      "unclassified": 10,
+      "unknown": 2
+    }
+  },
+  "Formal Methods in Verification": {
+    "ICSE": {
+      "total_authors": 255,
+      "female_presenting": 21,
+      "male_presenting": 205,
+      "unclassified": 26,
+      "unknown": 3
+    },
+    "ECSA": {
+      "total_authors": 8,
+      "female_presenting": 2,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Optical Imaging and Spectroscopy Techniques": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Software Testing and Debugging Techniques": {
+    "ICSE": {
+      "total_authors": 2349,
+      "female_presenting": 385,
+      "male_presenting": 1647,
+      "unclassified": 297,
+      "unknown": 20
+    },
+    "ECSA": {
+      "total_authors": 18,
+      "female_presenting": 6,
+      "male_presenting": 12,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 79,
+      "female_presenting": 11,
+      "male_presenting": 59,
+      "unclassified": 9,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 401,
+      "female_presenting": 62,
+      "male_presenting": 296,
+      "unclassified": 36,
+      "unknown": 7
+    }
+  },
+  "Topic Modeling": {
+    "ICSE": {
+      "total_authors": 59,
+      "female_presenting": 11,
+      "male_presenting": 43,
+      "unclassified": 4,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 33,
+      "female_presenting": 3,
+      "male_presenting": 28,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 35,
+      "female_presenting": 6,
+      "male_presenting": 19,
+      "unclassified": 10,
+      "unknown": 0
+    }
+  },
+  "Anomaly Detection Techniques and Applications": {
+    "ICSE": {
+      "total_authors": 58,
+      "female_presenting": 6,
+      "male_presenting": 40,
+      "unclassified": 12,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Data Quality and Management": {
+    "ICSE": {
+      "total_authors": 31,
+      "female_presenting": 4,
+      "male_presenting": 24,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Software System Performance and Reliability": {
+    "ICSE": {
+      "total_authors": 738,
+      "female_presenting": 126,
+      "male_presenting": 509,
+      "unclassified": 93,
+      "unknown": 10
+    },
+    "ECSA": {
+      "total_authors": 279,
+      "female_presenting": 40,
+      "male_presenting": 227,
+      "unclassified": 10,
+      "unknown": 2
+    },
+    "MSR": {
+      "total_authors": 102,
+      "female_presenting": 16,
+      "male_presenting": 75,
+      "unclassified": 9,
+      "unknown": 2
+    },
+    "ICSME": {
+      "total_authors": 118,
+      "female_presenting": 17,
+      "male_presenting": 86,
+      "unclassified": 15,
+      "unknown": 0
+    }
+  },
+  "Open Source Software Innovations": {
+    "ICSE": {
+      "total_authors": 341,
+      "female_presenting": 92,
+      "male_presenting": 227,
+      "unclassified": 19,
+      "unknown": 3
+    },
+    "ECSA": {
+      "total_authors": 16,
+      "female_presenting": 2,
+      "male_presenting": 12,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 149,
+      "female_presenting": 19,
+      "male_presenting": 121,
+      "unclassified": 8,
+      "unknown": 1
+    },
+    "ICSME": {
+      "total_authors": 64,
+      "female_presenting": 8,
+      "male_presenting": 54,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Software Engineering Techniques and Practices": {
+    "ICSE": {
+      "total_authors": 830,
+      "female_presenting": 213,
+      "male_presenting": 582,
+      "unclassified": 28,
+      "unknown": 7
+    },
+    "ECSA": {
+      "total_authors": 77,
+      "female_presenting": 15,
+      "male_presenting": 59,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 20,
+      "female_presenting": 9,
+      "male_presenting": 11,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 18,
+      "female_presenting": 3,
+      "male_presenting": 12,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Scientific Computing and Data Management": {
+    "ICSE": {
+      "total_authors": 142,
+      "female_presenting": 42,
+      "male_presenting": 89,
+      "unclassified": 11,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 21,
+      "female_presenting": 8,
+      "male_presenting": 13,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 34,
+      "female_presenting": 5,
+      "male_presenting": 26,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 18,
+      "female_presenting": 0,
+      "male_presenting": 16,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Big Data and Business Intelligence": {
+    "ICSE": {
+      "total_authors": 32,
+      "female_presenting": 7,
+      "male_presenting": 21,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Data Mining Algorithms and Applications": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 19,
+      "female_presenting": 5,
+      "male_presenting": 13,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Advanced Software Engineering Methodologies": {
+    "ICSE": {
+      "total_authors": 638,
+      "female_presenting": 92,
+      "male_presenting": 518,
+      "unclassified": 26,
+      "unknown": 2
+    },
+    "ECSA": {
+      "total_authors": 636,
+      "female_presenting": 133,
+      "male_presenting": 480,
+      "unclassified": 20,
+      "unknown": 3
+    },
+    "MSR": {
+      "total_authors": 16,
+      "female_presenting": 1,
+      "male_presenting": 12,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 39,
+      "female_presenting": 5,
+      "male_presenting": 33,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Adversarial Robustness in Machine Learning": {
+    "ICSE": {
+      "total_authors": 360,
+      "female_presenting": 70,
+      "male_presenting": 218,
+      "unclassified": 65,
+      "unknown": 7
+    },
+    "ICSME": {
+      "total_authors": 22,
+      "female_presenting": 2,
+      "male_presenting": 15,
+      "unclassified": 5,
+      "unknown": 0
+    }
+  },
+  "Expert finding and Q&A systems": {
+    "ICSE": {
+      "total_authors": 16,
+      "female_presenting": 1,
+      "male_presenting": 10,
+      "unclassified": 4,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 59,
+      "female_presenting": 7,
+      "male_presenting": 48,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 12,
+      "female_presenting": 1,
+      "male_presenting": 8,
+      "unclassified": 2,
+      "unknown": 1
+    }
+  },
+  "Context-Aware Activity Recognition Systems": {
+    "ICSE": {
+      "total_authors": 24,
+      "female_presenting": 3,
+      "male_presenting": 16,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 31,
+      "female_presenting": 12,
+      "male_presenting": 19,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Security and Verification in Computing": {
+    "ICSE": {
+      "total_authors": 190,
+      "female_presenting": 24,
+      "male_presenting": 135,
+      "unclassified": 30,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 13,
+      "female_presenting": 3,
+      "male_presenting": 10,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 27,
+      "female_presenting": 5,
+      "male_presenting": 20,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Blockchain Technology Applications and Security": {
+    "ICSE": {
+      "total_authors": 119,
+      "female_presenting": 17,
+      "male_presenting": 72,
+      "unclassified": 22,
+      "unknown": 8
+    },
+    "ECSA": {
+      "total_authors": 11,
+      "female_presenting": 3,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 15,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 4,
+      "unknown": 2
+    },
+    "ICSME": {
+      "total_authors": 37,
+      "female_presenting": 5,
+      "male_presenting": 24,
+      "unclassified": 7,
+      "unknown": 1
+    }
+  },
+  "Personal Information Management and User Behavior": {
+    "ICSE": {
+      "total_authors": 39,
+      "female_presenting": 8,
+      "male_presenting": 28,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 8,
+      "female_presenting": 2,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 7,
+      "female_presenting": 3,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Design Education and Practice": {
+    "ICSE": {
+      "total_authors": 13,
+      "female_presenting": 2,
+      "male_presenting": 11,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 19,
+      "female_presenting": 7,
+      "male_presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Innovative Teaching Methods": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Model-Driven Software Engineering Techniques": {
+    "ICSE": {
+      "total_authors": 179,
+      "female_presenting": 24,
+      "male_presenting": 150,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 38,
+      "female_presenting": 11,
+      "male_presenting": 27,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 10,
+      "female_presenting": 2,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Web Application Security Vulnerabilities": {
+    "ICSE": {
+      "total_authors": 140,
+      "female_presenting": 27,
+      "male_presenting": 88,
+      "unclassified": 23,
+      "unknown": 2
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 17,
+      "female_presenting": 2,
+      "male_presenting": 14,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Teaching and Learning Programming": {
+    "ICSE": {
+      "total_authors": 172,
+      "female_presenting": 51,
+      "male_presenting": 112,
+      "unclassified": 9,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 3,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Information and Cyber Security": {
+    "ICSE": {
+      "total_authors": 95,
+      "female_presenting": 22,
+      "male_presenting": 69,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 29,
+      "female_presenting": 2,
+      "male_presenting": 26,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Online Learning and Analytics": {
+    "ICSE": {
+      "total_authors": 21,
+      "female_presenting": 4,
+      "male_presenting": 16,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Social Robot Interaction and HRI": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mobile Crowdsensing and Crowdsourcing": {
+    "ICSE": {
+      "total_authors": 54,
+      "female_presenting": 12,
+      "male_presenting": 38,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 15,
+      "female_presenting": 2,
+      "male_presenting": 11,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Problem and Project Based Learning": {
+    "ICSE": {
+      "total_authors": 11,
+      "female_presenting": 1,
+      "male_presenting": 9,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Service-Oriented Architecture and Web Services": {
+    "ICSE": {
+      "total_authors": 141,
+      "female_presenting": 35,
+      "male_presenting": 92,
+      "unclassified": 14,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 126,
+      "female_presenting": 29,
+      "male_presenting": 93,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Reinforcement Learning in Robotics": {
+    "ICSE": {
+      "total_authors": 15,
+      "female_presenting": 4,
+      "male_presenting": 10,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Machine Learning and Algorithms": {
+    "ICSE": {
+      "total_authors": 32,
+      "female_presenting": 6,
+      "male_presenting": 22,
+      "unclassified": 1,
+      "unknown": 3
+    }
+  },
+  "Ethics and Social Impacts of AI": {
+    "ICSE": {
+      "total_authors": 47,
+      "female_presenting": 7,
+      "male_presenting": 30,
+      "unclassified": 10,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Privacy, Security, and Data Protection": {
+    "ICSE": {
+      "total_authors": 39,
+      "female_presenting": 11,
+      "male_presenting": 25,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Digital and Cyber Forensics": {
+    "ICSE": {
+      "total_authors": 19,
+      "female_presenting": 4,
+      "male_presenting": 15,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Systems Engineering Methodologies and Applications": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 11,
+      "female_presenting": 3,
+      "male_presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Quantum Computing Algorithms and Architecture": {
+    "ICSE": {
+      "total_authors": 35,
+      "female_presenting": 4,
+      "male_presenting": 28,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Hermeneutics and Narrative Identity": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Machine Learning and Data Classification": {
+    "ICSE": {
+      "total_authors": 38,
+      "female_presenting": 8,
+      "male_presenting": 23,
+      "unclassified": 6,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 9,
+      "female_presenting": 2,
+      "male_presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Advanced Neural Network Applications": {
+    "ICSE": {
+      "total_authors": 24,
+      "female_presenting": 2,
+      "male_presenting": 19,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "ICSME": {
+      "total_authors": 12,
+      "female_presenting": 2,
+      "male_presenting": 8,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Logic, programming, and type systems": {
+    "ICSE": {
+      "total_authors": 78,
+      "female_presenting": 10,
+      "male_presenting": 62,
+      "unclassified": 5,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Technology Use by Older Adults": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 4,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "AI in Service Interactions": {
+    "ICSE": {
+      "total_authors": 22,
+      "female_presenting": 5,
+      "male_presenting": 17,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 8,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Emotion and Mood Recognition": {
+    "ICSE": {
+      "total_authors": 14,
+      "female_presenting": 5,
+      "male_presenting": 7,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Creativity in Education and Neuroscience": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Green IT and Sustainability": {
+    "ICSE": {
+      "total_authors": 220,
+      "female_presenting": 47,
+      "male_presenting": 158,
+      "unclassified": 14,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 38,
+      "female_presenting": 16,
+      "male_presenting": 19,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 85,
+      "female_presenting": 7,
+      "male_presenting": 73,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 72,
+      "female_presenting": 4,
+      "male_presenting": 60,
+      "unclassified": 8,
+      "unknown": 0
+    }
+  },
+  "Explainable Artificial Intelligence (XAI)": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Digital Accessibility for Disabilities": {
+    "ICSE": {
+      "total_authors": 21,
+      "female_presenting": 2,
+      "male_presenting": 17,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 26,
+      "female_presenting": 8,
+      "male_presenting": 17,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Web Data Mining and Analysis": {
+    "ICSE": {
+      "total_authors": 70,
+      "female_presenting": 15,
+      "male_presenting": 48,
+      "unclassified": 6,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 33,
+      "female_presenting": 10,
+      "male_presenting": 19,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Robotic Path Planning Algorithms": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Sentiment Analysis and Opinion Mining": {
+    "ICSE": {
+      "total_authors": 11,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 17,
+      "female_presenting": 5,
+      "male_presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 14,
+      "female_presenting": 1,
+      "male_presenting": 10,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Information Retrieval and Search Behavior": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 2,
+      "male_presenting": 5,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Experimental Learning in Engineering": {
+    "ICSE": {
+      "total_authors": 10,
+      "female_presenting": 4,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Persona Design and Applications": {
+    "ICSE": {
+      "total_authors": 15,
+      "female_presenting": 2,
+      "male_presenting": 12,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Parallel Computing and Optimization Techniques": {
+    "ICSE": {
+      "total_authors": 242,
+      "female_presenting": 31,
+      "male_presenting": 179,
+      "unclassified": 31,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 14,
+      "female_presenting": 1,
+      "male_presenting": 13,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 11,
+      "female_presenting": 1,
+      "male_presenting": 8,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Distributed systems and fault tolerance": {
+    "ICSE": {
+      "total_authors": 60,
+      "female_presenting": 6,
+      "male_presenting": 50,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 16,
+      "female_presenting": 2,
+      "male_presenting": 14,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 9,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Science Education and Perceptions": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 4,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Database Systems and Queries": {
+    "ICSE": {
+      "total_authors": 39,
+      "female_presenting": 6,
+      "male_presenting": 30,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 10,
+      "female_presenting": 0,
+      "male_presenting": 9,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Internet Traffic Analysis and Secure E-voting": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Spreadsheets and End-User Computing": {
+    "ICSE": {
+      "total_authors": 71,
+      "female_presenting": 12,
+      "male_presenting": 53,
+      "unclassified": 5,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 12,
+      "female_presenting": 1,
+      "male_presenting": 10,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 24,
+      "female_presenting": 2,
+      "male_presenting": 20,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Career Development and Diversity": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Semantic Web and Ontologies": {
+    "ICSE": {
+      "total_authors": 31,
+      "female_presenting": 8,
+      "male_presenting": 21,
+      "unclassified": 1,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 12,
+      "female_presenting": 1,
+      "male_presenting": 11,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Video Analysis and Summarization": {
+    "ICSE": {
+      "total_authors": 17,
+      "female_presenting": 2,
+      "male_presenting": 12,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 2,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Generative Adversarial Networks and Image Synthesis": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Tactile and Sensory Interactions": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Biomedical and Engineering Education": {
+    "ICSE": {
+      "total_authors": 31,
+      "female_presenting": 12,
+      "male_presenting": 18,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Network Security and Intrusion Detection": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Domain Adaptation and Few-Shot Learning": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Natural Language Processing Techniques": {
+    "ICSE": {
+      "total_authors": 38,
+      "female_presenting": 9,
+      "male_presenting": 20,
+      "unclassified": 8,
+      "unknown": 1
+    },
+    "MSR": {
+      "total_authors": 11,
+      "female_presenting": 2,
+      "male_presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 12,
+      "female_presenting": 2,
+      "male_presenting": 9,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Intelligent Tutoring Systems and Adaptive Learning": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cloud Computing and Resource Management": {
+    "ICSE": {
+      "total_authors": 116,
+      "female_presenting": 14,
+      "male_presenting": 90,
+      "unclassified": 11,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 21,
+      "female_presenting": 6,
+      "male_presenting": 12,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 10,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Business Process Modeling and Analysis": {
+    "ICSE": {
+      "total_authors": 93,
+      "female_presenting": 15,
+      "male_presenting": 68,
+      "unclassified": 9,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 14,
+      "female_presenting": 4,
+      "male_presenting": 10,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 12,
+      "female_presenting": 6,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 16,
+      "female_presenting": 1,
+      "male_presenting": 15,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Privacy-Preserving Technologies in Data": {
+    "ICSE": {
+      "total_authors": 23,
+      "female_presenting": 4,
+      "male_presenting": 11,
+      "unclassified": 7,
+      "unknown": 1
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 1,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 16,
+      "female_presenting": 1,
+      "male_presenting": 14,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Autonomous Vehicle Technology and Safety": {
+    "ICSE": {
+      "total_authors": 11,
+      "female_presenting": 0,
+      "male_presenting": 11,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "EEG and Brain-Computer Interfaces": {
+    "ICSE": {
+      "total_authors": 25,
+      "female_presenting": 6,
+      "male_presenting": 17,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Digital Games and Media": {
+    "ICSE": {
+      "total_authors": 20,
+      "female_presenting": 9,
+      "male_presenting": 11,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 8,
+      "female_presenting": 2,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Misinformation and Its Impacts": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Hate Speech and Cyberbullying Detection": {
+    "ICSE": {
+      "total_authors": 16,
+      "female_presenting": 4,
+      "male_presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 2,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Advanced Multi-Objective Optimization Algorithms": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 3,
+      "male_presenting": 3,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Usability and User Interface Design": {
+    "ICSE": {
+      "total_authors": 40,
+      "female_presenting": 11,
+      "male_presenting": 26,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "ICT in Developing Communities": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 4,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Caching and Content Delivery": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Spam and Phishing Detection": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 3,
+      "unknown": 1
+    }
+  },
+  "Evaluation of Teaching Practices": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Gender and Technology in Education": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 4,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 4,
+      "female_presenting": 3,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Autism Spectrum Disorder Research": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 3,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Software Reliability and Analysis Research": {
+    "ICSE": {
+      "total_authors": 100,
+      "female_presenting": 15,
+      "male_presenting": 77,
+      "unclassified": 8,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 9,
+      "female_presenting": 1,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Numerical Methods and Algorithms": {
+    "ICSE": {
+      "total_authors": 21,
+      "female_presenting": 7,
+      "male_presenting": 13,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Sex work and related issues": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Safety Systems Engineering in Autonomy": {
+    "ICSE": {
+      "total_authors": 62,
+      "female_presenting": 17,
+      "male_presenting": 42,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Visual Attention and Saliency Detection": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 3,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "IoT and Edge/Fog Computing": {
+    "ICSE": {
+      "total_authors": 31,
+      "female_presenting": 8,
+      "male_presenting": 22,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 64,
+      "female_presenting": 21,
+      "male_presenting": 41,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Data Visualization and Analytics": {
+    "ICSE": {
+      "total_authors": 21,
+      "female_presenting": 3,
+      "male_presenting": 16,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Innovative Human-Technology Interaction": {
+    "ICSE": {
+      "total_authors": 25,
+      "female_presenting": 9,
+      "male_presenting": 16,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Open Education and E-Learning": {
+    "ICSE": {
+      "total_authors": 13,
+      "female_presenting": 4,
+      "male_presenting": 8,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 2,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Industrial Vision Systems and Defect Detection": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Team Dynamics and Performance": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Constraint Satisfaction and Optimization": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cryptographic Implementations and Security": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Data Stream Mining Techniques": {
+    "ICSE": {
+      "total_authors": 10,
+      "female_presenting": 3,
+      "male_presenting": 5,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Graph Neural Networks": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Recommender Systems and Techniques": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Digital Economy and Work Transformation": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Radiation Effects in Electronics": {
+    "ICSE": {
+      "total_authors": 12,
+      "female_presenting": 0,
+      "male_presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Information Systems Theories and Implementation": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Complex Systems and Time Series Analysis": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Academic integrity and plagiarism": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Service and Product Innovation": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Berry genetics and cultivation research": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mind wandering and attention": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 1,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Earthquake and Disaster Impact Studies": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Access Control and Trust": {
+    "ICSE": {
+      "total_authors": 22,
+      "female_presenting": 3,
+      "male_presenting": 18,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Interactive and Immersive Displays": {
+    "ICSE": {
+      "total_authors": 9,
+      "female_presenting": 1,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced biosensing and bioanalysis techniques": {
+    "ICSE": {
+      "total_authors": 19,
+      "female_presenting": 6,
+      "male_presenting": 13,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mosquito-borne diseases and control": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 2,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Digital Transformation in Industry": {
+    "ICSE": {
+      "total_authors": 16,
+      "female_presenting": 3,
+      "male_presenting": 13,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 63,
+      "female_presenting": 14,
+      "male_presenting": 48,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Modular Robots and Swarm Intelligence": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Spectroscopy and Chemometric Analyses": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 3,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cognitive and psychological constructs research": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Visual and Cognitive Learning Processes": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 4,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Virtual Reality Applications and Impacts": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 6,
+      "female_presenting": 2,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Economic Growth and Productivity": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 3,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Information Systems Education and Curriculum Development": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mobile and Web Applications": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 10,
+      "female_presenting": 3,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Census and Population Estimation": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Software Engineering and Design Patterns": {
+    "ICSE": {
+      "total_authors": 11,
+      "female_presenting": 3,
+      "male_presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Cloud Data Security Solutions": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 10,
+      "female_presenting": 2,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Handwritten Text Recognition Techniques": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Machine Learning in Materials Science": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Technostress in Professional Settings": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Service-Learning and Community Engagement": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 5,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Multimedia Communication and Technology": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 2,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Entrepreneurship Studies and Influences": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 4,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Smart Grid Security and Resilience": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Text Analysis Techniques": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Personality Traits and Psychology": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Advanced Data Storage Technologies": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 12,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 3,
+      "unknown": 0
+    }
+  },
+  "Student Assessment and Feedback": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "COVID-19 and Mental Health": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 2,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Collaboration in agile enterprises": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Complex Network Analysis Techniques": {
+    "ICSE": {
+      "total_authors": 10,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 14,
+      "female_presenting": 2,
+      "male_presenting": 10,
+      "unclassified": 0,
+      "unknown": 2
+    },
+    "ICSME": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Memory and Neural Computing": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Resource-Constrained Project Scheduling": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Educational Games and Gamification": {
+    "ICSE": {
+      "total_authors": 24,
+      "female_presenting": 6,
+      "male_presenting": 18,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Manufacturing Process and Optimization": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 1
+    }
+  },
+  "Artificial Intelligence in Games": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 0,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Higher Education Learning Practices": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Real-Time Systems Scheduling": {
+    "ICSE": {
+      "total_authors": 11,
+      "female_presenting": 6,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 13,
+      "female_presenting": 1,
+      "male_presenting": 12,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "ICT Impact and Policies": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Real-time simulation and control systems": {
+    "ICSE": {
+      "total_authors": 8,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Embedded Systems Design Techniques": {
+    "ICSE": {
+      "total_authors": 13,
+      "female_presenting": 0,
+      "male_presenting": 12,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cultural Differences and Values": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 3,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Information Technology Governance and Strategy": {
+    "ICSE": {
+      "total_authors": 22,
+      "female_presenting": 6,
+      "male_presenting": 15,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 10,
+      "female_presenting": 2,
+      "male_presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Flexible and Reconfigurable Manufacturing Systems": {
+    "ICSE": {
+      "total_authors": 21,
+      "female_presenting": 3,
+      "male_presenting": 18,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 10,
+      "female_presenting": 7,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Innovative Teaching and Learning Methods": {
+    "ICSE": {
+      "total_authors": 19,
+      "female_presenting": 4,
+      "male_presenting": 13,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Air Traffic Management and Optimization": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 3,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Pancreatic function and diabetes": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Knowledge Management and Sharing": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 4,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Computational Physics and Python Applications": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Online and Blended Learning": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Technology Adoption and User Behaviour": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Outsourcing and Supply Chain Management": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 2,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Evolutionary Algorithms and Applications": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Emotions and Moral Behavior": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Multimodal Machine Learning Applications": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Quality and Supply Management": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "AI-based Problem Solving and Planning": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Ethics in Business and Education": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cognitive Science and Education Research": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Diverse Research and Applications": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Innovative Approaches in Technology and Social Development": {
+    "ICSE": {
+      "total_authors": 10,
+      "female_presenting": 1,
+      "male_presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Simulation Techniques and Applications": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 11,
+      "female_presenting": 1,
+      "male_presenting": 10,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Computational and Text Analysis Methods": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 4,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cloud Computing and Remote Desktop Technologies": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Product Development and Customization": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 3,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 1
+    }
+  },
+  "Web Applications and Data Management": {
+    "ICSE": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Traffic Prediction and Management Techniques": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Complex Systems and Decision Making": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Gene expression and cancer classification": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Electronic Health Records Systems": {
+    "ICSE": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "VLSI and Analog Circuit Testing": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Decision-Making Techniques": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Distributed and Parallel Computing Systems": {
+    "ICSE": {
+      "total_authors": 17,
+      "female_presenting": 2,
+      "male_presenting": 14,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "E-Government and Public Services": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Authentication Protocols Security": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Energy Efficient Wireless Sensor Networks": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Mobile Agent-Based Network Management": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Opportunistic and Delay-Tolerant Networks": {
+    "ICSE": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Peer-to-Peer Network Technologies": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Educational Robotics and Engineering": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Digital Mental Health Interventions": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "E-Learning and Knowledge Management": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Risk and Safety Analysis": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 0,
+      "male_presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Logic, Reasoning, and Knowledge": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Model Reduction and Neural Networks": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 2,
+      "unknown": 0
+    }
+  },
+  "Higher Education and Employability": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Private Equity and Venture Capital": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Power Systems and Technologies": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cognitive Science and Mapping": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Economic and Technological Developments in Russia": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Public Relations and Crisis Communication": {
+    "ICSE": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Sustainability and Climate Change Governance": {
+    "ICSE": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "demographic modeling and climate adaptation": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "HIV/AIDS Impact and Responses": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Corporate Management and Leadership": {
+    "ICSE": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Medical Imaging Techniques and Applications": {
+    "ICSE": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "3D Surveying and Cultural Heritage": {
+    "ECSA": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Smart Cities and Technologies": {
+    "ECSA": {
+      "total_authors": 10,
+      "female_presenting": 2,
+      "male_presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Artificial Intelligence in Healthcare": {
+    "ECSA": {
+      "total_authors": 11,
+      "female_presenting": 4,
+      "male_presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Healthcare Technology and Patient Monitoring": {
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 4,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Evacuation and Crowd Dynamics": {
+    "ECSA": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Robotics and Automated Systems": {
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Graph Theory and Algorithms": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Sociology and Education Studies": {
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 2,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Bandit Algorithms Research": {
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Vehicular Ad Hoc Networks (VANETs)": {
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 1,
+      "male_presenting": 5,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Gender Diversity and Inequality": {
+    "ECSA": {
+      "total_authors": 8,
+      "female_presenting": 8,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Multi-Agent Systems and Negotiation": {
+    "ECSA": {
+      "total_authors": 7,
+      "female_presenting": 2,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "BIM and Construction Integration": {
+    "ECSA": {
+      "total_authors": 6,
+      "female_presenting": 0,
+      "male_presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Traffic control and management": {
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 0,
+      "male_presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Speech and dialogue systems": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Construction Project Management and Performance": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Time Series Analysis and Forecasting": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 5,
+      "female_presenting": 4,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Spacecraft Design and Technology": {
+    "ECSA": {
+      "total_authors": 5,
+      "female_presenting": 2,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mobile Ad Hoc Networks": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "User Authentication and Security Systems": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Digital Marketing and Social Media": {
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 2,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cryptography and Data Security": {
+    "ECSA": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Digital Platforms and Economics": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Software-Defined Networks and 5G": {
+    "ECSA": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Marine and fisheries research": {
+    "ECSA": {
+      "total_authors": 3,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Petri Nets in System Modeling": {
+    "ECSA": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Refrigeration and Air Conditioning Technologies": {
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Astronomy and Astrophysical Research": {
+    "MSR": {
+      "total_authors": 1,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Mathematics, Computing, and Information Processing": {
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 1,
+      "male_presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Wikis in Education and Collaboration": {
+    "MSR": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Innovation Diffusion and Forecasting": {
+    "MSR": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Advanced Statistical Process Monitoring": {
+    "MSR": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Speech Recognition and Synthesis": {
+    "ICSME": {
+      "total_authors": 4,
+      "female_presenting": 0,
+      "male_presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Bluetooth and Wireless Communication Technologies": {
+    "ICSME": {
+      "total_authors": 2,
+      "female_presenting": 0,
+      "male_presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    }
+  },
+  "Artificial Intelligence in Healthcare and Education": {
+    "ICSME": {
+      "total_authors": 2,
+      "female_presenting": 1,
+      "male_presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Cybercrime and Law Enforcement Studies": {
+    "ICSME": {
+      "total_authors": 5,
+      "female_presenting": 1,
+      "male_presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Text Readability and Simplification": {
+    "ICSME": {
+      "total_authors": 1,
+      "female_presenting": 1,
+      "male_presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Authorship Attribution and Profiling": {
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  },
+  "Sharing Economy and Platforms": {
+    "ICSME": {
+      "total_authors": 3,
+      "female_presenting": 1,
+      "male_presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    }
+  }
+}
