@@ -57,7 +57,7 @@ export default function SectionTrends({ yearlyStats }) {
   const venues = ALL_VENUES.filter((v) => activeVenues.has(v))
   const allData = computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender)
   const data = allData.filter((d) => d.year >= yearRange[0] && d.year <= yearRange[1])
-  const activeColor = gender === 'male' ? 'var(--male)' : 'var(--female)'
+  const activeColor = gender === 'male' ? 'var(--male)' : gender === 'all' ? '#a78bfa' : 'var(--female)'
   const activeLabel =
     gender === 'male'
       ? 'male-presenting'
@@ -68,7 +68,7 @@ export default function SectionTrends({ yearlyStats }) {
   return (
     <section id="trends" style={{ maxWidth: 1200, margin: '0 auto', padding: '80px 24px' }}>
       <h2 style={{ fontSize: 32, margin: '0 0 8px', color: 'var(--text)' }}>
-        Female-Presenting Authors Over Time
+        Author Gender Representation Over Time
       </h2>
       <p
         style={{
