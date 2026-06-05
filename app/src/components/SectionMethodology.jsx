@@ -27,31 +27,61 @@ const NOTES = [
 
 export default function SectionMethodology() {
   return (
-    <section id="methodology" style={{ maxWidth: 1200, margin: '0 auto', padding: '80px 24px 120px' }}>
-      <div style={{
-        background: 'var(--surface)', border: '1px solid var(--border)',
-        borderRadius: 10, padding: '40px 48px',
-      }}>
+    <section
+      id="methodology"
+      style={{ maxWidth: 1200, margin: '0 auto', padding: '80px 24px 120px' }}
+    >
+      <div
+        style={{
+          background: 'var(--surface)',
+          border: '1px solid var(--border)',
+          borderRadius: 10,
+          padding: '40px 48px',
+        }}
+      >
         <h2 style={{ fontSize: 28, margin: '0 0 32px', color: 'var(--text)' }}>
           Methodological Notes & Limitations
         </h2>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
           {NOTES.map(({ title, body }) => (
             <div key={title}>
-              <div style={{ fontFamily: 'IBM Plex Sans', fontWeight: 600, fontSize: 14, color: 'var(--text)', marginBottom: 8 }}>
+              <div
+                style={{
+                  fontFamily: 'IBM Plex Sans',
+                  fontWeight: 600,
+                  fontSize: 14,
+                  color: 'var(--text)',
+                  marginBottom: 8,
+                }}
+              >
                 {title}
               </div>
-              <p style={{ fontFamily: 'IBM Plex Sans', fontSize: 14, color: 'var(--muted)', lineHeight: 1.75, margin: 0 }}>
+              <p
+                style={{
+                  fontFamily: 'IBM Plex Sans',
+                  fontSize: 14,
+                  color: 'var(--muted)',
+                  lineHeight: 1.75,
+                  margin: 0,
+                }}
+              >
                 {body}
               </p>
             </div>
           ))}
         </div>
-        <div style={{
-          fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)',
-          borderTop: '1px solid var(--border)', marginTop: 36, paddingTop: 20,
-        }}>
-          10,822 unique author names genderized via genderize.io Basic plan. Data covers 2008–2023 across ICSE, ECSA, MSR, and ICSME.
+        <div
+          style={{
+            fontFamily: 'IBM Plex Mono',
+            fontSize: 11,
+            color: 'var(--muted)',
+            borderTop: '1px solid var(--border)',
+            marginTop: 36,
+            paddingTop: 20,
+          }}
+        >
+          10,822 unique author names genderized via genderize.io Basic plan. Data covers 2008–2023
+          across ICSE, ECSA, MSR, and ICSME.
         </div>
       </div>
     </section>

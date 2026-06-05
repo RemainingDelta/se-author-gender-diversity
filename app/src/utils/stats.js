@@ -5,23 +5,35 @@ export function pct(numerator, denominator) {
 
 export function venueAggregate(yearlyStats) {
   const result = {}
-  const all = { total_authors: 0, female_presenting: 0, male_presenting: 0, unclassified: 0, unknown: 0 }
+  const all = {
+    total_authors: 0,
+    female_presenting: 0,
+    male_presenting: 0,
+    unclassified: 0,
+    unknown: 0,
+  }
 
   for (const venue of Object.keys(yearlyStats)) {
-    const totals = { total_authors: 0, female_presenting: 0, male_presenting: 0, unclassified: 0, unknown: 0 }
+    const totals = {
+      total_authors: 0,
+      female_presenting: 0,
+      male_presenting: 0,
+      unclassified: 0,
+      unknown: 0,
+    }
     for (const year of Object.values(yearlyStats[venue])) {
-      totals.total_authors    += year.total_authors
+      totals.total_authors += year.total_authors
       totals.female_presenting += year.female_presenting
-      totals.male_presenting   += year.male_presenting
-      totals.unclassified      += year.unclassified
-      totals.unknown           += year.unknown
+      totals.male_presenting += year.male_presenting
+      totals.unclassified += year.unclassified
+      totals.unknown += year.unknown
     }
     result[venue] = totals
-    all.total_authors    += totals.total_authors
+    all.total_authors += totals.total_authors
     all.female_presenting += totals.female_presenting
-    all.male_presenting   += totals.male_presenting
-    all.unclassified      += totals.unclassified
-    all.unknown           += totals.unknown
+    all.male_presenting += totals.male_presenting
+    all.unclassified += totals.unclassified
+    all.unknown += totals.unknown
   }
 
   result['All'] = all
@@ -33,7 +45,7 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender =
   const prefix = firstAuthorOnly ? 'first_author_' : ''
   const years = Array.from({ length: 16 }, (_, i) => 2008 + i)
 
-  return years.map(year => {
+  return years.map((year) => {
     const row = { year }
     for (const venue of venues) {
       const yearData = yearlyStats[venue]?.[String(year)]
@@ -41,13 +53,13 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender =
         row[venue] = undefined
         if (gender === 'all') row[`${venue}_m`] = undefined
       } else {
-        const female  = yearData[`${prefix}female_presenting`]
-        const male    = yearData[`${prefix}male_presenting`]
+        const female = yearData[`${prefix}female_presenting`]
+        const male = yearData[`${prefix}male_presenting`]
         const unclass = yearData[`${prefix}unclassified`]
-        const known   = female + male + unclass
+        const known = female + male + unclass
         if (gender === 'all') {
-          row[venue]         = pct(female, known)
-          row[`${venue}_m`]  = pct(male, known)
+          row[venue] = pct(female, known)
+          row[`${venue}_m`] = pct(male, known)
         } else {
           row[venue] = pct(gender === 'male' ? male : female, known)
         }
@@ -61,22 +73,25 @@ export function computeTopicsData(topicStats, venue, sortBy, minSize = 30) {
   const rows = []
 
   for (const [topic, venueData] of Object.entries(topicStats)) {
-    let female = 0, male = 0, unclassified = 0, unknown = 0
+    let female = 0,
+      male = 0,
+      unclassified = 0,
+      unknown = 0
 
     if (venue === 'All') {
       for (const v of Object.values(venueData)) {
-        female      += v.female_presenting ?? 0
-        male        += v.male_presenting   ?? 0
-        unclassified += v.unclassified      ?? 0
-        unknown     += v.unknown            ?? 0
+        female += v.female_presenting ?? 0
+        male += v.male_presenting ?? 0
+        unclassified += v.unclassified ?? 0
+        unknown += v.unknown ?? 0
       }
     } else {
       const v = venueData[venue]
       if (!v) continue
-      female       = v.female_presenting
-      male         = v.male_presenting
+      female = v.female_presenting
+      male = v.male_presenting
       unclassified = v.unclassified
-      unknown      = v.unknown
+      unknown = v.unknown
     }
 
     const known = female + male + unclassified
@@ -89,8 +104,8 @@ export function computeTopicsData(topicStats, venue, sortBy, minSize = 30) {
       unclassified,
       unknown,
       total: known,
-      femalePct:      pct(female, known),
-      malePct:        pct(male, known),
+      femalePct: pct(female, known),
+      malePct: pct(male, known),
       unclassifiedPct: pct(unclassified, known),
     })
   }
