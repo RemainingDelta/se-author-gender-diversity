@@ -57,7 +57,8 @@ export default function SectionTrends({ yearlyStats }) {
   const venues = ALL_VENUES.filter((v) => activeVenues.has(v))
   const allData = computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender)
   const data = allData.filter((d) => d.year >= yearRange[0] && d.year <= yearRange[1])
-  const activeColor = gender === 'male' ? 'var(--male)' : gender === 'all' ? '#a78bfa' : 'var(--female)'
+  const activeColor =
+    gender === 'male' ? 'var(--male)' : gender === 'all' ? '#a78bfa' : 'var(--female)'
   const activeLabel =
     gender === 'male'
       ? 'male-presenting'
