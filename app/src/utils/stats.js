@@ -28,7 +28,8 @@ export function venueAggregate(yearlyStats) {
   return result
 }
 
-export function computeTrendsData(yearlyStats, venues, firstAuthorOnly) {
+// gender: 'female' | 'male' | 'all'
+export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender = 'female') {
   const prefix = firstAuthorOnly ? 'first_author_' : ''
   const years = Array.from({ length: 16 }, (_, i) => 2008 + i)
 
@@ -38,19 +39,25 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly) {
       const yearData = yearlyStats[venue]?.[String(year)]
       if (!yearData) {
         row[venue] = undefined
+        if (gender === 'all') row[`${venue}_m`] = undefined
       } else {
-        const female = yearData[`${prefix}female_presenting`]
-        const male   = yearData[`${prefix}male_presenting`]
+        const female  = yearData[`${prefix}female_presenting`]
+        const male    = yearData[`${prefix}male_presenting`]
         const unclass = yearData[`${prefix}unclassified`]
-        const known  = female + male + unclass
-        row[venue] = pct(female, known)
+        const known   = female + male + unclass
+        if (gender === 'all') {
+          row[venue]         = pct(female, known)
+          row[`${venue}_m`]  = pct(male, known)
+        } else {
+          row[venue] = pct(gender === 'male' ? male : female, known)
+        }
       }
     }
     return row
   })
 }
 
-export function computeTopicsData(topicStats, venue, sortBy) {
+export function computeTopicsData(topicStats, venue, sortBy, minSize = 30) {
   const rows = []
 
   for (const [topic, venueData] of Object.entries(topicStats)) {
@@ -73,7 +80,7 @@ export function computeTopicsData(topicStats, venue, sortBy) {
     }
 
     const known = female + male + unclassified
-    if (known < 30) continue
+    if (known < minSize) continue
 
     rows.push({
       topic,

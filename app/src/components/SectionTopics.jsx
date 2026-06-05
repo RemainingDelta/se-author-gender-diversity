@@ -31,10 +31,9 @@ function CustomTooltip({ active, payload, label }) {
 export default function SectionTopics({ topicStats }) {
   const [venue, setVenue] = useState('All')
   const [sortBy, setSortBy] = useState('total')
-
   const data = computeTopicsData(topicStats, venue, sortBy).map(d => ({
     ...d,
-    topicShort: truncate(d.topic, 36),
+    topicShort: d.topic,
   }))
 
   const chartHeight = Math.max(400, data.length * 32)
@@ -45,11 +44,11 @@ export default function SectionTopics({ topicStats }) {
         Gender Distribution by Research Topic
       </h2>
       <p style={{ fontFamily: 'IBM Plex Sans', fontSize: 14, color: 'var(--muted)', marginBottom: 32 }}>
-        Top 20 topics with ≥ 30 classified author appearances. Unknown excluded from bars.
+        Top 20 topics by author count. Unknown excluded from bars.
       </p>
 
       {/* Controls */}
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 12, marginBottom: 32, alignItems: 'center' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 12, marginBottom: 20, alignItems: 'center' }}>
         <div style={{ display: 'flex', gap: 0, border: '1px solid var(--border)', borderRadius: 4, overflow: 'hidden' }}>
           {VENUES.map(v => (
             <button key={v} onClick={() => setVenue(v)} style={{
@@ -76,6 +75,7 @@ export default function SectionTopics({ topicStats }) {
         </div>
       </div>
 
+
       {/* Legend */}
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: 20, marginBottom: 16 }}>
         {[
@@ -95,12 +95,14 @@ export default function SectionTopics({ topicStats }) {
           <BarChart data={data} layout="vertical" margin={{ top: 0, right: 24, left: 8, bottom: 0 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="var(--border)" horizontal={false} />
             <XAxis
-              type="number" domain={[0, 100]} tickFormatter={v => `${v}%`}
+              type="number" domain={[0, 100]} ticks={[0, 25, 50, 75, 100]} tickFormatter={v => `${v}%`}
               stroke="var(--muted)" tick={{ fontFamily: 'IBM Plex Mono', fontSize: 10, fill: 'var(--muted)' }}
             />
             <YAxis
-              type="category" dataKey="topicShort" width={260}
-              tick={{ fontFamily: 'IBM Plex Sans', fontSize: 11, fill: 'var(--muted)' }}
+              type="category" dataKey="topicShort" width={360}
+              tick={{ fontFamily: 'IBM Plex Sans', fontSize: 11, fill: 'var(--muted)', textAnchor: 'start' }}
+              tickFormatter={v => v}
+              dx={-355}
               stroke="none"
             />
             <Tooltip content={<CustomTooltip />} cursor={{ fill: 'rgba(255,255,255,0.03)' }} />

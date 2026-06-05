@@ -29,10 +29,10 @@ function VenueCard({ venue, totals }) {
   const color = VENUE_COLOR[venue]
   const known = totals.female_presenting + totals.male_presenting + totals.unclassified
   const femalePct = pct(totals.female_presenting, known)
-
-  // Compute first-author female % from yearlyStats aggregation passed in totals
+  const malePct = pct(totals.male_presenting, known)
   const firstKnown = (totals.first_author_female_presenting ?? 0) + (totals.first_author_male_presenting ?? 0) + (totals.first_author_unclassified ?? 0)
   const firstFemalePct = pct(totals.first_author_female_presenting ?? 0, firstKnown)
+  const firstMalePct = pct(totals.first_author_male_presenting ?? 0, firstKnown)
 
   return (
     <div style={{
@@ -46,11 +46,19 @@ function VenueCard({ venue, totals }) {
         {VENUE_FULL[venue]}
       </div>
 
-      <div style={{ fontFamily: 'IBM Plex Mono', fontSize: 40, fontWeight: 500, color: 'var(--female)', marginBottom: 4 }}>
-        {femalePct.toFixed(1)}%
-      </div>
-      <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 12, color: 'var(--muted)', marginBottom: 16 }}>
-        female-presenting (classified only)
+      <div style={{ display: 'flex', gap: 24, marginBottom: 4 }}>
+        <div>
+          <div style={{ fontFamily: 'IBM Plex Mono', fontSize: 36, fontWeight: 500, color: 'var(--female)' }}>
+            {femalePct.toFixed(1)}%
+          </div>
+          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--muted)' }}>female-presenting</div>
+        </div>
+        <div>
+          <div style={{ fontFamily: 'IBM Plex Mono', fontSize: 36, fontWeight: 500, color: 'var(--male)' }}>
+            {malePct.toFixed(1)}%
+          </div>
+          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--muted)' }}>male-presenting</div>
+        </div>
       </div>
 
       <StackedBar
@@ -66,7 +74,7 @@ function VenueCard({ venue, totals }) {
           {totals.total_authors.toLocaleString()} appearances
         </span>
         <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
-          {firstFemalePct.toFixed(1)}% first author ♀
+          {firstFemalePct.toFixed(1)}% ♀ / {firstMalePct.toFixed(1)}% ♂ first author
         </span>
       </div>
     </div>
@@ -74,7 +82,6 @@ function VenueCard({ venue, totals }) {
 }
 
 export default function SectionOverview({ yearlyStats, aggregates }) {
-  // Build per-venue first-author totals
   const venueTotals = {}
   for (const venue of VENUES) {
     const base = { ...aggregates[venue], first_author_female_presenting: 0, first_author_male_presenting: 0, first_author_unclassified: 0, first_author_unknown: 0, first_author_total: 0 }
@@ -94,7 +101,7 @@ export default function SectionOverview({ yearlyStats, aggregates }) {
       <p style={{ fontFamily: 'IBM Plex Sans', fontSize: 14, color: 'var(--muted)', marginBottom: 40 }}>
         Aggregated across all years per venue.
       </p>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 20 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 20 }}>
         {VENUES.map(venue => (
           <VenueCard key={venue} venue={venue} totals={venueTotals[venue]} />
         ))}

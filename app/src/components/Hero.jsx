@@ -13,9 +13,9 @@ export default function Hero({ aggregates, venueAuthors }) {
     : 10822
 
   const stats = [
-    { value: overallFemalePct.toFixed(1) + '%', label: 'Female-presenting authors', note: 'all venues, all years' },
+    { value: '6,732', label: 'Total papers', note: 'across all 4 venues' },
     { value: all.total_authors.toLocaleString(), label: 'Total author appearances', note: 'across 6,732 papers' },
-    { value: uniqueAuthors.toLocaleString(), label: 'Unique authors genderized', note: 'via genderize.io' },
+    { value: '249', label: 'Research topics', note: 'via OpenAlex' },
     { value: '16', label: 'Years covered', note: '2008–2023' },
   ]
 
