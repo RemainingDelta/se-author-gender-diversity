@@ -7,46 +7,46 @@ To gather our data, we used the DBLP Computer Science Bibliography. We used the 
 
 Description of Data Synthesis
 
-We used Genderize to determine the gender of authors based on their names. After compiling the list of authors, each one was assigned a guessed gender and a confidence score ranging from 0.5 to 1, according to the Genderize API. Once authors were given a gender, we created a profile for each author, grouped by conference venue. The author profile consists of the author’s name, their guessed gender, the topics associated with each paper they wrote, their authorship positions on the given papers, and the genders of their collaborators. The authorship positions are a decimal number from 0 to 1, inclusive, and are determined by what index the given author is listed among the paper’s authors, divided by the total number of authors for that paper. This means that an authorship position of 0 represents being the first credited author in a given paper, and an authorship position of 1 represents being the last. We also used these author profiles to map authorship data based on year, topic, and conference.
+We used Genderize to determine the gender of authors based on their names. After compiling the list of authors, each one was assigned associated assumed gender gender and a confidence score ranging from 0.5 to 1, according to the Genderize API. Once authors were given a gender, we created an entry for each author, grouped by conference venue. The author entry consists of the author’s name, their associated assumed gender, the topics associated with each paper they wrote, their authorship positions on the given papers, and the genders of their collaborators. The authorship positions are a decimal number from 0 to 1, inclusive, and are determined by what index the given author is listed among the paper’s authors, divided by the total number of authors for that paper. This means that an authorship position of 0 represents being the first credited author in a given paper, and an authorship position of 1 represents being the last. We also used these author profiles to map authorship data based on year, topic, and conference.
 
 Data Storage Structure
 
 The following structure describes the hierarchy of our data:
 
-\
-Data
-    -Bronze
-        -DBLP
-            -ECSA.json
-            -ICSE.json
-            -ICSM.json
-            -MSR.json
-        -Genderize
-            -Gender_lookup.json
-            -Names.json 
-        -Openalex_topics
-            -ECSA.json   
-            -ICSE.json
-            -ICSM.json
-            -MSR.json
-    -Silver
-        -Authors
-            -ECSA.json
-            -ICSE.json
-            -ICSM.json   
-            -MSR.json
-        -Topics
-            -ECSA.json
-            -ICSE.json
-            -ICSM.json
-            -MSR.json
-    -Gold
-            -ECSA.json
-            -ICSE.json   
-            -ICSM.json
-            -MSR.json
-            -Topics_stats.json
-            -Yearly_stats.json
+└── Data/
+    ├── Bronze/
+    │   ├── DBLP/
+    │   │   ├── ECSA.json
+    │   │   ├── ICSE.json
+    │   │   ├── ICSM.json
+    │   │   └── MSR.json
+    │   ├── Genderize/
+    │   │   ├── Gender_lookup.json
+    │   │   └── Names.json
+    │   └── Openalex_topics/
+    │       ├── ECSA.json
+    │       ├── ICSE.json
+    │       ├── ICSM.json
+    │       └── MSR.json
+    ├── Silver/
+    │   ├── Authors/
+    │   │   ├── ECSA.json
+    │   │   ├── ICSE.json
+    │   │   ├── ICSM.json
+    │   │   └── MSR.json
+    │   └── Topics/
+    │       ├── ECSA.json
+    │       ├── ICSE.json
+    │       ├── ICSM.json
+    │       └── MSR.json
+    └── Gold/
+        ├── ECSA.json
+        ├── ICSE.json
+        ├── ICSM.json
+        ├── MSR.json
+        ├── Topics_stats.json
+        └── Yearly_stats.json
+
 
 Raw data was stored in Bronze. This included conference publication data stored in the DBLP. Each paper had a venue, year, title, authors, and id. These were separated by venue. This also included raw gender-inference data, including a list of names and their assumed associated gender, stored in Genderize. Finally, raw topic data is stored in Openalex_topics.
 
