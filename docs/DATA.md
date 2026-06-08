@@ -12,7 +12,7 @@ We used **Genderize** to determine the gender of authors based on their names. A
 
 Several cleaning steps were applied across the pipeline:
 
-- **Name normalisation** — before sending names to Genderize, HTML entities (e.g. `&apos;`) were decoded and trailing year suffixes (e.g. `John Smith 2019`) were stripped using a regex. Names were also deduplicated across all venues so each unique name was only queried once.
+- **Name normalisation** — before sending names to Genderize, HTML entities (e.g. `&apos;`) were decoded and trailing ID suffixes (e.g. `John Smith 0001`) were stripped using a regex. Names were also deduplicated across all venues so each unique name was only queried once.
 - **Gender confidence filtering** — Genderize returns a probability for every name it recognises. Authors with a probability below `0.70` were labelled `unclassified` rather than assigned a gender. Authors whose names Genderize could not recognise at all were labelled `unknown`. Both groups are counted in totals but excluded from gender ratio calculations.
 - **Topic filtering** — papers for which OpenAlex returned no topic or the string `"not found"` were silently dropped from topic-level aggregations. These papers still appear in authorship and yearly stats.
 - **Incremental API caching** — only unique author names (deduplicated across all venues) were sent to Genderize. Results were written to `Gender_lookup.json` after every batch of 10 names, so partial runs could resume without re-querying already-fetched names.
