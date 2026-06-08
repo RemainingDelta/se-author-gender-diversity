@@ -44,9 +44,11 @@ export function venueAggregate(yearlyStats) {
 export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender = 'female') {
   const prefix = firstAuthorOnly ? 'first_author_' : ''
   const years = Array.from({ length: 16 }, (_, i) => 2008 + i)
+  const allVenueKeys = Object.keys(yearlyStats)
 
   return years.map((year) => {
     const row = { year }
+
     for (const venue of venues) {
       const yearData = yearlyStats[venue]?.[String(year)]
       if (!yearData) {
@@ -65,6 +67,30 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender =
         }
       }
     }
+
+    // Combined "All Venues" line — aggregates across all venues with data for this year
+    let totalFemale = 0,
+      totalMale = 0,
+      totalUnclass = 0,
+      hasAny = false
+    for (const venue of allVenueKeys) {
+      const yearData = yearlyStats[venue]?.[String(year)]
+      if (!yearData) continue
+      hasAny = true
+      totalFemale += yearData[`${prefix}female_presenting`]
+      totalMale += yearData[`${prefix}male_presenting`]
+      totalUnclass += yearData[`${prefix}unclassified`]
+    }
+    const totalKnown = totalFemale + totalMale + totalUnclass
+    if (hasAny) {
+      if (gender === 'all') {
+        row['_all'] = pct(totalFemale, totalKnown)
+        row['_all_m'] = pct(totalMale, totalKnown)
+      } else {
+        row['_all'] = pct(gender === 'male' ? totalMale : totalFemale, totalKnown)
+      }
+    }
+
     return row
   })
 }

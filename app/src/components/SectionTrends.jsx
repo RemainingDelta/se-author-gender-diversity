@@ -13,6 +13,7 @@ import RangeSlider from './RangeSlider'
 
 const ALL_VENUES = ['ICSE', 'ECSA', 'MSR', 'ICSME']
 const VENUE_COLOR = { ICSE: '#6e9cf5', ECSA: '#52c97a', MSR: '#f5a84a', ICSME: '#d47be8' }
+const ALL_VENUES_COLOR = '#ffffff'
 
 function CustomTooltip({ active, payload, label }) {
   if (!active || !payload?.length) return null
@@ -30,24 +31,32 @@ function CustomTooltip({ active, payload, label }) {
       <div style={{ color: 'var(--muted)', marginBottom: 6 }}>{label}</div>
       {payload
         .filter((p) => p.value != null)
-        .map((p) => (
-          <div key={p.dataKey} style={{ color: VENUE_COLOR[p.dataKey], marginBottom: 2 }}>
-            {p.dataKey}: {p.value.toFixed(1)}%
-          </div>
-        ))}
+        .map((p) => {
+          const color = p.dataKey.startsWith('_all')
+            ? ALL_VENUES_COLOR
+            : VENUE_COLOR[p.dataKey.replace('_m', '')]
+          const label =
+            p.dataKey === '_all' ? 'Combined' : p.dataKey === '_all_m' ? 'Combined ♂' : p.dataKey
+          return (
+            <div key={p.dataKey} style={{ color, marginBottom: 2 }}>
+              {label}: {p.value.toFixed(1)}%
+            </div>
+          )
+        })}
     </div>
   )
 }
 
 export default function SectionTrends({ yearlyStats }) {
   const [activeVenues, setActiveVenues] = useState(new Set(ALL_VENUES))
+  const [showAllVenues, setShowAllVenues] = useState(true)
   const [firstAuthorOnly, setFirstAuthorOnly] = useState(false)
   const [gender, setGender] = useState('female')
   const [yearRange, setYearRange] = useState([2008, 2023])
 
   function toggleVenue(venue) {
     setActiveVenues((prev) => {
-      if (prev.has(venue) && prev.size === 1) return prev
+      if (prev.has(venue) && prev.size === 1 && !showAllVenues) return prev
       const next = new Set(prev)
       next.has(venue) ? next.delete(venue) : next.add(venue)
       return next
@@ -93,6 +102,23 @@ export default function SectionTrends({ yearlyStats }) {
           alignItems: 'center',
         }}
       >
+        <button
+          onClick={() => setShowAllVenues((prev) => !prev)}
+          style={{
+            fontFamily: 'IBM Plex Mono',
+            fontSize: 12,
+            fontWeight: 500,
+            padding: '5px 14px',
+            borderRadius: 4,
+            cursor: 'pointer',
+            border: `1px solid ${ALL_VENUES_COLOR}`,
+            background: showAllVenues ? ALL_VENUES_COLOR + '22' : 'transparent',
+            color: showAllVenues ? ALL_VENUES_COLOR : 'var(--muted)',
+            transition: 'all 0.15s',
+          }}
+        >
+          Combined
+        </button>
         {ALL_VENUES.map((venue) => {
           const active = activeVenues.has(venue)
           return (
@@ -244,6 +270,30 @@ export default function SectionTrends({ yearlyStats }) {
                 connectNulls={false}
               />
             ))}
+          {showAllVenues && (
+            <Line
+              key="_all"
+              type="monotone"
+              dataKey="_all"
+              stroke={ALL_VENUES_COLOR}
+              strokeWidth={2.5}
+              strokeDasharray="6 3"
+              dot={false}
+              connectNulls={false}
+            />
+          )}
+          {showAllVenues && gender === 'all' && (
+            <Line
+              key="_all_m"
+              type="monotone"
+              dataKey="_all_m"
+              stroke={ALL_VENUES_COLOR}
+              strokeWidth={2.5}
+              strokeDasharray="2 3"
+              dot={false}
+              connectNulls={false}
+            />
+          )}
         </LineChart>
       </ResponsiveContainer>
 
@@ -290,6 +340,36 @@ export default function SectionTrends({ yearlyStats }) {
               </span>
             </div>
           ))}
+        {showAllVenues && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div
+              style={{
+                width: 32,
+                height: 4,
+                background: `repeating-linear-gradient(90deg, ${ALL_VENUES_COLOR} 0 6px, transparent 6px 9px)`,
+                flexShrink: 0,
+              }}
+            />
+            <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 13, color: 'var(--text)' }}>
+              Combined{gender === 'all' ? ' ♀' : ''}
+            </span>
+          </div>
+        )}
+        {showAllVenues && gender === 'all' && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div
+              style={{
+                width: 32,
+                height: 4,
+                background: `repeating-linear-gradient(90deg, ${ALL_VENUES_COLOR} 0 2px, transparent 2px 5px)`,
+                flexShrink: 0,
+              }}
+            />
+            <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 13, color: 'var(--text)' }}>
+              Combined ♂
+            </span>
+          </div>
+        )}
       </div>
     </section>
   )
