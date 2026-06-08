@@ -1,4 +1,4 @@
-# Gender Diversity in SE Conference Authorship — Results
+# Phase 2 — Results
 
 ## Summary
 
