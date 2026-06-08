@@ -33,10 +33,17 @@ A high-level snapshot of each venue aggregated across all years. **ECSA** has th
 
 This bar chart places all four venues side by side for each year, making it easy to spot which venue leads or lags in any given year. **ECSA** (green) is the most visually striking — it regularly peaks above the others and shows the widest swings, particularly the spike to ~30% in 2019. **MSR** (orange) and **ICSME** (pink) tend to cluster at the bottom, rarely pulling ahead. Gaps in the chart (missing bars for a venue in a given year) indicate years where that conference had no data in the dataset. The overall impression is that while there is variation between venues, all four are operating in roughly the same 15–25% band with no venue making a sustained breakout.
 
-### Female authorship trend — all venues combined
+### Combined trend — all authors
 
-![](assets/trend_all_venues.png)
+![](assets/trend_combined_all_authors.png)
 
+Aggregating all four venues into a single line reveals how little the overall rate has moved. Female-presenting authorship has hovered between 16% and 20% for the entire 2008–2023 period, with no sustained breakout in either direction. The line is remarkably flat — there are small peaks around 2009 and 2013, a dip around 2014–2015, and a slight upward drift from 2019 onward, but the field as a whole has not meaningfully shifted in 15 years.
+
+### Combined trend — first authors
+
+![](assets/trend_combined_first_author.png)
+
+The first-author picture is more encouraging. Starting at ~14% in 2008, the combined first-author rate climbs to ~24% by 2022–2023 — a roughly 10 percentage point increase over 15 years. The rise is not linear: it jumped in 2011–2012, held steady through the mid-2010s, dipped around 2015–2016, then recovered strongly from 2017 onward. This suggests that while women remain underrepresented overall, those who are publishing are increasingly taking the lead author position.
 
 ### Female authorship trend — per venue
 
