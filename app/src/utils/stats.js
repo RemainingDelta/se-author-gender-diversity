@@ -69,7 +69,10 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender =
     }
 
     // Combined "All Venues" line — aggregates across all venues with data for this year
-    let totalFemale = 0, totalMale = 0, totalUnclass = 0, hasAny = false
+    let totalFemale = 0,
+      totalMale = 0,
+      totalUnclass = 0,
+      hasAny = false
     for (const venue of allVenueKeys) {
       const yearData = yearlyStats[venue]?.[String(year)]
       if (!yearData) continue

@@ -32,8 +32,11 @@ function CustomTooltip({ active, payload, label }) {
       {payload
         .filter((p) => p.value != null)
         .map((p) => {
-          const color = p.dataKey.startsWith('_all') ? ALL_VENUES_COLOR : VENUE_COLOR[p.dataKey.replace('_m', '')]
-          const label = p.dataKey === '_all' ? 'Combined' : p.dataKey === '_all_m' ? 'Combined ♂' : p.dataKey
+          const color = p.dataKey.startsWith('_all')
+            ? ALL_VENUES_COLOR
+            : VENUE_COLOR[p.dataKey.replace('_m', '')]
+          const label =
+            p.dataKey === '_all' ? 'Combined' : p.dataKey === '_all_m' ? 'Combined ♂' : p.dataKey
           return (
             <div key={p.dataKey} style={{ color, marginBottom: 2 }}>
               {label}: {p.value.toFixed(1)}%
