@@ -48,11 +48,11 @@ The following structure describes the hierarchy of our data:
         └── Yearly_stats.json
 
 
-Raw data was stored in Bronze. This included conference publication data stored in the DBLP. Each paper had a venue, year, title, authors, and id. These were separated by venue. This also included raw gender-inference data, including a list of names and their assumed associated gender, stored in Genderize. Finally, raw topic data is stored in Openalex_topics.
+Raw data was stored in `Bronze`. This included conference publication data stored in the DBLP. Each paper had a venue, year, title, authors, and id. These were separated by venue. This also included raw gender-inference data, including a list of names and their assumed associated gender, stored in Genderize. Finally, raw topic data is stored in Openalex_topics.
 
-Processed data was stored in Silver. This included matching authors with their assumed associated gender, stored in Authors. This also included matching papers with their topic, stored in Topics.
+Processed data was stored in `Silver`. This included matching authors with their assumed associated gender, stored in Authors. This also included matching papers with their topic, stored in Topics.
 
-Aggregate data was stored in Gold. This included authorship based on conference, venue, and year, as described above. This data was read directly for visualization.
+Aggregate data was stored in `Gold`. This included authorship based on conference, venue, and year, as described above. This data was read directly for visualization.
 
 Example Data Access
 
