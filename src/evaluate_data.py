@@ -1,6 +1,7 @@
 import json
-import re
 import os
+
+from utils import clean_name
 
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 IN = "data/bronze"
@@ -30,12 +31,7 @@ def gender_map_names(venue):
             for i in range(len(paper["authors"])):
                 author_name = paper["authors"][i]
 
-                # --- Clean data ---
-                # fix apostrophe error
-                author_name = author_name.replace("&apos;", "'")
-
-                # remove any trailing ID numbers
-                author_name = re.sub(r" \d{4}", "", author_name)
+                author_name = clean_name(author_name)
 
                 result = gender_lookup.get(author_name, {})
 
