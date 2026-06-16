@@ -1,14 +1,9 @@
 import json
-import re
+
+from utils import clean_name
 
 VENUES = ["ICSE", "ECSA", "MSR", "ICSME"]
 OUT = "data/bronze/genderize/names.json"
-
-
-def clean_name(name):
-    name = name.replace("&apos;", "'")
-    name = re.sub(r" \d{4}", "", name)
-    return name
 
 
 if __name__ == "__main__":
