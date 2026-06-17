@@ -137,9 +137,9 @@ export function computeTopicsData(topicStats, venue, sortBy, sortDir = 'desc', m
   }
 
   if (sortBy === 'femalePct') {
-    rows.sort((a, b) => sortDir === 'asc' ? a.femalePct - b.femalePct : b.femalePct - a.femalePct)
+    rows.sort((a, b) => (sortDir === 'asc' ? a.femalePct - b.femalePct : b.femalePct - a.femalePct))
   } else {
-    rows.sort((a, b) => sortDir === 'asc' ? a.total - b.total : b.total - a.total)
+    rows.sort((a, b) => (sortDir === 'asc' ? a.total - b.total : b.total - a.total))
   }
 
   return rows.slice(0, 20)
