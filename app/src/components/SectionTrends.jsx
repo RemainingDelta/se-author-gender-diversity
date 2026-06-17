@@ -230,19 +230,19 @@ export default function SectionTrends({ yearlyStats }) {
           <XAxis
             dataKey="year"
             stroke="var(--muted)"
-            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--muted)' }}
+            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--text)' }}
           />
           <YAxis
             domain={[0, gender === 'female' ? 40 : 100]}
             tickFormatter={(v) => `${v}%`}
             stroke="var(--muted)"
-            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--muted)' }}
+            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--text)' }}
             label={{
               value: `% ${activeLabel}`,
               angle: -90,
               position: 'insideLeft',
               offset: 10,
-              style: { fontFamily: 'IBM Plex Mono', fontSize: 10, fill: 'var(--muted)' },
+              style: { fontFamily: 'IBM Plex Mono', fontSize: 10, fill: 'var(--text)' },
             }}
           />
           <Tooltip content={<CustomTooltip />} />

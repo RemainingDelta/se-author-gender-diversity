@@ -114,7 +114,7 @@ export default function Hero({ aggregates }) {
             >
               {label}
             </div>
-            <div style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
+            <div style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
               {note}
             </div>
           </div>

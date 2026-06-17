@@ -95,7 +95,7 @@ export function computeTrendsData(yearlyStats, venues, firstAuthorOnly, gender =
   })
 }
 
-export function computeTopicsData(topicStats, venue, sortBy, minSize = 30) {
+export function computeTopicsData(topicStats, venue, sortBy, sortDir = 'desc', minSize = 30) {
   const rows = []
 
   for (const [topic, venueData] of Object.entries(topicStats)) {
@@ -137,9 +137,9 @@ export function computeTopicsData(topicStats, venue, sortBy, minSize = 30) {
   }
 
   if (sortBy === 'femalePct') {
-    rows.sort((a, b) => b.femalePct - a.femalePct)
+    rows.sort((a, b) => sortDir === 'asc' ? a.femalePct - b.femalePct : b.femalePct - a.femalePct)
   } else {
-    rows.sort((a, b) => b.total - a.total)
+    rows.sort((a, b) => sortDir === 'asc' ? a.total - b.total : b.total - a.total)
   }
 
   return rows.slice(0, 20)

@@ -42,7 +42,7 @@ export default function Nav() {
           >
             SE Gender Diversity
           </span>
-          <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
+          <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
             2008–2023
           </span>
         </div>
@@ -54,13 +54,13 @@ export default function Nav() {
               style={{
                 fontFamily: 'IBM Plex Sans',
                 fontSize: 13,
-                color: 'var(--muted)',
+                color: 'var(--text)',
                 textDecoration: 'none',
                 whiteSpace: 'nowrap',
                 transition: 'color 0.15s',
               }}
-              onMouseEnter={(e) => (e.target.style.color = 'var(--text)')}
-              onMouseLeave={(e) => (e.target.style.color = 'var(--muted)')}
+              onMouseEnter={(e) => (e.target.style.color = 'var(--female)')}
+              onMouseLeave={(e) => (e.target.style.color = 'var(--text)')}
             >
               {label}
             </a>

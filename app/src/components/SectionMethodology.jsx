@@ -60,7 +60,7 @@ export default function SectionMethodology() {
                 style={{
                   fontFamily: 'IBM Plex Sans',
                   fontSize: 14,
-                  color: 'var(--muted)',
+                  color: 'var(--text)',
                   lineHeight: 1.75,
                   margin: 0,
                 }}
@@ -74,7 +74,7 @@ export default function SectionMethodology() {
           style={{
             fontFamily: 'IBM Plex Mono',
             fontSize: 11,
-            color: 'var(--muted)',
+            color: 'var(--text)',
             borderTop: '1px solid var(--border)',
             marginTop: 36,
             paddingTop: 20,

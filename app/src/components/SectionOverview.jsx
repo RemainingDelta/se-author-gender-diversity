@@ -64,7 +64,7 @@ function VenueCard({ venue, totals }) {
         style={{
           fontFamily: 'IBM Plex Sans',
           fontSize: 12,
-          color: 'var(--muted)',
+          color: 'var(--text)',
           marginBottom: 20,
         }}
       >
@@ -83,7 +83,7 @@ function VenueCard({ venue, totals }) {
           >
             {femalePct.toFixed(1)}%
           </div>
-          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--muted)' }}>
+          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--text)' }}>
             female-presenting
           </div>
         </div>
@@ -98,7 +98,7 @@ function VenueCard({ venue, totals }) {
           >
             {malePct.toFixed(1)}%
           </div>
-          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--muted)' }}>
+          <div style={{ fontFamily: 'IBM Plex Sans', fontSize: 11, color: 'var(--text)' }}>
             male-presenting
           </div>
         </div>
@@ -113,10 +113,10 @@ function VenueCard({ venue, totals }) {
       />
 
       <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 16 }}>
-        <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
+        <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
           {totals.total_authors.toLocaleString()} appearances
         </span>
-        <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
+        <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
           {firstFemalePct.toFixed(1)}% ♀ / {firstMalePct.toFixed(1)}% ♂ first author
         </span>
       </div>
