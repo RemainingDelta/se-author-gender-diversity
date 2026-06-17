@@ -172,13 +172,13 @@ export default function SectionVenues({ yearlyStats }) {
           <XAxis
             dataKey="year"
             stroke="var(--muted)"
-            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--muted)' }}
+            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--text)' }}
           />
           <YAxis
             domain={[0, gender === 'female' ? 40 : 100]}
             tickFormatter={(v) => `${v}%`}
             stroke="var(--muted)"
-            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--muted)' }}
+            tick={{ fontFamily: 'IBM Plex Mono', fontSize: 11, fill: 'var(--text)' }}
           />
           <Tooltip
             content={<BarTooltip gender={gender} />}

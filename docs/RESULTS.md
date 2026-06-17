@@ -4,7 +4,6 @@
 
 This project measures how many women authors appear at four major software engineering conferences (ICSE, ECSA, MSR, ICSME) from 2008 to 2023. Across all venues and years, roughly **1 in 5 classified authors presents a female name** — a share that has grown slowly but has not broken past 25% at any venue. The gap is slightly smaller in first-author position (22%), suggesting women who are represented tend to lead papers at a comparable rate to their overall share. Progress exists, but the field remains heavily male-dominated in its publishing record.
 
----
 
 ## Major Findings
 
@@ -17,7 +16,6 @@ This project measures how many women authors appear at four major software engin
 - **Year-to-year variation is high** — single-year spikes and dips of 3–5 percentage points are common, so trend lines matter more than any single year's number.
 - **Unclassified names account for ~10–15% of credits** — names that could not be gender-inferred by the pipeline are excluded from percentage calculations; the true rates could differ slightly.
 
----
 
 ## Charts
 
@@ -53,11 +51,11 @@ Breaking the trend down by venue reveals that not all conferences move together.
 
 ### Female authorship by research topic
 
-![](assets/topic_breakdown.png)
+![](assets/topic_breakdown_descending.png)
+![](assets/topic_breakdown_ascending.png)
 
-This chart ranks research topics by their share of female-presenting authors. Topics at the top — **Biomedical and Engineering Education**, **Teaching and Learning Programming**, and **IoT / Edge Computing** — have female authorship well above the field average of ~20%. At the bottom sit **Formal Methods in Verification**, **Distributed Systems**, and **Anomaly Detection**, all below 13%. The pattern suggests that topics closer to education, human factors, and applied systems tend to attract more gender-diverse authorship than highly theoretical or systems-level areas.
+This chart ranks research topics by their share of female-presenting authors, and can be sorted ascending or descending. In descending order, topics at the top — **Biomedical and Engineering Education**, **Teaching and Learning Programming**, and **IoT and Edge/Fog Computing** — have female authorship well above the field average of ~20%. Sorting ascending reveals the least diverse topics: **Anomaly Detection Techniques and Applications**, **Formal Methods in Verification**, and **Distributed and Parallel Computing Systems**, all below 13%. The pattern suggests that topics closer to education and human factors tend to attract more gender-diverse authorship than theoretical or systems-level areas.
 
----
 
 ## Methodology Note
 
@@ -67,7 +65,6 @@ Paper metadata was collected from **DBLP** and topic assignments from **OpenAlex
 
 It is important to note that this analysis infers gender from names and does not capture self-identified gender. The labels "female-presenting" and "male-presenting" reflect what the API predicts based on name frequencies across cultures — they are an approximation, not a ground truth. Names with ambiguous or cross-cultural gender associations are more likely to be misclassified or fall below the confidence threshold entirely.
 
----
 
 ## Links
 

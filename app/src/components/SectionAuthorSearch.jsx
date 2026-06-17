@@ -137,7 +137,7 @@ function AuthorPanel({ name, venueAuthors }) {
               >
                 <span
                   style={{
-                    color: 'var(--muted)',
+                    color: 'var(--text)',
                     overflow: 'hidden',
                     textOverflow: 'ellipsis',
                     whiteSpace: 'nowrap',
@@ -149,7 +149,7 @@ function AuthorPanel({ name, venueAuthors }) {
                   style={{
                     fontFamily: 'IBM Plex Mono',
                     fontSize: 11,
-                    color: 'var(--muted)',
+                    color: 'var(--text)',
                     flexShrink: 0,
                   }}
                 >
@@ -183,7 +183,7 @@ function AuthorPanel({ name, venueAuthors }) {
           ].map(([label, count]) => (
             <div key={label} style={{ marginBottom: 6 }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 2 }}>
-                <span style={{ fontFamily: 'IBM Plex Sans', fontSize: 12, color: 'var(--muted)' }}>
+                <span style={{ fontFamily: 'IBM Plex Sans', fontSize: 12, color: 'var(--text)' }}>
                   {label}
                 </span>
                 <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
@@ -226,7 +226,7 @@ function AuthorPanel({ name, venueAuthors }) {
           ].map(([label, count, barColor]) => (
             <div key={label} style={{ marginBottom: 6 }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 2 }}>
-                <span style={{ fontFamily: 'IBM Plex Sans', fontSize: 12, color: 'var(--muted)' }}>
+                <span style={{ fontFamily: 'IBM Plex Sans', fontSize: 12, color: 'var(--text)' }}>
                   {label}
                 </span>
                 <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>

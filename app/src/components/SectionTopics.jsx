@@ -48,8 +48,9 @@ function CustomTooltip({ active, payload }) {
 
 export default function SectionTopics({ topicStats }) {
   const [venue, setVenue] = useState('All')
-  const [sortBy, setSortBy] = useState('total')
-  const data = computeTopicsData(topicStats, venue, sortBy).map((d) => ({
+  const [sortBy, setSortBy] = useState('femalePct')
+  const [sortDir, setSortDir] = useState('desc')
+  const data = computeTopicsData(topicStats, venue, sortBy, sortDir).map((d) => ({
     ...d,
     topicShort: d.topic,
   }))
@@ -113,32 +114,70 @@ export default function SectionTopics({ topicStats }) {
           style={{
             marginLeft: 'auto',
             display: 'flex',
-            gap: 0,
-            border: '1px solid var(--border)',
-            borderRadius: 4,
-            overflow: 'hidden',
+            gap: 8,
+            alignItems: 'center',
           }}
         >
-          {[
-            ['total', 'By volume'],
-            ['femalePct', 'By female %'],
-          ].map(([key, label]) => (
-            <button
-              key={key}
-              onClick={() => setSortBy(key)}
-              style={{
-                fontFamily: 'IBM Plex Sans',
-                fontSize: 12,
-                padding: '5px 14px',
-                background: sortBy === key ? 'var(--surface-hi)' : 'transparent',
-                color: sortBy === key ? 'var(--text)' : 'var(--muted)',
-                border: 'none',
-                cursor: 'pointer',
-              }}
-            >
-              {label}
-            </button>
-          ))}
+          <div
+            style={{
+              display: 'flex',
+              gap: 0,
+              border: '1px solid var(--border)',
+              borderRadius: 4,
+              overflow: 'hidden',
+            }}
+          >
+            {[
+              ['femalePct', 'By female %'],
+              ['total', 'By volume'],
+            ].map(([key, label]) => (
+              <button
+                key={key}
+                onClick={() => setSortBy(key)}
+                style={{
+                  fontFamily: 'IBM Plex Sans',
+                  fontSize: 12,
+                  padding: '5px 14px',
+                  background: sortBy === key ? 'var(--surface-hi)' : 'transparent',
+                  color: sortBy === key ? 'var(--text)' : 'var(--muted)',
+                  border: 'none',
+                  cursor: 'pointer',
+                }}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+          <div
+            style={{
+              display: 'flex',
+              gap: 0,
+              border: '1px solid var(--border)',
+              borderRadius: 4,
+              overflow: 'hidden',
+            }}
+          >
+            {[
+              ['asc', '↑ Ascending'],
+              ['desc', '↓ Descending'],
+            ].map(([dir, label]) => (
+              <button
+                key={dir}
+                onClick={() => setSortDir(dir)}
+                style={{
+                  fontFamily: 'IBM Plex Mono',
+                  fontSize: 12,
+                  padding: '5px 14px',
+                  background: sortDir === dir ? 'var(--surface-hi)' : 'transparent',
+                  color: sortDir === dir ? 'var(--text)' : 'var(--muted)',
+                  border: 'none',
+                  cursor: 'pointer',
+                }}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -151,7 +190,7 @@ export default function SectionTopics({ topicStats }) {
         ].map(({ color, label }) => (
           <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
             <div style={{ width: 12, height: 12, borderRadius: 2, background: color }} />
-            <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--muted)' }}>
+            <span style={{ fontFamily: 'IBM Plex Mono', fontSize: 11, color: 'var(--text)' }}>
               {label}
             </span>
           </div>
@@ -172,7 +211,7 @@ export default function SectionTopics({ topicStats }) {
               ticks={[0, 25, 50, 75, 100]}
               tickFormatter={(v) => `${v}%`}
               stroke="var(--muted)"
-              tick={{ fontFamily: 'IBM Plex Mono', fontSize: 10, fill: 'var(--muted)' }}
+              tick={{ fontFamily: 'IBM Plex Mono', fontSize: 10, fill: 'var(--text)' }}
             />
             <YAxis
               type="category"
@@ -181,7 +220,7 @@ export default function SectionTopics({ topicStats }) {
               tick={{
                 fontFamily: 'IBM Plex Sans',
                 fontSize: 11,
-                fill: 'var(--muted)',
+                fill: 'var(--text)',
                 textAnchor: 'start',
               }}
               tickFormatter={(v) => v}

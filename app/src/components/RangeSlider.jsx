@@ -16,7 +16,7 @@ export default function RangeSlider({
         style={{
           fontFamily: 'IBM Plex Mono',
           fontSize: 11,
-          color: 'var(--muted)',
+          color: 'var(--text)',
           whiteSpace: 'nowrap',
         }}
       >
