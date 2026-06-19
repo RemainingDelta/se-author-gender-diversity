@@ -69,7 +69,7 @@ It is important to note that this analysis infers gender from names and does not
 ## Links
 
 - **Paper** — _[link TBD]_
-- **Interactive dashboard** — _[link TBD — Vercel URL]_
+- **Interactive dashboard** — [se-author-gender-diversity.vercel.app](https://se-author-gender-diversity.vercel.app)
 - **Pipeline code** — [`src/`](../src/)
 - **Gold data** — [`data/gold/`](../data/gold/)
 
