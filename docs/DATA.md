@@ -62,6 +62,21 @@ The following structure describes the hierarchy of our data:
 
 **Aggregate data** was stored in `Gold`. This included authorship summaries based on conference, venue, and year, as described above. This data was read directly for visualization.
 
+## Pipeline Scripts
+
+Scripts are organized to mirror the bronze/silver/gold pipeline structure. Run all scripts from the repo root.
+
+| Script | Stage | Description |
+|---|---|---|
+| `src/bronze/fetch_bronze_dblp.py` | Bronze | Fetches paper and author data from the DBLP API |
+| `src/bronze/fetch_bronze_open_alex.py` | Bronze | Fetches primary topic assignments from the OpenAlex API |
+| `src/bronze/collect_names.py` | Bronze | Extracts and deduplicates unique author names for genderization |
+| `src/bronze/fetch_genderize.py` | Bronze | Runs gender inference on collected names via the Genderize API |
+| `src/bronze/random_sample.py` | Bronze | Generates a random sample of papers for manual validation |
+| `src/silver/evaluate_data.py` | Silver | Joins gender labels and topic assignments onto author and paper records |
+| `src/gold/synthesize_gold.py` | Gold | Aggregates silver data into venue, yearly, and topic summary files |
+| `src/utils.py` | Shared | Utility functions (name cleaning, etc.) used across pipeline stages |
+
 ## Example Data Access
 
 ### By Venue
