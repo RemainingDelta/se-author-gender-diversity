@@ -69,7 +69,7 @@ It is important to note that this analysis infers gender from names and does not
 ## Links
 
 - **Paper** — _[link TBD]_
-- **Interactive dashboard** — [remainingdelta.github.io/se-author-gender-diversity](https://remainingdelta.github.io/se-author-gender-diversity)
+- **Interactive dashboard** — _[link TBD — Vercel URL]_
 - **Pipeline code** — [`src/`](../src/)
 - **Gold data** — [`data/gold/`](../data/gold/)
 
