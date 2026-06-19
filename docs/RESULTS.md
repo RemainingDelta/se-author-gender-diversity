@@ -69,7 +69,7 @@ It is important to note that this analysis infers gender from names and does not
 ## Links
 
 - **Paper** — _[link TBD]_
-- **Interactive dashboard** — [localhost:5173](http://localhost:5173) _(local only — will be updated to a deployed link)_
+- **Interactive dashboard** — [remainingdelta.github.io/se-author-gender-diversity](https://remainingdelta.github.io/se-author-gender-diversity)
 - **Pipeline code** — [`src/`](../src/)
 - **Gold data** — [`data/gold/`](../data/gold/)
 
