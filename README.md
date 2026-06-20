@@ -2,6 +2,28 @@
 
 An analysis of female-presenting authorship across four major software engineering venues — ICSE, ECSA, MSR, and ICSME — from 2008 to 2023. Author gender is inferred from first names using the Genderize.io API. The pipeline collects raw data from DBLP and OpenAlex, processes it through a bronze/silver/gold pipeline, and produces aggregated statistics visualized in an interactive dashboard.
 
+## Project Structure
+
+```
+se-author-gender-diversity/
+├── .github/workflows/     # CI workflows (lint, test, lint-frontend)
+├── app/                   # React/Vite frontend dashboard
+├── data/
+│   ├── bronze/            # Raw API data from DBLP, OpenAlex, Genderize
+│   ├── silver/            # Cleaned, joined intermediate data
+│   └── gold/              # Aggregated, visualization-ready data
+├── docs/                  # RESULTS.md, DATA.md, LIMITATIONS.md, ENGINEERING.md
+├── src/
+│   ├── bronze/            # Data collection scripts
+│   ├── silver/            # Data processing scripts
+│   ├── gold/              # Aggregation scripts
+│   └── utils.py           # Shared utilities
+├── tests/                 # Pytest test suite
+├── Makefile
+├── requirements.txt
+└── .env.example
+```
+
 ## Prerequisites
 
 - Python 3.11
@@ -92,3 +114,9 @@ The dashboard will be available at `http://localhost:5173`.
 - [Data](docs/DATA.md) — pipeline overview, data storage structure, and script reference
 - [Limitations](docs/LIMITATIONS.md) — known limitations of the analysis
 - [Engineering](docs/ENGINEERING.md) — software engineering practices followed in this project
+
+## Future Work
+
+- Expand the dataset to include 2024 and 2025 for more recent trend tracking
+- Include additional SE conferences to improve generalizability
+- Add nationality as an additional dimension of analysis
