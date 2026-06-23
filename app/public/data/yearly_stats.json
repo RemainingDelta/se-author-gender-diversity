@@ -677,6 +677,78 @@
       "first_author_male_presenting": 79,
       "first_author_unclassified": 7,
       "first_author_unknown": 2
+    },
+    "2008": {
+      "total_authors": 190,
+      "female_presenting": 29,
+      "male_presenting": 144,
+      "unclassified": 17,
+      "unknown": 0,
+      "first_author_total": 68,
+      "first_author_female_presenting": 11,
+      "first_author_male_presenting": 52,
+      "first_author_unclassified": 5,
+      "first_author_unknown": 0
+    },
+    "2010": {
+      "total_authors": 259,
+      "female_presenting": 35,
+      "male_presenting": 204,
+      "unclassified": 18,
+      "unknown": 2,
+      "first_author_total": 86,
+      "first_author_female_presenting": 13,
+      "first_author_male_presenting": 66,
+      "first_author_unclassified": 6,
+      "first_author_unknown": 1
+    },
+    "2009": {
+      "total_authors": 281,
+      "female_presenting": 43,
+      "male_presenting": 217,
+      "unclassified": 21,
+      "unknown": 0,
+      "first_author_total": 89,
+      "first_author_female_presenting": 15,
+      "first_author_male_presenting": 63,
+      "first_author_unclassified": 11,
+      "first_author_unknown": 0
+    },
+    "2011": {
+      "total_authors": 246,
+      "female_presenting": 46,
+      "male_presenting": 182,
+      "unclassified": 16,
+      "unknown": 2,
+      "first_author_total": 79,
+      "first_author_female_presenting": 12,
+      "first_author_male_presenting": 61,
+      "first_author_unclassified": 4,
+      "first_author_unknown": 2
+    },
+    "2012": {
+      "total_authors": 294,
+      "female_presenting": 43,
+      "male_presenting": 233,
+      "unclassified": 16,
+      "unknown": 2,
+      "first_author_total": 84,
+      "first_author_female_presenting": 16,
+      "first_author_male_presenting": 62,
+      "first_author_unclassified": 6,
+      "first_author_unknown": 0
+    },
+    "2013": {
+      "total_authors": 314,
+      "female_presenting": 53,
+      "male_presenting": 239,
+      "unclassified": 18,
+      "unknown": 4,
+      "first_author_total": 92,
+      "first_author_female_presenting": 16,
+      "first_author_male_presenting": 70,
+      "first_author_unclassified": 3,
+      "first_author_unknown": 3
     }
   }
 }

@@ -8,11 +8,11 @@ export default function Hero({ aggregates }) {
   const all = aggregates['All']
 
   const stats = [
-    { value: '6,732', label: 'Total papers', note: 'across all 4 venues' },
+    { value: '7,235', label: 'Total papers', note: 'across all 4 venues' },
     {
       value: all.total_authors.toLocaleString(),
       label: 'Total author appearances',
-      note: 'across 6,732 papers',
+      note: 'across 7,235 papers',
     },
     { value: '249', label: 'Research topics', note: 'via OpenAlex' },
     { value: '16', label: 'Years covered', note: '2008–2023' },

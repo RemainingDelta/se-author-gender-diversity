@@ -80,7 +80,7 @@ export default function SectionMethodology() {
             paddingTop: 20,
           }}
         >
-          10,822 unique author names genderized via genderize.io Basic plan. Data covers 2008–2023
+          11,315 unique author names genderized via genderize.io Basic plan. Data covers 2008–2023
           across ICSE, ECSA, MSR, and ICSME.
         </div>
       </div>

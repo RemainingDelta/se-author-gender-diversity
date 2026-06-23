@@ -7,10 +7,10 @@ This project measures how many women authors appear at four major software engin
 
 ## Major Findings
 
-- **~20% overall female authorship** — across ~26,000 classified author credits spanning four venues and 15+ years, 19.9% carry a female-presenting first name.
+- **~20% overall female authorship** — across ~26,000 total author appearances spanning four venues and 15+ years, 19.8% carry a female-presenting first name.
 - **Slow upward trend at ICSE** — the largest venue climbed from 18.1% female (2008–2013) to 22.2% (2019–2023), a modest but consistent improvement.
-- **ECSA leads all venues** at 24.8% female authorship (2019–2023); ICSME trails at 18.6% over the same window.
-- **First-author parity tracks overall share** — 22.3% of first authors present female names, slightly above the all-author rate, meaning women are not disproportionately in middle-author positions.
+- **ECSA leads all venues** at 23.7% female authorship (2019–2023); ICSME trails at 16.3% over the same window.
+- **First-author parity tracks overall share** — 22.0% of first authors present female names, slightly above the all-author rate, meaning women are not disproportionately in middle-author positions.
 - **Topic areas matter** — "Teaching and Learning Programming" (32% female) and "IoT / Edge Computing" (31%) skew notably more female than the field average.
 - **Formal methods and distributed systems are the least diverse** — "Formal Methods in Verification" (10.5%) and "Distributed Systems and Fault Tolerance" (11.9%) sit well below the field average.
 - **Year-to-year variation is high** — single-year spikes and dips of 3–5 percentage points are common, so trend lines matter more than any single year's number.
@@ -23,13 +23,13 @@ This project measures how many women authors appear at four major software engin
 
 ![](assets/venue_comparison.png)
 
-A high-level snapshot of each venue aggregated across all years. **ECSA** has the highest female-presenting share at 21.8%, while **ICSME** is the lowest at 15.8%. Notably, first-author rates closely mirror overall rates at every venue — suggesting women are not being pushed to middle-author positions. **ICSE** is the largest venue by far with 15,377 author appearances, meaning its numbers carry the most statistical weight of the four.
+A high-level snapshot of each venue aggregated across all years. **ECSA** has the highest female-presenting share at 21.7%, while **ICSME** is the lowest at 15.6%. Notably, first-author rates closely mirror overall rates at every venue — suggesting women are not being pushed to middle-author positions. **ICSE** is the largest venue by far with 15,377 author appearances, meaning its numbers carry the most statistical weight of the four.
 
 ### Venue Comparison Over Time
 
 ![](assets/venue_comparison_over_time.png)
 
-This bar chart places all four venues side by side for each year, making it easy to spot which venue leads or lags in any given year. **ECSA** (green) is the most visually striking — it regularly peaks above the others and shows the widest swings, particularly the spike to ~30% in 2019. **MSR** (orange) and **ICSME** (pink) tend to cluster at the bottom, rarely pulling ahead. Gaps in the chart (missing bars for a venue in a given year) indicate years where that conference had no data in the dataset. The overall impression is that while there is variation between venues, all four are operating in roughly the same 15–25% band with no venue making a sustained breakout.
+This bar chart places all four venues side by side for each year, making it easy to spot which venue leads or lags in any given year. **ECSA** (green) is the most visually striking — it regularly peaks above the others and shows the widest swings, particularly the spike to ~30% in 2019. **MSR** (orange) and **ICSME** (pink) tend to cluster at the bottom, rarely pulling ahead. Gaps in the chart (missing bars for a venue in a given year) indicate years where that conference had no data in the dataset — for example, ECSA in 2009 and 2012 when it was held jointly with WICSA. The overall impression is that while there is variation between venues, all four are operating in roughly the same 15–25% band with no venue making a sustained breakout.
 
 ### Combined trend — all authors
 

@@ -2592,6 +2592,1494 @@
     },
     "LDA Analyzer: A Tool for Exploring Topic Models.": {
       "topic": "Software Engineering Research"
+    },
+    "Offering software maintenance as an offshore service.": {
+      "topic": "Outsourcing and Supply Chain Management"
+    },
+    "Refinement and test case generation in Unifying Theory of Programming.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "On evaluating the efficiency of software feature development using algebraic manifolds.": {
+      "topic": "Software Engineering Research"
+    },
+    "A constraint-driven human resource scheduling method in software development and maintenance process.": {
+      "topic": "Resource-Constrained Project Scheduling"
+    },
+    "Using structural and semantic metrics to improve class cohesion.": {
+      "topic": "Software Engineering Research"
+    },
+    "Investigating the effects of frameworkdesign knowledge in example-based framework learning.": {
+      "topic": "Software Engineering Research"
+    },
+    "Impact of programming and application-specific knowledge on maintenance effort: A hazard rate model.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "Automatically identifying C++0x concepts in function templates.": {
+      "topic": "Software Engineering Research"
+    },
+    "Non-invasive and non-scattered annotations for more robust pointcuts.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Improving maintenance in AOP through an interaction specification framework.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Change impact analysis for AspectJ programs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Dynamic slicing of multithreaded programs for race detection.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "An assessmentmethodology for trace reduction techniques.": {
+      "topic": "Software Engineering Research"
+    },
+    "Retrieving relevant reports from a customer engagement repository.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Assessing the usefulness of type inference algorithms in representing Java control flow to support software maintenance tasks.": {
+      "topic": "Software Engineering Research"
+    },
+    "Static Execute After/Before as a replacement of traditional software dependencies.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Reuse or rewrite: Combining textual, static, and dynamic analyses to assess the cost of keeping a system up-to-date.": {
+      "topic": "Software Engineering Research"
+    },
+    "Who can help me with this source code change?": {
+      "topic": "Software Engineering Research"
+    },
+    "Understanding the rationale for updating a function&apos;s comment.": {
+      "topic": "Software Engineering Research"
+    },
+    "Supporting software evolution using adaptive change propagation heuristics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Standard-based data and service interoperability in eHealth systems.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Characterizing maintainability concerns in autonomic element design.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Supporting requirements reuse in multi-agent system product line design and evolution.": {
+      "topic": "Multi-Agent Systems and Negotiation"
+    },
+    "An empirical study of the relationships between design pattern roles and class change proneness.": {
+      "topic": "Software Engineering Research"
+    },
+    "Assessing the effect of clones on changeability.": {
+      "topic": "Software Engineering Research"
+    },
+    "An approach and an eclipse based environment for data migration.": {
+      "topic": "Distributed systems and fault tolerance"
+    },
+    "Application of system models in regression test suite prioritization.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Quota-constrained test-case prioritization for regression testing of service-centric systems.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Using random test selection to gain confidence in modified software.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Assessing the value of coding standards: An empirical study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Constructive architecture compliance checking - an experiment on support by live feedback.": {
+      "topic": "Software Engineering Research"
+    },
+    "Traceability for the maintenance of secure software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatic identification of load testing problems.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Guidelines on the use of Fit tables in software maintenance tasks: Lessons learned from 8 experiments.": {
+      "topic": "Software Engineering Research"
+    },
+    "Testing-based assessment process for upgrading component systems.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Duplicate bug reports considered harmful ... really?": {
+      "topic": "Software Engineering Research"
+    },
+    "Automated severity assessment of software defect reports.": {
+      "topic": "Software Engineering Research"
+    },
+    "Identifying the root causes of memory bugs using corrupted memory location suppression.": {
+      "topic": "Security and Verification in Computing"
+    },
+    "Software visualization with audio supported cognitive glyphs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Query-based filtering and graphical view generation for clone analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "The evolution of Eclipse.": {
+      "topic": "Software Engineering Research"
+    },
+    "Design principles in architectural evolution: A case study.": {
+      "topic": "Design Education and Practice"
+    },
+    "MESOA 2008: 2nd international workshop on a research agenda for maintenance and evolution of service-oriented systems.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "2nd International Workshop on Advanced Software Development Tools and Techniques (WASDeTT): Tools for software maintenance, visualization, and reverse engineering.": {
+      "topic": "Software Engineering Research"
+    },
+    "1st workshop on maintenance and evolution of FLOSS (MEFLOSS).": {
+      "topic": "Scientific Computing and Data Management"
+    },
+    "Supporting software evolution analysis with historical dependencies and defect information.": {
+      "topic": "Software Engineering Research"
+    },
+    "Building reverse engineering tools with software components: Towards a dedicated development process for academia.": {
+      "topic": "Software Engineering Techniques and Practices"
+    },
+    "Mining specifications in diversified formats from execution traces.": {
+      "topic": "Software Engineering Research"
+    },
+    "A methodology to assess the impact of source code flaws in changeability, and its application to clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards reverse engineering software ecosystems.": {
+      "topic": "Software Engineering Research"
+    },
+    "COSS: Comprehension by ontologising software system.": {
+      "topic": "Semantic Web and Ontologies"
+    },
+    "Goal trees and fault trees for root cause analysis.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Positioning embedded software maintenance within industrial maintenance.": {
+      "topic": "Software Reliability and Analysis Research"
+    },
+    "Maintaining software product lines - an industrial practice.": {
+      "topic": "Software Engineering Research"
+    },
+    "Experiences in modularizing business rules into aspects.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "An empirical analysis on distribution patterns of software maintenance effort.": {
+      "topic": "Software Engineering Research"
+    },
+    "Task articulation in software maintenance: Integrating source code annotations with an issue tracking system.": {
+      "topic": "Software Engineering Research"
+    },
+    "COMOVER: Concurrent model versioning.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Variation analysis of context-sharing identifiers with code clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "A domain-customizable SVG-based graph editor for software visualizations.": {
+      "topic": "Software Engineering Research"
+    },
+    "REST: A tool for reducing effort in script-based testing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "AutoFlow: An automatic debugging tool for AspectJ software.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "An integrated solution for software process improvement.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Lightweight support for the evolution of software design and development artifacts.": {
+      "topic": "Software Engineering Research"
+    },
+    "Software tag for traceability and transparency of maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Research on software evolution processes in Asia.": {
+      "topic": "Software Engineering Research"
+    },
+    "Retrospect of Taiwan&apos;s software industry and issues of software maintenance and evolution.": {
+      "topic": "VLSI and Analog Circuit Testing"
+    },
+    "Maintenance support for aspect-oriented programs: opportinuties and challenges.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Co-evolution of source code and the build system.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Software change classification using hunk metrics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Identifying high-level dependence structures using slice-based dependence analysis.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Analyzing the evolution of user-visible features: A case study with Eclipse.": {
+      "topic": "Software Engineering Research"
+    },
+    "Predicting change impact from logical models.": {
+      "topic": "Software Engineering Research"
+    },
+    "Maintenance and agile development: Challenges, opportunities and future directions.": {
+      "topic": "Software Engineering Research"
+    },
+    "Evolution analysis with animated and 3D-visualizations.": {
+      "topic": "Data Visualization and Analytics"
+    },
+    "Balancing value and modifiability when planning for the next release.": {
+      "topic": "Software Engineering Research"
+    },
+    "Maintenance, or the 3rd dimension of eXtreme model-driven design.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Performance impact analysis with KPP using application response measurement in E-government systems.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Scalable and incremental clone detection for evolving software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Proactively managing copy-and-paste induced code clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "Software maintenance in complying with IT governance: A report from the field.": {
+      "topic": "Information Technology Governance and Strategy"
+    },
+    "Guide: A GUI differentiator.": {
+      "topic": "Software Engineering Research"
+    },
+    "Visualizing the Java heap demonstration proposal.": {
+      "topic": "Software Engineering Research"
+    },
+    "Preprocessing the noise in legacy user permission assignment data for role mining - An industrial practice.": {
+      "topic": "Access Control and Trust"
+    },
+    "BCC: Enhancing code completion for better API usability.": {
+      "topic": "Software Engineering Research"
+    },
+    "What motivate software engineers to refactor source code? evidences from professional developers.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "Business process recovery for system maintenance - An empirical approach.": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards a distributed execution framework for JUnit test cases.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Digging deep: Software reengineering supported by database reverse engineering of a system with 30+ years of legacy.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using dynamic execution data to generate test cases.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Software maintainability benefits from annotation-driven code.": {
+      "topic": "Software Engineering Research"
+    },
+    "Changes and bugs - Mining and predicting development activities.": {
+      "topic": "Software Engineering Research"
+    },
+    "Visualizing the structure of field testing problems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using information retrieval to support software maintenance tasks.": {
+      "topic": "Software Engineering Research"
+    },
+    "A statistical examination of the evolution and properties of libre software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Inquiring the usage of aspect-oriented programming: An empirical study.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Detection and analysis of near-miss software clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "Augmenting static source views in IDEs with dynamic metrics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Effective and efficient localization of multiple faults using value replacement.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "An investigation of the relationships between lines of code and defects.": {
+      "topic": "Software Engineering Research"
+    },
+    "Introducing a test suite similarity metric for event sequence-based test cases.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Refining clustering evaluation using structure indicators.": {
+      "topic": "Software Engineering Research"
+    },
+    "Analysis of pervasive multiple-component defects in a large software system.": {
+      "topic": "Software Engineering Research"
+    },
+    "Coordination and productivity issues in free software: The role of brooks&apos; law.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "A theoretical and empirical study of EFSM dependence.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "What&apos;s hot and what&apos;s not: Windowed developer topic analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "Incremental call graph reanalysis for AspectJ software.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Feature location in COBOL mainframe systems: An experience report.": {
+      "topic": "Software Engineering Research"
+    },
+    "Measuring the progress of projects using the time dependence of code changes.": {
+      "topic": "Software Engineering Research"
+    },
+    "Senseo: Enriching Eclipse&apos;s static source views with dynamic metrics.": {
+      "topic": "Scientific Computing and Data Management"
+    },
+    "On the use of relevance feedback in IR-based concept location.": {
+      "topic": "Software Engineering Research"
+    },
+    "MAJOR: Flexible tool development with aspect-oriented programming.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "The role of the coverage analysis during IR-based traceability recovery: A controlled experiment.": {
+      "topic": "Software Engineering Research"
+    },
+    "Modeling class cohesion as mixtures of latent topics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Semantics-based code search demonstration proposal.": {
+      "topic": "Software Engineering Research"
+    },
+    "Object aware execution trace exploration.": {
+      "topic": "Software Engineering Research"
+    },
+    "A combinatorial approach to building navigation graphs for dynamic web applications.": {
+      "topic": "Web Data Mining and Analysis"
+    },
+    "Comparative analysis of evolving software systems using the Gini coefficient.": {
+      "topic": "Software Engineering Research"
+    },
+    "Assessing the impact of framework changes using component ranking.": {
+      "topic": "Software Engineering Research"
+    },
+    "Model-driven testing in software product lines.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Playing roles in design patterns: An empirical descriptive and analytic study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Modularizing error recovery.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Detecting virus mutations via dynamic matching.": {
+      "topic": "Advanced Malware Detection Techniques"
+    },
+    "Criteria for the evaluation of implemented architectures.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automated performance analysis of load tests.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Decomposing object-oriented class modules using an agglomerative clustering technique.": {
+      "topic": "Software Engineering Research"
+    },
+    "Studying the use of developer IRC meetings in open source projects.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "Regression model checking.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Searching and skimming: An exploratory study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Managing code clones using dynamic change tracking and resolution.": {
+      "topic": "Software Engineering Research"
+    },
+    "On predicting the time taken to correct bug reports in open source projects.": {
+      "topic": "Software Engineering Research"
+    },
+    "A model-based regression test selection technique.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Experimental assessment of manual versus tool-based maintenance of GUI-directed test scripts.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "A survey-based study of the mapping of system properties to ISO/IEC 9126 maintainability characteristics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Reduce, reuse, recycle, recover: Techniques for improved regression testing.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Linux kernels as complex networks: A novel method to study evolution.": {
+      "topic": "Complex Network Analysis Techniques"
+    },
+    "Prioritizing JUnit test cases in absence of coverage information.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Architecture of product lines.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "25 years of software maintenance.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Towards a better understanding of software evolution: An empirical study on open source software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Prioritizing component compatibility tests via user preferences.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "First international workshop on service-oriented architecture testing (SOAT 2009).": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Understanding source package organization using the hybrid model.": {
+      "topic": "Software Engineering Research"
+    },
+    "The squale model - A practice-based industrial quality model.": {
+      "topic": "Software Engineering Research"
+    },
+    "Data transformation and attribute subset selection: Do they help make differences in software failure prediction?": {
+      "topic": "Software Engineering Research"
+    },
+    "An empirical study on the risks of using off-the-shelf techniques for processing mailing list data.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Interactive views for analyzing problem reports.": {
+      "topic": "Software Engineering Research"
+    },
+    "Beyond generated software documentation - A web 2.0 perspective.": {
+      "topic": "Software Engineering Research"
+    },
+    "Expert recommendation with usage expertise.": {
+      "topic": "Software Engineering Research"
+    },
+    "The end-to-end use of source code examples: An exploratory study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Recovering design rationale from email repositories.": {
+      "topic": "Software Engineering Research"
+    },
+    "UI traces: Supporting the maintenance of interactive software.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Recovering traceability links between a simple natural language sentence and source code using domain ontologies.": {
+      "topic": "Software Engineering Research"
+    },
+    "Experimenting a reverse engineering technique for modelling the behaviour of rich internet applications.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Abstracting the template instantiation relation in C++.": {
+      "topic": "Software Engineering Research"
+    },
+    "MESOA 2009: 3rd International workshop on maintenance and evolution of service-oriented systems.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Using method stereotype distribution as a signature descriptor for software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using clone detection to identify bugs in concurrent software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Revisiting common bug prediction findings using effort-aware models.": {
+      "topic": "Software Engineering Research"
+    },
+    "SE-CodeSearch: A scalable Semantic Web-based source code search infrastructure.": {
+      "topic": "Software Engineering Research"
+    },
+    "Verifying the design of an outsourced COBOL system with IntensiVE.": {
+      "topic": "Software Engineering Research"
+    },
+    "Conversion of fast inter-procedural static analysis to model checking.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Cost drivers of software corrective maintenance: An empirical study in two companies.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatic test case selection and generation for regression testing of composite service based on extensible BPEL flow graph.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Comprehensive evaluation of association measures for fault localization.": {
+      "topic": "Software Engineering Research"
+    },
+    "Empirical software evolvability - code smells and human evaluations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Software modularization operators.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatically repairing test cases for evolving method declarations.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "MAGISTER: Quality assurance of Magic applications for software developers and end users.": {
+      "topic": "Software Engineering Research"
+    },
+    "Unit tests as API usage examples.": {
+      "topic": "Software Engineering Research"
+    },
+    "Improved size and effort estimation models for software maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using ontology fragments in concept location.": {
+      "topic": "Software Engineering Research"
+    },
+    "Log filtering and interpretation for root cause analysis.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Automatic checking of license compliance.": {
+      "topic": "Advanced Malware Detection Techniques"
+    },
+    "Studying the impact of dependency network measures on software quality.": {
+      "topic": "Software Engineering Research"
+    },
+    "History-sensitive recovery of product line features.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Are all code smells harmful? A study of God Classes and Brain Classes in the evolution of three open source systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Guided test generation for coverage criteria.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "A longitudinal analysis of the dependency concentration in smaller modules for open-source software products.": {
+      "topic": "Software Engineering Research"
+    },
+    "MooseJEE: A moose extension to enable the assessment of JEAs.": {
+      "topic": "Business Process Modeling and Analysis"
+    },
+    "Recovery and analysis of transaction scope from scattered information in Java Enterprise Applications.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Automatic verification of loop invariants.": {
+      "topic": "Formal Methods in Verification"
+    },
+    "A framework for the evaluation of specification miners based on finite state machines.": {
+      "topic": "Software Engineering Research"
+    },
+    "Template-based reconstruction of complex refactorings.": {
+      "topic": "Software Engineering Research"
+    },
+    "Recovering traceability links between unit tests and classes under test: An improved method.": {
+      "topic": "Software Engineering Research"
+    },
+    "An eye tracking study on the effects of layout in understanding the role of design patterns.": {
+      "topic": "Software Engineering Research"
+    },
+    "Migrating from COBOL to Java.": {
+      "topic": "Software Engineering Research"
+    },
+    "Teaching undergraduate software engineering.": {
+      "topic": "Software Engineering Techniques and Practices"
+    },
+    "Understanding parallelism-inhibiting dependences in sequential Java programs.": {
+      "topic": "Parallel Computing and Optimization Techniques"
+    },
+    "Theil index for aggregation of software metrics values.": {
+      "topic": "Software Engineering Research"
+    },
+    "Pairwise test set calculation using k-partite graphs.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "TopicXP: Exploring topics in source code using Latent Dirichlet Allocation.": {
+      "topic": "Software Engineering Research"
+    },
+    "Hidden dependencies in software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Adapting COTS products.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "An algorithmic debugger for Java.": {
+      "topic": "Parallel Computing and Optimization Techniques"
+    },
+    "Software asset management.": {
+      "topic": "Software Engineering Research"
+    },
+    "Index-based code clone detection: incremental, distributed, scalable.": {
+      "topic": "Software Engineering Research"
+    },
+    "iFL: An interactive environment for understanding feature implementations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Software process recovery using Recovered Unified Process Views.": {
+      "topic": "Software Engineering Research"
+    },
+    "Sampling program quality.": {
+      "topic": "Software Engineering Research"
+    },
+    "Test generation via Dynamic Symbolic Execution for mutation testing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Foreword.": {
+      "topic": "Software Engineering Techniques and Practices"
+    },
+    "On the implementation and correctness of information system upgrades.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Analyzing natural-language artifacts of the software process.": {
+      "topic": "Software Engineering Research"
+    },
+    "Combining micro-blogging and IDE interactions to support developers in their quests.": {
+      "topic": "Software Engineering Research"
+    },
+    "SQUANER: A framework for monitoring the quality of software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using Relational Topic Models to capture coupling among classes in object-oriented software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "A case study in matching service descriptions to implementations in an existing system.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "A human study of fault localization accuracy.": {
+      "topic": "Software Engineering Research"
+    },
+    "Effect of test completeness and redundancy measurement on post release failures - An industrial experience report.": {
+      "topic": "Software Reliability and Analysis Research"
+    },
+    "Exploring the impact of context sensitivity on blended analysis.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "2D and 3D visualizations in WikiDev2.0.": {
+      "topic": "Software Engineering Research"
+    },
+    "Understanding where requirements are implemented.": {
+      "topic": "Software Engineering Research"
+    },
+    "An approach to improving software inspections performance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatic identification of class stereotypes.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Eclipse plug-in for the detection of design pattern instances through static and dynamic analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "A practical tutorial on refactoring for parallelism.": {
+      "topic": "Distributed and Parallel Computing Systems"
+    },
+    "Modernizing legacy software using a System Grokking technology.": {
+      "topic": "Software Engineering Research"
+    },
+    "Supporting change propagation in UML models.": {
+      "topic": "Software Engineering Research"
+    },
+    "A Tree Kernel based approach for clone detection.": {
+      "topic": "Software Engineering Research"
+    },
+    "Reverse engineering object-oriented distributed systems.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "A lightweight transformational approach to support large scale adaptive changes.": {
+      "topic": "Software Engineering Research"
+    },
+    "WEBDIFF: Automated identification of cross-browser issues in web applications.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Program analysis and transformation for data-intensive system evolution.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Static analysis for enforcing intra-thread consistent locks in the migration of a legacy system.": {
+      "topic": "Security and Verification in Computing"
+    },
+    "A cross-browser web application testing tool.": {
+      "topic": "Web Application Security Vulnerabilities"
+    },
+    "Extreme maintenance: Transforming Delphi into C#.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using multivariate time series and association rules to detect logical change coupling: An empirical study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Enabling multi-tenancy: An industrial experience report.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Fine-grained incremental learning and multi-feature tossing graphs to improve bug triaging.": {
+      "topic": "Software Engineering Research"
+    },
+    "Playing with refactoring: Identifying extract class opportunities through game theory.": {
+      "topic": "Software Engineering Research"
+    },
+    "Model-driven detection of Design Patterns.": {
+      "topic": "Software Engineering Research"
+    },
+    "Domain-based change propagation analysis: An enterprise system case study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Extracting reusable services from legacy object-oriented systems.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Deriving metric thresholds from benchmark data.": {
+      "topic": "Software Engineering Research"
+    },
+    "Physical and conceptual identifier dispersion: Measures and relation to fault proneness.": {
+      "topic": "Software Engineering Research"
+    },
+    "Fuzzy set approach for automatic tagging in evolving software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Assessment of product maintainability for two space domain simulators.": {
+      "topic": "Software Engineering Research"
+    },
+    "Certifying software robustness using program slicing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Coherent Software Cities.": {
+      "topic": "Software Engineering Research"
+    },
+    "Migrating software testing to the cloud.": {
+      "topic": "Cloud Computing and Resource Management"
+    },
+    "Swing to SWT and back: Patterns for API migration by wrapping.": {
+      "topic": "Software Engineering Research"
+    },
+    "How to steal a botnet and what can happen when you do.": {
+      "topic": "Network Security and Intrusion Detection"
+    },
+    "Useful software engineering research - leading a double-agent life.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Fault interaction and its repercussions.": {
+      "topic": "Software Engineering Research"
+    },
+    "A novel approach to regression test selection for J2EE applications.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Localizing failure-inducing program edits based on spectrum information.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Automated change impact analysis for agent systems.": {
+      "topic": "Multi-Agent Systems and Negotiation"
+    },
+    "ImpactScale: Quantifying change impact to predict faults in large software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "A seismology-inspired approach to study change propagation.": {
+      "topic": "Software Engineering Research"
+    },
+    "SCOTCH: Test-to-code traceability using slicing and conceptual coupling.": {
+      "topic": "Software Engineering Research"
+    },
+    "Identifying distributed features in SOA by mining dynamic call trees.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Identifying performance deviations in thread pools.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Mining java class naming conventions.": {
+      "topic": "Software Engineering Research"
+    },
+    "Generating natural language summaries for crosscutting source code concerns.": {
+      "topic": "Software Engineering Research"
+    },
+    "Expanding identifiers to normalize source code vocabulary.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using tactic traceability information models to reduce the risk of architectural degradation during system maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "On integrating orthogonal information retrieval methods to improve traceability recovery.": {
+      "topic": "Software Engineering Research"
+    },
+    "Structural conformance checking with design tests: An evaluation of usability and calability.": {
+      "topic": "Software Engineering Research"
+    },
+    "MoMS: Multi-objective miniaturization of software.": {
+      "topic": "Software Engineering Research"
+    },
+    "A method engineering based legacy to SOA migration method.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Identifying overly strong conditions in refactoring implementations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Graph-based detection of library API imitations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Crossing the boundaries while analyzing heterogeneous component-based software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "On the maintenance of UI-integrated mashup applications.": {
+      "topic": "Distributed and Parallel Computing Systems"
+    },
+    "An exploratory study of feature location process: Distinct phases, recurring patterns, and elementary actions.": {
+      "topic": "Software Engineering Research"
+    },
+    "Exploiting text mining techniques in the analysis of execution traces.": {
+      "topic": "Software Engineering Research"
+    },
+    "An evaluation of the strategies of sorting, filtering, and grouping API methods for Code Completion.": {
+      "topic": "Software Engineering Research"
+    },
+    "A probabilistic software quality model.": {
+      "topic": "Software Engineering Research"
+    },
+    "Predicting post-release defects using pre-release field testing results.": {
+      "topic": "Software Engineering Research"
+    },
+    "Sahara: Guiding the debugging of failed software upgrades.": {
+      "topic": "Software Engineering Research"
+    },
+    "Late propagation in software clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "File cloning in open source Java projects: The good, the bad, and the ugly.": {
+      "topic": "Software Engineering Research"
+    },
+    "An automatic framework for extracting and classifying near-miss clone genealogies.": {
+      "topic": "Software Engineering Research"
+    },
+    "Using source code metrics to predict change-prone Java interfaces.": {
+      "topic": "Software Engineering Research"
+    },
+    "You can&apos;t control the unfamiliar: A study on the relations between aggregation techniques for software metrics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Understanding a developer social network and its evolution.": {
+      "topic": "Complex Network Analysis Techniques"
+    },
+    "Classifying field crash reports for fixing bugs: A case study of Mozilla Firefox.": {
+      "topic": "Software Engineering Research"
+    },
+    "Categorizing software applications for maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Evaluating software clustering using multiple simulated authoritative decompositions.": {
+      "topic": "Software Engineering Research"
+    },
+    "Industrial experiences with automated regression testing of a legacy database application.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Regression testing in Software as a Service: An industrial case study.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "A clustering approach to improving test case prioritization: An industrial case study.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Code Hot Spot: A tool for extraction and analysis of code change history.": {
+      "topic": "Software Engineering Research"
+    },
+    "An integration resolution algorithm for mining multiple branches in version control systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Relating developers&apos; concepts and artefact vocabulary in a financial software module.": {
+      "topic": "Software Engineering Research"
+    },
+    "Incremental and iterative reengineering towards Software Product Line: An industrial case study.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "The evolution of Information Systems a case study on document management.": {
+      "topic": "Software Engineering Research"
+    },
+    "Testing &amp; quality assurance in data migration projects.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "Precise detection of un-initialized variables in large, real-life COBOL programs in presence of unrealizable paths.": {
+      "topic": "Parallel Computing and Optimization Techniques"
+    },
+    "Type-preserving heap profiler for C++.": {
+      "topic": "Parallel Computing and Optimization Techniques"
+    },
+    "Source code comprehension strategies and metrics to predict comprehension effort in software maintenance and evolution tasks - an empirical study with industry practitioners.": {
+      "topic": "Software Engineering Research"
+    },
+    "Estimating software maintenance effort from use cases: An industrial case study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Toward a metrics suite for source code lexicons.": {
+      "topic": "Software Engineering Research"
+    },
+    "A comparison of stemmers on source code identifiers for software search.": {
+      "topic": "Software Engineering Research"
+    },
+    "Clustering and lexical information support for the recovery of design pattern in source code.": {
+      "topic": "Software Engineering Research"
+    },
+    "Code convention adherence in evolving software.": {
+      "topic": "Software Engineering Research"
+    },
+    "SE2 model to support software evolution.": {
+      "topic": "Software Engineering Research"
+    },
+    "Measuring maintainability of spreadsheets in the wild.": {
+      "topic": "Spreadsheets and End-User Computing"
+    },
+    "Using stereotypes to help characterize commits.": {
+      "topic": "Software Engineering Research"
+    },
+    "Source code survival with the Kaplan Meier.": {
+      "topic": "Software Engineering Research"
+    },
+    "Tracking technical debt - An exploratory case study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Measuring disruption from software evolution activities using graph-based metrics.": {
+      "topic": "Software Engineering Research"
+    },
+    "Clustering and recommending collections of code relevant to tasks.": {
+      "topic": "Software Engineering Research"
+    },
+    "Dependency profiles for software architecture evaluations.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Empirical assessment of UML class diagram layouts based on architectural importance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Emergent laws of method and class stereotypes in object oriented software.": {
+      "topic": "Software Engineering Research"
+    },
+    "A logic meta-programming foundation for example-driven pattern detection in object-oriented programs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Evidence-based software process recovery: A post-doctoral view.": {
+      "topic": "Software Engineering Research"
+    },
+    "Sociotechnical coordination and collaboration in open source software.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "A tool for combination-based prioritization and reduction of user-session-based test suites.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "MARBLE. A business process archeology tool.": {
+      "topic": "Business Process Modeling and Analysis"
+    },
+    "Program querying with a SOUL: The BARISTA tool suite.": {
+      "topic": "Logic, programming, and type systems"
+    },
+    "Webdiff: A generic differencing service for software artifacts.": {
+      "topic": "Software Engineering Research"
+    },
+    "EQ: Checking the implementation of equality in Java.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Maleku: An evolutionary visual software analysis tool for providing insights into software evolution.": {
+      "topic": "Data Visualization and Analytics"
+    },
+    "Effective mining of software repositories.": {
+      "topic": "Software Engineering Research"
+    },
+    "Practical combinatorial (t-way) methods for detecting complex faults in regression testing.": {
+      "topic": "Software Engineering Research"
+    },
+    "Research methods in computer science.": {
+      "topic": "Software Engineering Techniques and Practices"
+    },
+    "Analyzing the effects of formal methods on the development of industrial control software.": {
+      "topic": "Formal Methods in Verification"
+    },
+    "From off-Line to continuous on-line maintenance.": {
+      "topic": "Distributed systems and fault tolerance"
+    },
+    "Leveraging natural language analysis of software: Achievements, challenges, and opportunities.": {
+      "topic": "Software Engineering Research"
+    },
+    "An industrial case study of Coman&apos;s automated task detection algorithm: What Worked, What Didn&apos;t, and Why.": {
+      "topic": "Personal Information Management and User Behavior"
+    },
+    "Vasco: A visual approach to explore object churn in framework-intensive applications.": {
+      "topic": "Software Engineering Research"
+    },
+    "What makes a good code example?: A study of programming Q&amp;A in StackOverflow.": {
+      "topic": "Software Engineering Research"
+    },
+    "Testing C++ generic libraries.": {
+      "topic": "Logic, programming, and type systems"
+    },
+    "Code coverage-based regression test selection and prioritization in WebKit.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "An empirical analysis of the distribution of unit test smells and their impact on software maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Interactive fault localization leveraging simple user feedback.": {
+      "topic": "Software Engineering Research"
+    },
+    "Finding errors from reverse-engineered equality models using a constraint solver.": {
+      "topic": "Software Engineering Research"
+    },
+    "The Order of Things: How developers sort fields and methods.": {
+      "topic": "Software Engineering Research"
+    },
+    "Rejuvenating C++ programs through demacrofication.": {
+      "topic": "Software Engineering Research"
+    },
+    "A change impact analysis to characterize evolving program behaviors.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Fine-grained change impact analysis for component-based product families.": {
+      "topic": "Software Engineering Research"
+    },
+    "Configuration selection using code change impact analysis for regression testing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Build system issues in multilanguage software.": {
+      "topic": "Software Engineering Research"
+    },
+    "Detecting semantic changes in Makefile build code.": {
+      "topic": "Software Engineering Research"
+    },
+    "An empirical study of build system migrations in practice: Case studies on KDE and the Linux kernel.": {
+      "topic": "Software Engineering Research"
+    },
+    "Assessing the effect of requirements traceability for software maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "Do data dependencies in source code complement call dependencies for understanding requirements traceability?": {
+      "topic": "Software Engineering Research"
+    },
+    "An empirical study on requirements traceability using eye-tracking.": {
+      "topic": "Software Engineering Research"
+    },
+    "Recovering commit dependencies for selective code integration in software product lines.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Search-based detection of high-level model changes.": {
+      "topic": "Software Engineering Research"
+    },
+    "How often do unintended inconsistencies happen? Deriving modification patterns and detecting overlooked code fragments.": {
+      "topic": "Software Engineering Research"
+    },
+    "LINSEN: An efficient approach to split identifiers and expand abbreviations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Relating requirements to implementation via topic analysis: Do topics extracted from requirements make sense to managers and developers?": {
+      "topic": "Software Engineering Research"
+    },
+    "Making automatic repair for large-scale programs more efficient using weak recompilation.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "The impact of bug management patterns on bug fixing: A case study of Eclipse projects.": {
+      "topic": "Software Engineering Research"
+    },
+    "Things structural clones tell that simple clones don&apos;t.": {
+      "topic": "Software Engineering Research"
+    },
+    "Cloning practices: Why developers clone and what can be changed.": {
+      "topic": "Software Engineering Research"
+    },
+    "Models are code too: Near-miss clone detection for Simulink models.": {
+      "topic": "Software Engineering Research"
+    },
+    "Do code smells reflect important maintainability aspects?": {
+      "topic": "Software Engineering Research"
+    },
+    "A cost model based on software maintainability.": {
+      "topic": "Software Engineering Research"
+    },
+    "A systematic mapping study on dynamic metrics and software quality.": {
+      "topic": "Software Engineering Research"
+    },
+    "Refactoring in the presence of annotations.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Search-based refactoring: Towards semantics preservation.": {
+      "topic": "Software Engineering Research"
+    },
+    "An empirical investigation into the impact of refactoring on regression testing.": {
+      "topic": "Software Engineering Research"
+    },
+    "Survival of Eclipse third-party plug-ins.": {
+      "topic": "Hermeneutics and Narrative Identity"
+    },
+    "Measuring software library stability through historical version analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "Inferring the data access from the clients of generic APIs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Refactoring meets spreadsheet formulas.": {
+      "topic": "Spreadsheets and End-User Computing"
+    },
+    "Detecting code smells in spreadsheet formulas.": {
+      "topic": "Spreadsheets and End-User Computing"
+    },
+    "When would this bug get reported?": {
+      "topic": "Software Engineering Research"
+    },
+    "Modelling the &apos;Hurried&apos; bug report reading process to summarize bug reports.": {
+      "topic": "Software Engineering Research"
+    },
+    "Domain specific warnings: Are they any better?": {
+      "topic": "Software Engineering Research"
+    },
+    "Triaging incoming change requests: Bug or commit history, or code authorship?": {
+      "topic": "Software Engineering Research"
+    },
+    "Feature-gathering dependency-based software clustering using Dedication and Modularity.": {
+      "topic": "Software Engineering Research"
+    },
+    "Supervised software modularisation.": {
+      "topic": "Software Engineering Research"
+    },
+    "A structured approach to assess third-party library usage.": {
+      "topic": "Software Engineering Research"
+    },
+    "Reengineering embedded automotive software.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Incremental reengineering and migration of a 40 year old airport operations system.": {
+      "topic": "Software Engineering Research"
+    },
+    "Dead code elimination for web systems written in PHP: Lessons learned from an industry case.": {
+      "topic": "Web Application Security Vulnerabilities"
+    },
+    "Sustainability guidelines for long-living software systems.": {
+      "topic": "Green IT and Sustainability"
+    },
+    "Facilitating enterprise software developer communication with CARES.": {
+      "topic": "Software Engineering Techniques and Practices"
+    },
+    "A framework for incremental quality analysis of large software systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Locating performance improvement opportunities in an industrial software-as-a-service application.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Automated architectural reviews with Semmle.": {
+      "topic": null
+    },
+    "Time-leverage point detection for time sensitive software maintenance.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Inferring weak references for fixing Java memory leaks.": {
+      "topic": "Security and Verification in Computing"
+    },
+    "Move code refactoring with dynamic analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "Dependence communities in source code.": {
+      "topic": "Complex Network Analysis Techniques"
+    },
+    "A study on repetitiveness of code completion operations.": {
+      "topic": "Software Engineering Research"
+    },
+    "Vocabulary normalization improves IR-based concept location.": {
+      "topic": "Software Engineering Research"
+    },
+    "Who&apos;s who in Gnome: Using LSA to merge software repository identities.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatic classification of software related microblogs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Detecting similar applications with collaborative tagging.": {
+      "topic": "Software Engineering Research"
+    },
+    "Inferring semantically related software terms and their taxonomy by leveraging collaborative tagging.": {
+      "topic": "Software Engineering Research"
+    },
+    "Version history based source code plagiarism detection in proprietary systems.": {
+      "topic": "Software Engineering Research"
+    },
+    "Applying technical stock market indicators to analyze and predict the evolvability of open source projects.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "Refactoring edit history of source code.": {
+      "topic": "Software Engineering Research"
+    },
+    "Retrieving software maintenance history with topic models.": {
+      "topic": "Software Engineering Research"
+    },
+    "A software change impact analysis taxonomy.": {
+      "topic": "Software Engineering Research"
+    },
+    "Adapting Linux for mobile platforms: An empirical study of Android.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "SEANets: Software evolution analysis with networks.": {
+      "topic": "Complex Network Analysis Techniques"
+    },
+    "Understanding model evolution through semantically lifting model differences with SiLift.": {
+      "topic": "Model-Driven Software Engineering Techniques"
+    },
+    "TraceME: Traceability Management in Eclipse.": {
+      "topic": "Software Engineering Research"
+    },
+    "Bacterio: Java mutation testing tool: A framework to evaluate quality of tests cases.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "A toolset for GUI testing of Android applications.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "MOTCP: A tool for the prioritization of test cases based on a sorting genetic algorithm and Latent Semantic Indexing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "The demacrofier.": {
+      "topic": "Software Engineering Research"
+    },
+    "Supporting the identification of architecturally-relevant code anomalies.": {
+      "topic": "Software Engineering Research"
+    },
+    "reBPMN: Recovering and reducing business processes.": {
+      "topic": "Business Process Modeling and Analysis"
+    },
+    "MARBLE: Modernization approach for recovering business processes from legacy information systems.": {
+      "topic": "Business Process Modeling and Analysis"
+    },
+    "Understanding deployment costs of enterprise systems: Towards architecture support in deployment decisions.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Automated S/W Reengineering for Fault-Tolerant and Energy-Efficient Distributed Execution.": {
+      "topic": "Green IT and Sustainability"
+    },
+    "Reverse Engineering Web Sales Configurators.": {
+      "topic": "Web Data Mining and Analysis"
+    },
+    "Interactive Exploration of Collaborative Software-Development Data.": {
+      "topic": "Software Engineering Research"
+    },
+    "A Fuzzy Expert System for Cost-Effective Regression Testing Strategies.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Identifying Process Improvement Targets in Test Processes: A Case Study.": {
+      "topic": "Software Engineering Research"
+    },
+    "On Rapid Releases and Software Testing.": {
+      "topic": "Software Engineering Research"
+    },
+    "How Multiple Developers Affect the Evolution of Code Clones.": {
+      "topic": "Software Engineering Research"
+    },
+    "Mining Logical Clones in Software: Revealing High-Level Business and Programming Rules.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Empirical Study of Clone Removals.": {
+      "topic": "Software Engineering Research"
+    },
+    "Content Categorization of API Discussions.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Empirical Study of API Stability and Adoption in the Android Ecosystem.": {
+      "topic": "Green IT and Sustainability"
+    },
+    "How We Design Interfaces, and How to Assess It.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Accurate Stack Memory Abstraction and Symbolic Analysis Framework for Executables.": {
+      "topic": "Security and Verification in Computing"
+    },
+    "An Automation-Assisted Empirical Study on Lock Usage for Concurrent Programs.": {
+      "topic": "Parallel Computing and Optimization Techniques"
+    },
+    "Leveraging Performance Counters and Execution Logs to Diagnose Memory-Related Performance Issues.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Exploring the Limits of Domain Model Recovery.": {
+      "topic": "Model-Driven Software Engineering Techniques"
+    },
+    "Combining Static and Dynamic Analyses to Reverse-Engineer Scenario Diagrams.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Analysis of Machine Learning Algorithms for Condensing Reverse Engineered Class Diagrams.": {
+      "topic": "Software Engineering Research"
+    },
+    "Output-Oriented Refactoring in PHP-Based Dynamic Web Applications.": {
+      "topic": "Web Application Security Vulnerabilities"
+    },
+    "On the Automation of Dependency-Breaking Refactorings in Java.": {
+      "topic": "Software Engineering Research"
+    },
+    "Reducing the Energy Consumption of Mobile Applications Behind the Scenes.": {
+      "topic": "Green IT and Sustainability"
+    },
+    "Efficient Automated Program Repair through Fault-Recorded Testing Prioritization.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Dealing with Faults in Source Code: Abbreviated vs. Full-Word Identifier Names.": {
+      "topic": "Software Engineering Research"
+    },
+    "DRONE: Predicting Priority of Reported Bugs by Multi-factor Analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Empirical Investigation on Documentation Usage Patterns in Maintenance Tasks.": {
+      "topic": "Software Engineering Research"
+    },
+    "Architecture Compliance Checking of Semantically Rich Modular Architectures: A Comparative Study of Tool Support.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "LHDiff: A Language-Independent Hybrid Approach for Tracking Source Code Lines.": {
+      "topic": "Software Engineering Research"
+    },
+    "Mining Software Profile across Multiple Repositories for Hierarchical Categorization.": {
+      "topic": "Software Engineering Research"
+    },
+    "Mining Software Repositories for Accurate Authorship.": {
+      "topic": "Software Engineering Research"
+    },
+    "Investigating the Impact of Code Smells on System&apos;s Quality: An Empirical Study on Systems of Different Application Domains.": {
+      "topic": "Software Engineering Research"
+    },
+    "Predicting Bugs Using Antipatterns.": {
+      "topic": "Software Engineering Research"
+    },
+    "The Evolution of Project Inter-dependencies in a Software Ecosystem: The Case of Apache.": {
+      "topic": "Software Engineering Research"
+    },
+    "Stakeholders&apos; Information Needs for Artifacts and Their Dependencies in a Real World Context.": {
+      "topic": "Software Engineering Research"
+    },
+    "Improving Feature Location by Enhancing Source Code with Stereotypes.": {
+      "topic": "Software Engineering Research"
+    },
+    "Will Fault Localization Work for These Failures? An Automated Approach to Predict Effectiveness of Fault Localization Tools.": {
+      "topic": "Software Engineering Research"
+    },
+    "Enhancing Software Traceability by Automatically Expanding Corpora with Relevant Documentation.": {
+      "topic": "Software Engineering Research"
+    },
+    "Supporting and Accelerating Reproducible Research in Software Maintenance Using TraceLab Component Library.": {
+      "topic": "Software Engineering Research"
+    },
+    "Social Activities Rival Patch Submission for Prediction of Developer Initiation in OSS Projects.": {
+      "topic": "Open Source Software Innovations"
+    },
+    "How Does Context Affect the Distribution of Software Maintainability Metrics?": {
+      "topic": "Software Engineering Research"
+    },
+    "Refactoring Clones: An Optimization Problem.": {
+      "topic": "Software Engineering Research"
+    },
+    "Multi-abstraction Concern Localization.": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards a Weighted Voting System for Q&amp;A Sites.": {
+      "topic": "Expert finding and Q&A systems"
+    },
+    "Latent Co-development Analysis Based Semantic Search for Large Code Repositories.": {
+      "topic": "Software Engineering Research"
+    },
+    "Differentiating Roles of Program Elements in Action-Oriented Concerns.": {
+      "topic": "Software Engineering Research"
+    },
+    "Theory and Practice, Do They Match? A Case with Spectrum-Based Fault Localization.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "An Initial Investigation into Change-Based Reconstruction of Floss-Refactorings.": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatically Extracting Instances of Code Change Patterns with AST Analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "Identification of Refused Bequest Code Smells.": {
+      "topic": "Software Engineering Research"
+    },
+    "Code Smell Detection: Towards a Machine Learning-Based Approach.": {
+      "topic": "Software Engineering Research"
+    },
+    "Variations on Using Propagation Cost to Measure Architecture Modifiability Properties.": {
+      "topic": "Software Engineering Research"
+    },
+    "Multi-objective Optimal Test Suite Computation for Software Product Line Pairwise Testing.": {
+      "topic": "Advanced Software Engineering Methodologies"
+    },
+    "Which Feature Location Technique is Better?": {
+      "topic": "Software Engineering Research"
+    },
+    "Automatic Means of Identifying Evolutionary Events in Software Development.": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards Understanding Large-Scale Adaptive Changes from Version Histories.": {
+      "topic": "Software Engineering Research"
+    },
+    "Can Refactoring Cyclic Dependent Components Reduce Defect-Proneness?": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards a Taxonomy of Programming-Related Difficulties during Maintenance.": {
+      "topic": "Software Engineering Research"
+    },
+    "A Pilot Experiment to Quantify the Effect of Documentation Accuracy on Maintenance Tasks.": {
+      "topic": "Software Engineering Research"
+    },
+    "Task-Driven Software Summarization.": {
+      "topic": "Software Engineering Research"
+    },
+    "Determining &quot;Grim Reaper&quot; Policies to Prevent Languishing Bugs.": {
+      "topic": "Software Engineering Research"
+    },
+    "Which Practices Are Suitable for an Academic Software Project?": {
+      "topic": "Software Engineering Research"
+    },
+    "WSDARWIN: A Decision-Support Tool for Web-Service Evolution.": {
+      "topic": "Service-Oriented Architecture and Web Services"
+    },
+    "A Study on Developers&apos; Perceptions about Exception Handling Bugs.": {
+      "topic": "Software Engineering Research"
+    },
+    "On the Relationship between the Vocabulary of Bug Reports and Source Code.": {
+      "topic": "Software Engineering Research"
+    },
+    "Database-Aware Fault Localization for Dynamic Web Applications.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "On the Personality Traits of StackOverflow Users.": {
+      "topic": "Topic Modeling"
+    },
+    "Towards Identification of Software Improvements and Specification Updates by Comparing Monitored and Specified End-User Behavior.": {
+      "topic": "Software Engineering Research"
+    },
+    "An Empirical Illustration to Validate a FLOSS Development Model Using S-Shaped Curves.": {
+      "topic": "Software Engineering Research"
+    },
+    "Understanding Schema Evolution as a Basis for Database Reengineering.": {
+      "topic": "Software Engineering Research"
+    },
+    "SAMOA - A Visual Software Analytics Platform for Mobile Applications.": {
+      "topic": "Software Engineering Research"
+    },
+    "Towards a Scalable Cloud Platform for Search-Based Probabilistic Testing.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "LHDiff: Tracking Source Code Lines to Support Software Maintenance Activities.": {
+      "topic": "Software Engineering Research"
+    },
+    "gCad: A Near-Miss Clone Genealogy Extractor to Support Clone Evolution Analysis.": {
+      "topic": "Software Engineering Research"
+    },
+    "eCITY: A Tool to Track Software Structural Changes Using an Evolving City.": {
+      "topic": "Software Engineering Research"
+    },
+    "ExSchema: Discovering and Maintaining Schemas from Polyglot Persistence Applications.": {
+      "topic": "Scientific Computing and Data Management"
+    },
+    "A Visualization Tool for Reverse-Engineering of Complex Component Applications.": {
+      "topic": "Data Visualization and Analytics"
+    },
+    "SourceMiner Evolution: A Tool for Supporting Feature Evolution Comprehension.": {
+      "topic": "Software Engineering Research"
+    },
+    "CONQUER: A Tool for NL-Based Query Refinement and Contextualizing Code Search Results.": {
+      "topic": "Software Engineering Research"
+    },
+    "srcML: An Infrastructure for the Exploration, Analysis, and Manipulation of Source Code: A Tool Demonstration.": {
+      "topic": "Software Engineering Research"
+    },
+    "TRINITY: An IDE for the Matrix.": {
+      "topic": "Digital and Cyber Forensics"
+    },
+    "E-Xplore: Enterprise API Explorer.": {
+      "topic": "Software Engineering Research"
+    },
+    "Browserbite: Accurate Cross-Browser Testing via Machine Learning over Image Features.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Automated Classification of Static Code Analysis Alerts: A Case Study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Mining Telecom System Logs to Facilitate Debugging Tasks.": {
+      "topic": "Data Mining Algorithms and Applications"
+    },
+    "Test Case Prioritization for Continuous Regression Testing: An Industrial Case Study.": {
+      "topic": "Software Testing and Debugging Techniques"
+    },
+    "Improving Statistical Approach for Memory Leak Detection Using Machine Learning.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "Large-Scale Automated Refactoring Using ClangMR.": {
+      "topic": "Software Engineering Research"
+    },
+    "Assuming Software Maintenance of a Large, Embedded Legacy System from the Original Developer.": {
+      "topic": "Software System Performance and Reliability"
+    },
+    "The Adventure of Developing a Software Application on a Pre-release Platform: Features and Learned Lessons.": {
+      "topic": "Advanced Malware Detection Techniques"
+    },
+    "Analysis of Multi-dimensional Code Couplings.": {
+      "topic": "Software Engineering Research"
+    },
+    "How Good Are Code Smells for Evaluating Software Maintainability? Results from a Comparative Case Study.": {
+      "topic": "Software Engineering Research"
+    },
+    "Refactoring Planning for Design Smell Correction: Summary, Opportunities and Lessons Learned.": {
+      "topic": "Software Engineering Research"
+    },
+    "Revealing the Effect of Coding Practices on Software Maintainability.": {
+      "topic": "Software Engineering Research"
     }
   }
 }
