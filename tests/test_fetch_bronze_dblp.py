@@ -28,20 +28,20 @@ def _hit(authors_value):
 
 def test_single_author_dict_normalized_to_list():
     with patch("requests.get", return_value=_mock_response([_hit({"text": "Alice Smith", "pid": "1"})])):
-        papers = fetch_bronze_dblp.fetch_all_papers("TEST")
+        papers = fetch_bronze_dblp.fetch_year("TEST", 2020)
 
     assert papers[0]["authors"] == ["Alice Smith"]
 
 
 def test_multi_author_list_passthrough():
     with patch("requests.get", return_value=_mock_response([_hit([{"text": "Alice"}, {"text": "Bob"}])])):
-        papers = fetch_bronze_dblp.fetch_all_papers("TEST")
+        papers = fetch_bronze_dblp.fetch_year("TEST", 2020)
 
     assert papers[0]["authors"] == ["Alice", "Bob"]
 
 
 def test_missing_authors_key_yields_empty_list():
     with patch("requests.get", return_value=_mock_response([_hit(None)])):
-        papers = fetch_bronze_dblp.fetch_all_papers("TEST")
+        papers = fetch_bronze_dblp.fetch_year("TEST", 2020)
 
     assert papers[0]["authors"] == []
