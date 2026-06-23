@@ -12,6 +12,8 @@ In finding the topic data associated with each paper and author, **OpenAlex** di
 
 ## Data Gaps
 
-Although our data spans each year from **2008–2023**, certain conferences do not have data available on DBLP for some of these years. Namely, `ECSA` lacks data for **2009** and **2012**, and `ICSME` lacks data before **2014**.
+Although our data spans each year from **2008–2023**, certain conferences do not have data available on DBLP for some of these years. Namely, `ECSA` lacks data for **2009** and **2012**.
 
-In the case of `ECSA`, it was held jointly with the Working IEEE/IFIP Conference on Software Architecture (`WICSA`) in 2009 and 2012, meaning that it has no standalone data for those years. Prior to 2014, `ICSME` was known as the International Conference on Software Maintenance (`ICSM`), meaning that no conferences under the name `ICSME` exist until 2014 onwards. We chose not to include papers from the `ECSA/WICSA` joint conferences and `ICSM` conferences as we believe that doing so would only introduce confusion into the results.
+In the case of `ECSA`, it was held jointly with the Working IEEE/IFIP Conference on Software Architecture (`WICSA`) in 2009 and 2012, meaning that it has no standalone data for those years.
+
+Prior to 2014, `ICSME` was known as the International Conference on Software Maintenance (`ICSM`). DBLP tags these earlier papers with the `ICSM` venue label rather than `ICSME`, but they share the same conference key (`conf/icsm/`) and represent the same conference lineage. Our pipeline queries both labels and includes pre-2014 papers, filtering by DBLP URL to exclude an unrelated conference that shares the `ICSM` abbreviation.

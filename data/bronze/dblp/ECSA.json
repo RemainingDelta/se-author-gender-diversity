@@ -1,6 +1,6 @@
 {
   "venue": "ECSA",
-  "fetched_at": "2026-05-28T11:02:39.444706",
+  "fetched_at": "2026-06-22T17:53:35.367665",
   "years": {
     "2023": [
       {
@@ -8496,5 +8496,9 @@
         "url": "https://dblp.org/rec/conf/ecsa/2008"
       }
     ]
-  }
+  },
+  "checked_empty_years": [
+    "2009",
+    "2012"
+  ]
 }
