@@ -54,7 +54,13 @@ def load_existing(out_path: Path) -> dict[str, dict]:
 def save_venue(out_path: Path, venue: str, papers: dict[str, dict]) -> None:
     """Write the venue output file."""
     with out_path.open("w", encoding="utf-8") as f:
-        json.dump({"venue": venue, "papers": papers}, f, indent=2, ensure_ascii=False, sort_keys=True)
+        json.dump(
+            {"venue": venue, "papers": papers},
+            f,
+            indent=2,
+            ensure_ascii=False,
+            sort_keys=True,
+        )
 
 
 def fetch_batch(dois: list[str]) -> dict[str, dict]:

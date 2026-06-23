@@ -38,7 +38,9 @@ def fetch_year(venue, year, url_filter=None, retries=3):
                 res = requests.get("https://dblp.org/search/publ/api", params=params)
 
                 if res.status_code != 200:
-                    print(f"    HTTP {res.status_code} — retrying ({attempt + 1}/{retries})")
+                    print(
+                        f"    HTTP {res.status_code} — retrying ({attempt + 1}/{retries})"
+                    )
                     time.sleep(30 * (attempt + 1))
                     continue
 
@@ -146,7 +148,9 @@ def fetch_venue(venue):
         time.sleep(5)
 
     total = sum(len(v) for v in cache["years"].values())
-    print(f"  {venue} — done. {added} new papers added, {total} total across {len(cache['years'])} years → {cache_path}")
+    print(
+        f"  {venue} — done. {added} new papers added, {total} total across {len(cache['years'])} years → {cache_path}"
+    )
 
 
 if __name__ == "__main__":
